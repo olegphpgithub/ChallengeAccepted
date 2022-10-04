@@ -1,0 +1,10 @@
+loot->Смотреть
+tree->Дерево
+see->Смотреть
+you->Ты
+big->Большой
+little->Маленький
+new->Новый
+brother->Брат
+sister->Сестра
+family->Семья

@@ -1,13 +1,13 @@
-big brother->РЎС‚Р°СЂС€РёР№ Р±СЂР°С‚
-family tree->Р РѕРґРѕСЃР»РѕРІРЅРѕРµ РґРµСЂРµРІРѕ
-little sister->РњР»Р°РґС€Р°СЏ СЃРµСЃС‚СЂР°
-of course->РљРѕРЅРµС‡РЅРѕ
-baby->РњР»Р°РґРµРЅРµС†
-big->Р‘РѕР»СЊС€РѕР№
-father->РџР°РїР°
-grandfather->Р”РµРґСѓС€РєР°
-grandmother->Р‘Р°Р±СѓС€РєР°
-great->Р—Р°РјРµС‡Р°С‚РµР»СЊРЅС‹Р№
-mother->РњР°РјР°
-small->РњР°Р»РµРЅСЊРєРёР№
-tall->Р’С‹СЃРѕРєРёР№
+big brother->Старший брат
+family tree->Родословное дерево
+little sister->Младшая сестра
+of course->Конечно
+baby->Младенец
+big->Большой
+father->Папа
+grandfather->Дедушка
+grandmother->Бабушка
+great->Замечательный
+mother->Мама
+small->Маленький
+tall->Высокий

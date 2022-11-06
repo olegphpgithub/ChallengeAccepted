@@ -1,0 +1,10 @@
+chicken->Цыпленок
+vegetables->Овощи
+ice cream->Мороженое
+chocolate->Шоколад
+water->Вода
+lemonade->Лимонад
+Pizza->Пицца
+Eggs->Яйца
+Sandwiches->Бутерброды
+Burgers->Гамбургеры

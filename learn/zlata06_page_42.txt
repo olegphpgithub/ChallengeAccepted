@@ -4,7 +4,7 @@ ice cream->Мороженое
 chocolate->Шоколад
 water->Вода
 lemonade->Лимонад
-Pizza->Пицца
-Eggs->Яйца
-Sandwiches->Бутерброды
-Burgers->Гамбургеры
+pizza->Пицца
+eggs->Яйца
+sandwiches->Бутерброды
+burgers->Гамбургеры

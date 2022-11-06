@@ -1,0 +1,10 @@
+Hilarious->Very funny
+Gorgeous->Very beautiful
+Deafening->Very loud
+Stuffed->Very full
+Brand new->Very new
+Certain->Very sure
+Crucial->Very important
+Bewildered->Very confused
+Obese->Very fat
+Outstanding->Very good

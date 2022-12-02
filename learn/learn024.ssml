@@ -27,4 +27,12 @@
     Small children often catch diseases, but they soon bounce back.<break time="1000ms"/>
     The company's had a lot of problems in the past, but it's always managed to bounce back.<break time="1000ms"/>
     
+    Synthesis.<break time="2000ms"/><!-- синтез, соединение -->
+    The ribosome is the site of protein synthesis.<break time="1000ms"/><!-- Рибосома является местом синтеза белка. -->
+
+    Shelve.<break time="2000ms"/>
+    Let's shelve the project for now.<break time="1000ms"/>
+    The books were shelved according to category.<break time="1000ms"/>
+    Plans to reopen the school have been shelved.<break time="1000ms"/>
+    Mr. Sunak recently shelved a plan by Ms. Truss to make the construction of onshore wind farms easier.<break time="1000ms"/>
 </speak>

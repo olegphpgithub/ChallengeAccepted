@@ -5,18 +5,18 @@
     Tony busted the door down.<break time="1000ms"/>
     The trip to Spain will probably bust our budget.<break time="1000ms"/>
     She got busted for drug possession.<break time="1000ms"/>
-    
+
     Yield.<break time="2000ms"/>
     The disease yields to treatment.<break time="1000ms"/>
     The apple trees yielded an abundant harvest.<break time="1000ms"/>
     I yield to the Senator.<break time="1000ms"/>
     We needed just two flints to yield the fire.<break time="1000ms"/>
     This soil should yield good crops.<break time="1000ms"/>
-    
+
     Impregnate.<break time="2000ms"/>
     This cloth has been impregnated with a special chemical which protects it against rain.<break time="1000ms"/>
     You grew concerned and finally let your husband impregnate you.<break time="1000ms"/>
-    
+
     Pregnant.<break time="2000ms"/>
     She's pregnant with their first child.<break time="1000ms"/>
     'You're pregnant?' She nodded her head.<break time="1000ms"/>
@@ -41,5 +41,17 @@
     The tourists didn't linger very long.<break time="1000ms"/>
     His eyes lingered on her diamond ring on her finger.<break time="1000ms"/>
     He lingered in bed and missed breakfast.<break time="1000ms"/>
+    For many in Swindon, there is a lingering suspicion that Brexit also played a part in Honda’s departure.<break time="1000ms"/>
 
+    Porter.<break time="2000ms"/><!-- носильщик, швейцар, привратник, грузчик, вахтер, проводник -->
+    The porter will expect a tip.<break time="1000ms"/>
+    She gave the porter a dollar for carrying her suitcase.<break time="1000ms"/>
+    They portered the food up Mount Kilimanjaro for the tourists.<break time="1000ms"/>
+
+    Retired.<break time="2000ms"/><!-- отставной, в отставке, уединенный, ушедший на пенсию, удалившийся от дел -->
+    He retired at age 68.<break time="1000ms"/>
+    Both my parents are retired now.<break time="1000ms"/>
+    I retired to my room to think.<break time="1000ms"/>
+    He retired from chess.<break time="1000ms"/>
+    The ladies retired to their tea, and left us over a bottle of wine.<break time="1000ms"/>
 </speak>

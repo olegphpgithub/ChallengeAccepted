@@ -14,4 +14,8 @@
     I stoked the furnace for the night.<break time="1000ms"/><!-- Я растопил печь на ночь. -->
     The waste is incinerated in a large furnace.<break time="1000ms"/><!--  Отходы сжигаются в большой печи. -->
 
+    Blast.<break time="2000ms"/><!-- взрыв, дутье, звук, взрывная волна, дуть, взрывать, разносить, разрушать -->
+    The concert was a blast.<break time="1000ms"/><!-- Концерт произвёл фурор. -->
+    The bomb blasted the roof off.<break time="1000ms"/><!-- Взрыв бомбы снёс крышу. -->
+    Oh blast! I've forgotten my key.<break time="1000ms"/><!-- Вот чёрт! Я забыл свои ключи. -->
 </speak>

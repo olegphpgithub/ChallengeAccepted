@@ -5,4 +5,9 @@
     The car had rust underneath.<break time="1000ms"/>
     The old lock had almost rusted away, so the door opened easily.<break time="1000ms"/>
 
+    Exhaust.<break time="2000ms"/><!-- выхлопной, выпускной, исчерпывать, извести, выпуск, выхлоп -->
+    This kind of work exhausts me.<break time="1000ms"/><!--  Такая работа меня изматывает. -->
+    We exhausted our savings.<break time="1000ms"/><!-- Мы израсходовали наши сбережения. -->
+    Any resource can be exhausted.<break time="1000ms"/><!-- Любой ресурс может закончиться. -->
+
 </speak>

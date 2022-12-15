@@ -10,4 +10,8 @@
     We exhausted our savings.<break time="1000ms"/><!-- Мы израсходовали наши сбережения. -->
     Any resource can be exhausted.<break time="1000ms"/><!-- Любой ресурс может закончиться. -->
 
+    Furnace.<break time="2000ms"/><!-- печь, топка, печка, очаг, кузнечный горн, обжигать в печи -->
+    I stoked the furnace for the night.<break time="1000ms"/><!-- Я растопил печь на ночь. -->
+    The waste is incinerated in a large furnace.<break time="1000ms"/><!--  Отходы сжигаются в большой печи. -->
+
 </speak>

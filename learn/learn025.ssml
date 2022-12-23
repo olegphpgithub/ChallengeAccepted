@@ -21,9 +21,46 @@
 
     Refine.<break time="2000ms"/><!-- очищать, усовершенствовать, совершенствовать, совершенствоваться, улучшать -->
     Car makers are constantly refining their designs.<break time="1000ms"/><!-- Автопроизводители постоянно совершенствуют свои технические решения. -->
-    The Egyptians knew how to mine, refine and work iron.<break time="1000ms"/><!--  Египтяне знали, как добывать, очищать и обрабатывать железо. -->
+    The Egyptians knew how to mine, refine and work iron.<break time="1000ms"/>
+    <!--  Египтяне знали, как добывать, очищать и обрабатывать железо. -->
 
     Abolish.<break time="2000ms"/><!-- отменять, упразднять, уничтожать -->
     Senate voted to abolish the death penalty.<break time="1000ms"/><!-- Сенат проголосовал за отмену смертной казни. -->
     Slavery was abolished in the US in the 19th century.<break time="1000ms"/><!-- В США рабство было отменено в девятнадцатом веке. -->
+
+    Crust.<break time="2000ms"/>
+    <!-- кора, корка, корочка, земная кора, струп, покрывать коркой, покрываться коркой -->
+    He likes pizza with thin crust.<break time="1000ms"/>
+    <!-- Он любит пиццу с тонкой корочкой. -->
+    The ground was crusted over with snow.<break time="1000ms"/>
+    <!-- Земля была покрыта коркой снега. -->
+    The apple pie had a wonderfully feathery crust.<break time="1000ms"/>
+    <!-- У яблочного пирога была удивительно воздушная корочка. -->
+
+    Hull.<break time="2000ms"/>
+    <!-- корпус, остов, фюзеляж, каркас, шелуха, шелушить, лущить, очищать от шелухи -->
+    The hull of the ship split apart on the rocks.<break time="1000ms"/>
+    <!-- Корпус корабля разбился о скалы. -->
+    The iceberg made a gash in the hull of the ship.<break time="1000ms"/>
+    <!-- Айсберг сделал глубокую пробоину в корпусе корабля. -->
+
+    Hence.<break time="2000ms"/>
+    <!-- следовательно, отсюда, с этих пор -->
+    What will life be like a century hence? 
+    <!-- Какова будет жизнь столетие спустя? -->
+    He knew he could not win the election — hence his decision to withdraw. 
+    <!-- Он знал, что не сможет победить на выборах, поэтому его решение — снять свою кандидатуру. -->
+    The company lost a great deal of money. Hence, the CEO was asked to resign. 
+    <!-- Компания потеряла огромные деньги. В связи с этим, директора попросили уволиться. -->
+
+    Vast.<break time="2000ms"/>
+    <!-- огромный, обширный, громадный, безбрежный, простор -->
+    It makes a vast difference.
+    <!-- Это значительно меняет дело. -->
+    He possessed a vast store of knowledge.
+    <!-- Он обладал огромным запасом знаний. -->
+    She has spent vast quantities of money.
+    <!-- Она потратила кучу денег. -->
+    We will make use of her vast experience.
+    <!-- Мы воспользуемся её богатым опытом. -->
 </speak>

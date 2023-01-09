@@ -80,12 +80,12 @@
     Men like him usually ended up in jail — or the gutter.<break time="1000ms"/>
     <!-- Такие, как он, обычно заканчивают в тюрьме, или в сточной канаве. -->
 
-    <break time="2000ms"/>
-    <!---->
-    <break time="1000ms"/>
-    <!---->
-    <break time="1000ms"/>
-    <!---->
-    <break time="1000ms"/>
-    <!---->
+    Acid<break time="2000ms"/>
+    <!-- кислота, ЛСД, язвительность, ехидство, кислотный, кислый, едкий, язвительный -->
+    Acid attacks metals.<break time="1000ms"/>
+    <!-- Кислота разъедает металлы. -->
+    I burned my skin with the acid.<break time="1000ms"/>
+    <!-- Я обжёгся кислотой. -->
+    This movie critic has an acid wit.<break time="1000ms"/>
+    <!-- У этого кинокритика злой язык. -->
 </speak>

@@ -1,32 +1,53 @@
 <speak>
-    Rust.<break time="2000ms"/><!-- ржавчина, ржаветь, притупляться, делать ржавым -->
+    Rust.<break time="2000ms"/>
+    <!-- ржавчина, ржаветь, притупляться, делать ржавым -->
     The old iron fence was rusted.<break time="1000ms"/>
+    <!-- Старый железный забор проржавел. -->
     Rust is attacking the metal.<break time="1000ms"/>
+    <!-- Ржавчина воздействует на металл. -->
     The car had rust underneath.<break time="1000ms"/>
+    <!-- Под машиной была ржавчина. -->
     The old lock had almost rusted away, so the door opened easily.<break time="1000ms"/>
+    <!--  Старый замок практически полностью проржавел, так что дверь открылась легко. -->
 
-    Exhaust.<break time="2000ms"/><!-- выхлопной, выпускной, исчерпывать, извести, выпуск, выхлоп -->
-    This kind of work exhausts me.<break time="1000ms"/><!-- Такая работа меня изматывает. -->
-    We exhausted our savings.<break time="1000ms"/><!-- Мы израсходовали наши сбережения. -->
-    Any resource can be exhausted.<break time="1000ms"/><!-- Любой ресурс может закончиться. -->
+    Exhaust.<break time="2000ms"/>
+    <!-- выхлопной, выпускной, исчерпывать, извести, выпуск, выхлоп -->
+    This kind of work exhausts me.<break time="1000ms"/>
+    <!-- Такая работа меня изматывает. -->
+    We exhausted our savings.<break time="1000ms"/>
+    <!-- Мы израсходовали наши сбережения. -->
+    Any resource can be exhausted.<break time="1000ms"/>
+    <!-- Любой ресурс может закончиться. -->
 
-    Furnace.<break time="2000ms"/><!-- печь, топка, печка, очаг, кузнечный горн, обжигать в печи -->
-    I stoked the furnace for the night.<break time="1000ms"/><!-- Я растопил печь на ночь. -->
-    The waste is incinerated in a large furnace.<break time="1000ms"/><!-- Отходы сжигаются в большой печи. -->
+    Furnace.<break time="2000ms"/>
+    <!-- печь, топка, печка, очаг, кузнечный горн, обжигать в печи -->
+    I stoked the furnace for the night.<break time="1000ms"/>
+    <!-- Я растопил печь на ночь. -->
+    The waste is incinerated in a large furnace.<break time="1000ms"/>
+    <!-- Отходы сжигаются в большой печи. -->
 
-    Blast.<break time="2000ms"/><!-- взрыв, дутье, звук, взрывная волна, дуть, взрывать, разносить, разрушать -->
-    The concert was a blast.<break time="1000ms"/><!-- Концерт произвёл фурор. -->
-    The bomb blasted the roof off.<break time="1000ms"/><!-- Взрыв бомбы снёс крышу. -->
-    Oh blast! I've forgotten my key.<break time="1000ms"/><!-- Вот чёрт! Я забыл свои ключи. -->
+    Blast.<break time="2000ms"/>
+    <!-- взрыв, дутье, звук, взрывная волна, дуть, взрывать, разносить, разрушать -->
+    The concert was a blast.<break time="1000ms"/>
+    <!-- Концерт произвёл фурор. -->
+    The bomb blasted the roof off.<break time="1000ms"/>
+    <!-- Взрыв бомбы снёс крышу. -->
+    Oh blast! I've forgotten my key.<break time="1000ms"/>
+    <!-- Вот чёрт! Я забыл свои ключи. -->
 
-    Refine.<break time="2000ms"/><!-- очищать, усовершенствовать, совершенствовать, совершенствоваться, улучшать -->
-    Car makers are constantly refining their designs.<break time="1000ms"/><!-- Автопроизводители постоянно совершенствуют свои технические решения. -->
+    Refine.<break time="2000ms"/>
+    <!-- очищать, усовершенствовать, совершенствовать, совершенствоваться, улучшать -->
+    Car makers are constantly refining their designs.<break time="1000ms"/>
+    <!-- Автопроизводители постоянно совершенствуют свои технические решения. -->
     The Egyptians knew how to mine, refine and work iron.<break time="1000ms"/>
     <!--  Египтяне знали, как добывать, очищать и обрабатывать железо. -->
 
-    Abolish.<break time="2000ms"/><!-- отменять, упразднять, уничтожать -->
-    Senate voted to abolish the death penalty.<break time="1000ms"/><!-- Сенат проголосовал за отмену смертной казни. -->
-    Slavery was abolished in the US in the 19th century.<break time="1000ms"/><!-- В США рабство было отменено в девятнадцатом веке. -->
+    Abolish.<break time="2000ms"/>
+    <!-- отменять, упразднять, уничтожать -->
+    Senate voted to abolish the death penalty.<break time="1000ms"/>
+    <!-- Сенат проголосовал за отмену смертной казни. -->
+    Slavery was abolished in the US in the 19th century.<break time="1000ms"/>
+    <!-- В США рабство было отменено в девятнадцатом веке. -->
 
     Crust.<break time="2000ms"/>
     <!-- кора, корка, корочка, земная кора, струп, покрывать коркой, покрываться коркой -->
@@ -46,21 +67,21 @@
 
     Hence.<break time="2000ms"/>
     <!-- следовательно, отсюда, с этих пор -->
-    What will life be like a century hence?
+    What will life be like a century hence?<break time="1000ms"/>
     <!-- Какова будет жизнь столетие спустя? -->
-    He knew he could not win the election — hence his decision to withdraw.
+    He knew he could not win the election — hence his decision to withdraw.<break time="1000ms"/>
     <!-- Он знал, что не сможет победить на выборах, поэтому его решение — снять свою кандидатуру. -->
-    The company lost a great deal of money. Hence, the CEO was asked to resign.
+    The company lost a great deal of money. Hence, the CEO was asked to resign.<break time="1000ms"/>
     <!-- Компания потеряла огромные деньги. В связи с этим, директора попросили уволиться. -->
 
     Vast.<break time="2000ms"/>
     <!-- огромный, обширный, громадный, безбрежный, простор -->
-    It makes a vast difference.
+    It makes a vast difference.<break time="1000ms"/>
     <!-- Это значительно меняет дело. -->
-    He possessed a vast store of knowledge.
+    He possessed a vast store of knowledge.<break time="1000ms"/>
     <!-- Он обладал огромным запасом знаний. -->
-    She has spent vast quantities of money.
+    She has spent vast quantities of money.<break time="1000ms"/>
     <!-- Она потратила кучу денег. -->
-    We will make use of her vast experience.
+    We will make use of her vast experience.<break time="1000ms"/>
     <!-- Мы воспользуемся её богатым опытом. -->
 </speak>

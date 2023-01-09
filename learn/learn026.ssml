@@ -60,23 +60,25 @@
     They found the fossil skeleton of a mastodon.<break time="1000ms"/>
     <!-- Они нашли окаменевший скелет мастодонта. -->
 
-    <break time="2000ms"/>
-    <!---->
-    <break time="1000ms"/>
-    <!---->
-    <break time="1000ms"/>
-    <!---->
-    <break time="1000ms"/>
-    <!---->
+    Bolster<break time="2000ms"/>
+    <!-- поддерживать, подстрекать, буфер, валик, брус, подкладка, шейка -->
+    She came with me to bolster my confidence.<break time="1000ms"/>
+    <!-- Она пошла со мной, чтобы укрепить мою уверенность. -->
+    He wished to bolster up his theories with hard data.<break time="1000ms"/>
+    <!-- Он хотел подкрепить свои предположения достоверной информацией. -->
+    He is making a bold attempt to bolster the territories confidence.<break time="1000ms"/>
+    <!-- Он предпринимает смелую попытку укрепить доверие территорий. -->
 
-    <break time="2000ms"/>
-    <!---->
-    <break time="1000ms"/>
-    <!---->
-    <break time="1000ms"/>
-    <!---->
-    <break time="1000ms"/>
-    <!---->
+    Gutter<break time="2000ms"/>
+    <!-- желоб, сточная канава, оплывать, стекать, делать желоба -->
+    Water was trickling out of the gutter.<break time="1000ms"/>
+    <!-- Вода тонкой струйкой сочилась из жёлоба. -->
+    Tears guttered down her face.<break time="1000ms"/>
+    <!-- Слёзы потекли по её лицу. -->
+    His career was in the gutter.<break time="1000ms"/>
+    <!-- Его карьера пошла коту под хвост. -->
+    Men like him usually ended up in jail — or the gutter.<break time="1000ms"/>
+    <!-- Такие, как он, обычно заканчивают в тюрьме, или в сточной канаве. -->
 
     <break time="2000ms"/>
     <!---->

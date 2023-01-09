@@ -51,14 +51,14 @@
     The tidal wave of popular indignation inarms the country.<break time="1000ms"/>
     <!-- Волна народного гнева охватывает страну. -->
 
-    <break time="2000ms"/>
-    <!---->
-    <break time="1000ms"/>
-    <!---->
-    <break time="1000ms"/>
-    <!---->
-    <break time="1000ms"/>
-    <!---->
+    Fossil<break time="2000ms"/>
+    <!-- ископаемый, окаменелый, окаменевший, ископаемое, окаменелость -->
+    The fossil was well preserved.<break time="1000ms"/>
+    <!-- Ископаемое хорошо сохранилось. -->
+    We combust coal and other fossil fuels.<break time="1000ms"/>
+    <!-- Мы сжигаем уголь и другие виды ископаемого топлива. -->
+    They found the fossil skeleton of a mastodon.<break time="1000ms"/>
+    <!-- Они нашли окаменевший скелет мастодонта. -->
 
     <break time="2000ms"/>
     <!---->

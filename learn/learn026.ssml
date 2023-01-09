@@ -35,57 +35,55 @@
     He ran the company with ruthless efficiency.<break time="1000ms"/>
     <!-- Он руководил предприятием с беспощадной эффективностью. -->
 
-    <break time="2000ms"/>
-    <!--  -->
-    <break time="1000ms"/>
-    <!--  -->
-    <break time="1000ms"/>
-    <!--  -->
-    <break time="1000ms"/>
-    <!--  -->
+    Excerpt<break time="2000ms"/>
+    <!-- выдержка, отрывок, выписка, выборка, оттиск, делать выдержки, подбирать цитаты -->
+    This section is an excerpt from Copper in renewable energy.<break time="1000ms"/>
+    <!-- Этот раздел представляет собой выдержку из книги "Медь в возобновляемой энергетике". -->
+    An excerpt of the speech appeared in the Sunday paper.<break time="1000ms"/>
+    <!-- Отрывок из речи появился в воскресной газете. -->
+    She read an excerpt from the play.<break time="1000ms"/>
+    <!-- Она прочла отрывок из пьесы. -->
+
+    Tidal<break time="2000ms"/>
+    <!-- приливный, приливно-отливный -->
+    A powerful tidal wave struck Jamaica, killing 2000.<break time="1000ms"/>
+    <!-- На Ямайку обрушилось мощное цунами, которое унесло жизни двух тысяч человек. -->
+    The tidal wave of popular indignation inarms the country.<break time="1000ms"/>
+    <!-- Волна народного гнева охватывает страну. -->
 
     <break time="2000ms"/>
-    <!--  -->
+    <!---->
     <break time="1000ms"/>
-    <!--  -->
+    <!---->
     <break time="1000ms"/>
-    <!--  -->
+    <!---->
     <break time="1000ms"/>
-    <!--  -->
+    <!---->
 
     <break time="2000ms"/>
-    <!--  -->
+    <!---->
     <break time="1000ms"/>
-    <!--  -->
+    <!---->
     <break time="1000ms"/>
-    <!--  -->
+    <!---->
     <break time="1000ms"/>
-    <!--  -->
+    <!---->
 
     <break time="2000ms"/>
-    <!--  -->
+    <!---->
     <break time="1000ms"/>
-    <!--  -->
+    <!---->
     <break time="1000ms"/>
-    <!--  -->
+    <!---->
     <break time="1000ms"/>
-    <!--  -->
+    <!---->
 
     <break time="2000ms"/>
-    <!--  -->
+    <!---->
     <break time="1000ms"/>
-    <!--  -->
+    <!---->
     <break time="1000ms"/>
-    <!--  -->
+    <!---->
     <break time="1000ms"/>
-    <!--  -->
-
-    <break time="2000ms"/>
-    <!--  -->
-    <break time="1000ms"/>
-    <!--  -->
-    <break time="1000ms"/>
-    <!--  -->
-    <break time="1000ms"/>
-    <!--  -->
+    <!---->
 </speak>

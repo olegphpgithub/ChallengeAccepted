@@ -7,14 +7,13 @@
     A copper pendant was found in northern Iraq that dates to 8700 BC.<break time="1000ms"/>
     A copper pendant was found in northern Iraq that dates to 8700 BC.<break time="1000ms"/>
 
-    <break time="2000ms"/>
-    <!--  -->
-    <break time="1000ms"/>
-    <!--  -->
-    <break time="1000ms"/>
-    <!--  -->
-    <break time="1000ms"/>
-    <!--  -->
+    Familiar<break time="2000ms"/>
+    <!-- привычный, хорошо знакомый, близкий, близкий друг -->
+    I am not familiar with the import script enough I guess<break time="1000ms"/>
+    <!-- Наверное, я недостаточно знаком со сценарием импорта -->
+    I am not familiar with the import script enough I guess<break time="1000ms"/>
+    I am not familiar with the import script enough I guess<break time="1000ms"/>
+    I am not familiar with the import script enough I guess<break time="1000ms"/>
 
     <break time="2000ms"/>
     <!--  -->

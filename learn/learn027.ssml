@@ -31,14 +31,13 @@
     Lower-purity scrap is refined by electroplating in a bath of sulfuric acid.<break time="1000ms"/>
     Lower-purity scrap is refined by electroplating in a bath of sulfuric acid.<break time="1000ms"/>
 
-    <break time="2000ms"/>
-    <!--  -->
-    <break time="1000ms"/>
-    <!--  -->
-    <break time="1000ms"/>
-    <!--  -->
-    <break time="1000ms"/>
-    <!--  -->
+    Estuary<break time="2000ms"/>
+    <!-- устье реки, дельта, морской рукав -->
+    Though it is vulnerable to the sulfides sometimes found in polluted harbors and estuaries.<break time="1000ms"/>
+    <!-- Хотя он уязвим для сульфидов, иногда встречающихся в загрязненных гаванях и устьях рек. -->
+    Though it is vulnerable to the sulfides sometimes found in polluted harbors and estuaries.<break time="1000ms"/>
+    Though it is vulnerable to the sulfides sometimes found in polluted harbors and estuaries.<break time="1000ms"/>
+    Though it is vulnerable to the sulfides sometimes found in polluted harbors and estuaries.<break time="1000ms"/>
 
     <break time="2000ms"/>
     <!--  -->

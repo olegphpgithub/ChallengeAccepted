@@ -39,23 +39,21 @@
     Though it is vulnerable to the sulfides sometimes found in polluted harbors and estuaries.<break time="1000ms"/>
     Though it is vulnerable to the sulfides sometimes found in polluted harbors and estuaries.<break time="1000ms"/>
 
-    <break time="2000ms"/>
-    <!--  -->
-    <break time="1000ms"/>
-    <!--  -->
-    <break time="1000ms"/>
-    <!--  -->
-    <break time="1000ms"/>
-    <!--  -->
+    Jaw<break time="2000ms"/>
+    <!-- зажим, захват, щека -->
+    He punched him on the jaw.<break time="1000ms"/>
+    <!-- Он ударил его кулаком в челюсть. -->
+    He punched him on the jaw.<break time="1000ms"/>
+    He punched him on the jaw.<break time="1000ms"/>
+    He punched him on the jaw.<break time="1000ms"/>
 
-    <break time="2000ms"/>
-    <!--  -->
-    <break time="1000ms"/>
-    <!--  -->
-    <break time="1000ms"/>
-    <!--  -->
-    <break time="1000ms"/>
-    <!--  -->
+    Chin<break time="2000ms"/>
+    <!-- подбородок, болтать, разговаривать -->
+    He cut his chin while shaving.<break time="1000ms"/>
+    <!-- Он порезал подбородок во время бритья. -->
+    He cut his chin while shaving.<break time="1000ms"/>
+    He cut his chin while shaving.<break time="1000ms"/>
+    He cut his chin while shaving.<break time="1000ms"/>
 
     <break time="2000ms"/>
     <!--  -->

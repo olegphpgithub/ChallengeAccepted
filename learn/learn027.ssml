@@ -63,21 +63,24 @@
     Only those you trust can deceive you.<break time="1000ms"/>
     Only those you trust can deceive you.<break time="1000ms"/>
 
-    <break time="2000ms"/>
+    Even though<break time="2000ms"/>
     <!--  -->
-    <break time="1000ms"/>
-    <!--  -->
-    <break time="1000ms"/>
-    <!--  -->
-    <break time="1000ms"/>
-    <!--  -->
+    I see no improvement for efficiency even though file was changed at 14:07.<break time="1000ms"/>
+    <!-- Я не вижу улучшения эффективности, даже несмотря на то, что файл был изменен в 14:07. -->
+    I see no improvement for efficiency even though file was changed at 14:07.<break time="1000ms"/>
+    I see no improvement for efficiency even though file was changed at 14:07.<break time="1000ms"/>
+    I see no improvement for efficiency even though file was changed at 14:07.<break time="1000ms"/>
 
-    <break time="2000ms"/>
-    <!--  -->
-    <break time="1000ms"/>
-    <!--  -->
-    <break time="1000ms"/>
-    <!--  -->
-    <break time="1000ms"/>
-    <!--  -->
+    Plaster<break time="2000ms"/>
+    <!-- штукатурка, гипс, пластырь, штукатурить, намазывать, покрывать -->
+    He spread plaster on the walls.<break time="1000ms"/>
+    <!-- Он нанёс на стены штукатурку. -->
+    He spread plaster on the walls.<break time="1000ms"/>
+    He spread plaster on the walls.<break time="1000ms"/>
+    He spread plaster on the walls.<break time="1000ms"/>
+    The boy was plastering butter on his bread.<break time="1000ms"/>
+    <!-- Мальчик мазал масло на хлеб. -->
+    The boy was plastering butter on his bread.<break time="1000ms"/>
+    The boy was plastering butter on his bread.<break time="1000ms"/>
+    The boy was plastering butter on his bread.<break time="1000ms"/>
 </speak>

@@ -38,41 +38,37 @@
     Еhe sea frothed on the rocks<break time="1000ms"/>
     <!-- Море пенилось у скал -->
 
-    <break time="2000ms"/>
-    <!--  -->
-    <break time="1000ms"/>
-    <!--  -->
-    <break time="1000ms"/>
-    <!--  -->
-    <break time="1000ms"/>
-    <!--  -->
+    Slag<break time="2000ms"/>
+    <!-- шлак, окалина, развратница, выгарки, ошлаковывать -->
+    Heating this material removes much of the iron as slag.<break time="1000ms"/>
+    <!-- При нагревании этого материала большая часть железа удаляется в виде шлака. -->
+    Heating this material removes much of the iron as slag.<break time="1000ms"/>
+    Heating this material removes much of the iron as slag.<break time="1000ms"/>
+    Heating this material removes much of the iron as slag.<break time="1000ms"/>
 
-    <break time="2000ms"/>
-    <!--  -->
-    <break time="1000ms"/>
-    <!--  -->
-    <break time="1000ms"/>
-    <!--  -->
-    <break time="1000ms"/>
-    <!--  -->
+    Roast<break time="2000ms"/>
+    <!-- жареный, жаркое, обжиг, жареное мясо, жарить, жариться, пожарить -->
+    For dinner we had roast chicken and a salad.<break time="1000ms"/>
+    <!-- На ужин мы ели жареную курицу с салатом. -->
+    For dinner we had roast chicken and a salad.<break time="1000ms"/>
+    For dinner we had roast chicken and a salad.<break time="1000ms"/>
+    For dinner we had roast chicken and a salad.<break time="1000ms"/>
 
-    <break time="2000ms"/>
-    <!--  -->
-    <break time="1000ms"/>
-    <!--  -->
-    <break time="1000ms"/>
-    <!--  -->
-    <break time="1000ms"/>
-    <!--  -->
+    Exploit<break time="2000ms"/>
+    <!-- Пользоваться, использовать, распоряжаться, позволять -->
+    Sometimes it is necessary to exploit your opponent's weakness.<break time="1000ms"/>
+    <!--  Иногда просто необходимо воспользоваться слабостью оппонентов.  -->
+    Sometimes it is necessary to exploit your opponent's weakness.<break time="1000ms"/>
+    Sometimes it is necessary to exploit your opponent's weakness.<break time="1000ms"/>
+    Sometimes it is necessary to exploit your opponent's weakness.<break time="1000ms"/>
 
-    <break time="2000ms"/>
-    <!--  -->
-    <break time="1000ms"/>
-    <!--  -->
-    <break time="1000ms"/>
-    <!--  -->
-    <break time="1000ms"/>
-    <!--  -->
+    Replica<break time="2000ms"/>
+    <!-- копия, точная копия, модель, репродукция, копир -->
+    It's an authentic replica of an ancient Greek urn.<break time="1000ms"/>
+    <!-- Это точная копия древнегреческой урны. -->
+    It's an authentic replica of an ancient Greek urn.<break time="1000ms"/>
+    It's an authentic replica of an ancient Greek urn.<break time="1000ms"/>
+    It's an authentic replica of an ancient Greek urn.<break time="1000ms"/>
 
     <break time="2000ms"/>
     <!--  -->

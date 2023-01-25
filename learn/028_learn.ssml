@@ -35,8 +35,14 @@
     <!--  -->
     This talk is all froth.<break time="1000ms"/>
     <!-- Это всё пустая болтовня -->
+    This talk is all froth.<break time="1000ms"/>
+    This talk is all froth.<break time="1000ms"/>
+    This talk is all froth.<break time="1000ms"/>
     Еhe sea frothed on the rocks<break time="1000ms"/>
     <!-- Море пенилось у скал -->
+    Еhe sea frothed on the rocks<break time="1000ms"/>
+    Еhe sea frothed on the rocks<break time="1000ms"/>
+    Еhe sea frothed on the rocks<break time="1000ms"/>
 
     Slag<break time="2000ms"/>
     <!-- шлак, окалина, развратница, выгарки, ошлаковывать -->
@@ -70,12 +76,11 @@
     It's an authentic replica of an ancient Greek urn.<break time="1000ms"/>
     It's an authentic replica of an ancient Greek urn.<break time="1000ms"/>
 
-    <break time="2000ms"/>
-    <!--  -->
-    <break time="1000ms"/>
-    <!--  -->
-    <break time="1000ms"/>
-    <!--  -->
-    <break time="1000ms"/>
-    <!--  -->
+    Undergo<break time="2000ms"/>
+    <!-- подвергаться, испытывать, переносить, вытерпеть -->
+    She will have to undergo an operation.<break time="1000ms"/>
+    <!-- Ей придётся перенести операцию. -->
+    She will have to undergo an operation.<break time="1000ms"/>
+    She will have to undergo an operation.<break time="1000ms"/>
+    She will have to undergo an operation.<break time="1000ms"/>
 </speak>

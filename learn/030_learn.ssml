@@ -44,14 +44,13 @@
     The surface of the moon is arid and lifeless.<break time="1000ms"/>
     The surface of the moon is arid and lifeless.<break time="1000ms"/>
 
-    <break time="2000ms"/>
-    <!--  -->
-    <break time="1000ms"/>
-    <!--  -->
-    <break time="1000ms"/>
-    <!--  -->
-    <break time="1000ms"/>
-    <!--  -->
+    Spell<break time="2000ms"/>
+    <!-- заклинание, период, чары, время, очарование, означать, очаровывать -->
+    How do you spell your name?<break time="1000ms"/>
+    <!-- Как пишется ваше имя? -->
+    How do you spell your name?<break time="1000ms"/>
+    How do you spell your name?<break time="1000ms"/>
+    How do you spell your name?<break time="1000ms"/>
 
     <break time="2000ms"/>
     <!--  -->

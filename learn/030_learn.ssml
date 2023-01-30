@@ -51,31 +51,43 @@
     How do you spell your name?<break time="1000ms"/>
     How do you spell your name?<break time="1000ms"/>
     How do you spell your name?<break time="1000ms"/>
+    This could spell danger for the global economy.<break time="1000ms"/>
+    <!-- Это может представлять опасность для мировой экономики. -->
+    This could spell danger for the global economy.<break time="1000ms"/>
+    This could spell danger for the global economy.<break time="1000ms"/>
+    This could spell danger for the global economy.<break time="1000ms"/>
 
-    <break time="2000ms"/>
-    <!--  -->
-    <break time="1000ms"/>
-    <!--  -->
-    <break time="1000ms"/>
-    <!--  -->
-    <break time="1000ms"/>
-    <!--  -->
+    Tribute<break time="2000ms"/>
+    <!-- дань, должное, награда, подношение, коллективный дар -->
+    He paid tribute to her.<break time="1000ms"/>
+    <!-- Он отдал ей дань уважения. -->
+    He paid tribute to her.<break time="1000ms"/>
+    He paid tribute to her.<break time="1000ms"/>
+    He paid tribute to her.<break time="1000ms"/>
+    The song is a tribute to Roy Orbison.<break time="1000ms"/>
+    <!-- Эта песня - дань уважения Рою Орбисону. -->
+    The song is a tribute to Roy Orbison.<break time="1000ms"/>
+    The song is a tribute to Roy Orbison.<break time="1000ms"/>
+    The song is a tribute to Roy Orbison.<break time="1000ms"/>
 
-    <break time="2000ms"/>
-    <!--  -->
-    <break time="1000ms"/>
-    <!--  -->
-    <break time="1000ms"/>
-    <!--  -->
-    <break time="1000ms"/>
-    <!--  -->
+    Altogether<break time="2000ms"/>
+    <!-- целое, в целом, совсем, всего, совершенно, вполне -->
+    I had forgotten her birthday altogether.<break time="1000ms"/>
+    <!-- Я совсем забыл о ее дне рождения. -->
+    I had forgotten her birthday altogether.<break time="1000ms"/>
+    I had forgotten her birthday altogether.<break time="1000ms"/>
+    I had forgotten her birthday altogether.<break time="1000ms"/>
+    How much do I owe you altogether?<break time="1000ms"/>
+    <!-- Сколько всего я вам должен? -->
+    How much do I owe you altogether?<break time="1000ms"/>
+    How much do I owe you altogether?<break time="1000ms"/>
+    How much do I owe you altogether?<break time="1000ms"/>
 
-    <break time="2000ms"/>
-    <!--  -->
-    <break time="1000ms"/>
-    <!--  -->
-    <break time="1000ms"/>
-    <!--  -->
-    <break time="1000ms"/>
-    <!--  -->
+    Choir<break time="2000ms"/>
+    <!-- хор, хоры, клирос, церковный хор, петь хором -->
+    The choir sang all together.<break time="1000ms"/>
+    <!-- Хор пел все вместе. -->
+    The choir sang all together.<break time="1000ms"/>
+    The choir sang all together.<break time="1000ms"/>
+    The choir sang all together.<break time="1000ms"/>
 </speak>

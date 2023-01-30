@@ -39,48 +39,43 @@
     Everyone stood up for the national anthem.<break time="1000ms"/>
     Everyone stood up for the national anthem.<break time="1000ms"/>
 
-    <break time="2000ms"/>
-    <!--  -->
-    <break time="1000ms"/>
-    <!--  -->
-    <break time="1000ms"/>
-    <!--  -->
-    <break time="1000ms"/>
-    <!--  -->
+    Treasury<break time="2000ms"/>
+    <!-- казна, сокровищница, казначейский -->
+    I do not allude to the whole of the Treasury bench.<break time="1000ms"/>
+    <!-- Я не имею в виду всю коллегию казначейства. -->
+    I do not allude to the whole of the Treasury bench.<break time="1000ms"/>
+    I do not allude to the whole of the Treasury bench.<break time="1000ms"/>
+    I do not allude to the whole of the Treasury bench.<break time="1000ms"/>
 
-    <break time="2000ms"/>
-    <!--  -->
-    <break time="1000ms"/>
-    <!--  -->
-    <break time="1000ms"/>
-    <!--  -->
-    <break time="1000ms"/>
-    <!--  -->
+    Pioneer<break time="2000ms"/>
+    <!-- первопроходец, первый, саперный, вести, прокладывать путь -->
+    This technique pioneered by the British Admiralty in the 18th century.<break time="1000ms"/>
+    <!-- Этот метод был впервые применен британским адмиралтейством в 18 веке. -->
+    This technique pioneered by the British Admiralty in the 18th century.<break time="1000ms"/>
+    This technique pioneered by the British Admiralty in the 18th century.<break time="1000ms"/>
+    This technique pioneered by the British Admiralty in the 18th century.<break time="1000ms"/>
 
-    <break time="2000ms"/>
-    <!--  -->
-    <break time="1000ms"/>
-    <!--  -->
-    <break time="1000ms"/>
-    <!--  -->
-    <break time="1000ms"/>
-    <!--  -->
+    Allude<break time="2000ms"/>
+    <!-- ссылаться, намекать, упоминать, подразумевать -->
+    I have already alluded to the fact.<break time="1000ms"/>
+    <!-- Я уже упоминал об этом факте. -->
+    I have already alluded to the fact.<break time="1000ms"/>
+    I have already alluded to the fact.<break time="1000ms"/>
+    I have already alluded to the fact.<break time="1000ms"/>
 
-    <break time="2000ms"/>
+    Elude<break time="2000ms"/>
     <!--  -->
-    <break time="1000ms"/>
-    <!--  -->
-    <break time="1000ms"/>
-    <!--  -->
-    <break time="1000ms"/>
-    <!--  -->
+    The thief eluded the police.<break time="1000ms"/>
+    <!-- Вор ускользнул от полиции. -->
+    The thief eluded the police.<break time="1000ms"/>
+    The thief eluded the police.<break time="1000ms"/>
+    The thief eluded the police.<break time="1000ms"/>
 
-    <break time="2000ms"/>
-    <!--  -->
-    <break time="1000ms"/>
-    <!--  -->
-    <break time="1000ms"/>
-    <!--  -->
-    <break time="1000ms"/>
-    <!--  -->
+    Omen<break time="2000ms"/>
+    <!-- предзнаменование, знак, примета, служить предзнаменованием, предвещать -->
+    It was an evil omen.<break time="1000ms"/>
+    <!-- Это был дурной знак. -->
+    It was an evil omen.<break time="1000ms"/>
+    It was an evil omen.<break time="1000ms"/>
+    It was an evil omen.<break time="1000ms"/>
 </speak>

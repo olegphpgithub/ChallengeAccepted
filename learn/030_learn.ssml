@@ -90,4 +90,12 @@
     The choir sang all together.<break time="1000ms"/>
     The choir sang all together.<break time="1000ms"/>
     The choir sang all together.<break time="1000ms"/>
+    
+    Cohesive<break time="2000ms"/>
+    <!-- сплочённый, связующий, способный к сцеплению -->
+    Their tribe is a small but cohesive group.<break time="1000ms"/>
+    <!-- Их племя представляет собой небольшую, но сплочённую группу людей. -->
+    Their tribe is a small but cohesive group.<break time="1000ms"/>
+    Their tribe is a small but cohesive group.<break time="1000ms"/>
+    Their tribe is a small but cohesive group.<break time="1000ms"/>
 </speak>

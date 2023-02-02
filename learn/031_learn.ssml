@@ -23,14 +23,18 @@
     In 2003 a great jubilee took place to celebrate Pskov 1100th anniversary.<break time="1000ms"/>
     In 2003 a great jubilee took place to celebrate Pskov 1100th anniversary.<break time="1000ms"/>
 
-    <break time="2000ms"/>
-    <!--  -->
-    <break time="1000ms"/>
-    <!--  -->
-    <break time="1000ms"/>
-    <!--  -->
-    <break time="1000ms"/>
-    <!--  -->
+    Adhere<break time="2000ms"/>
+    <!-- придерживаться, прилипать, твердо придерживаться, приклеиваться, приставать -->
+    You must adhere to the rules.<break time="1000ms"/>
+    <!-- Вы должны придерживаться правил. -->
+    You must adhere to the rules.<break time="1000ms"/>
+    You must adhere to the rules.<break time="1000ms"/>
+    You must adhere to the rules.<break time="1000ms"/>
+    These labels do not adhere well.<break time="1000ms"/>
+    <!-- Эти наклейки плохо клеятся. -->
+    These labels do not adhere well.<break time="1000ms"/>
+    These labels do not adhere well.<break time="1000ms"/>
+    These labels do not adhere well.<break time="1000ms"/>
 
     <break time="2000ms"/>
     <!--  -->

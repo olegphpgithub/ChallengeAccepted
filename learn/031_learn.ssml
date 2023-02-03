@@ -44,14 +44,13 @@
     It's not a good idea to use olive oil to lubricate the gears in an appliance.<break time="1000ms"/>
     It's not a good idea to use olive oil to lubricate the gears in an appliance.<break time="1000ms"/>
 
-    <break time="2000ms"/>
-    <!--  -->
-    <break time="1000ms"/>
-    <!--  -->
-    <break time="1000ms"/>
-    <!--  -->
-    <break time="1000ms"/>
-    <!--  -->
+    Lubricate<break time="2000ms"/>
+    <!-- смазывать, смазать, подмазывать, угощать вином -->
+    Lubricate all moving parts with grease.<break time="1000ms"/>
+    <!-- Смажьте все движущиеся части жиром. -->
+    Lubricate all moving parts with grease.<break time="1000ms"/>
+    Lubricate all moving parts with grease.<break time="1000ms"/>
+    Lubricate all moving parts with grease.<break time="1000ms"/>
 
     <break time="2000ms"/>
     <!--  -->

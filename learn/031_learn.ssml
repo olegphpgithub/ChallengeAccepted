@@ -52,39 +52,35 @@
     Lubricate all moving parts with grease.<break time="1000ms"/>
     Lubricate all moving parts with grease.<break time="1000ms"/>
 
-    <break time="2000ms"/>
-    <!--  -->
-    <break time="1000ms"/>
-    <!--  -->
-    <break time="1000ms"/>
-    <!--  -->
-    <break time="1000ms"/>
-    <!--  -->
+    Grease<break time="2000ms"/>
+    <!-- смазка, жир, сало, смазочное вещество, смазать, смазывать, смазывать жиром -->
+    Lubricate all moving parts with grease.<break time="1000ms"/>
+    <!-- Смажьте все движущиеся части жиром. -->
+    Lubricate all moving parts with grease.<break time="1000ms"/>
+    Lubricate all moving parts with grease.<break time="1000ms"/>
+    Lubricate all moving parts with grease.<break time="1000ms"/>
 
-    <break time="2000ms"/>
-    <!--  -->
-    <break time="1000ms"/>
-    <!--  -->
-    <break time="1000ms"/>
-    <!--  -->
-    <break time="1000ms"/>
-    <!--  -->
+    Clog<break time="2000ms"/>
+    <!-- помеха, засорение, башмак, препятствие, засорять, засоряться, мешать -->
+    The well was clogged up with leaves.<break time="1000ms"/>
+    <!-- Колодец был засыпан листьями. -->
+    The well was clogged up with leaves.<break time="1000ms"/>
+    The well was clogged up with leaves.<break time="1000ms"/>
+    The well was clogged up with leaves.<break time="1000ms"/>
 
-    <break time="2000ms"/>
-    <!--  -->
-    <break time="1000ms"/>
-    <!--  -->
-    <break time="1000ms"/>
-    <!--  -->
-    <break time="1000ms"/>
-    <!--  -->
+    Estate<break time="2000ms"/>
+    <!-- имущество, поместье, имение, сословие, площадка жилой застройки, положение -->
+    He left his estate to her.<break time="1000ms"/>
+    <!-- Он оставил ей своё поместье. -->
+    He left his estate to her.<break time="1000ms"/>
+    He left his estate to her.<break time="1000ms"/>
+    He left his estate to her.<break time="1000ms"/>
 
-    <break time="2000ms"/>
-    <!--  -->
-    <break time="1000ms"/>
-    <!--  -->
-    <break time="1000ms"/>
-    <!--  -->
-    <break time="1000ms"/>
-    <!--  -->
+    Alienation<break time="2000ms"/>
+    <!-- отчуждение, отдаление, психоз, умопомешательство -->
+    Unemployment may provoke a sense of alienation from society.<break time="1000ms"/>
+    <!-- Безработица может спровоцировать чувство отчуждения от общества. -->
+    Unemployment may provoke a sense of alienation from society.<break time="1000ms"/>
+    Unemployment may provoke a sense of alienation from society.<break time="1000ms"/>
+    Unemployment may provoke a sense of alienation from society.<break time="1000ms"/>
 </speak>

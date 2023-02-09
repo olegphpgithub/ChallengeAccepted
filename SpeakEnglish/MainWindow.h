@@ -8,6 +8,7 @@ namespace Ui { class MainWindow; }
 QT_END_NAMESPACE
 
 class QStackedWidget;
+class WelcomeForm;
 class ChallengeForm;
 
 class MainWindow : public QMainWindow
@@ -20,6 +21,7 @@ public:
 
 public slots:
     void ChallengeBegin();
+    void Welcome();
 
 private:
     Ui::MainWindow *ui;
@@ -27,5 +29,6 @@ private:
     QStackedWidget *stackedWidget;
 
     ChallengeForm *challengeForm;
+    WelcomeForm * welcomeForm;
 };
 #endif // MAINWINDOW_H

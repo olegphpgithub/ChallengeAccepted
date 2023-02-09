@@ -17,16 +17,19 @@ DEFINES += QT_DEPRECATED_WARNINGS
 
 SOURCES += \
     ChallengeForm.cpp \
+    WelcomeForm.cpp \
     main.cpp \
     MainWindow.cpp
 
 HEADERS += \
     ChallengeForm.h \
-    MainWindow.h
+    MainWindow.h \
+    WelcomeForm.h
 
 FORMS += \
     ChallengeForm.ui \
-    MainWindow.ui
+    MainWindow.ui \
+    WelcomeForm.ui
 
 TRANSLATIONS += \
     SpeakEnglish_ru_RU.ts

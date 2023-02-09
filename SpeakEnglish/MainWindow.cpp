@@ -6,6 +6,7 @@
 
 #include <QStackedWidget>
 #include <QFileDialog>
+#include <QMessageBox>
 
 MainWindow::MainWindow(QWidget *parent)
     : QMainWindow(parent)
@@ -42,6 +43,21 @@ void MainWindow::OpenFile()
                 tr("Open SSML File"),
                 QCoreApplication::applicationDirPath(),
                 tr("SSML Files (*.ssml)"));
+
+    if (ssml_file_path.isEmpty())
+    {
+        return;
+    }
+
+    if (!browseForm->parseFile(ssml_file_path))
+    {
+        QString csMsg(QObject::tr("Failed to open '%1' file"));
+        csMsg = csMsg.arg(ssml_file_path);
+        QString csTitle("Error");
+        QMessageBox msgBox;
+        msgBox.critical(nullptr, csTitle, csMsg);
+        return;
+    }
 
     stackedWidget->setCurrentWidget(browseForm);
 }

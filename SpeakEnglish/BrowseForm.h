@@ -14,6 +14,7 @@ class BrowseForm : public QWidget
 public:
     explicit BrowseForm(QWidget *parent = nullptr);
     ~BrowseForm();
+    bool parseFile(QString filePath);
 
 private:
     Ui::BrowseForm *ui;

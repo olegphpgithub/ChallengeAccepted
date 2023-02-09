@@ -54,11 +54,11 @@
 
     Grease<break time="2000ms"/>
     <!-- смазка, жир, сало, смазочное вещество, смазать, смазывать, смазывать жиром -->
-    Lubricate all moving parts with grease.<break time="1000ms"/>
-    <!-- Смажьте все движущиеся части жиром. -->
-    Lubricate all moving parts with grease.<break time="1000ms"/>
-    Lubricate all moving parts with grease.<break time="1000ms"/>
-    Lubricate all moving parts with grease.<break time="1000ms"/>
+    The sink was clogged by dirt and grease.<break time="1000ms"/>
+    <!-- Сток был засорён грязью и жиром. -->
+    The sink was clogged by dirt and grease.<break time="1000ms"/>
+    The sink was clogged by dirt and grease.<break time="1000ms"/>
+    The sink was clogged by dirt and grease.<break time="1000ms"/>
 
     Clog<break time="2000ms"/>
     <!-- помеха, засорение, башмак, препятствие, засорять, засоряться, мешать -->

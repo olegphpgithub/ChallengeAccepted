@@ -2,6 +2,9 @@
 #define BROWSEFORM_H
 
 #include <QWidget>
+#include <QXmlStreamReader>
+
+#include "MainCore.h"
 
 namespace Ui {
 class BrowseForm;
@@ -15,6 +18,7 @@ public:
     explicit BrowseForm(QWidget *parent = nullptr);
     ~BrowseForm();
     bool parseFile(QString filePath);
+    EnglishWord parseParagraph(QXmlStreamReader *xml);
 
 private:
     Ui::BrowseForm *ui;

@@ -1,6 +1,6 @@
 #include "MainCore.h"
 
-QMap<unsigned int, EnglishWord> MainCore::table;
+QList<EnglishWord> MainCore::table;
 
 MainCore::MainCore(QObject *parent) : QObject(parent)
 {

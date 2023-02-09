@@ -23,6 +23,75 @@ bool BrowseForm::parseFile(QString filePath)
     {
         return false;
     }
+
+    QList<EnglishWord> list;
+
     QXmlStreamReader xml(file);
+
+    while (!xml.atEnd() && !xml.hasError())
+    {
+        QXmlStreamReader::TokenType token = xml.readNext();
+        if (token == QXmlStreamReader::StartDocument)
+            continue;
+        if (token == QXmlStreamReader::StartElement)
+        {
+            if (xml.name() == "speak")
+                continue;
+            if (xml.name() == "p")
+            {
+                EnglishWord word = parseParagraph(&xml);
+                if (word.en.isNull() || word.en.isEmpty())
+                    continue;
+                list.push_back(word);
+            }
+        }
+    }
+
+    if (list.count() != 0)
+    {
+        MainCore::table.clear();
+        MainCore::table = list;
+        return true;
+    }
+
     return false;
+}
+
+EnglishWord BrowseForm::parseParagraph(QXmlStreamReader *xml)
+{
+    EnglishWord eWord;
+    if (xml->tokenType() != QXmlStreamReader::StartElement && xml->name() == "p")
+        return eWord;
+
+    QXmlStreamAttributes attributes = xml->attributes();
+    if (attributes.hasAttribute("ru"))
+        eWord.ru = attributes.value("ru").toString();
+    xml->readNext();
+
+    while (!(xml->tokenType() == QXmlStreamReader::EndElement && xml->name() == "p"))
+    {
+        if (xml->tokenType() == QXmlStreamReader::StartElement)
+        {
+            if (xml->name() == "s")
+            {
+                QXmlStreamAttributes attributes = xml->attributes();
+                if (attributes.hasAttribute("meaning"))
+                {
+                    QString meaning = attributes.value("meaning").toString();
+                    if (meaning == "word")
+                    {
+                        xml->readNext();
+                        eWord.en = xml->text().toString();
+                    }
+                    if (meaning == "example")
+                    {
+                        xml->readNext();
+                        eWord.example = xml->text().toString();
+                    }
+                }
+            }
+        }
+        xml->readNext();
+    }
+    return eWord;
 }

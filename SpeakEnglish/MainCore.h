@@ -9,7 +9,8 @@ class EnglishWord
 public:
     QString en;
     QString ru;
-    QString sentence;
+    QString example;
+    QString hint;
 };
 
 class MainCore : public QObject
@@ -17,7 +18,7 @@ class MainCore : public QObject
     Q_OBJECT
 public:
     explicit MainCore(QObject *parent = nullptr);
-    static QMap<unsigned int, EnglishWord> table;
+    static QList<EnglishWord> table;
 signals:
 
 };

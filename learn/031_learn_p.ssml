@@ -1,0 +1,8 @@
+<speak>
+    <p ru="Перепись">
+        <s meaning="word">Census</s><break time="2000ms"/>
+        <s meaning="example">Economists parsed the census data.</s><break time="1000ms"/>
+        <s>Economists parsed the census data.</s><break time="1000ms"/>
+        <s>Economists parsed the census data.</s><break time="1000ms"/>
+    </p>
+</speak>

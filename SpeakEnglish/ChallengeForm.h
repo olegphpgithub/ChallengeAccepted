@@ -21,7 +21,10 @@ public:
 
 private:
     Ui::ChallengeForm *ui;
-    unsigned int index;
+    int index;
+
+signals:
+    void finish();
 };
 
 #endif // CHALLENGEFORM_H

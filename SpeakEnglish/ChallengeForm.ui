@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>ChallengeForm</class>
+ <widget class="QWidget" name="ChallengeForm">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>600</width>
+    <height>450</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <layout class="QVBoxLayout" name="verticalLayout_2">
+   <item>
+    <layout class="QVBoxLayout" name="verticalLayout">
+     <item>
+      <widget class="QLineEdit" name="questionLineEdit"/>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="ExampleLineEdit"/>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="AnswerLineEdit"/>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="WrongLineEdit"/>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="RightLineEdit"/>
+     </item>
+    </layout>
+   </item>
+  </layout>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

@@ -16,17 +16,20 @@ DEFINES += QT_DEPRECATED_WARNINGS
 #DEFINES += QT_DISABLE_DEPRECATED_BEFORE=0x060000    # disables all the APIs deprecated before Qt 6.0.0
 
 SOURCES += \
+    BrowseForm.cpp \
     ChallengeForm.cpp \
     WelcomeForm.cpp \
     main.cpp \
     MainWindow.cpp
 
 HEADERS += \
+    BrowseForm.h \
     ChallengeForm.h \
     MainWindow.h \
     WelcomeForm.h
 
 FORMS += \
+    BrowseForm.ui \
     ChallengeForm.ui \
     MainWindow.ui \
     WelcomeForm.ui

@@ -9,6 +9,7 @@ QT_END_NAMESPACE
 
 class QStackedWidget;
 class WelcomeForm;
+class BrowseForm;
 class ChallengeForm;
 
 class MainWindow : public QMainWindow
@@ -20,6 +21,7 @@ public:
     ~MainWindow();
 
 public slots:
+    void OpenFile();
     void ChallengeBegin();
     void Welcome();
 
@@ -29,6 +31,7 @@ private:
     QStackedWidget *stackedWidget;
 
     ChallengeForm *challengeForm;
-    WelcomeForm * welcomeForm;
+    WelcomeForm *welcomeForm;
+    BrowseForm *browseForm;
 };
 #endif // MAINWINDOW_H

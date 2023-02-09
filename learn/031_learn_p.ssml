@@ -5,4 +5,16 @@
         <s>Economists parsed the census data.</s><break time="1000ms"/>
         <s>Economists parsed the census data.</s><break time="1000ms"/>
     </p>
+    <p ru="Крепость">
+        <s meaning="word">Fortress</s><break time="2000ms"/>
+        <s meaning="example">The old Dutch fortress looks virtually impregnable.</s><break time="1000ms"/>
+        <s>The old Dutch fortress looks virtually impregnable.</s><break time="1000ms"/>
+        <s>The old Dutch fortress looks virtually impregnable.</s><break time="1000ms"/>
+    </p>
+    <p word="Юбилей, празднество">
+        <s meaning="word">Jubilee</s><break time="2000ms"/>
+        <s meaning="example">In 2003 a great jubilee took place to celebrate Pskov 1100th anniversary.</s><break time="1000ms"/>
+        <s>In 2003 a great jubilee took place to celebrate Pskov 1100th anniversary.</s><break time="1000ms"/>
+        <s>In 2003 a great jubilee took place to celebrate Pskov 1100th anniversary.</s><break time="1000ms"/>
+    </p>
 </speak>

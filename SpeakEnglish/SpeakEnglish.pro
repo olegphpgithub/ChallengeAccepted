@@ -18,6 +18,7 @@ DEFINES += QT_DEPRECATED_WARNINGS
 SOURCES += \
     BrowseForm.cpp \
     ChallengeForm.cpp \
+    MainCore.cpp \
     WelcomeForm.cpp \
     main.cpp \
     MainWindow.cpp
@@ -25,6 +26,7 @@ SOURCES += \
 HEADERS += \
     BrowseForm.h \
     ChallengeForm.h \
+    MainCore.h \
     MainWindow.h \
     WelcomeForm.h
 

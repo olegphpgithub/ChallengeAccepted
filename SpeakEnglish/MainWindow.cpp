@@ -5,6 +5,7 @@
 #include "ChallengeForm.h"
 
 #include <QStackedWidget>
+#include <QFileDialog>
 
 MainWindow::MainWindow(QWidget *parent)
     : QMainWindow(parent)
@@ -36,6 +37,12 @@ MainWindow::~MainWindow()
 
 void MainWindow::OpenFile()
 {
+    QString ssml_file_path = QFileDialog::getOpenFileName(
+                this,
+                tr("Open SSML File"),
+                QCoreApplication::applicationDirPath(),
+                tr("SSML Files (*.ssml)"));
+
     stackedWidget->setCurrentWidget(browseForm);
 }
 

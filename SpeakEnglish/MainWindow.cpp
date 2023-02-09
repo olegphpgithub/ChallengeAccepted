@@ -65,6 +65,7 @@ void MainWindow::OpenFile()
 void MainWindow::ChallengeBegin()
 {
     stackedWidget->setCurrentWidget(challengeForm);
+    challengeForm->Start();
 }
 
 void MainWindow::Welcome()

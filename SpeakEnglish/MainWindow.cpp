@@ -57,7 +57,7 @@ void MainWindow::OpenFile()
                 this,
                 tr("Open SSML File"),
                 QCoreApplication::applicationDirPath(),
-                tr("SSML Files (*.ssml)"));
+                tr("SSML Files (*.xml *.ssml)"));
 
     if (ssml_file_path.isEmpty())
     {

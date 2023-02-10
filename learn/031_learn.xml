@@ -1,0 +1,84 @@
+<speak>
+    <p ru="Перепись">
+        <s meaning="word">Census</s><break time="2000ms"/>
+        <s meaning="example">Economists parsed the census data.</s><break time="1000ms"/>
+        <!-- Экономисты проанализировали данные переписи. -->
+        <s>Economists parsed the census data.</s><break time="1000ms"/>
+        <s>Economists parsed the census data.</s><break time="1000ms"/>
+    </p>
+    <p ru="Крепость">
+        <s meaning="word">Fortress</s><break time="2000ms"/>
+        <s meaning="example">The old Dutch fortress looks virtually impregnable.</s><break time="1000ms"/>
+        <!-- Старая голландская крепость выглядит практически неприступной. -->
+        <s>The old Dutch fortress looks virtually impregnable.</s><break time="1000ms"/>
+        <s>The old Dutch fortress looks virtually impregnable.</s><break time="1000ms"/>
+    </p>
+    <p ru="Юбилей, празднество">
+        <s meaning="word">Jubilee</s><break time="2000ms"/>
+        <s meaning="example">In 2003 a great jubilee took place to celebrate Pskov 1100th anniversary.</s><break time="1000ms"/>
+        <!-- В 2003 году состоялся большой юбилей, посвященный празднованию 1100-летия Пскова. -->
+        <s>In 2003 a great jubilee took place to celebrate Pskov 1100th anniversary.</s><break time="1000ms"/>
+        <s>In 2003 a great jubilee took place to celebrate Pskov 1100th anniversary.</s><break time="1000ms"/>
+    </p>
+    <p ru="придерживаться, прилипать, твердо придерживаться, приклеиваться, приставать">
+        <s meaning="word">Adhere</s><break time="2000ms"/>
+        <s meaning="example">You must adhere to the rules.</s><break time="1000ms"/>
+        <!-- Вы должны придерживаться правил. -->
+        <s>You must adhere to the rules.</s><break time="1000ms"/>
+        <s>You must adhere to the rules.</s><break time="1000ms"/>
+        <s>You must adhere to the rules.</s><break time="1000ms"/>
+        <s>These labels do not adhere well.</s><break time="1000ms"/>
+        <!-- Эти наклейки плохо клеятся. -->
+        <s>These labels do not adhere well.</s><break time="1000ms"/>
+        <s>These labels do not adhere well.</s><break time="1000ms"/>
+        <s>These labels do not adhere well.</s><break time="1000ms"/>
+    </p>
+    <p ru="прибор, устройство, приспособление, применение, электрический бытовой прибор">
+        <s meaning="word">Appliance</s><break time="2000ms"/>
+        <s meaning="example">It's not a good idea to use olive oil to lubricate the gears in an appliance.</s><break time="1000ms"/>
+        <!-- Не рекомендуется использовать оливковое масло для смазки шестеренок в электроприборе. -->
+        <s>It's not a good idea to use olive oil to lubricate the gears in an appliance.</s><break time="1000ms"/>
+        <s>It's not a good idea to use olive oil to lubricate the gears in an appliance.</s><break time="1000ms"/>
+        <s>It's not a good idea to use olive oil to lubricate the gears in an appliance.</s><break time="1000ms"/>
+    </p>
+    <p ru="смазывать, смазать, подмазывать, угощать вином">
+        <s meaning="word">Lubricate</s><break time="2000ms"/>
+        <s meaning="example">Lubricate all moving parts with grease.</s><break time="1000ms"/>
+        <!-- Смажьте все движущиеся части жиром. -->
+        <s>Lubricate all moving parts with grease.</s><break time="1000ms"/>
+        <s>Lubricate all moving parts with grease.</s><break time="1000ms"/>
+        <s>Lubricate all moving parts with grease.</s><break time="1000ms"/>
+    </p>
+    <p ru="смазка, жир, сало, смазочное вещество, смазать, смазывать, смазывать жиром">
+        <s meaning="word">Grease</s><break time="2000ms"/>
+        <s meaning="example">The sink was clogged by dirt and grease.</s><break time="1000ms"/>
+        <!-- Сток был засорён грязью и жиром. -->
+        <s>The sink was clogged by dirt and grease.</s><break time="1000ms"/>
+        <s>The sink was clogged by dirt and grease.</s><break time="1000ms"/>
+        <s>The sink was clogged by dirt and grease.</s><break time="1000ms"/>
+    </p>
+    <p ru="помеха, засорение, башмак, препятствие, засорять, засоряться, мешать">
+        <s meaning="word">Clog</s><break time="2000ms"/>
+        <s meaning="example">The well was clogged up with leaves.</s><break time="1000ms"/>
+        <!-- Колодец был засыпан листьями. -->
+        <s>The well was clogged up with leaves.</s><break time="1000ms"/>
+        <s>The well was clogged up with leaves.</s><break time="1000ms"/>
+        <s>The well was clogged up with leaves.</s><break time="1000ms"/>
+    </p>
+    <p ru="имущество, поместье, имение, сословие, площадка жилой застройки, положение">
+        <s meaning="word">Estate</s><break time="2000ms"/>
+        <s meaning="example">He left his estate to her.</s><break time="1000ms"/>
+        <!-- Он оставил ей своё поместье. -->
+        <s>He left his estate to her.</s><break time="1000ms"/>
+        <s>He left his estate to her.</s><break time="1000ms"/>
+        <s>He left his estate to her.</s><break time="1000ms"/>
+    </p>
+    <p ru="отчуждение, отдаление, психоз, умопомешательство">
+        <s meaning="word">Alienation</s><break time="2000ms"/>
+        <s meaning="example">Unemployment may provoke a sense of alienation from society.</s><break time="1000ms"/>
+        <!-- Безработица может спровоцировать чувство отчуждения от общества. -->
+        <s>Unemployment may provoke a sense of alienation from society.</s><break time="1000ms"/>
+        <s>Unemployment may provoke a sense of alienation from society.</s><break time="1000ms"/>
+        <s>Unemployment may provoke a sense of alienation from society.</s><break time="1000ms"/>
+    </p>
+</speak>

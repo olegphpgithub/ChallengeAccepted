@@ -74,6 +74,9 @@
          <pointsize>16</pointsize>
         </font>
        </property>
+       <property name="styleSheet">
+        <string notr="true">color: rgb(255, 85, 0);</string>
+       </property>
       </widget>
      </item>
      <item>
@@ -85,6 +88,10 @@
         <font>
          <pointsize>16</pointsize>
         </font>
+       </property>
+       <property name="styleSheet">
+        <string notr="true">color: rgb(85, 170, 0);
+</string>
        </property>
       </widget>
      </item>

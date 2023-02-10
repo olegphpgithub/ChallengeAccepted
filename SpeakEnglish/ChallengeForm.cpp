@@ -60,12 +60,12 @@ void ChallengeForm::Check()
 
     if (index == -1)
     {
+        Return();
         return;
     }
 
     QString answer;
     answer = ui->AnswerLineEdit->text();
-    ui->AnswerLineEdit->clear();
     if (answer == MainCore::table[index].en)
     {
         right++;
@@ -78,6 +78,12 @@ void ChallengeForm::Check()
         ui->RightLineEdit->setText(MainCore::table[index].en);
         ui->RightLineEdit->setCursorPosition(0);
     }
+    Return();
+}
+
+void ChallengeForm::Return()
+{
+    ui->AnswerLineEdit->clear();
     QString result("%1/%2");
     result = result.arg(right).arg(wrong);
     ui->statusLabel->setText(result);

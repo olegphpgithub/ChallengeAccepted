@@ -27,6 +27,7 @@ private:
     int index;
     int right;
     int wrong;
+    void Return();
 
 signals:
     void Finish();

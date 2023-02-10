@@ -29,7 +29,8 @@ MainWindow::MainWindow(QWidget *parent)
     stackedWidget->addWidget(browseForm);
     stackedWidget->addWidget(challengeForm);
 
-    connect (challengeForm, SIGNAL(Step(QString)), this, SLOT(UpdateStatusBar(QString)));
+    connect(challengeForm, SIGNAL(Step(QString)), this, SLOT(UpdateStatusBar(QString)));
+    connect(challengeForm, SIGNAL(Finish()), this, SLOT(Home()));
 
     setCentralWidget(stackedWidget);
 
@@ -90,4 +91,9 @@ void MainWindow::Welcome()
 void MainWindow::UpdateStatusBar(QString status)
 {
     ui->statusbar->showMessage(status, 10000);
+}
+
+void MainWindow::Home()
+{
+    stackedWidget->setCurrentWidget(browseForm);
 }

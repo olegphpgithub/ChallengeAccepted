@@ -39,6 +39,7 @@ void ChallengeForm::Next()
                               tr("Test"),
                               tr("The file name must be specified."),
                               QMessageBox::Ok);
+        emit Finish();
         return;
     }
 

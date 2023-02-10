@@ -25,6 +25,7 @@ public slots:
     void ChallengeBegin();
     void Welcome();
     void UpdateStatusBar(QString status);
+    void Home();
 
 private:
     Ui::MainWindow *ui;

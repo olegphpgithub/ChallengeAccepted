@@ -50,11 +50,17 @@ void ChallengeForm::Next()
 
 void ChallengeForm::Check()
 {
+    ui->WrongLineEdit->clear();
+    ui->RightLineEdit->clear();
+
     if (index == -1)
     {
         return;
     }
-    QString answer = ui->AnswerLineEdit->text();
+
+    QString answer;
+    answer = ui->AnswerLineEdit->text();
+    ui->AnswerLineEdit->clear();
     if (answer == MainCore::table[index].en)
     {
         right++;
@@ -62,6 +68,12 @@ void ChallengeForm::Check()
     else
     {
         wrong++;
+        ui->WrongLineEdit->setText(answer);
+        QString eeee = ui->WrongLineEdit->text();
+        ui->RightLineEdit->setText(MainCore::table[index].en);
     }
-    emit Step("4444444444");
+    QString result("%1/%2");
+    result = result.arg(right).arg(wrong);
+    ui->statusLabel->setText(result);
+    emit Step(result);
 }

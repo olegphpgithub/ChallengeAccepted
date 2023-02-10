@@ -17,19 +17,76 @@
    <item>
     <layout class="QVBoxLayout" name="verticalLayout">
      <item>
-      <widget class="QLineEdit" name="questionLineEdit"/>
+      <widget class="QLabel" name="statusLabel">
+       <property name="font">
+        <font>
+         <pointsize>24</pointsize>
+        </font>
+       </property>
+       <property name="text">
+        <string>0/0</string>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
      </item>
      <item>
-      <widget class="QLineEdit" name="ExampleLineEdit"/>
+      <widget class="QLineEdit" name="questionLineEdit">
+       <property name="enabled">
+        <bool>false</bool>
+       </property>
+       <property name="font">
+        <font>
+         <pointsize>16</pointsize>
+        </font>
+       </property>
+      </widget>
      </item>
      <item>
-      <widget class="QLineEdit" name="AnswerLineEdit"/>
+      <widget class="QLineEdit" name="ExampleLineEdit">
+       <property name="enabled">
+        <bool>false</bool>
+       </property>
+       <property name="font">
+        <font>
+         <pointsize>16</pointsize>
+        </font>
+       </property>
+      </widget>
      </item>
      <item>
-      <widget class="QLineEdit" name="WrongLineEdit"/>
+      <widget class="QLineEdit" name="AnswerLineEdit">
+       <property name="font">
+        <font>
+         <pointsize>16</pointsize>
+        </font>
+       </property>
+      </widget>
      </item>
      <item>
-      <widget class="QLineEdit" name="RightLineEdit"/>
+      <widget class="QLineEdit" name="WrongLineEdit">
+       <property name="enabled">
+        <bool>false</bool>
+       </property>
+       <property name="font">
+        <font>
+         <pointsize>16</pointsize>
+        </font>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="RightLineEdit">
+       <property name="enabled">
+        <bool>false</bool>
+       </property>
+       <property name="font">
+        <font>
+         <pointsize>16</pointsize>
+        </font>
+       </property>
+      </widget>
      </item>
     </layout>
    </item>

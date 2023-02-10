@@ -1,0 +1,102 @@
+<speak>
+    <p ru="страх, боязнь, опасения, бояться, страшиться, страшный, ужасный">
+        <s meaning="word">Dread</s><break time="2000ms"/>
+        <s meaning="example">I dread to think about what they might do next.</s><break time="1000ms"/>
+        <!-- Я боюсь думать о том, что они ещё могут сделать. -->
+        <s>I dread to think about what they might do next.</s><break time="1000ms"/>
+        <s>I dread to think about what they might do next.</s><break time="1000ms"/>
+        <s>I dread to think about what they might do next.</s><break time="1000ms"/>
+    </p>
+    <p ru="одобрение, согласие, утверждение, санкция">
+        <s meaning="word">Approbation</s><break time="2000ms"/>
+        <s meaning="example">That plan has the approbation of the school board.</s><break time="1000ms"/>
+        <!-- Этот план утверждён школьным советом. -->
+        <s>That plan has the approbation of the school board.</s><break time="1000ms"/>
+        <s>That plan has the approbation of the school board.</s><break time="1000ms"/>
+        <s>That plan has the approbation of the school board.</s><break time="1000ms"/>
+    </p>
+    <p ru="усмешка, оскал, усмехаться, ухмыляться, скалить зубы">
+        <s meaning="word">Grin</s><break time="2000ms"/>
+        <s meaning="example">She had a big grin on her face.</s><break time="1000ms"/>
+        <!-- На её лице сияла широкая улыбка. / Она улыбалась до ушей. -->
+        <s>She had a big grin on her face.</s><break time="1000ms"/>
+        <s>She had a big grin on her face.</s><break time="1000ms"/>
+        <s>She had a big grin on her face.</s><break time="1000ms"/>
+    </p>
+    <p ru="сдержанный, приглушенный, подчиненный, подавленный, смягченный">
+        <s meaning="word">Subdued</s><break time="2000ms"/>
+        <s meaning="example">Napoleon subdued much of Europe.</s><break time="1000ms"/>
+        <!-- Наполеон покорил большую часть Европы. -->
+        <s>Napoleon subdued much of Europe.</s><break time="1000ms"/>
+        <s>Napoleon subdued much of Europe.</s><break time="1000ms"/>
+        <s>Napoleon subdued much of Europe.</s><break time="1000ms"/>
+        <s>The price reaction to this news was relatively subdued.</s><break time="1000ms"/>
+        <!-- Реакция цен на акции на новости этой недели была относительно сдержанной. -->
+        <s>The price reaction to this news was relatively subdued.</s><break time="1000ms"/>
+        <s>The price reaction to this news was relatively subdued.</s><break time="1000ms"/>
+        <s>The price reaction to this news was relatively subdued.</s><break time="1000ms"/>
+    </p>
+    <p ru="засушливый, сухой, безводный, бесплодный, скучный, неинтересный">
+        <s meaning="word">Arid</s><break time="2000ms"/>
+        <s meaning="example">The surface of the moon is arid and lifeless.</s><break time="1000ms"/>
+        <!-- Поверхность Луны засушлива и безжизненна. -->
+        <s>The surface of the moon is arid and lifeless.</s><break time="1000ms"/>
+        <s>The surface of the moon is arid and lifeless.</s><break time="1000ms"/>
+        <s>The surface of the moon is arid and lifeless.</s><break time="1000ms"/>
+    </p>
+    <p ru="заклинание, период, чары, время, очарование, означать, очаровывать">
+        <s meaning="word">Spell</s><break time="2000ms"/>
+        <s meaning="example">How do you spell your name?</s><break time="1000ms"/>
+        <!-- Как пишется ваше имя? -->
+        <s>How do you spell your name?</s><break time="1000ms"/>
+        <s>How do you spell your name?</s><break time="1000ms"/>
+        <s>How do you spell your name?</s><break time="1000ms"/>
+        <s>This could spell danger for the global economy.</s><break time="1000ms"/>
+        <!-- Это может представлять опасность для мировой экономики. -->
+        <s>This could spell danger for the global economy.</s><break time="1000ms"/>
+        <s>This could spell danger for the global economy.</s><break time="1000ms"/>
+        <s>This could spell danger for the global economy.</s><break time="1000ms"/>
+    </p>
+    <p ru="дань, должное, награда, подношение, коллективный дар">
+        <s meaning="word">Tribute</s><break time="2000ms"/>
+        <s meaning="example">He paid tribute to her.</s><break time="1000ms"/>
+        <!-- Он отдал ей дань уважения. -->
+        <s>He paid tribute to her.</s><break time="1000ms"/>
+        <s>He paid tribute to her.</s><break time="1000ms"/>
+        <s>He paid tribute to her.</s><break time="1000ms"/>
+        <s>The song is a tribute to Roy Orbison.</s><break time="1000ms"/>
+        <!-- Эта песня - дань уважения Рою Орбисону. -->
+        <s>The song is a tribute to Roy Orbison.</s><break time="1000ms"/>
+        <s>The song is a tribute to Roy Orbison.</s><break time="1000ms"/>
+        <s>The song is a tribute to Roy Orbison.</s><break time="1000ms"/>
+    </p>
+    <p ru="целое, в целом, совсем, всего, совершенно, вполне">
+        <s meaning="word">Altogether</s><break time="2000ms"/>
+        <s meaning="example">I had forgotten her birthday altogether.</s><break time="1000ms"/>
+        <!-- Я совсем забыл о ее дне рождения. -->
+        <s>I had forgotten her birthday altogether.</s><break time="1000ms"/>
+        <s>I had forgotten her birthday altogether.</s><break time="1000ms"/>
+        <s>I had forgotten her birthday altogether.</s><break time="1000ms"/>
+        <s>How much do I owe you altogether?</s><break time="1000ms"/>
+        <!-- Сколько всего я вам должен? -->
+        <s>How much do I owe you altogether?</s><break time="1000ms"/>
+        <s>How much do I owe you altogether?</s><break time="1000ms"/>
+        <s>How much do I owe you altogether?</s><break time="1000ms"/>
+    </p>
+    <p ru="хор, хоры, клирос, церковный хор, петь хором">
+        <s meaning="word">Choir</s><break time="2000ms"/>
+        <s meaning="example">The choir sang all together.</s><break time="1000ms"/>
+        <!-- Хор пел все вместе. -->
+        <s>The choir sang all together.</s><break time="1000ms"/>
+        <s>The choir sang all together.</s><break time="1000ms"/>
+        <s>The choir sang all together.</s><break time="1000ms"/>
+    </p>
+    <p ru="сплочённый, связующий, способный к сцеплению">
+        <s meaning="word">Cohesive</s><break time="2000ms"/>
+        <s meaning="example">Their tribe is a small but cohesive group.</s><break time="1000ms"/>
+        <!-- Их племя представляет собой небольшую, но сплочённую группу людей. -->
+        <s>Their tribe is a small but cohesive group.</s><break time="1000ms"/>
+        <s>Their tribe is a small but cohesive group.</s><break time="1000ms"/>
+        <s>Their tribe is a small but cohesive group.</s><break time="1000ms"/>
+    </p>
+</speak>

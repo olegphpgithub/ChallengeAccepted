@@ -4,9 +4,12 @@
 #include <random>
 #include <algorithm>
 
+#include <QMessageBox>
+
 ChallengeForm::ChallengeForm(QWidget *parent) :
     QWidget(parent),
-    ui(new Ui::ChallengeForm)
+    ui(new Ui::ChallengeForm),
+    index(0), right(0), wrong(0)
 {
     ui->setupUi(this);
     connect(ui->AnswerLineEdit, SIGNAL(returnPressed()), this, SLOT(Next()));
@@ -19,27 +22,45 @@ ChallengeForm::~ChallengeForm()
 
 void ChallengeForm::Start()
 {
-    index = 0;
+    index = -1;
+    right = 0;
+    wrong = 0;
     std::random_shuffle(MainCore::table.begin(), MainCore::table.end());
     Next();
 }
 
 void ChallengeForm::Next()
 {
-    if (index > (MainCore::table.count() + 1))
-    {
+    Check();
 
-    }
-    if (index == 0)
+    if ( (right + wrong) == MainCore::table.count() )
     {
-        EnglishWord word = MainCore::table[index];
-        ui->questionLineEdit->setText(word.ru);
-    } else
-    {
-        EnglishWord word = MainCore::table[index];
-        ui->questionLineEdit->setText(word.ru);
+        QMessageBox::information(this,
+                              tr("Test"),
+                              tr("The file name must be specified."),
+                              QMessageBox::Ok);
+        return;
     }
+
     index++;
+    EnglishWord word = MainCore::table[index];
+    ui->questionLineEdit->setText(word.ru);
 }
 
-
+void ChallengeForm::Check()
+{
+    if (index == -1)
+    {
+        return;
+    }
+    QString answer = ui->AnswerLineEdit->text();
+    if (answer == MainCore::table[index].en)
+    {
+        right++;
+    }
+    else
+    {
+        wrong++;
+    }
+    emit Step("4444444444");
+}

@@ -24,6 +24,7 @@ public slots:
     void OpenFile();
     void ChallengeBegin();
     void Welcome();
+    void UpdateStatusBar(QString status);
 
 private:
     Ui::MainWindow *ui;

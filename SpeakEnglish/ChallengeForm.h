@@ -17,14 +17,20 @@ public:
     explicit ChallengeForm(QWidget *parent = nullptr);
     ~ChallengeForm();
     void Start();
+    void Check();
+
+public slots:
     void Next();
 
 private:
     Ui::ChallengeForm *ui;
     int index;
+    int right;
+    int wrong;
 
 signals:
-    void finish();
+    void Finish();
+    void Step(QString status);
 };
 
 #endif // CHALLENGEFORM_H

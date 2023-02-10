@@ -7,6 +7,9 @@
 #include <QStackedWidget>
 #include <QFileDialog>
 #include <QMessageBox>
+#include <QVBoxLayout>
+#include <QHBoxLayout>
+#include <QLabel>
 
 MainWindow::MainWindow(QWidget *parent)
     : QMainWindow(parent)
@@ -26,7 +29,18 @@ MainWindow::MainWindow(QWidget *parent)
     stackedWidget->addWidget(browseForm);
     stackedWidget->addWidget(challengeForm);
 
+    connect (challengeForm, SIGNAL(Step(QString)), this, SLOT(UpdateStatusBar(QString)));
+
     setCentralWidget(stackedWidget);
+
+//    QHBoxLayout *statusBarLayout = new QHBoxLayout();
+//    QWidget *statusBarWidget = new QWidget();
+//    statusBarWidget->setLayout(statusBarLayout);
+//    QLabel *lab1 = new QLabel("Total: ");
+//    statusBarLayout->addWidget(lab1);
+//    QLabel *lab2 = new QLabel("Total2: ");
+//    statusBarLayout->addWidget(lab2);
+//    this->statusBar()->addWidget(statusBarWidget);
 
     Welcome();
 }
@@ -71,4 +85,9 @@ void MainWindow::ChallengeBegin()
 void MainWindow::Welcome()
 {
     stackedWidget->setCurrentWidget(welcomeForm);
+}
+
+void MainWindow::UpdateStatusBar(QString status)
+{
+    ui->statusbar->showMessage(status, 10000);
 }

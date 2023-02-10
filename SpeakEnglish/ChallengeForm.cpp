@@ -35,9 +35,11 @@ void ChallengeForm::Next()
 
     if ( (right + wrong) == MainCore::table.count() )
     {
+        QString message(QObject::tr("Test completed. Right: %1. Wrong: %2."));
+        message = message.arg(right).arg(wrong);
         QMessageBox::information(this,
                               tr("Test"),
-                              tr("The file name must be specified."),
+                              message,
                               QMessageBox::Ok);
         emit Finish();
         return;
@@ -46,7 +48,9 @@ void ChallengeForm::Next()
     index++;
     EnglishWord word = MainCore::table[index];
     ui->questionLineEdit->setText(word.ru);
+    ui->questionLineEdit->setCursorPosition(0);
     ui->ExampleLineEdit->setText(word.hint);
+    ui->ExampleLineEdit->setCursorPosition(0);
 }
 
 void ChallengeForm::Check()
@@ -70,8 +74,9 @@ void ChallengeForm::Check()
     {
         wrong++;
         ui->WrongLineEdit->setText(answer);
-        QString eeee = ui->WrongLineEdit->text();
+        ui->WrongLineEdit->setCursorPosition(0);
         ui->RightLineEdit->setText(MainCore::table[index].en);
+        ui->RightLineEdit->setCursorPosition(0);
     }
     QString result("%1/%2");
     result = result.arg(right).arg(wrong);

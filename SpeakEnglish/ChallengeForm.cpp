@@ -46,6 +46,7 @@ void ChallengeForm::Next()
     index++;
     EnglishWord word = MainCore::table[index];
     ui->questionLineEdit->setText(word.ru);
+    ui->ExampleLineEdit->setText(word.hint);
 }
 
 void ChallengeForm::Check()

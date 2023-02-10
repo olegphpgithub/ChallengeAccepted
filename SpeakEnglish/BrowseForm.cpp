@@ -93,5 +93,8 @@ EnglishWord BrowseForm::parseParagraph(QXmlStreamReader *xml)
         }
         xml->readNext();
     }
+
+    QString hint = eWord.example.replace(eWord.en, QString("<...>"), Qt::CaseInsensitive);
+    eWord.hint = hint;
     return eWord;
 }

@@ -1,0 +1,42 @@
+<speak>
+    <p ru="Ползать">
+        <s meaning="word">crawl</s><break time="2000ms"/>
+        <s meaning="example">Does the baby crawl yet?</s><break time="1000ms"/>
+        <!-- Экономисты проанализировали данные переписи. -->
+        <s>Does the baby crawl yet?</s><break time="1000ms"/>
+        <s>Does the baby crawl yet?</s><break time="1000ms"/>
+        <s>Does the baby crawl yet?</s><break time="1000ms"/>
+    </p>
+    <p ru="Попугай">
+        <s meaning="word">parrot</s><break time="2000ms"/>
+        <s meaning="example">My parrot can fly.</s><break time="1000ms"/>
+        <!-- Старая голландская крепость выглядит практически неприступной. -->
+        <s>My parrot can fly.</s><break time="1000ms"/>
+        <s>My parrot can fly.</s><break time="1000ms"/>
+        <s>My parrot can fly.</s><break time="1000ms"/>
+    </p>
+    <p ru="Кролик">
+        <s meaning="word">rabbit</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+        <!--  -->
+        <s></s><break time="1000ms"/>
+        <s></s><break time="1000ms"/>
+        <s></s><break time="1000ms"/>
+    </p>
+    <p ru="Морской конек">
+        <s meaning="word">seahorse</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+        <!--  -->
+        <s></s><break time="1000ms"/>
+        <s></s><break time="1000ms"/>
+        <s></s><break time="1000ms"/>
+    </p>
+    <p ru="Паук">
+        <s meaning="word">spider</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+        <!--  -->
+        <s></s><break time="1000ms"/>
+        <s></s><break time="1000ms"/>
+        <s></s><break time="1000ms"/>
+    </p>
+</speak>

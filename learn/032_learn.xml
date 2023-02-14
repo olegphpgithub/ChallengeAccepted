@@ -1,10 +1,10 @@
 <speak>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Клейкий, липкий, связывающий, вязкий">
+        <s meaning="word">Adhesive</s><break time="2000ms"/>
+        <s meaning="example">The tape has an adhesive backing.</s><break time="1000ms"/>
+        <!-- Лента имеет клейкую основу. -->
+        <s>The tape has an adhesive backing.</s><break time="1000ms"/>
+        <s>The tape has an adhesive backing.</s><break time="1000ms"/>
     </p>
     <p ru="">
         <s meaning="word"></s><break time="2000ms"/>

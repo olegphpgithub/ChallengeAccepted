@@ -18,6 +18,7 @@ MainWindow::MainWindow(QWidget *parent)
     ui->setupUi(this);
 
     connect(ui->actionChallengeBegin, SIGNAL(triggered()), this, SLOT(ChallengeBegin()));
+    connect(ui->actionChallengeInterrupt, SIGNAL(triggered()), this, SLOT(ChallengeInterrupt()));
     connect(ui->actionOpenFile, SIGNAL(triggered()), this, SLOT(OpenFile()));
 
     welcomeForm = new WelcomeForm();
@@ -81,6 +82,12 @@ void MainWindow::ChallengeBegin()
 {
     stackedWidget->setCurrentWidget(challengeForm);
     challengeForm->Start();
+}
+
+void MainWindow::ChallengeInterrupt()
+{
+    challengeForm->Interrupt();
+    stackedWidget->setCurrentWidget(browseForm);
 }
 
 void MainWindow::Welcome()

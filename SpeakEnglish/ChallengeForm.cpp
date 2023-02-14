@@ -29,18 +29,32 @@ void ChallengeForm::Start()
     Next();
 }
 
+void ChallengeForm::Interrupt()
+{
+    Summarizing();
+    emit Finish();
+    index = -1;
+    right = 0;
+    wrong = 0;
+}
+
+void ChallengeForm::Summarizing()
+{
+    QString message(QObject::tr("Test completed. Right: %1. Wrong: %2."));
+    message = message.arg(right).arg(wrong);
+    QMessageBox::information(this,
+                          tr("Test"),
+                          message,
+                          QMessageBox::Ok);
+}
+
 void ChallengeForm::Next()
 {
     Check();
 
     if ( (right + wrong) == MainCore::table.count() )
     {
-        QString message(QObject::tr("Test completed. Right: %1. Wrong: %2."));
-        message = message.arg(right).arg(wrong);
-        QMessageBox::information(this,
-                              tr("Test"),
-                              message,
-                              QMessageBox::Ok);
+        Summarizing();
         emit Finish();
         return;
     }

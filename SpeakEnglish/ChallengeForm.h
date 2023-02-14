@@ -17,7 +17,9 @@ public:
     explicit ChallengeForm(QWidget *parent = nullptr);
     ~ChallengeForm();
     void Start();
+    void Interrupt();
     void Check();
+    void Summarizing();
 
 public slots:
     void Next();

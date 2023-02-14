@@ -23,6 +23,7 @@ public:
 public slots:
     void OpenFile();
     void ChallengeBegin();
+    void ChallengeInterrupt();
     void Welcome();
     void UpdateStatusBar(QString status);
     void Home();

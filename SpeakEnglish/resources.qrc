@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/icons/Interrupt.ico</file>
+        <file>res/icons/Open.ico</file>
+        <file>res/icons/Save.ico</file>
+        <file>res/icons/Start.ico</file>
+    </qresource>
+</RCC>

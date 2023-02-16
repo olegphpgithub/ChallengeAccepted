@@ -4,11 +4,15 @@
 #include <QFile>
 #include <QXmlStreamReader>
 
+#include "UniversalModel.h"
+
 BrowseForm::BrowseForm(QWidget *parent) :
     QWidget(parent),
     ui(new Ui::BrowseForm)
 {
     ui->setupUi(this);
+
+    ui->tableView->setModel(&m_model);
 }
 
 BrowseForm::~BrowseForm()

@@ -5,6 +5,7 @@
 #include <QXmlStreamReader>
 
 #include "MainCore.h"
+#include "UniversalModel.h"
 
 namespace Ui {
 class BrowseForm;
@@ -19,6 +20,8 @@ public:
     ~BrowseForm();
     bool parseFile(QString filePath);
     EnglishWord parseParagraph(QXmlStreamReader *xml);
+
+    UniversalModel m_model;
 
 private:
     Ui::BrowseForm *ui;

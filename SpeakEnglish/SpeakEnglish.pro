@@ -19,6 +19,7 @@ SOURCES += \
     BrowseForm.cpp \
     ChallengeForm.cpp \
     MainCore.cpp \
+    UniversalModel.cpp \
     WelcomeForm.cpp \
     main.cpp \
     MainWindow.cpp
@@ -28,6 +29,7 @@ HEADERS += \
     ChallengeForm.h \
     MainCore.h \
     MainWindow.h \
+    UniversalModel.h \
     WelcomeForm.h
 
 FORMS += \

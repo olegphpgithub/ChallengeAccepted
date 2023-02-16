@@ -32,6 +32,11 @@
            <height>64</height>
           </size>
          </property>
+         <property name="font">
+          <font>
+           <pointsize>16</pointsize>
+          </font>
+         </property>
          <property name="styleSheet">
           <string notr="true">border-style: solid; border-width: 1px;</string>
          </property>
@@ -70,6 +75,11 @@
            <height>64</height>
           </size>
          </property>
+         <property name="font">
+          <font>
+           <pointsize>16</pointsize>
+          </font>
+         </property>
          <property name="styleSheet">
           <string notr="true">border-style: solid; border-width: 1px;</string>
          </property>
@@ -94,6 +104,11 @@
            <width>64</width>
            <height>64</height>
           </size>
+         </property>
+         <property name="font">
+          <font>
+           <pointsize>16</pointsize>
+          </font>
          </property>
          <property name="styleSheet">
           <string notr="true">border-style: solid; border-width: 1px;</string>
@@ -120,6 +135,11 @@
            <height>64</height>
           </size>
          </property>
+         <property name="font">
+          <font>
+           <pointsize>16</pointsize>
+          </font>
+         </property>
          <property name="styleSheet">
           <string notr="true">border-style: solid; border-width: 1px;</string>
          </property>
@@ -133,6 +153,11 @@
        </item>
        <item row="2" column="0">
         <widget class="QLabel" name="label_5">
+         <property name="font">
+          <font>
+           <pointsize>12</pointsize>
+          </font>
+         </property>
          <property name="text">
           <string>Remain</string>
          </property>
@@ -143,6 +168,11 @@
        </item>
        <item row="2" column="3">
         <widget class="QLabel" name="label_6">
+         <property name="font">
+          <font>
+           <pointsize>12</pointsize>
+          </font>
+         </property>
          <property name="text">
           <string>Total</string>
          </property>
@@ -189,6 +219,11 @@
        </item>
        <item row="1" column="0">
         <widget class="QLabel" name="label_7">
+         <property name="font">
+          <font>
+           <pointsize>12</pointsize>
+          </font>
+         </property>
          <property name="text">
           <string>Right</string>
          </property>
@@ -199,6 +234,11 @@
        </item>
        <item row="1" column="3">
         <widget class="QLabel" name="label_8">
+         <property name="font">
+          <font>
+           <pointsize>12</pointsize>
+          </font>
+         </property>
          <property name="text">
           <string>Wrong</string>
          </property>

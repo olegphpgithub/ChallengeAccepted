@@ -46,3 +46,4 @@ else: unix:!android: target.path = /opt/$${TARGET}/bin
 
 RESOURCES += \
     resources.qrc
+RC_FILE =  SpeakEnglish.rc

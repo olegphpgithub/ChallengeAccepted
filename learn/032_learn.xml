@@ -6,19 +6,19 @@
         <s>The tape has an adhesive backing.</s><break time="1000ms"/>
         <s>The tape has an adhesive backing.</s><break time="1000ms"/>
     </p>
-    <p ru="выдающийся, видный, именитый, знаменитый, замечательный, возвышающийся">
+    <p ru="Выдающийся, видный, именитый, знаменитый, замечательный, возвышающийся">
         <s meaning="word">Eminent</s><break time="2000ms"/>
         <s meaning="example">Poor men often rose to eminent place.</s><break time="1000ms"/>
         <!-- Бедняки часто добивались высокого положения в обществе. -->
         <s meaning="example">Poor men often rose to eminent place.</s><break time="1000ms"/>
         <s meaning="example">Poor men often rose to eminent place.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Надвигающийся, близкий, угрожающий, грозящий, нависший">
+        <s meaning="word">Imminent</s><break time="2000ms"/>
+        <s meaning="example">These patients are facing imminent death.</s><break time="1000ms"/>
+        <!-- Этим пациентам грозит неизбежная смерть. -->
+        <s meaning="example">These patients are facing imminent death.</s><break time="1000ms"/>
+        <s meaning="example">These patients are facing imminent death.</s><break time="1000ms"/>
     </p>
     <p ru="">
         <s meaning="word"></s><break time="2000ms"/>

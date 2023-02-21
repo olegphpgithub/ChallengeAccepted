@@ -12,6 +12,17 @@ class WelcomeForm;
 class BrowseForm;
 class ChallengeForm;
 
+class ChallengeState
+{
+public:
+    enum State
+    {
+        Welcome = 0,
+        Browse = 1,
+        Challenge = 2
+    };
+};
+
 class MainWindow : public QMainWindow
 {
     Q_OBJECT
@@ -25,7 +36,7 @@ public slots:
     void ChallengeBegin();
     void ChallengeInterrupt();
     void Welcome();
-    void UpdateStatusBar(QString status);
+    void UpdateToolbar(ChallengeState::State state);
     void Home();
 
 private:

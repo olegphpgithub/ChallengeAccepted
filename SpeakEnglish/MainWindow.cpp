@@ -1,5 +1,6 @@
 #include "MainWindow.h"
 #include "ui_MainWindow.h"
+#include "MainCore.h"
 #include "WelcomeForm.h"
 #include "BrowseForm.h"
 #include "ChallengeForm.h"
@@ -30,21 +31,12 @@ MainWindow::MainWindow(QWidget *parent)
     stackedWidget->addWidget(browseForm);
     stackedWidget->addWidget(challengeForm);
 
-    connect(challengeForm, SIGNAL(Step(QString)), this, SLOT(UpdateStatusBar(QString)));
     connect(challengeForm, SIGNAL(Finish()), this, SLOT(Home()));
 
     setCentralWidget(stackedWidget);
 
-//    QHBoxLayout *statusBarLayout = new QHBoxLayout();
-//    QWidget *statusBarWidget = new QWidget();
-//    statusBarWidget->setLayout(statusBarLayout);
-//    QLabel *lab1 = new QLabel("Total: ");
-//    statusBarLayout->addWidget(lab1);
-//    QLabel *lab2 = new QLabel("Total2: ");
-//    statusBarLayout->addWidget(lab2);
-//    this->statusBar()->addWidget(statusBarWidget);
-
     Welcome();
+    UpdateToolbar(ChallengeState::Welcome);
 }
 
 MainWindow::~MainWindow()
@@ -76,18 +68,21 @@ void MainWindow::OpenFile()
     }
 
     stackedWidget->setCurrentWidget(browseForm);
+    UpdateToolbar(ChallengeState::Browse);
 }
 
 void MainWindow::ChallengeBegin()
 {
     stackedWidget->setCurrentWidget(challengeForm);
     challengeForm->Start();
+    UpdateToolbar(ChallengeState::Challenge);
 }
 
 void MainWindow::ChallengeInterrupt()
 {
     challengeForm->Interrupt();
     stackedWidget->setCurrentWidget(browseForm);
+    UpdateToolbar(ChallengeState::Browse);
 }
 
 void MainWindow::Welcome()
@@ -95,12 +90,32 @@ void MainWindow::Welcome()
     stackedWidget->setCurrentWidget(welcomeForm);
 }
 
-void MainWindow::UpdateStatusBar(QString status)
+void MainWindow::UpdateToolbar(ChallengeState::State state)
 {
-    ui->statusbar->showMessage(status, 10000);
+    if (state == ChallengeState::Welcome)
+    {
+        ui->actionOpenFile->setEnabled(true);
+        ui->actionChallengeBegin->setEnabled(false);
+        ui->actionChallengeInterrupt->setEnabled(false);
+    }
+
+    if (state == ChallengeState::Browse)
+    {
+        ui->actionOpenFile->setEnabled(true);
+        ui->actionChallengeBegin->setEnabled(true);
+        ui->actionChallengeInterrupt->setEnabled(false);
+    }
+
+    if (state == ChallengeState::Challenge)
+    {
+        ui->actionOpenFile->setEnabled(false);
+        ui->actionChallengeBegin->setEnabled(false);
+        ui->actionChallengeInterrupt->setEnabled(true);
+    }
 }
 
 void MainWindow::Home()
 {
     stackedWidget->setCurrentWidget(browseForm);
+    UpdateToolbar(ChallengeState::Browse);
 }

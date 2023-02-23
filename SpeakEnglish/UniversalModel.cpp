@@ -35,3 +35,13 @@ QVariant UniversalModel::data(const QModelIndex &index, int role) const
     }
     return QVariant();
 }
+
+void UniversalModel::beginResetModel()
+{
+    QAbstractTableModel::beginResetModel();
+}
+
+void UniversalModel::endResetModel()
+{
+    QAbstractTableModel::endResetModel();
+}

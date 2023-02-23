@@ -53,8 +53,10 @@ bool BrowseForm::parseFile(QString filePath)
 
     if (list.count() != 0)
     {
+        m_model.beginResetModel();
         MainCore::table.clear();
         MainCore::table = list;
+        m_model.endResetModel();
         return true;
     }
 

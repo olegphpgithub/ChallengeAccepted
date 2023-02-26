@@ -20,12 +20,12 @@
         <s meaning="example">These patients are facing imminent death.</s><break time="1000ms"/>
         <s meaning="example">These patients are facing imminent death.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Огромный, громадный, чудовищный, ужасный">
+        <s meaning="word">Enormous</s><break time="2000ms"/>
+        <s meaning="example">We have lost enormous sums of money because of you.</s><break time="1000ms"/>
+        <!-- Мы потеряли огромные суммы денег из-за вас. -->
+        <s meaning="example">We have lost enormous sums of money because of you.</s><break time="1000ms"/>
+        <s meaning="example">We have lost enormous sums of money because of you.</s><break time="1000ms"/>
     </p>
     <p ru="">
         <s meaning="word"></s><break time="2000ms"/>

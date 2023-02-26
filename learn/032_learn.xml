@@ -27,12 +27,12 @@
         <s meaning="example">We have lost enormous sums of money because of you.</s><break time="1000ms"/>
         <s meaning="example">We have lost enormous sums of money because of you.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Отклоняться, отступать, уклоняться, менять направление">
+        <s meaning="word">Deviate</s><break time="2000ms"/>
+        <s meaning="example">The plane had to deviate from its normal flight path.</s><break time="1000ms"/>
+        <!-- Самолёту пришлось отклониться от привычного курса. -->
+        <s meaning="example">The plane had to deviate from its normal flight path.</s><break time="1000ms"/>
+        <s meaning="example">The plane had to deviate from its normal flight path.</s><break time="1000ms"/>
     </p>
     <p ru="">
         <s meaning="word"></s><break time="2000ms"/>

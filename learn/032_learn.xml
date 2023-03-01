@@ -41,12 +41,12 @@
         <s>Your summary should be as clear and concise as possible.</s><break time="1000ms"/>
         <s>Your summary should be as clear and concise as possible.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Надлежащий, правильный, должный, подходящий">
+        <s meaning="word">Proper</s><break time="2000ms"/>
+        <s meaning="example">Is this the proper spelling of your name?</s><break time="1000ms"/>
+        <!-- Это правильное написание вашего имени? -->
+        <s>Is this the proper spelling of your name?</s><break time="1000ms"/>
+        <s>Is this the proper spelling of your name?</s><break time="1000ms"/>
     </p>
     <p ru="">
         <s meaning="word"></s><break time="2000ms"/>

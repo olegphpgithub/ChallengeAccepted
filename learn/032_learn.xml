@@ -34,12 +34,12 @@
         <s meaning="example">The plane had to deviate from its normal flight path.</s><break time="1000ms"/>
         <s meaning="example">The plane had to deviate from its normal flight path.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="краткий, сжатый, четкий, выразительный, сокращенный, немногословный">
+        <s meaning="word">Concise</s><break time="2000ms"/>
+        <s meaning="example">Your summary should be as clear and concise as possible.</s><break time="1000ms"/>
+        <!-- Ваше резюме должно быть максимально ясным и краткими. -->
+        <s meaning="example">Your summary should be as clear and concise as possible.</s><break time="1000ms"/>
+        <s meaning="example">Your summary should be as clear and concise as possible.</s><break time="1000ms"/>
     </p>
     <p ru="">
         <s meaning="word"></s><break time="2000ms"/>

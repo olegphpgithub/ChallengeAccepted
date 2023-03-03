@@ -48,12 +48,12 @@
         <s>Is this the proper spelling of your name?</s><break time="1000ms"/>
         <s>Is this the proper spelling of your name?</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Неподходящий, неуместный, неумелый, неискусный, несоответствующий">
+        <s meaning="word">Inapt</s><break time="2000ms"/>
+        <s meaning="example">It is not sufficient for the person to be inapt.</s><break time="1000ms"/>
+        <!-- Этого недостаточно чтобы признать лицо недееспособным. -->
+        <s>It is not sufficient for the person to be inapt.</s><break time="1000ms"/>
+        <s>It is not sufficient for the person to be inapt.</s><break time="1000ms"/>
     </p>
     <p ru="">
         <s meaning="word"></s><break time="2000ms"/>

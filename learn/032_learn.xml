@@ -55,12 +55,12 @@
         <s>It is not sufficient for the person to be inapt.</s><break time="1000ms"/>
         <s>It is not sufficient for the person to be inapt.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Изгнание, ссылка, изгнанник, ссыльный, сослать, ссылать, изгонять">
+        <s meaning="word">Exile</s><break time="2000ms"/>
+        <s meaning="example">It is a severe punishment to be exiled from one's native land.</s><break time="1000ms"/>
+        <!-- Быть изгнанным со своей родной земли - суровое наказание. -->
+        <s>It is a severe punishment to be exiled from one's native land.</s><break time="1000ms"/>
+        <s>It is a severe punishment to be exiled from one's native land.</s><break time="1000ms"/>
     </p>
     <p ru="">
         <s meaning="word"></s><break time="2000ms"/>

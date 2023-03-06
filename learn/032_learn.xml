@@ -62,11 +62,11 @@
         <s>It is a severe punishment to be exiled from one's native land.</s><break time="1000ms"/>
         <s>It is a severe punishment to be exiled from one's native land.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Дальнейший, дальний, далее, дальше, кроме того, способствовать">
+        <s meaning="word">Further</s><break time="2000ms"/>
+        <s meaning="example">The war has devastated the country, further isolated from the West and fueled economic insecurity.</s><break time="1000ms"/>
+        <!-- Война опустошила страну, еще больше изолировала от Запада и усилила экономическую нестабильность. -->
+        <s>The war has devastated the country, further isolated from the West and fueled economic insecurity.</s><break time="1000ms"/>
+        <s>The war has devastated the country, further isolated from the West and fueled economic insecurity.</s><break time="1000ms"/>
     </p>
 </speak>

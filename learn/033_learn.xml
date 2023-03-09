@@ -6,12 +6,12 @@
         <s>The diamonds vary in size.</s><break time="1000ms"/>
         <s>The diamonds vary in size.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Разъедать, ржаветь, подвергаться действию коррозии, проедать, выедать">
+        <s meaning="word">Corrode</s><break time="2000ms"/>
+        <s meaning="example">Acidic water will corrode the pipes.</s><break time="1000ms"/>
+        <!-- Кислая вода будет разъедать трубы. -->
+        <s>Acidic water will corrode the pipes.</s><break time="1000ms"/>
+        <s>Acidic water will corrode the pipes.</s><break time="1000ms"/>
     </p>
     <p ru="">
         <s meaning="word"></s><break time="2000ms"/>

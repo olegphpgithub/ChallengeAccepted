@@ -1,0 +1,72 @@
+<speak>
+    <p ru="Обновлять, восстанавливать">
+        <s meaning="word">Refurbish</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+        <!---->
+        <s></s><break time="1000ms"/>
+        <s></s><break time="1000ms"/>
+    </p>
+    <p ru="Руда, драгоценный металл, рудный">
+        <s meaning="word">Ore</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+        <!---->
+        <s></s><break time="1000ms"/>
+        <s></s><break time="1000ms"/>
+    </p>
+    <p ru="Наоборот, обратно, вспять">
+        <s meaning="word">Conversely</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+        <!---->
+        <s></s><break time="1000ms"/>
+        <s></s><break time="1000ms"/>
+    </p>
+    <p ru="Выщелачивание, выщелачиватель, щелок, выщелачивать">
+        <s meaning="word">Leach</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+        <!---->
+        <s></s><break time="1000ms"/>
+        <s></s><break time="1000ms"/>
+    </p>
+    <p ru="Пена, пустословие, накипь, вздорные мысли, пенить, пениться, вспениться">
+        <s meaning="word">Froth</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+        <!---->
+        <s></s><break time="1000ms"/>
+        <s></s><break time="1000ms"/>
+    </p>
+    <p ru="Шлак, окалина, развратница, выгарки, ошлаковывать">
+        <s meaning="word">Slag</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+        <!---->
+        <s></s><break time="1000ms"/>
+        <s></s><break time="1000ms"/>
+    </p>
+    <p ru="Жареный, жаркое, обжиг, жареное мясо, жарить, жариться, пожарить">
+        <s meaning="word">Roast</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+        <!---->
+        <s></s><break time="1000ms"/>
+        <s></s><break time="1000ms"/>
+    </p>
+    <p ru="Пользоваться, использовать, распоряжаться, позволять">
+        <s meaning="word">Exploit</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+        <!---->
+        <s></s><break time="1000ms"/>
+        <s></s><break time="1000ms"/>
+    </p>
+    <p ru="Копия, точная копия, модель, репродукция, копир">
+        <s meaning="word">Replica</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+        <!---->
+        <s></s><break time="1000ms"/>
+        <s></s><break time="1000ms"/>
+    </p>
+    <p ru="Подвергаться, испытывать, переносить, вытерпеть">
+        <s meaning="word">Undergo</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+        <!---->
+        <s></s><break time="1000ms"/>
+        <s></s><break time="1000ms"/>
+    </p>
+</speak>

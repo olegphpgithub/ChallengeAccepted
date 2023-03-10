@@ -13,12 +13,12 @@
         <s>Acidic water will corrode the pipes.</s><break time="1000ms"/>
         <s>Acidic water will corrode the pipes.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Полый, пустотелый, полость, дупло, выдалбливать, вполне, совершенно">
+        <s meaning="word">Hollow</s><break time="2000ms"/>
+        <s meaning="example">The owls nested in the hollow of a tree.</s><break time="1000ms"/>
+        <!-- В дупле дерева гнездились совы. -->
+        <s>The owls nested in the hollow of a tree.</s><break time="1000ms"/>
+        <s>The owls nested in the hollow of a tree.</s><break time="1000ms"/>
     </p>
     <p ru="">
         <s meaning="word"></s><break time="2000ms"/>

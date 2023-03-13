@@ -1,38 +1,42 @@
 <speak>
     <p ru="Обновлять, восстанавливать">
         <s meaning="word">Refurbish</s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+        <s meaning="example">The East Tower showing the contrast between the refurbished copper and the green color of the original copper.</s><break time="1000ms"/>
+        <!-- Восточная башня демонстрирует контраст между восстановленной медью и зеленым цветом оригинальной меди. -->
+        <s>The East Tower showing the contrast between the refurbished copper and the green color of the original copper.</s><break time="1000ms"/>
+        <s>The East Tower showing the contrast between the refurbished copper and the green color of the original copper.</s><break time="1000ms"/>
     </p>
     <p ru="Руда, драгоценный металл, рудный">
         <s meaning="word">Ore</s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+        <s meaning="example">The concentration of copper in ores averages only 0.6%.</s><break time="1000ms"/>
+        <!-- Концентрация меди в рудах составляет в среднем всего 0,6%. -->
+        <s>The concentration of copper in ores averages only 0.6%.</s><break time="1000ms"/>
+        <s>The concentration of copper in ores averages only 0.6%.</s><break time="1000ms"/>
     </p>
     <p ru="Наоборот, обратно, вспять">
         <s meaning="word">Conversely</s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+        <s meaning="example">American consumers prefer white eggs; conversely, British buyers like brown eggs.</s><break time="1000ms"/>
+        <!-- Американские потребители предпочитают белые яйца, британцы же, наоборот, охотнее покупают коричневые. -->
+        <s>American consumers prefer white eggs; conversely, British buyers like brown eggs.</s><break time="1000ms"/>
+        <s>American consumers prefer white eggs; conversely, British buyers like brown eggs.</s><break time="1000ms"/>
     </p>
     <p ru="Выщелачивание, выщелачиватель, щелок, выщелачивать">
         <s meaning="word">Leach</s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+        <s meaning="example">Even a small amount of rain can leach the toxic material from the soil.</s><break time="1000ms"/>
+        <!-- Даже небольшое количество дождя способно вымыть эти токсичные вещества из почвы. -->
+        <s>Even a small amount of rain can leach the toxic material from the soil.</s><break time="1000ms"/>
+        <s>Even a small amount of rain can leach the toxic material from the soil.</s><break time="1000ms"/>
     </p>
     <p ru="Пена, пустословие, накипь, вздорные мысли, пенить, пениться, вспениться">
         <s meaning="word">Froth</s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+        <s meaning="example"
+        ru="Это всё пустая болтовня"
+        >This talk is all froth.</s><break time="1000ms"/>
+        <s>This talk is all froth.</s><break time="1000ms"/>
+        <s>This talk is all froth.</s><break time="1000ms"/>
+        <s ru="Море пенилось у скал">The sea frothed on the rocks</s><break time="1000ms"/>
+        <s>The sea frothed on the rocks</s><break time="1000ms"/>
+        <s>The sea frothed on the rocks</s><break time="1000ms"/>
     </p>
     <p ru="Шлак, окалина, развратница, выгарки, ошлаковывать">
         <s meaning="word">Slag</s><break time="2000ms"/>

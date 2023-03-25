@@ -52,12 +52,12 @@
         <s>He was posthumously awarded the Military Cross.</s><break time="1000ms"/>
         <s>He was posthumously awarded the Military Cross.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Обязательство, совершение, передача, вручение, заключение под стражу, арест">
+        <s meaning="word">Commitment</s><break time="2000ms"/>
+        <s meaning="example">Are you ready to make a long-term commitment?</s><break time="1000ms"/>
+        <!-- Вы готовы к долгосрочным обязательствам? -->
+        <s>Are you ready to make a long-term commitment?</s><break time="1000ms"/>
+        <s>Are you ready to make a long-term commitment?</s><break time="1000ms"/>
     </p>
     <p ru="">
         <s meaning="word"></s><break time="2000ms"/>

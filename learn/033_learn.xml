@@ -20,19 +20,23 @@
         <s>The owls nested in the hollow of a tree.</s><break time="1000ms"/>
         <s>The owls nested in the hollow of a tree.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Взобраться, забраться, подъем, восхождение, набор высоты, вьюнок, подниматься">
+        <s meaning="word">Climb</s><break time="2000ms"/>
+        <s meaning="example">He climbed over the fence.</s><break time="1000ms"/>
+        <!-- Он перелез через забор. -->
+        <s>He climbed over the fence.</s><break time="1000ms"/>
+        <s>He climbed over the fence.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Притворяться, делать вид, претендовать, симулировать, прикидываться, ссылаться">
+        <s meaning="word">Pretend</s><break time="2000ms"/>
+        <s meaning="example">Let's pretend we're on the moon.</s><break time="1000ms"/>
+        <!-- Давай представим, что мы на Луне. -->
+        <s>Let's pretend we're on the moon.</s><break time="1000ms"/>
+        <s>Let's pretend we're on the moon.</s><break time="1000ms"/>
+        <s>It was a mistake, and to pretend otherwise would be foolish.</s><break time="1000ms"/>
+        <!-- Это была ошибка, и было бы глупо делать вид, что это не так. -->
+        <s>It was a mistake, and to pretend otherwise would be foolish.</s><break time="1000ms"/>
+        <s>It was a mistake, and to pretend otherwise would be foolish.</s><break time="1000ms"/>
     </p>
     <p ru="">
         <s meaning="word"></s><break time="2000ms"/>

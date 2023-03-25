@@ -38,19 +38,19 @@
         <s>It was a mistake, and to pretend otherwise would be foolish.</s><break time="1000ms"/>
         <s>It was a mistake, and to pretend otherwise would be foolish.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Доблесть, отвага">
+        <s meaning="word">Valor</s><break time="2000ms"/>
+        <s meaning="example">The soldier was awarded a posthumous medal for valor.</s><break time="1000ms"/>
+        <!-- Этот солдат был посмертно награждён медалью за доблесть. -->
+        <s>The soldier was awarded a posthumous medal for valor.</s><break time="1000ms"/>
+        <s>The soldier was awarded a posthumous medal for valor.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Посмертный, рожденный после смерти отца">
+        <s meaning="word">Posthumous</s><break time="2000ms"/>
+        <s meaning="example">He was posthumously awarded the Military Cross.</s><break time="1000ms"/>
+        <!-- Он был посмертно награждён Военным Крестом. -->
+        <s>He was posthumously awarded the Military Cross.</s><break time="1000ms"/>
+        <s>He was posthumously awarded the Military Cross.</s><break time="1000ms"/>
     </p>
     <p ru="">
         <s meaning="word"></s><break time="2000ms"/>

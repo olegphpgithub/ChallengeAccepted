@@ -58,19 +58,22 @@
         <!-- Вы готовы к долгосрочным обязательствам? -->
         <s>Are you ready to make a long-term commitment?</s><break time="1000ms"/>
         <s>Are you ready to make a long-term commitment?</s><break time="1000ms"/>
+        <s>Her commitment to work is beyond question.</s><break time="1000ms"/>
+        <s>Her commitment to work is beyond question.</s><break time="1000ms"/>
+        <s>Her commitment to work is beyond question.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Непосредственно под, внизу, вниз, ниже, нижняя часть">
+        <s meaning="word">Underneath</s><break time="2000ms"/>
+        <s meaning="example">He lives in the apartment underneath mine.</s><break time="1000ms"/>
+        <!-- Он живёт в квартире, которая находится под моей. -->
+        <s>He lives in the apartment underneath mine.</s><break time="1000ms"/>
+        <s>He lives in the apartment underneath mine.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Чайник, котел, котелок, металлический чайник, бадья, коробка компаса">
+        <s meaning="word">kettle </s><break time="2000ms"/>
+        <s meaning="example">Mind you don't scald yourself with that kettle!</s><break time="1000ms"/>
+        <!-- Смотри не обожгись кипятком из чайника! -->
+        <s>Mind you don't scald yourself with that kettle!</s><break time="1000ms"/>
+        <s>Mind you don't scald yourself with that kettle!</s><break time="1000ms"/>
     </p>
 </speak>

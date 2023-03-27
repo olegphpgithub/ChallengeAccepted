@@ -70,7 +70,7 @@
         <s>He lives in the apartment underneath mine.</s><break time="1000ms"/>
     </p>
     <p ru="Чайник, котел, котелок, металлический чайник, бадья, коробка компаса">
-        <s meaning="word">Kettle </s><break time="2000ms"/>
+        <s meaning="word">Kettle</s><break time="2000ms"/>
         <s meaning="example">Mind you don't scald yourself with that kettle!</s><break time="1000ms"/>
         <!-- Смотри не обожгись кипятком из чайника! -->
         <s>Mind you don't scald yourself with that kettle!</s><break time="1000ms"/>

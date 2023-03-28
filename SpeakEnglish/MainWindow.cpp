@@ -69,6 +69,9 @@ void MainWindow::OpenFile()
 
     stackedWidget->setCurrentWidget(browseForm);
     UpdateToolbar(ChallengeState::Browse);
+
+    QFileInfo fileInfo(ssml_file_path);
+    setWindowTitle(fileInfo.fileName());
 }
 
 void MainWindow::ChallengeBegin()

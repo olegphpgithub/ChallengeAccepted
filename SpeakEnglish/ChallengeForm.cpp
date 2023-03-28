@@ -80,7 +80,7 @@ void ChallengeForm::Check()
 
     QString answer;
     answer = ui->AnswerLineEdit->text();
-    if (answer == MainCore::table[index].en)
+    if (QString::compare(answer, MainCore::table[index].en, Qt::CaseInsensitive) == 0)
     {
         right++;
     }

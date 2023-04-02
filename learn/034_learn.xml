@@ -29,12 +29,12 @@
         <s>We went north in order to circumvent the mountains.</s><break time="1000ms"/>
         <s>We went north in order to circumvent the mountains.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Разрабатывать, изобретать, придумывать, завещание, завещанное имущество">
+        <s meaning="word">Devise</s><break time="2000ms"/>
+        <s meaning="example">China must develop a low-orbit satellite system and devise ways to knock out rival ones.</s><break time="1000ms"/>
+        <!-- Китай должен разработать низкоорбитальную спутниковую систему и придумать способы вывести из строя спутники-конкуренты. -->
+        <s>China must develop a low-orbit satellite system and devise ways to knock out rival ones.</s><break time="1000ms"/>
+        <s>China must develop a low-orbit satellite system and devise ways to knock out rival ones.</s><break time="1000ms"/>
     </p>
     <p ru="">
         <s meaning="word"></s><break time="2000ms"/>

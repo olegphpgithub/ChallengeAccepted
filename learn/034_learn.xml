@@ -1,10 +1,13 @@
 <speak>
     <p ru="Предшествующий, прежний, настоятель, приор">
         <s meaning="word">Prior</s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+        <s meaning="example">I was given no prior notification.</s><break time="1000ms"/>
+        <!-- Меня никто заранее не предупредил /не известил/. -->
+        <s>I was given no prior notification.</s><break time="1000ms"/>
+        <s>I was given no prior notification.</s><break time="1000ms"/>
+        <s>Absolute installs trends downward in same rough correlation compared to prior hours.</s><break time="1000ms"/>
+        <s>Absolute installs trends downward in same rough correlation compared to prior hours.</s><break time="1000ms"/>
+        <s>Absolute installs trends downward in same rough correlation compared to prior hours.</s><break time="1000ms"/>
     </p>
     <p ru="">
         <s meaning="word"></s><break time="2000ms"/>

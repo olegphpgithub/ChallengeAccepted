@@ -9,12 +9,15 @@
         <s>Absolute installs trends downward in same rough correlation compared to prior hours.</s><break time="1000ms"/>
         <s>Absolute installs trends downward in same rough correlation compared to prior hours.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Сдерживание, устрашение, отпугивание, удержание">
+        <s meaning="word">Deterrence</s><break time="2000ms"/>
+        <s meaning="example">Is capital punishment a deterrent to crime?</s><break time="1000ms"/>
+        <!-- Является ли смертная казнь фактором, сдерживающим преступность? -->
+        <s>Is capital punishment a deterrent to crime?</s><break time="1000ms"/>
+        <s>Is capital punishment a deterrent to crime?</s><break time="1000ms"/>
+        <s>The author argues that deterrence is no longer the best way to prevent war.</s><break time="1000ms"/>
+        <s>The author argues that deterrence is no longer the best way to prevent war.</s><break time="1000ms"/>
+        <s>The author argues that deterrence is no longer the best way to prevent war.</s><break time="1000ms"/>
     </p>
     <p ru="">
         <s meaning="word"></s><break time="2000ms"/>

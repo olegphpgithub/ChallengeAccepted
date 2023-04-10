@@ -36,12 +36,12 @@
         <s>China must develop a low-orbit satellite system and devise ways to knock out rival ones.</s><break time="1000ms"/>
         <s>China must develop a low-orbit satellite system and devise ways to knock out rival ones.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Янтарь, желтый цвет, янтарный цвет, янтарный">
+        <s meaning="word">Amber</s><break time="2000ms"/>
+        <s meaning="example">An amber light illuminated the room.</s><break time="1000ms"/>
+        <!-- Комнату освещал жёлтый /янтарный/ свет. -->
+        <s>An amber light illuminated the room.</s><break time="1000ms"/>
+        <s>An amber light illuminated the room.</s><break time="1000ms"/>
     </p>
     <p ru="">
         <s meaning="word"></s><break time="2000ms"/>

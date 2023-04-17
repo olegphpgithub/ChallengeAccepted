@@ -50,12 +50,16 @@
         <s>The students spoofed the teachers.</s><break time="1000ms"/>
         <s>The students spoofed the teachers.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Икра, порождение, отродье, мицелий, порождать, метать икру, плодиться">
+        <s meaning="word">Spawn</s><break time="2000ms"/>
+        <s meaning="example">This helps make it look as if your program was spawned by another process.</s><break time="1000ms"/>
+        <!-- Это помогает создать видимость того, что ваша программа была создана другим процессом. -->
+        <s>This helps make it look as if your program was spawned by another process.</s><break time="1000ms"/>
+        <s>This helps make it look as if your program was spawned by another process.</s><break time="1000ms"/>
+        <s>The salmon swims upstream to spawn.</s><break time="1000ms"/>
+        <!-- Лосось плывет на нерест вверх по течению. -->
+        <s>The salmon swims upstream to spawn.</s><break time="1000ms"/>
+        <s>The salmon swims upstream to spawn.</s><break time="1000ms"/>
     </p>
     <p ru="">
         <s meaning="word"></s><break time="2000ms"/>

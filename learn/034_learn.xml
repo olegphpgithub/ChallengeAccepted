@@ -61,25 +61,29 @@
         <s>The salmon swims upstream to spawn.</s><break time="1000ms"/>
         <s>The salmon swims upstream to spawn.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Лосось, семга, лососина, лососевый, цвета сомон">
+        <s meaning="word">Salmon</s><break time="2000ms"/>
+        <s meaning="example">I'll take three salmon steaks.</s><break time="1000ms"/>
+        <!-- Я возьму три стейка из лосося. -->
+        <s>I'll take three salmon steaks.</s><break time="1000ms"/>
+        <s>I'll take three salmon steaks.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Безвольный, слабый">
+        <s meaning="word">Gutless</s><break time="2000ms"/>
+        <s meaning="example">It was gutless of him to lie.</s><break time="1000ms"/>
+        <!-- С его стороны было трусостью лгать. -->
+        <s>It was gutless of him to lie.</s><break time="1000ms"/>
+        <s>It was gutless of him to lie.</s><break time="1000ms"/>
+        <s>I should have had the support of my team, but they were really gutless.</s><break time="1000ms"/>
+        <!-- Я рассчитывал на поддержку своей команды, но они оказались настоящими трусами /слабаками/. -->
+        <s>I should have had the support of my team, but they were really gutless.</s><break time="1000ms"/>
+        <s>I should have had the support of my team, but they were really gutless.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Кишка, кетгут, потрошить, опустошать, инстинктивный, насущный">
+        <s meaning="word">Gut</s><break time="2000ms"/>
+        <s meaning="example">There were blood and guts all over the place.</s><break time="1000ms"/>
+        <!-- Там всё было в крови и кишках. -->
+        <s>There were blood and guts all over the place.</s><break time="1000ms"/>
+        <s>There were blood and guts all over the place.</s><break time="1000ms"/>
     </p>
 </speak>

@@ -27,12 +27,12 @@
         <s>He must be forty or thereabouts.</s><break time="1000ms"/>
         <s>He must be forty or thereabouts.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Затяжной, длительный, затянувшийся">
+        <s meaning="word">Protracted</s><break time="2000ms"/>
+        <s meaning="example">The author died after a protracted illness.</s><break time="1000ms"/>
+        <!-- Автор скончался после продолжительной болезни. -->
+        <s>The author died after a protracted illness.</s><break time="1000ms"/>
+        <s>The author died after a protracted illness.</s><break time="1000ms"/>
     </p>
     <p ru="">
         <s meaning="word"></s><break time="2000ms"/>

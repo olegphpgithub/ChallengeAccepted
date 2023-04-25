@@ -6,12 +6,12 @@
         <s>Both leaders sought to display strength and rally their troops.</s><break time="1000ms"/>
         <s>Both leaders sought to display strength and rally their troops.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Поддержка, подтверждение, индоссамент, передаточная надпись">
+        <s meaning="word">Endorsement</s><break time="2000ms"/>
+        <s meaning="example">Without official endorsement, the project cannot proceed.</s><break time="1000ms"/>
+        <!-- Без официальной поддержки выполнение проекта продолжать нельзя. -->
+        <s>Without official endorsement, the project cannot proceed.</s><break time="1000ms"/>
+        <s>Without official endorsement, the project cannot proceed.</s><break time="1000ms"/>
     </p>
     <p ru="">
         <s meaning="word"></s><break time="2000ms"/>

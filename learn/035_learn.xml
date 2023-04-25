@@ -13,12 +13,12 @@
         <s>Without official endorsement, the project cannot proceed.</s><break time="1000ms"/>
         <s>Without official endorsement, the project cannot proceed.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Жеребьевка, бросание, бросать, кидать, швырять, отбрасывать">
+        <s meaning="word">Toss</s><break time="2000ms"/>
+        <s meaning="example">Toss a coin to see who goes first.</s><break time="1000ms"/>
+        <!-- Бросьте монетку, чтобы узнать, кто идет первым. -->
+        <s>Toss a coin to see who goes first.</s><break time="1000ms"/>
+        <s>Toss a coin to see who goes first.</s><break time="1000ms"/>
     </p>
     <p ru="">
         <s meaning="word"></s><break time="2000ms"/>

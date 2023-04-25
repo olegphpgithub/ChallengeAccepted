@@ -20,12 +20,12 @@
         <s>Toss a coin to see who goes first.</s><break time="1000ms"/>
         <s>Toss a coin to see who goes first.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Поблизости, около этого, в этом роде, приблизительно, неподалеку">
+        <s meaning="word">Thereabouts</s><break time="2000ms"/>
+        <s meaning="example">He must be forty or thereabouts.</s><break time="1000ms"/>
+        <!-- Ему, должно быть, лет сорок или около того. -->
+        <s>He must be forty or thereabouts.</s><break time="1000ms"/>
+        <s>He must be forty or thereabouts.</s><break time="1000ms"/>
     </p>
     <p ru="">
         <s meaning="word"></s><break time="2000ms"/>

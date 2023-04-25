@@ -1,0 +1,34 @@
+<speak>
+    <p ru="Выходной день">
+        <s meaning="word">day off</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+    </p>
+    <p ru="Водить машину">
+        <s meaning="word">drive</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+    </p>
+    <p ru="Лицо">
+        <s meaning="word">face</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+    </p>
+    <p ru="Там">
+        <s meaning="word">over there</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+    </p>
+    <p ru="Рисовать">
+        <s meaning="word">paint</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+    </p>
+    <p ru="Пианино">
+        <s meaning="word">piano</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+    </p>
+    <p ru="вверх ногами">
+        <s meaning="word">upside down</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+    </p>
+    <p ru="Смотреть телевизор">
+        <s meaning="word">watch tv</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+    </p>
+</speak>

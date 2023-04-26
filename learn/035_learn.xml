@@ -62,11 +62,11 @@
         <s>This toy glows in the dark.</s><break time="1000ms"/>
         <s>This toy glows in the dark.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Составлять, образовывать, учреждать, основывать, назначать, издавать">
+        <s meaning="word">Constitute</s><break time="2000ms"/>
+        <s meaning="example">Nine players constitute a baseball team.</s><break time="1000ms"/>
+        <!-- Девять игроков составляют бейсбольную команду. -->
+        <s>Nine players constitute a baseball team.</s><break time="1000ms"/>
+        <s>Nine players constitute a baseball team.</s><break time="1000ms"/>
     </p>
 </speak>

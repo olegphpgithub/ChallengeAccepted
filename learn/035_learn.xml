@@ -48,12 +48,12 @@
         <s>An incandescent light bulb is an electric light with a wire filament heated until it glows.</s><break time="1000ms"/>
         <s>An incandescent light bulb is an electric light with a wire filament heated until it glows.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Нить, нить накала, волокно, волосок">
+        <s meaning="word">Filament</s><break time="2000ms"/>
+        <s meaning="example">The cable was made up of fine filaments twisted together.</s><break time="1000ms"/>
+        <!-- Канат был сделан из сплетённых вместе тонких ниточек. -->
+        <s>The cable was made up of fine filaments twisted together.</s><break time="1000ms"/>
+        <s>The cable was made up of fine filaments twisted together.</s><break time="1000ms"/>
     </p>
     <p ru="">
         <s meaning="word"></s><break time="2000ms"/>

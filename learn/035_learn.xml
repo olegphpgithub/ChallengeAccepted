@@ -34,12 +34,12 @@
         <s>The author died after a protracted illness.</s><break time="1000ms"/>
         <s>The author died after a protracted illness.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Частица">
+        <s meaning="word">Particle</s><break time="2000ms"/>
+        <s meaning="example">An electric current is a stream of charged particles</s><break time="1000ms"/>
+        <!-- Электрический ток - это поток заряженных частиц -->
+        <s>An electric current is a stream of charged particles</s><break time="1000ms"/>
+        <s>An electric current is a stream of charged particles</s><break time="1000ms"/>
     </p>
     <p ru="">
         <s meaning="word"></s><break time="2000ms"/>

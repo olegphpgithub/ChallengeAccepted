@@ -41,12 +41,12 @@
         <s>An electric current is a stream of charged particles</s><break time="1000ms"/>
         <s>An electric current is a stream of charged particles</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Раскаленный, накаленный, сверкающий, ослепительный, накаленный добела">
+        <s meaning="word">Incandescent</s><break time="2000ms"/>
+        <s meaning="example">An incandescent light bulb is an electric light with a wire filament heated until it glows.</s><break time="1000ms"/>
+        <!-- Лампа накаливания - это электрическая лампочка с проволочной нитью накала, нагретой до тех пор, пока она не загорится. -->
+        <s>An incandescent light bulb is an electric light with a wire filament heated until it glows.</s><break time="1000ms"/>
+        <s>An incandescent light bulb is an electric light with a wire filament heated until it glows.</s><break time="1000ms"/>
     </p>
     <p ru="">
         <s meaning="word"></s><break time="2000ms"/>

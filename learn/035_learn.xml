@@ -55,12 +55,12 @@
         <s>The cable was made up of fine filaments twisted together.</s><break time="1000ms"/>
         <s>The cable was made up of fine filaments twisted together.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Свечение, свет, зарево, жар, накал, румянец, светиться, гореть, пылать, сиять, сверкать">
+        <s meaning="word">Glow</s><break time="2000ms"/>
+        <s meaning="example">This toy glows in the dark.</s><break time="1000ms"/>
+        <!-- Эта игрушка светится в темноте. -->
+        <s>This toy glows in the dark.</s><break time="1000ms"/>
+        <s>This toy glows in the dark.</s><break time="1000ms"/>
     </p>
     <p ru="">
         <s meaning="word"></s><break time="2000ms"/>

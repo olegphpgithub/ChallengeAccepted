@@ -6,12 +6,12 @@
         <s>Summer there is relentlessly hot.</s><break time="1000ms"/>
         <s>Summer there is relentlessly hot.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Изоляция">
+        <s meaning="word">Insulation</s><break time="2000ms"/>
+        <s meaning="example">High voltages have disadvantages, such as the increased insulation required.</s><break time="1000ms"/>
+        <!-- Высокие напряжения имеют недостатки, такие как требуемая повышенная изоляция. -->
+        <s>High voltages have disadvantages, such as the increased insulation required.</s><break time="1000ms"/>
+        <s>High voltages have disadvantages, such as the increased insulation required.</s><break time="1000ms"/>
     </p>
     <p ru="">
         <s meaning="word"></s><break time="2000ms"/>

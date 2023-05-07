@@ -13,12 +13,12 @@
         <s>High voltages have disadvantages, such as the increased insulation required.</s><break time="1000ms"/>
         <s>High voltages have disadvantages, such as the increased insulation required.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Отчасти, до некоторой степени, что-то, кое-что, некоторая часть">
+        <s meaning="word">Somewhat</s><break time="2000ms"/>
+        <s meaning="example">Consumer voltages vary somewhat depending on the country and size.</s><break time="1000ms"/>
+        <!-- Напряжение потребителей несколько варьируется в зависимости от страны и размера. -->
+        <s>Consumer voltages vary somewhat depending on the country and size.</s><break time="1000ms"/>
+        <s>Consumer voltages vary somewhat depending on the country and size.</s><break time="1000ms"/>
     </p>
     <p ru="">
         <s meaning="word"></s><break time="2000ms"/>

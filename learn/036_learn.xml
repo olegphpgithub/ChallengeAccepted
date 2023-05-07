@@ -34,12 +34,12 @@
         <s>The death of Feeks marked the first time Edison publicly denounced alternating current.</s><break time="1000ms"/>
         <s>The death of Feeks marked the first time Edison publicly denounced alternating current.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Откладывать, закрывать, расходиться, отсрочивать, переходить в другое место">
+        <s meaning="word">Adjourn</s><break time="2000ms"/>
+        <s meaning="example">The court adjourned.</s><break time="1000ms"/>
+        <!-- Заседание суда закрыто. -->
+        <s>The court adjourned.</s><break time="1000ms"/>
+        <s>The court adjourned.</s><break time="1000ms"/>
     </p>
     <p ru="">
         <s meaning="word"></s><break time="2000ms"/>

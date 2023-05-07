@@ -27,12 +27,12 @@
         <s>The plants have a high tolerance for heat.</s><break time="1000ms"/>
         <s>The plants have a high tolerance for heat.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Осуждать, разоблачать, доносить, поносить, обвинять, расторгать">
+        <s meaning="word">Denounce</s><break time="2000ms"/>
+        <s meaning="example">The death of Feeks marked the first time Edison publicly denounced alternating current.</s><break time="1000ms"/>
+        <!-- Смерть Фикса ознаменовала собой первый случай, когда Эдисон публично осудил переменный ток. -->
+        <s>The death of Feeks marked the first time Edison publicly denounced alternating current.</s><break time="1000ms"/>
+        <s>The death of Feeks marked the first time Edison publicly denounced alternating current.</s><break time="1000ms"/>
     </p>
     <p ru="">
         <s meaning="word"></s><break time="2000ms"/>

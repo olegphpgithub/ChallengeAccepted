@@ -1,0 +1,22 @@
+<speak>
+    <p ru="Понедельник">
+        <s meaning="word">Monday</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+    </p>
+    <p ru="Вторник">
+        <s meaning="word">Tuesday</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+    </p>
+    <p ru="Среда">
+        <s meaning="word">Wednesday</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+    </p>
+    <p ru="Четверг">
+        <s meaning="word">Thursday</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+    </p>
+    <p ru="Воскресенье">
+        <s meaning="word">Sunday</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+    </p>
+</speak>

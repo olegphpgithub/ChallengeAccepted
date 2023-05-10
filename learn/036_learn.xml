@@ -48,12 +48,12 @@
         <s>The church was divided by schism.</s><break time="1000ms"/>
         <s>The church was divided by schism.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Излишний, ненужный, чрезмерный">
+        <s meaning="word">Superfluous</s><break time="2000ms"/>
+        <s meaning="example">We cleared off all the superfluous stuff on his desk to make room for the new computer.</s><break time="1000ms"/>
+        <!-- Мы убрали все лишнее на его столе, что бы освободить место для нового компьютера. -->
+        <s>We cleared off all the superfluous stuff on his desk to make room for the new computer.</s><break time="1000ms"/>
+        <s>We cleared off all the superfluous stuff on his desk to make room for the new computer.</s><break time="1000ms"/>
     </p>
     <p ru="">
         <s meaning="word"></s><break time="2000ms"/>

@@ -41,12 +41,12 @@
         <s>The court adjourned.</s><break time="1000ms"/>
         <s>The court adjourned.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Раскол, распадение на фракции">
+        <s meaning="word">Schism</s><break time="2000ms"/>
+        <s meaning="example">The church was divided by schism.</s><break time="1000ms"/>
+        <!-- Церковь была разделена расколом. -->
+        <s>The church was divided by schism.</s><break time="1000ms"/>
+        <s>The church was divided by schism.</s><break time="1000ms"/>
     </p>
     <p ru="">
         <s meaning="word"></s><break time="2000ms"/>

@@ -55,12 +55,12 @@
         <s>We cleared off all the superfluous stuff on his desk to make room for the new computer.</s><break time="1000ms"/>
         <s>We cleared off all the superfluous stuff on his desk to make room for the new computer.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Развеселить, веселить, оживлять, подбодрять">
+        <s meaning="word">Exhilarate</s><break time="2000ms"/>
+        <s meaning="example">The glowing disc of the sun would exhilarate and inspire him.</s><break time="1000ms"/>
+        <!-- Сияющий диск солнца взбодрил бы его и вдохновил. -->
+        <s>The glowing disc of the sun would exhilarate and inspire him.</s><break time="1000ms"/>
+        <s>The glowing disc of the sun would exhilarate and inspire him.</s><break time="1000ms"/>
     </p>
     <p ru="">
         <s meaning="word"></s><break time="2000ms"/>

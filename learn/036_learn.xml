@@ -20,7 +20,7 @@
         <s>Consumer voltages vary somewhat depending on the country and size.</s><break time="1000ms"/>
         <s>Consumer voltages vary somewhat depending on the country and size.</s><break time="1000ms"/>
     </p>
-    <p ru="Толерантность, терпимость, допуск, допустимое отклонение">
+    <p ru="Терпимость, допуск, допустимое отклонение">
         <s meaning="word">Tolerance</s><break time="2000ms"/>
         <s meaning="example">The plants have a high tolerance for heat.</s><break time="1000ms"/>
         <!-- Эти растения хорошо переносят жару. -->
@@ -62,11 +62,11 @@
         <s>The glowing disc of the sun would exhilarate and inspire him.</s><break time="1000ms"/>
         <s>The glowing disc of the sun would exhilarate and inspire him.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Опережать, превосходить, обгонять">
+        <s meaning="word">Outstrip</s><break time="2000ms"/>
+        <s meaning="example">They conclude that Edison's version was able to outstrip all the others.</s><break time="1000ms"/>
+        <!-- Они приходят к выводу, что версия Эдисона смогла превзойти все остальные. -->
+        <s>They conclude that Edison's version was able to outstrip all the others.</s><break time="1000ms"/>
+        <s>They conclude that Edison's version was able to outstrip all the others.</s><break time="1000ms"/>
     </p>
 </speak>

@@ -6,19 +6,19 @@
         <s>She will not reveal the secret.</s><break time="1000ms"/>
         <s>She will not reveal the secret.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Кронштейн, скобка, консоль, опора, заключать в скобки, ставить наряду">
+        <s meaning="word">Bracket</s><break time="2000ms"/>
+        <s meaning="example">There are wall brackets in the garage for the rakes and shovels.</s><break time="1000ms"/>
+        <!-- В гараже есть настенные кронштейны для грабель и лопат. -->
+        <s>There are wall brackets in the garage for the rakes and shovels.</s><break time="1000ms"/>
+        <s>There are wall brackets in the garage for the rakes and shovels.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Подчеркивать">
+        <s meaning="word">Underscore</s><break time="2000ms"/>
+        <s meaning="example">She underscored the most important points.</s><break time="1000ms"/>
+        <!-- Она подчеркнула наиболее важные моменты. -->
+        <s>She underscored the most important points.</s><break time="1000ms"/>
+        <s>She underscored the most important points.</s><break time="1000ms"/>
     </p>
     <p ru="">
         <s meaning="word"></s><break time="2000ms"/>

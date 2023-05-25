@@ -1,5 +1,5 @@
 <speak>
-    <p ru="Предшествующий, прежний, настоятель, приор">
+    <p ru="Предшествующий, прежний, настоятель">
         <s meaning="word">Prior</s><break time="2000ms"/>
         <s meaning="example">I was given no prior notification.</s><break time="1000ms"/>
         <!-- Меня никто заранее не предупредил /не известил/. -->

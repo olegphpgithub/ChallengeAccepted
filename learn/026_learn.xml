@@ -1,0 +1,72 @@
+<speak>
+    <p ru="Топить, поддерживать огонь, забрасывать топливо">
+        <s meaning="word">Stoke</s><break time="2000ms"/>
+        <s meaning="example">I stoked the furnace for the night.</s><break time="1000ms"/>
+        <!-- Я растопил печь на ночь. -->
+        <s>I stoked the furnace for the night.</s><break time="1000ms"/>
+        <s>I stoked the furnace for the night.</s><break time="1000ms"/>
+    </p>
+    <p ru="Сжигать, испепелять, превращать в пепел">
+        <s meaning="word">Incinerate</s><break time="2000ms"/>
+        <s meaning="example">The paper incinerated quickly.</s><break time="1000ms"/>
+        <!-- Бумага быстро превратилась в пепел. -->
+        <s>The paper incinerated quickly.</s><break time="1000ms"/>
+        <s>The paper incinerated quickly.</s><break time="1000ms"/>
+    </p>
+    <p ru="Катушка, змеевик, виток, кольцо, шум, извиваться, извивать, наматывать">
+        <s meaning="word">Coil</s><break time="2000ms"/>
+        <s meaning="example">The dog coiled up in the corner by the fire.</s><break time="1000ms"/>
+        <!-- Собака свернулась калачиком в углу у камина. -->
+        <s>The dog coiled up in the corner by the fire.</s><break time="1000ms"/>
+        <s>The dog coiled up in the corner by the fire.</s><break time="1000ms"/>
+    </p>
+    <p ru="Производительность, оперативность, продуктивность">
+        <s meaning="word">Efficiency</s><break time="2000ms"/>
+        <s meaning="example">She acted with speed and efficiency.</s><break time="1000ms"/>
+        <!-- Она действовала быстро и эффективно. -->
+        <s>She acted with speed and efficiency.</s><break time="1000ms"/>
+        <s>She acted with speed and efficiency.</s><break time="1000ms"/>
+    </p>
+    <p ru="Выдержка, отрывок, выписка, выборка, оттиск, делать выдержки, подбирать цитаты">
+        <s meaning="word">Excerpt</s><break time="2000ms"/>
+        <s meaning="example">This section is an excerpt from Copper in renewable energy.</s><break time="1000ms"/>
+        <!-- Этот раздел представляет собой выдержку из книги "Медь в возобновляемой энергетике". -->
+        <s>This section is an excerpt from Copper in renewable energy.</s><break time="1000ms"/>
+        <s>This section is an excerpt from Copper in renewable energy.</s><break time="1000ms"/>
+    </p>
+    <p ru="Приливный, приливно-отливный">
+        <s meaning="word">Tidal</s><break time="2000ms"/>
+        <s meaning="example">A powerful tidal wave struck Jamaica, killing 2000.</s><break time="1000ms"/>
+        <!-- На Ямайку обрушилось мощное цунами, которое унесло жизни двух тысяч человек. -->
+        <s>A powerful tidal wave struck Jamaica, killing 2000.</s><break time="1000ms"/>
+        <s>A powerful tidal wave struck Jamaica, killing 2000.</s><break time="1000ms"/>
+    </p>
+    <p ru="Ископаемый, окаменелый, окаменевший, ископаемое, окаменелость">
+        <s meaning="word">Fossil</s><break time="2000ms"/>
+        <s meaning="example">We combust coal and other fossil fuels.</s><break time="1000ms"/>
+        <!-- Мы сжигаем уголь и другие виды ископаемого топлива. -->
+        <s>We combust coal and other fossil fuels.</s><break time="1000ms"/>
+        <s>We combust coal and other fossil fuels.</s><break time="1000ms"/>
+    </p>
+    <p ru="Поддерживать, подстрекать, буфер, валик, брус, подкладка, шейка">
+        <s meaning="word">Bolster</s><break time="2000ms"/>
+        <s meaning="example">She came with me to bolster my confidence.</s><break time="1000ms"/>
+        <!-- Она пошла со мной, чтобы укрепить мою уверенность. -->
+        <s>She came with me to bolster my confidence.</s><break time="1000ms"/>
+        <s>She came with me to bolster my confidence.</s><break time="1000ms"/>
+    </p>
+    <p ru="Желоб, сточная канава, оплывать, стекать, делать желоба">
+        <s meaning="word">Gutter</s><break time="2000ms"/>
+        <s meaning="example">Tears guttered down her face.</s><break time="1000ms"/>
+        <!-- Слёзы потекли по её лицу. -->
+        <s>Tears guttered down her face.</s><break time="1000ms"/>
+        <s>Tears guttered down her face.</s><break time="1000ms"/>
+    </p>
+    <p ru="Кислота, ЛСД, язвительность, ехидство, кислотный, кислый, едкий, язвительный">
+        <s meaning="word">Acid</s><break time="2000ms"/>
+        <s meaning="example">I burned my skin with the acid.</s><break time="1000ms"/>
+        <!-- Я обжёгся кислотой. -->
+        <s>I burned my skin with the acid.</s><break time="1000ms"/>
+        <s>I burned my skin with the acid.</s><break time="1000ms"/>
+    </p>
+</speak>

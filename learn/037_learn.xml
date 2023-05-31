@@ -20,12 +20,12 @@
         <s>She underscored the most important points.</s><break time="1000ms"/>
         <s>She underscored the most important points.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Тереть, тереться, втирать, натирать, трение, растирание, натирание, стирание">
+        <s meaning="word">Rub</s><break time="2000ms"/>
+        <s meaning="example">Rub your hand against this surface.</s><break time="1000ms"/>
+        <!-- Потрите рукой об эту поверхность. -->
+        <s>Rub your hand against this surface.</s><break time="1000ms"/>
+        <s>Rub your hand against this surface.</s><break time="1000ms"/>
     </p>
     <p ru="">
         <s meaning="word"></s><break time="2000ms"/>

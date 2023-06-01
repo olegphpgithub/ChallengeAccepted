@@ -27,12 +27,12 @@
         <s>Rub your hand against this surface.</s><break time="1000ms"/>
         <s>Rub your hand against this surface.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Изгнание из общества">
+        <s meaning="word">Ostracism</s><break time="2000ms"/>
+        <s meaning="example">He suffered years of ostracism.</s><break time="1000ms"/>
+        <!-- Он много лет подвергался остракизму. -->
+        <s>He suffered years of ostracism.</s><break time="1000ms"/>
+        <s>He suffered years of ostracism.</s><break time="1000ms"/>
     </p>
     <p ru="">
         <s meaning="word"></s><break time="2000ms"/>

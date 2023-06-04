@@ -34,12 +34,12 @@
         <s>He suffered years of ostracism.</s><break time="1000ms"/>
         <s>He suffered years of ostracism.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Вздрогнуть, уклоняться, дрогнуть, вздрагивание, уклонение">
+        <s meaning="word">Flinch</s><break time="2000ms"/>
+        <s meaning="example">We will not flinch in the face of bullying or coercion.</s><break time="1000ms"/>
+        <!-- Мы не дрогнем перед лицом издевательств или принуждения. -->
+        <s>We will not flinch in the face of bullying or coercion.</s><break time="1000ms"/>
+        <s>We will not flinch in the face of bullying or coercion.</s><break time="1000ms"/>
     </p>
     <p ru="">
         <s meaning="word"></s><break time="2000ms"/>

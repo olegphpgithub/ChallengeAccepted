@@ -41,12 +41,12 @@
         <s>We will not flinch in the face of bullying or coercion.</s><break time="1000ms"/>
         <s>We will not flinch in the face of bullying or coercion.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Хулиган, задира, забияка, запугивать, задирать">
+        <s meaning="word">Bully</s><break time="2000ms"/>
+        <s meaning="example">Bullies are often cowards.</s><break time="1000ms"/>
+        <!-- Хулиганы часто являются трусами. -->
+        <s>Bullies are often cowards.</s><break time="1000ms"/>
+        <s>Bullies are often cowards.</s><break time="1000ms"/>
     </p>
     <p ru="">
         <s meaning="word"></s><break time="2000ms"/>

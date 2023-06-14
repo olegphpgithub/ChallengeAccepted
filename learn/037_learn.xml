@@ -55,12 +55,12 @@
         <s>He made a casual remark about her shoes.</s><break time="1000ms"/>
         <s>He made a casual remark about her shoes.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Клапан, вентиль, заслонка, золотник, клапанный, ламповый">
+        <s meaning="word">Valve</s><break time="2000ms"/>
+        <s meaning="example">They turned off the main water valve to the house.</s><break time="1000ms"/>
+        <!-- Они перекрыли основной водный вентиль к дому. -->
+        <s>They turned off the main water valve to the house.</s><break time="1000ms"/>
+        <s>They turned off the main water valve to the house.</s><break time="1000ms"/>
     </p>
     <p ru="">
         <s meaning="word"></s><break time="2000ms"/>

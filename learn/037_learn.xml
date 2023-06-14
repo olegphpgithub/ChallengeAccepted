@@ -48,12 +48,12 @@
         <s>Bullies are often cowards.</s><break time="1000ms"/>
         <s>Bullies are often cowards.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Случайный, повседневный, небрежный, случайный посетитель">
+        <s meaning="word">Casual</s><break time="2000ms"/>
+        <s meaning="example">He made a casual remark about her shoes.</s><break time="1000ms"/>
+        <!-- Он сделал небрежное замечание насчёт её обуви. -->
+        <s>He made a casual remark about her shoes.</s><break time="1000ms"/>
+        <s>He made a casual remark about her shoes.</s><break time="1000ms"/>
     </p>
     <p ru="">
         <s meaning="word"></s><break time="2000ms"/>

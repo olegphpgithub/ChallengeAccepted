@@ -62,11 +62,11 @@
         <s>They turned off the main water valve to the house.</s><break time="1000ms"/>
         <s>They turned off the main water valve to the house.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Целесообразный, выгодный, подходящий, прием, уловка, средство достижения цели">
+        <s meaning="word">Expedient</s><break time="2000ms"/>
+        <s meaning="example">They found it expedient to negotiate with the terrorists.</s><break time="1000ms"/>
+        <!-- Они сочли целесообразным вступить в переговоры с террористами. -->
+        <s>They found it expedient to negotiate with the terrorists.</s><break time="1000ms"/>
+        <s>They found it expedient to negotiate with the terrorists.</s><break time="1000ms"/>
     </p>
 </speak>

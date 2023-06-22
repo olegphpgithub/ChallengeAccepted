@@ -13,12 +13,12 @@
         <s>The war of attrition.</s><break time="1000ms"/>
         <s>The war of attrition.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Навязывать, налагать, облагать">
+        <s meaning="word">Impose</s><break time="2000ms"/>
+        <s meaning="example">I have no wish to impose on you.</s><break time="1000ms"/>
+        <!-- Я не хочу тебе навязываться. -->
+        <s>I have no wish to impose on you.</s><break time="1000ms"/>
+        <s>I have no wish to impose on you.</s><break time="1000ms"/>
     </p>
     <p ru="">
         <s meaning="word"></s><break time="2000ms"/>

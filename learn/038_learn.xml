@@ -20,12 +20,12 @@
         <s>I have no wish to impose on you.</s><break time="1000ms"/>
         <s>I have no wish to impose on you.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Процветающий, зажиточный, успешный, состоятельный, удачный, благоприятный">
+        <s meaning="word">Prosperous</s><break time="2000ms"/>
+        <s meaning="example">Earth is a prosperous planet, the cradle of civilization.</s><break time="1000ms"/>
+        <!-- Земля - процветающая планета, колыбель цивилизации. -->
+        <s>Earth is a prosperous planet, the cradle of civilization</s><break time="1000ms"/>
+        <s>Earth is a prosperous planet, the cradle of civilization</s><break time="1000ms"/>
     </p>
     <p ru="">
         <s meaning="word"></s><break time="2000ms"/>

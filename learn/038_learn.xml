@@ -27,19 +27,19 @@
         <s>Earth is a prosperous planet, the cradle of civilization</s><break time="1000ms"/>
         <s>Earth is a prosperous planet, the cradle of civilization</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="За границей, за границу, повсюду, заграница">
+        <s meaning="word">Abroad</s><break time="2000ms"/>
+        <s meaning="example">They are hoping for some kind of intervention from abroad.</s><break time="1000ms"/>
+        <!-- Они надеются на какое-то вмешательство из-за рубежа. -->
+        <s>They are hoping for some kind of intervention from abroad.</s><break time="1000ms"/>
+        <s>They are hoping for some kind of intervention from abroad.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Возможно, может быть, пожалуй, авось">
+        <s meaning="word">Perhaps</s><break time="2000ms"/>
+        <s meaning="example">They are hoping even perhaps to restore Andre's sight.</s><break time="1000ms"/>
+        <!-- Они надеются, возможно, даже восстановить зрение Андре. -->
+        <s>They are hoping even perhaps to restore Andre's sight.</s><break time="1000ms"/>
+        <s>They are hoping even perhaps to restore Andre's sight.</s><break time="1000ms"/>
     </p>
     <p ru="">
         <s meaning="word"></s><break time="2000ms"/>

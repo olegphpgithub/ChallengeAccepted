@@ -41,12 +41,12 @@
         <s>They are hoping even perhaps to restore Andre's sight.</s><break time="1000ms"/>
         <s>They are hoping even perhaps to restore Andre's sight.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Опрометчивый, неблагоразумный, неразумный, необдуманный">
+        <s meaning="word">Ill-advised</s><break time="2000ms"/>
+        <s meaning="example">I see you'er not hiding behind walls. Ill-advised, but valiant.</s><break time="1000ms"/>
+        <!-- Я вижу, вы не прячетесь за стенами. Опрометчиво, но доблестно. -->
+        <s>I see you'er not hiding behind walls. Ill-advised, but valiant.</s><break time="1000ms"/>
+        <s>I see you'er not hiding behind walls. Ill-advised, but valiant.</s><break time="1000ms"/>
     </p>
     <p ru="">
         <s meaning="word"></s><break time="2000ms"/>

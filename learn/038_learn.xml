@@ -48,12 +48,12 @@
         <s>I see you'er not hiding behind walls. Ill-advised, but valiant.</s><break time="1000ms"/>
         <s>I see you'er not hiding behind walls. Ill-advised, but valiant.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Должным образом, правильно, в должное время">
+        <s meaning="word">Duly</s><break time="2000ms"/>
+        <s meaning="example">Their objections were duly noted.</s><break time="1000ms"/>
+        <!-- Их возражения были приняты к сведению. -->
+        <s>Their objections were duly noted.</s><break time="1000ms"/>
+        <s>Their objections were duly noted.</s><break time="1000ms"/>
     </p>
     <p ru="">
         <s meaning="word"></s><break time="2000ms"/>

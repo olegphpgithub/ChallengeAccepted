@@ -55,18 +55,18 @@
         <s>Their objections were duly noted.</s><break time="1000ms"/>
         <s>Their objections were duly noted.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Свалка, сбрасывать">
+        <s meaning="word">Dump</s><break time="2000ms"/>
+        <s meaning="example">What else can life dump on me?</s><break time="1000ms"/>
+        <!-- Что еще может жизнь взвалить на меня? -->
+        <s>What else can life dump on me?</s><break time="1000ms"/>
+        <s>What else can life dump on me?</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Немой, глупый, бессловесный, бить палкой">
+        <s meaning="word">Dumb</s><break time="2000ms"/>
+        <s meaning="example">What a dumb question.</s><break time="1000ms"/>
+        <!-- Что за глупый вопрос. -->
+        <s>What a dumb question.</s><break time="1000ms"/>
+        <s>What a dumb question.</s><break time="1000ms"/>
     </p>
 </speak>

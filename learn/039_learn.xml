@@ -13,12 +13,12 @@
         <s>If only you could see my wound!</s><break time="1000ms"/>
         <s>If only you could see my wound!</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Одержимость, навязчивая идея">
+        <s meaning="word">Obsession</s><break time="2000ms"/>
+        <s meaning="example">I have three brothers, seven dogs and obsession with Britney Spears.</s><break time="1000ms"/>
+        <!-- У меня три брата, семь собак и одержимость к Бритни Спирс. -->
+        <s>I have three brothers, seven dogs and obsession with Britney Spears.</s><break time="1000ms"/>
+        <s>I have three brothers, seven dogs and obsession with Britney Spears.</s><break time="1000ms"/>
     </p>
     <p ru="">
         <s meaning="word"></s><break time="2000ms"/>

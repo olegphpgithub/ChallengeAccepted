@@ -20,12 +20,12 @@
         <s>I have three brothers, seven dogs and obsession with Britney Spears.</s><break time="1000ms"/>
         <s>I have three brothers, seven dogs and obsession with Britney Spears.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Среди, между, из, у, в числе, посреди, из числа">
+        <s meaning="word">Amongst</s><break time="2000ms"/>
+        <s meaning="example">Divide 12 pencils amongst 4 children equally.</s><break time="1000ms"/>
+        <!-- Разделите 12 карандашей между 4 детьми поровну. -->
+        <s>Divide 12 pencils amongst 4 children equally.</s><break time="1000ms"/>
+        <s>Divide 12 pencils amongst 4 children equally.</s><break time="1000ms"/>
     </p>
     <p ru="">
         <s meaning="word"></s><break time="2000ms"/>

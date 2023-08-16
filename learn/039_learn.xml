@@ -41,12 +41,12 @@
         <s>Ukraine’s last-gasp offensive has failed.</s><break time="1000ms"/>
         <s>Ukraine’s last-gasp offensive has failed.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Смягчать, уменьшать, облегчать, умерять, успокаивать боль">
+        <s meaning="word">Mitigate</s><break time="2000ms"/>
+        <s meaning="example">Washington can mitigate the failures and produce the best outcome for the United States and Ukraine.</s><break time="1000ms"/>
+        <!-- Вашингтон может смягчить последствия неудач и добиться наилучшего результата для Соединенных Штатов и Украины. -->
+        <s>Washington can mitigate the failures and produce the best outcome for the United States and Ukraine.</s><break time="1000ms"/>
+        <s>Washington can mitigate the failures and produce the best outcome for the United States and Ukraine.</s><break time="1000ms"/>
     </p>
     <p ru="">
         <s meaning="word"></s><break time="2000ms"/>

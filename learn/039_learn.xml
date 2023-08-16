@@ -34,12 +34,12 @@
         <s>I rate him among my friends.</s><break time="1000ms"/>
         <s>I rate him among my friends.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Задыхаться, ловить воздух, удушье, затрудненное дыхание">
+        <s meaning="word">Gasp</s><break time="2000ms"/>
+        <s meaning="example">Ukraine’s last-gasp offensive has failed.</s><break time="1000ms"/>
+        <!-- Наступление Украины на последнем издыхании провалилось. -->
+        <s>Ukraine’s last-gasp offensive has failed.</s><break time="1000ms"/>
+        <s>Ukraine’s last-gasp offensive has failed.</s><break time="1000ms"/>
     </p>
     <p ru="">
         <s meaning="word"></s><break time="2000ms"/>

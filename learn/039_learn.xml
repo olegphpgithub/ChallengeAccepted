@@ -48,12 +48,12 @@
         <s>Washington can mitigate the failures and produce the best outcome for the United States and Ukraine.</s><break time="1000ms"/>
         <s>Washington can mitigate the failures and produce the best outcome for the United States and Ukraine.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Свидетельством, завет, завещание">
+        <s meaning="word">Testament</s><break time="2000ms"/>
+        <s meaning="example">His easy victory was a testament to his skill.</s><break time="1000ms"/>
+        <!-- Лёгкая победа была свидетельством его мастерства. -->
+        <s>His easy victory was a testament to his skill.</s><break time="1000ms"/>
+        <s>His easy victory was a testament to his skill.</s><break time="1000ms"/>
     </p>
     <p ru="">
         <s meaning="word"></s><break time="2000ms"/>

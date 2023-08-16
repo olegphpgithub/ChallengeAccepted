@@ -55,12 +55,12 @@
         <s>His easy victory was a testament to his skill.</s><break time="1000ms"/>
         <s>His easy victory was a testament to his skill.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Свирепость, жестокость, дикость, лютость">
+        <s meaning="word">Ferocity</s><break time="2000ms"/>
+        <s meaning="example">We were stunned by the ferocity of the storm.</s><break time="1000ms"/>
+        <!-- Нас поразило такое неистовство бури. -->
+        <s>We were stunned by the ferocity of the storm.</s><break time="1000ms"/>
+        <s>We were stunned by the ferocity of the storm.</s><break time="1000ms"/>
     </p>
     <p ru="">
         <s meaning="word"></s><break time="2000ms"/>

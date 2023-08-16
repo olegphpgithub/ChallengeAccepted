@@ -62,11 +62,11 @@
         <s>We were stunned by the ferocity of the storm.</s><break time="1000ms"/>
         <s>We were stunned by the ferocity of the storm.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Флот, парк, флотилия, эскадра, быстрый, быстротечный, плыть по поверхности">
+        <s meaning="word">Fleet</s><break time="2000ms"/>
+        <s meaning="example">We're sending the largest fleet that ever sailed.</s><break time="1000ms"/>
+        <!-- Мы посылаем самый большой флот, который когда-либо плавал. -->
+        <s>We're sending the largest fleet that ever sailed.</s><break time="1000ms"/>
+        <s>We're sending the largest fleet that ever sailed.</s><break time="1000ms"/>
     </p>
 </speak>

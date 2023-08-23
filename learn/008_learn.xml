@@ -1,0 +1,72 @@
+<speak>
+    <p ru="Подтверждать, подкреплять">
+        <s meaning="word">Corroborate</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+        <!---->
+        <s></s><break time="1000ms"/>
+        <s></s><break time="1000ms"/>
+    </p>
+    <p ru="Открывать, раскрывать, снимать покрывало, предстать в истинном свете">
+        <s meaning="word">Unveil</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+        <!---->
+        <s></s><break time="1000ms"/>
+        <s></s><break time="1000ms"/>
+    </p>
+    <p ru="Завеса, вуаль, покрывало, покров, фата, завуалировать, скрывать, вуалировать">
+        <s meaning="word">Veil</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+        <!---->
+        <s></s><break time="1000ms"/>
+        <s></s><break time="1000ms"/>
+    </p>
+    <p ru="Выплата, оплата, расходы, издержки, выплаченная сумма">
+        <s meaning="word">Disbursement</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+        <!---->
+        <s></s><break time="1000ms"/>
+        <s></s><break time="1000ms"/>
+    </p>
+    <p ru="Посягать, сталкиваться, ударяться, нарушать, вторгаться, покушаться">
+        <s meaning="word">Impinge</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+        <!---->
+        <s></s><break time="1000ms"/>
+        <s></s><break time="1000ms"/>
+    </p>
+    <p ru="Запрос, расследование, дознание, спрос, вопрос, исследование, справка, следствие">
+        <s meaning="word">Inquiry</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+        <!---->
+        <s></s><break time="1000ms"/>
+        <s></s><break time="1000ms"/>
+    </p>
+    <p ru="Добровольно">
+        <s meaning="word">Voluntarily</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+        <!---->
+        <s></s><break time="1000ms"/>
+        <s></s><break time="1000ms"/>
+    </p>
+    <p ru="Ходатайствовать, просить, требовать, выпрашивать, хлопотать, подстрекать, умолять">
+        <s meaning="word">Solicit</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+        <!---->
+        <s></s><break time="1000ms"/>
+        <s></s><break time="1000ms"/>
+    </p>
+    <p ru="Считать, полагать, думать, размышлять">
+        <s meaning="word">Deem</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+        <!---->
+        <s></s><break time="1000ms"/>
+        <s></s><break time="1000ms"/>
+    </p>
+    <p ru="Относиться, принадлежать, иметь отношение, быть свойственным, подходить">
+        <s meaning="word">Pertain</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+        <!---->
+        <s></s><break time="1000ms"/>
+        <s></s><break time="1000ms"/>
+    </p>
+</speak>

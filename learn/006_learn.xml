@@ -1,0 +1,72 @@
+<speak>
+    <p ru="Волны, повышение, быстрый рост, вздыматься, подниматься, хлынуть">
+        <s meaning="word">Surge</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+        <!---->
+        <s></s><break time="1000ms"/>
+        <s></s><break time="1000ms"/>
+    </p>
+    <p ru="Свидетель, свидетельство, очевидец, свидетельствовать, видеть">
+        <s meaning="word">Witness</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+        <!---->
+        <s></s><break time="1000ms"/>
+        <s></s><break time="1000ms"/>
+    </p>
+    <p ru="Сокрытие, маскировка, укрывательство, утаивание, скрывание, тайное убежище">
+        <s meaning="word">Concealment</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+        <!---->
+        <s></s><break time="1000ms"/>
+        <s></s><break time="1000ms"/>
+    </p>
+    <p ru="Судебный">
+        <s meaning="word">Forensic</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+        <!---->
+        <s></s><break time="1000ms"/>
+        <s></s><break time="1000ms"/>
+    </p>
+    <p ru="Совпадать, совпасть, соответствовать, равняться">
+        <s meaning="word">Coincide</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+        <!---->
+        <s></s><break time="1000ms"/>
+        <s></s><break time="1000ms"/>
+    </p>
+    <p ru="Вызывать, стимулировать, побуждать, склонять, заставлять, индуктировать, убеждать">
+        <s meaning="word">Induce</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+        <!---->
+        <s></s><break time="1000ms"/>
+        <s></s><break time="1000ms"/>
+    </p>
+    <p ru="Герцогиня">
+        <s meaning="word">Duchess</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+        <!---->
+        <s></s><break time="1000ms"/>
+        <s></s><break time="1000ms"/>
+    </p>
+    <p ru="Герцог, эрцгерцог">
+        <s meaning="word">Duke</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+        <!---->
+        <s></s><break time="1000ms"/>
+        <s></s><break time="1000ms"/>
+    </p>
+    <p ru="Крепкий, здравый, сильный, здоровый, твердый, ясный, трудный, требующий усилий">
+        <s meaning="word">Robust</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+        <!---->
+        <s></s><break time="1000ms"/>
+        <s></s><break time="1000ms"/>
+    </p>
+    <p ru="Причастность, подтекст, подразумеваемое, смысл, вовлечение, соучастие">
+        <s meaning="word">Implication</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+        <!---->
+        <s></s><break time="1000ms"/>
+        <s></s><break time="1000ms"/>
+    </p>
+</speak>

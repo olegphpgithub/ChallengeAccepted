@@ -1,0 +1,65 @@
+<speak>
+    <p ru="Православный, ортодоксальный, правоверный, общепринятый">
+        <s meaning="word">Orthodox</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+        <!---->
+        <s></s><break time="1000ms"/>
+        <s></s><break time="1000ms"/>
+    </p>
+    <p ru="Тогда как, в то время как, принимая во внимание, поскольку">
+        <s meaning="word">Whereas</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+        <!---->
+        <s></s><break time="1000ms"/>
+        <s></s><break time="1000ms"/>
+    </p>
+    <p ru="Злоупотребление, оскорбление, брань, злоупотреблять, браниться, оскорблять">
+        <s meaning="word">Abuse</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+        <!---->
+        <s></s><break time="1000ms"/>
+        <s></s><break time="1000ms"/>
+    </p>
+    <p ru="Настаивать, настоять, утверждать, настойчиво утверждать">
+        <s meaning="word">Insist</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+        <!---->
+        <s></s><break time="1000ms"/>
+        <s></s><break time="1000ms"/>
+    </p>
+    <p ru="Пуансон, пунш, пробойник, компостер, пробивать, штамповать, компостировать">
+        <s meaning="word">Punch</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+        <!---->
+        <s></s><break time="1000ms"/>
+        <s></s><break time="1000ms"/>
+    </p>
+    <p ru="Осада, тягостный период времени, осадный">
+        <s meaning="word">Siege</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+        <!---->
+        <s></s><break time="1000ms"/>
+        <s></s><break time="1000ms"/>
+    </p>
+    <p ru="Помогать, поддерживать, выручка">
+        <s meaning="word">Succour</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+        <!---->
+        <s></s><break time="1000ms"/>
+        <s></s><break time="1000ms"/>
+    </p>
+    <p ru="Благотворительность, милосердие, благотворительные дела">
+        <s meaning="word">Charity</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+        <!---->
+        <s></s><break time="1000ms"/>
+        <s></s><break time="1000ms"/>
+    </p>
+    <p ru="Наступление, наступательная операция, наступательный, оскорбительный, обидный">
+        <s meaning="word">Offensive</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+        <!---->
+        <s></s><break time="1000ms"/>
+        <s></s><break time="1000ms"/>
+    </p>
+</speak>

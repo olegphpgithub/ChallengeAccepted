@@ -1,0 +1,72 @@
+<speak>
+    <p ru="Враждебный, вражеский, неприятельский, враг, противник">
+        <s meaning="word">Hostile</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+        <!---->
+        <s></s><break time="1000ms"/>
+        <s></s><break time="1000ms"/>
+    </p>
+    <p ru="Безвозвратный, невосполнимый, непоправимый, невозместимый, невозвратный">
+        <s meaning="word">Irretrievable</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+        <!---->
+        <s></s><break time="1000ms"/>
+        <s></s><break time="1000ms"/>
+    </p>
+    <p ru="Сделка, выгодная покупка, торг, торговаться, заключать сделку">
+        <s meaning="word">Bargain</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+        <!---->
+        <s></s><break time="1000ms"/>
+        <s></s><break time="1000ms"/>
+    </p>
+    <p ru="Осаждать, обложить, окружить, облеплять">
+        <s meaning="word">Besiege</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+        <!---->
+        <s></s><break time="1000ms"/>
+        <s></s><break time="1000ms"/>
+    </p>
+    <p ru="Под, ниже, ниже, внизу">
+        <s meaning="word">Beneath</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+        <!---->
+        <s></s><break time="1000ms"/>
+        <s></s><break time="1000ms"/>
+    </p>
+    <p ru="Укрытие, приют, убежище, кров, пристанище, приютить, укрывать, укрываться, прятаться">
+        <s meaning="word">Shelter</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+        <!---->
+        <s></s><break time="1000ms"/>
+        <s></s><break time="1000ms"/>
+    </p>
+    <p ru="Уничтожать, опустошать, истреблять, косить, казнить каждого десятого">
+        <s meaning="word">Decimate</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+        <!---->
+        <s></s><break time="1000ms"/>
+        <s></s><break time="1000ms"/>
+    </p>
+    <p ru="Налагать, навязывать, накладывать, наносить удар, причинять страдание">
+        <s meaning="word">Inflict</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+        <!---->
+        <s></s><break time="1000ms"/>
+        <s></s><break time="1000ms"/>
+    </p>
+    <p ru="Фреска, стенная роспись, стенной, интрамуральный">
+        <s meaning="word">Mural</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+        <!---->
+        <s></s><break time="1000ms"/>
+        <s></s><break time="1000ms"/>
+    </p>
+    <p ru="Гарнизон, назначать на гарнизонную службу">
+        <s meaning="word">Garrison</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+        <!---->
+        <s></s><break time="1000ms"/>
+        <s></s><break time="1000ms"/>
+    </p>
+</speak>

@@ -1,0 +1,72 @@
+<speak>
+    <p ru="Сожаление, извинения, раскаяние, горе, сожалеть, раскаиваться, горевать">
+        <s meaning="word">Regret</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+        <!---->
+        <s></s><break time="1000ms"/>
+        <s></s><break time="1000ms"/>
+    </p>
+    <p ru="Посещать, присутствовать, ходить, следить, заниматься, заботиться, обслуживать">
+        <s meaning="word">Attend</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+        <!---->
+        <s></s><break time="1000ms"/>
+        <s></s><break time="1000ms"/>
+    </p>
+    <p ru="Склонность, пристрастие, расположение">
+        <s meaning="word">Propensity</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+        <!---->
+        <s></s><break time="1000ms"/>
+        <s></s><break time="1000ms"/>
+    </p>
+    <p ru="Крен, шаткая походка, склонность, крениться, пошатываться, идти шатаясь">
+        <s meaning="word">Lurch</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+        <!---->
+        <s></s><break time="1000ms"/>
+        <s></s><break time="1000ms"/>
+    </p>
+    <p ru="Многолетний, вечный, круглогодичный, многолетнее растение">
+        <s meaning="word">Perennial</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+        <!---->
+        <s></s><break time="1000ms"/>
+        <s></s><break time="1000ms"/>
+    </p>
+    <p ru="Заблудившийся, заблудившись, заблудиться">
+        <s meaning="word">Astray</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+        <!---->
+        <s></s><break time="1000ms"/>
+        <s></s><break time="1000ms"/>
+    </p>
+    <p ru="Грань, аспект, гранить, шлифовать">
+        <s meaning="word">Facet</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+        <!---->
+        <s></s><break time="1000ms"/>
+        <s></s><break time="1000ms"/>
+    </p>
+    <p ru="Наполнять, внушить, вселить, пропитывать, окрашивать, насыщать, напитывать, вдохнуть">
+        <s meaning="word">Imbue</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+        <!---->
+        <s></s><break time="1000ms"/>
+        <s></s><break time="1000ms"/>
+    </p>
+    <p ru="Устойчивый, устойчиво, ровно, стабилизировать, возлюбленная">
+        <s meaning="word">Steady</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+        <!---->
+        <s></s><break time="1000ms"/>
+        <s></s><break time="1000ms"/>
+    </p>
+    <p ru="Обломки, развалины, осколки, строительный мусор, обрезки, лом, обломки пород">
+        <s meaning="word">Debris</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+        <!---->
+        <s></s><break time="1000ms"/>
+        <s></s><break time="1000ms"/>
+    </p>
+</speak>

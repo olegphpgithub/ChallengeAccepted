@@ -1,0 +1,72 @@
+<speak>
+    <p ru="Мрачный, угрюмый, хмурый, сумрачный, темный, унылый, печальный">
+        <s meaning="word">Gloomy</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+        <!---->
+        <s></s><break time="1000ms"/>
+        <s></s><break time="1000ms"/>
+    </p>
+    <p ru="Однообразие, серость, однообразный, скучный, заниматься проституцией">
+        <s meaning="word">Drab</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+        <!---->
+        <s></s><break time="1000ms"/>
+        <s></s><break time="1000ms"/>
+    </p>
+    <p ru="Справляться, совладать, бороться, сладить, риза, будка, кабина, кожух, колпак">
+        <s meaning="word">Cope</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+        <!---->
+        <s></s><break time="1000ms"/>
+        <s></s><break time="1000ms"/>
+    </p>
+    <p ru="Ипотека, заклад, закладная, заем, закладывать, ручаться">
+        <s meaning="word">Mortgage</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+        <!---->
+        <s></s><break time="1000ms"/>
+        <s></s><break time="1000ms"/>
+    </p>
+    <p ru="Перспектива, разведка, исследовать, разведывать, ожидаемый">
+        <s meaning="word">Prospect</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+        <!---->
+        <s></s><break time="1000ms"/>
+        <s></s><break time="1000ms"/>
+    </p>
+    <p ru="Борьба, усилие, напряжение, бороться, биться, пробиваться, отбиваться">
+        <s meaning="word">Struggle</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+        <!---->
+        <s></s><break time="1000ms"/>
+        <s></s><break time="1000ms"/>
+    </p>
+    <p ru="Переворот, сдвиг, смещение пластов">
+        <s meaning="word">Upheaval</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+        <!---->
+        <s></s><break time="1000ms"/>
+        <s></s><break time="1000ms"/>
+    </p>
+    <p ru="Зиять, зевать, глазеть, зазеваться, зевок, зияние, изумленный взгляд">
+        <s meaning="word">Gape</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+        <!---->
+        <s></s><break time="1000ms"/>
+        <s></s><break time="1000ms"/>
+    </p>
+    <p ru="Рубить, хлестать, сокращать, снижать, сокращение, снижение, разрез, вырубка">
+        <s meaning="word">Slash</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+        <!---->
+        <s></s><break time="1000ms"/>
+        <s></s><break time="1000ms"/>
+    </p>
+    <p ru="Тревога, беспокойство, тревожность, страх, забота, боязнь, опасение">
+        <s meaning="word">Anxiety</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+        <!---->
+        <s></s><break time="1000ms"/>
+        <s></s><break time="1000ms"/>
+    </p>
+</speak>

@@ -1,0 +1,72 @@
+<speak>
+    <p ru="Внутренний, отечественный, домашний, прислуга, домашняя работница">
+        <s meaning="word">Domestic</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+        <!---->
+        <s></s><break time="1000ms"/>
+        <s></s><break time="1000ms"/>
+    </p>
+    <p ru="Твердо, крепко, неизменно">
+        <s meaning="word">Firmly</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+        <!---->
+        <s></s><break time="1000ms"/>
+        <s></s><break time="1000ms"/>
+    </p>
+    <p ru="Поощрять, поддерживать, ободрять, воодушевлять, подстрекать, потворствовать">
+        <s meaning="word">Encourage</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+        <!---->
+        <s></s><break time="1000ms"/>
+        <s></s><break time="1000ms"/>
+    </p>
+    <p ru="Подчиненный, подчиненный, подчинять">
+        <s meaning="word">Subordinate</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+        <!---->
+        <s></s><break time="1000ms"/>
+        <s></s><break time="1000ms"/>
+    </p>
+    <p ru="Грубо, приблизительно, бурно, резко, неровно, небрежно, начерно, невежливо">
+        <s meaning="word">Roughly</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+        <!---->
+        <s></s><break time="1000ms"/>
+        <s></s><break time="1000ms"/>
+    </p>
+    <p ru="Крепость, оплот, цитадель, твердыня, опорный пункт">
+        <s meaning="word">Stronghold</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+        <!---->
+        <s></s><break time="1000ms"/>
+        <s></s><break time="1000ms"/>
+    </p>
+    <p ru="Колебаться, качаться, качать, вибрировать, поколебаться">
+        <s meaning="word">Oscillate</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+        <!---->
+        <s></s><break time="1000ms"/>
+        <s></s><break time="1000ms"/>
+    </p>
+    <p ru="Избавлять, освобождать">
+        <s meaning="word">Rid</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+        <!---->
+        <s></s><break time="1000ms"/>
+        <s></s><break time="1000ms"/>
+    </p>
+    <p ru="Возложенный, лежащий, возлежащий, лицо, занимающее должность">
+        <s meaning="word">Incumbent</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+        <!---->
+        <s></s><break time="1000ms"/>
+        <s></s><break time="1000ms"/>
+    </p>
+    <p ru="Увольнение, выселение, лишение владения, снятие с должности, отнятие имущества">
+        <s meaning="word">Ouster</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+        <!---->
+        <s></s><break time="1000ms"/>
+        <s></s><break time="1000ms"/>
+    </p>
+</speak>

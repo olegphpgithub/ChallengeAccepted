@@ -1,0 +1,72 @@
+<speak>
+    <p ru="Банкротство, арестовать, обанкротиться, обанкротившийся">
+        <s meaning="word">Bust</s><break time="2000ms"/>
+        <s meaning="example">He busted my radio!</s><break time="1000ms"/>
+        <!---->
+        <s>He busted my radio!</s><break time="1000ms"/>
+        <s>He busted my radio!</s><break time="1000ms"/>
+    </p>
+    <p ru="Доходность, урожай, доход, дебит, давать, приносить, уступать, поддаваться">
+        <s meaning="word">Yield</s><break time="2000ms"/>
+        <s meaning="example">The disease yields to treatment.</s><break time="1000ms"/>
+        <!---->
+        <s>The disease yields to treatment.</s><break time="1000ms"/>
+        <s>The disease yields to treatment.</s><break time="1000ms"/>
+    </p>
+    <p ru="Пропитывать, оплодотворять, насыщать, пропитанный, беременная">
+        <s meaning="word">Impregnate</s><break time="2000ms"/>
+        <s meaning="example">You grew concerned and finally let your husband impregnate you.</s><break time="1000ms"/>
+        <!---->
+        <s>You grew concerned and finally let your husband impregnate you.</s><break time="1000ms"/>
+        <s>You grew concerned and finally let your husband impregnate you.</s><break time="1000ms"/>
+    </p>
+    <p ru="Беременная, богатый, чреватый, содержательный, полный смысла, полный значения">
+        <s meaning="word">Pregnant</s><break time="2000ms"/>
+        <s meaning="example">She's pregnant with their first child.</s><break time="1000ms"/>
+        <!---->
+        <s>She's pregnant with their first child.</s><break time="1000ms"/>
+        <s>She's pregnant with their first child.</s><break time="1000ms"/>
+    </p>
+    <p ru="Выздоравливать, приходить в норму, иметь результат, эффект, оправиться">
+        <s meaning="word">Bounce back</s><break time="2000ms"/>
+        <s meaning="example">The city bounced back by attracting financial services firms and carmakers.</s><break time="1000ms"/>
+        <!---->
+        <s>The city bounced back by attracting financial services firms and carmakers.</s><break time="1000ms"/>
+        <s>The city bounced back by attracting financial services firms and carmakers.</s><break time="1000ms"/>
+    </p>
+    <p ru="Синтез, соединение">
+        <s meaning="word">Synthesis</s><break time="2000ms"/>
+        <s meaning="example">The ribosome is the site of protein synthesis.</s><break time="1000ms"/>
+        <!---->
+        <s>The ribosome is the site of protein synthesis.</s><break time="1000ms"/>
+        <s>The ribosome is the site of protein synthesis.</s><break time="1000ms"/>
+    </p>
+    <p ru="Откладывать в долгий ящик, отлого спускаться, ставить на полку">
+        <s meaning="word">Shelve</s><break time="2000ms"/>
+        <s meaning="example">Let's shelve the project for now.</s><break time="1000ms"/>
+        <!---->
+        <s>Let's shelve the project for now.</s><break time="1000ms"/>
+        <s>Let's shelve the project for now.</s><break time="1000ms"/>
+    </p>
+    <p ru="Задерживаться, медлить, засиживаться, мешкать, замешкаться, тянуться, затягиваться">
+        <s meaning="word">Linger</s><break time="2000ms"/>
+        <s meaning="example">I lingered on in London for a few days.</s><break time="1000ms"/>
+        <!---->
+        <s>I lingered on in London for a few days.</s><break time="1000ms"/>
+        <s>I lingered on in London for a few days.</s><break time="1000ms"/>
+    </p>
+    <p ru="Носильщик, швейцар, привратник, грузчик, вахтер, проводник">
+        <s meaning="word">Porter</s><break time="2000ms"/>
+        <s meaning="example">The porter will expect a tip.</s><break time="1000ms"/>
+        <!---->
+        <s>The porter will expect a tip.</s><break time="1000ms"/>
+        <s>The porter will expect a tip.</s><break time="1000ms"/>
+    </p>
+    <p ru="Отставной, в отставке, уединенный, ушедший на пенсию, удалившийся от дел">
+        <s meaning="word">Retired</s><break time="2000ms"/>
+        <s meaning="example">Both my parents are retired now.</s><break time="1000ms"/>
+        <!---->
+        <s>Both my parents are retired now.</s><break time="1000ms"/>
+        <s>Both my parents are retired now.</s><break time="1000ms"/>
+    </p>
+</speak>

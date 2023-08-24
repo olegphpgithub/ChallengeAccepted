@@ -1,0 +1,72 @@
+<speak>
+    <p ru="Сохранять, удерживать, хранить, поддерживать, помнить, приглашать">
+        <s meaning="word">Retain</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+        <!---->
+        <s></s><break time="1000ms"/>
+        <s></s><break time="1000ms"/>
+    </p>
+    <p ru="Возмездие, воздаяние, кара">
+        <s meaning="word">Retribution</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+        <!---->
+        <s></s><break time="1000ms"/>
+        <s></s><break time="1000ms"/>
+    </p>
+    <p ru="Захват, конфискация, наложение ареста, припадок, приступ, апоплексический удар">
+        <s meaning="word">Seizure</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+        <!---->
+        <s></s><break time="1000ms"/>
+        <s></s><break time="1000ms"/>
+    </p>
+    <p ru="Хотя, если бы даже, несмотря на то, что, несмотря на, если бы даже">
+        <s meaning="word">Although</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+        <!---->
+        <s></s><break time="1000ms"/>
+        <s></s><break time="1000ms"/>
+    </p>
+    <p ru="Ордер, основание, предписание, мандат, гарантировать, оправдывать, ручаться">
+        <s meaning="word">Warrant</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+        <!---->
+        <s></s><break time="1000ms"/>
+        <s></s><break time="1000ms"/>
+    </p>
+    <p ru="Явно, абсолютно, откровенно, очевидно">
+        <s meaning="word">Blatantly</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+        <!---->
+        <s></s><break time="1000ms"/>
+        <s></s><break time="1000ms"/>
+    </p>
+    <p ru="Неправильный, неподходящий, неуместный, неприличный, непристойный, ложный">
+        <s meaning="word">Improper</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+        <!---->
+        <s></s><break time="1000ms"/>
+        <s></s><break time="1000ms"/>
+    </p>
+    <p ru="Насильственный, сильный, яростный, неистовый, вспыльчивый, интенсивный, страстный">
+        <s meaning="word">Violent</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+        <!---->
+        <s></s><break time="1000ms"/>
+        <s></s><break time="1000ms"/>
+    </p>
+    <p ru="Ответный, репрессивный">
+        <s meaning="word">Retaliatory</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+        <!---->
+        <s></s><break time="1000ms"/>
+        <s></s><break time="1000ms"/>
+    </p>
+    <p ru="Мстить, применять репрессалии, отплачивать, предъявлять встречное обвинение">
+        <s meaning="word">Retaliate</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+        <!---->
+        <s></s><break time="1000ms"/>
+        <s></s><break time="1000ms"/>
+    </p>
+</speak>

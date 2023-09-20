@@ -62,4 +62,11 @@
         <s></s><break time="1000ms"/>
         <s></s><break time="1000ms"/>
     </p>
+    <p ru="Потомство, последующие поколения">
+        <s meaning="word">Posterity</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+        <!---->
+        <s></s><break time="1000ms"/>
+        <s></s><break time="1000ms"/>
+    </p>
 </speak>

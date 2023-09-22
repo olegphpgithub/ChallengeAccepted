@@ -13,12 +13,14 @@
         <s></s><break time="1000ms"/>
         <s></s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Считать, считаться, рассматривать, отношение, внимание, взгляд, уважение">
+        <s meaning="word">Regard</s><break time="2000ms"/>
+        <s meaning="example">Give him my regards.</s><break time="1000ms"/>
+        <!-- Передай ему привет от меня. -->
+        <s>I regard it as my duty.</s><break time="1000ms"/>
+        <!-- Я считаю это своим долгом. -->
+        <s>No talks were taking place regarding the issue.</s><break time="1000ms"/>
+        <!-- Никаких переговоров по этому вопросу не велось. -->
     </p>
     <p ru="">
         <s meaning="word"></s><break time="2000ms"/>

@@ -1,0 +1,42 @@
+<speak>
+    <p ru="Часы">
+        <s meaning="word">Watch</s><break time="2000ms"/>
+        <s meaning="example">Apple Watch</s><break time="1000ms"/>
+    </p>
+    <p ru="Компакт диск">
+        <s meaning="word">CDs</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+    </p>
+    <p ru="Гитара">
+        <s meaning="word">Guitar</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+    </p>
+    <p ru="Камера">
+        <s meaning="word">Camera</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+    </p>
+    <p ru="Шлем">
+        <s meaning="word">Helmet</s><break time="2000ms"/>
+        <s meaning="example">Я думаю это не эккзоскелет, это Helmet.</s><break time="1000ms"/>
+    </p>
+    <p ru="Мобильный телефон">
+        <s meaning="word">Mobile phone</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+    </p>
+    <p ru="Ключи">
+        <s meaning="word">Keys</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+    </p>
+    <p ru="Перчатки">
+        <s meaning="word">Gloves</s><break time="2000ms"/>
+        <s meaning="example">Смотри: Нимерия, Gloves</s><break time="1000ms"/>
+    </p>
+    <p ru="Расческа">
+        <s meaning="word">Hairbrush</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+    </p>
+    <p ru="Роликовые коньки">
+        <s meaning="word">Roller blades</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+    </p>
+</speak>

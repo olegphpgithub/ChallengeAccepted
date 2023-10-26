@@ -1,72 +1,75 @@
 <speak>
     <p ru="Подтверждать, подкреплять">
         <s meaning="word">Corroborate</s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
+        <s meaning="example">The witnesses corroborated the policeman's testimony.</s><break time="1000ms"/>
         <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+        <s>The witnesses corroborated the policeman's testimony.</s><break time="1000ms"/>
+        <s>The witnesses corroborated the policeman's testimony.</s><break time="1000ms"/>
     </p>
     <p ru="Открывать, раскрывать, снимать покрывало, предстать в истинном свете">
         <s meaning="word">Unveil</s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
+        <s meaning="example">The club has unveiled plans to build a new stadium.</s><break time="1000ms"/>
         <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+        <s>The club has unveiled plans to build a new stadium.</s><break time="1000ms"/>
+        <s>The club has unveiled plans to build a new stadium.</s><break time="1000ms"/>
     </p>
     <p ru="Завеса, вуаль, покрывало, покров, фата, завуалировать, скрывать, вуалировать">
         <s meaning="word">Veil</s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
+        <s meaning="example">The sun was veiled by clouds.</s><break time="1000ms"/>
         <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+        <s>The sun was veiled by clouds.</s><break time="1000ms"/>
+        <s>The sun was veiled by clouds.</s><break time="1000ms"/>
+        <s>Women are forbidden from going out without a veil.</s><break time="1000ms"/>
+        <s>Women are forbidden from going out without a veil.</s><break time="1000ms"/>
+        <s>Women are forbidden from going out without a veil.</s><break time="1000ms"/>
     </p>
     <p ru="Выплата, оплата, расходы, издержки, выплаченная сумма">
         <s meaning="word">Disbursement</s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+        <s meaning="example">Another drew attention to the fact that disbursement of aid has often been delayed.</s><break time="1000ms"/>
+        <!-- Другой участник привлек внимание к тому факту, что распределение помощи очень часто затягивается. -->
+        <s>Another drew attention to the fact that disbursement of aid has often been delayed.</s><break time="1000ms"/>
+        <s>Another drew attention to the fact that disbursement of aid has often been delayed.</s><break time="1000ms"/>
     </p>
     <p ru="Посягать, сталкиваться, ударяться, нарушать, вторгаться, покушаться">
         <s meaning="word">Impinge</s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+        <s meaning="example">This impinges on my rights as a citizen.</s><break time="1000ms"/>
+        <!-- Это ущемляет мои гражданские права. -->
+        <s>This impinges on my rights as a citizen.</s><break time="1000ms"/>
+        <s>This impinges on my rights as a citizen.</s><break time="1000ms"/>
     </p>
     <p ru="Запрос, расследование, дознание, спрос, вопрос, исследование, справка, следствие">
         <s meaning="word">Inquiry</s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+        <s meaning="example">He got a quick reply to his inquiry.</s><break time="1000ms"/>
+        <!-- Он получил быстрый ответ на свой запрос. -->
+        <s>He got a quick reply to his inquiry.</s><break time="1000ms"/>
+        <s>He got a quick reply to his inquiry.</s><break time="1000ms"/>
     </p>
     <p ru="Добровольно">
         <s meaning="word">Voluntarily</s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+        <s meaning="example">Susan worked in the studios voluntarily, to gain experience.</s><break time="1000ms"/>
+        <!-- Сьюзен работала в студиях добровольно, чтобы набраться опыта. -->
+        <s>Susan worked in the studios voluntarily, to gain experience.</s><break time="1000ms"/>
+        <s>Susan worked in the studios voluntarily, to gain experience.</s><break time="1000ms"/>
     </p>
     <p ru="Ходатайствовать, просить, требовать, выпрашивать, хлопотать, подстрекать, умолять">
         <s meaning="word">Solicit</s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+        <s meaning="example">Therefore we do not solicit or give advice without explicit consent.</s><break time="1000ms"/>
+        <!-- Поэтому мы не запрашиваем и не даем совета без явного согласия. -->
+        <s>Therefore we do not solicit or give advice without explicit consent.</s><break time="1000ms"/>
+        <s>Therefore we do not solicit or give advice without explicit consent.</s><break time="1000ms"/>
     </p>
     <p ru="Считать, полагать, думать, размышлять">
         <s meaning="word">Deem</s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+        <s meaning="example">The president has authority to take actions he deems appropriate.</s><break time="1000ms"/>
+        <!-- Президент имеет полномочия предпринимать те действия, которые он считает нужными. -->
+        <s>The president has authority to take actions he deems appropriate.</s><break time="1000ms"/>
+        <s>The president has authority to take actions he deems appropriate.</s><break time="1000ms"/>
     </p>
     <p ru="Относиться, принадлежать, иметь отношение, быть свойственным, подходить">
         <s meaning="word">Pertain</s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+        <s meaning="example">The statistics found in the study pertain to the relationship between coffee drinking and poor sleep habits.</s><break time="1000ms"/>
+        <!-- Статистические данные, полученные в ходе исследования, относятся к взаимосвязи между употреблением кофе и плохим сном. -->
+        <s>The statistics found in the study pertain to the relationship between coffee drinking and poor sleep habits.</s><break time="1000ms"/>
+        <s>The statistics found in the study pertain to the relationship between coffee drinking and poor sleep habits.</s><break time="1000ms"/>
     </p>
 </speak>

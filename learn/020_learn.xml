@@ -1,72 +1,72 @@
 <speak>
     <p ru="Около, приблизительно, приблизительно">
         <s meaning="word">Circa</s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
+        <s meaning="example">Mohammed was born circa 570 A.D.</s><break time="1000ms"/>
         <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+        <s>Mohammed was born circa 570 A.D.</s><break time="1000ms"/>
+        <s>Mohammed was born circa 570 A.D.</s><break time="1000ms"/>
     </p>
     <p ru="Напряжение, натяжение, растяжение, давление">
         <s meaning="word">Tension</s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
+        <s meaning="example">Muscle tension can be a sign of stress.</s><break time="1000ms"/>
         <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+        <s>Muscle tension can be a sign of stress.</s><break time="1000ms"/>
+        <s>Muscle tension can be a sign of stress.</s><break time="1000ms"/>
     </p>
     <p ru="Ораторское искусство, дикция">
         <s meaning="word">Elocution</s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
+        <s meaning="example">He practiced elocution by learning to speak with a mouth full of pebbles.</s><break time="1000ms"/>
         <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+        <s>He practiced elocution by learning to speak with a mouth full of pebbles.</s><break time="1000ms"/>
+        <s>He practiced elocution by learning to speak with a mouth full of pebbles.</s><break time="1000ms"/>
     </p>
     <p ru="Скорость, быстрота, скоростной">
         <s meaning="word">Velocity</s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
+        <s meaning="example">The velocity of light is a constant.</s><break time="1000ms"/>
         <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+        <s>The velocity of light is a constant.</s><break time="1000ms"/>
+        <s>The velocity of light is a constant.</s><break time="1000ms"/>
     </p>
     <p ru="Настойчивый, категоричный">
         <s meaning="word">Emphatic</s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
+        <s meaning="example">Wilde was emphatic that the event should go ahead.</s><break time="1000ms"/>
         <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+        <s>Wilde was emphatic that the event should go ahead.</s><break time="1000ms"/>
+        <s>Wilde was emphatic that the event should go ahead.</s><break time="1000ms"/>
     </p>
     <p ru="Прояснить, прояснять, вносить ясность, очищать, просветлять, делать ясным">
         <s meaning="word">Clarify</s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
+        <s meaning="example">Could you clarify one or two points for me?</s><break time="1000ms"/>
         <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+        <s>Could you clarify one or two points for me?</s><break time="1000ms"/>
+        <s>Could you clarify one or two points for me?</s><break time="1000ms"/>
     </p>
     <p ru="Быть должным, причитаться, быть в долгу, быть обязанным кому-л.">
         <s meaning="word">Owe</s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
+        <s meaning="example">He owes me $5.</s><break time="1000ms"/>
         <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+        <s>He owes me $5.</s><break time="1000ms"/>
+        <s>He owes me $5.</s><break time="1000ms"/>
     </p>
     <p ru="Чрезмерно, излишне, безмерно">
         <s meaning="word">Excessively</s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
+        <s meaning="example">Paulina became excessively attached to her.</s><break time="1000ms"/>
         <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+        <s>Paulina became excessively attached to her.</s><break time="1000ms"/>
+        <s>Paulina became excessively attached to her.</s><break time="1000ms"/>
     </p>
     <p ru="Опасность, риск, подвергать опасности">
         <s meaning="word">Peril</s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
+        <s meaning="example">The democracy are in peril.</s><break time="1000ms"/>
         <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+        <s>The democracy are in peril.</s><break time="1000ms"/>
+        <s>The democracy are in peril.</s><break time="1000ms"/>
     </p>
     <p ru="Жемчужина, жемчуг, перл, жемчужный, перламутровый, добывать жемчуг">
         <s meaning="word">Pearl</s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
+        <s meaning="example">Pearls of dew glistened on the grass.</s><break time="1000ms"/>
         <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+        <s>Pearls of dew glistened on the grass.</s><break time="1000ms"/>
+        <s>Pearls of dew glistened on the grass.</s><break time="1000ms"/>
     </p>
 </speak>

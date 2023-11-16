@@ -57,10 +57,10 @@
     </p>
     <p ru="Грань, край, граница, обочина, посох, жезл, приближаться, клониться">
         <s meaning="word">Verge</s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+        <s meaning="example">The breed was on the verge of extinction.</s><break time="1000ms"/>
+        <!-- Эта порода была на грани исчезновения. -->
+        <s>The breed was on the verge of extinction.</s><break time="1000ms"/>
+        <s>The breed was on the verge of extinction.</s><break time="1000ms"/>
     </p>
     <p ru="Стойло, киоск, ларек, кабинка, прилавок, глохнуть, ставить в стойло, задерживать">
         <s meaning="word">Stall</s><break time="2000ms"/>

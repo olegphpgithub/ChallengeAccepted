@@ -6,19 +6,19 @@
         <s>I must apologise for my outrageous behaviour.</s><break time="1000ms"/>
         <s>I must apologise for my outrageous behaviour.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Яростный, разъяренный, бешеный, неистовый, свирепый, взбешенный, злющий">
+        <s meaning="word">Furious</s><break time="2000ms"/>
+        <s meaning="example">My mother was furious because she had been waiting for us for 2 hours.</s><break time="1000ms"/>
+        <!-- Моя мама была в ярости, потому что ждала нас уже 2 часа. -->
+        <s>My mother was furious because she had been waiting for us for 2 hours.</s><break time="1000ms"/>
+        <s>My mother was furious because she had been waiting for us for 2 hours.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Перерыв, остановка, прекращение">
+        <s meaning="word">Cease</s><break time="2000ms"/>
+        <s meaning="example">Cease fire now!</s><break time="1000ms"/>
+        <!-- Немедленно прекратите огонь! -->
+        <s>Cease fire now!</s><break time="1000ms"/>
+        <s>Cease fire now!</s><break time="1000ms"/>
     </p>
     <p ru="">
         <s meaning="word"></s><break time="2000ms"/>

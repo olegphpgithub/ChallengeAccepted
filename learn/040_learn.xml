@@ -20,19 +20,19 @@
         <s>Cease fire now!</s><break time="1000ms"/>
         <s>Cease fire now!</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Предостережение, нюанс, оговорка">
+        <s meaning="word">Caveat</s><break time="2000ms"/>
+        <s meaning="example">However, this usage isn't portable, and comes with some important caveats.</s><break time="1000ms"/>
+        <!-- Однако это использование не является переносимым и поставляется с некоторыми важными предостережениями. -->
+        <s>However, this usage isn't portable, and comes with some important caveats.</s><break time="1000ms"/>
+        <s>However, this usage isn't portable, and comes with some important caveats.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Вкус, аромат, привкус">
+        <s meaning="word">Flavor</s><break time="2000ms"/>
+        <s meaning="example">Hey, we have every flavor, you name it, pineapple.</s><break time="1000ms"/>
+        <!-- Эй, у нас есть все вкусы, как ни назови, ананасовые. -->
+        <s>Hey, we have every flavor, you name it, pineapple.</s><break time="1000ms"/>
+        <s>Hey, we have every flavor, you name it, pineapple.</s><break time="1000ms"/>
     </p>
     <p ru="">
         <s meaning="word"></s><break time="2000ms"/>

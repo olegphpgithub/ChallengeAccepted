@@ -41,12 +41,12 @@
         <s></s><break time="1000ms"/>
         <s></s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Обманывать, одурачивать, обдуривать, простофиля, жертва обмана, простак">
+        <s meaning="word">Dupe</s><break time="2000ms"/>
+        <s meaning="example">Hey, that's the name of the game. The car sallers always dupe you.</s><break time="1000ms"/>
+        <!-- Эй, чего ты хотел? Продавцы автомобилей всегда обманывают вас. -->
+        <s>Hey, that's the name of the game. The car sallers always dupe you.</s><break time="1000ms"/>
+        <s>Hey, that's the name of the game. The car sallers always dupe you.</s><break time="1000ms"/>
     </p>
     <p ru="">
         <s meaning="word"></s><break time="2000ms"/>

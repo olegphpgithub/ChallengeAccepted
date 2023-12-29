@@ -1,17 +1,17 @@
 <speak>
     <p ru="Враждебный, вражеский, неприятельский, враг, противник">
         <s meaning="word">Hostile</s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+        <s meaning="example">The Israeli web site was damaged by hostile hackers.</s><break time="1000ms"/>
+        <!-- Этот израильский веб-сайт был повреждён вражескими хакерами. -->
+        <s>The Israeli web site was damaged by hostile hackers.</s><break time="1000ms"/>
+        <s>The Israeli web site was damaged by hostile hackers.</s><break time="1000ms"/>
     </p>
     <p ru="Безвозвратный, невосполнимый, непоправимый, невозместимый, невозвратный">
         <s meaning="word">Irretrievable</s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+        <s meaning="example">The data was irretrievable after the computer crashed.</s><break time="1000ms"/>
+        <!-- После того, как компьютер вышел из строя, данные были безвозвратно утеряны. -->
+        <s>The data was irretrievable after the computer crashed.</s><break time="1000ms"/>
+        <s>The data was irretrievable after the computer crashed.</s><break time="1000ms"/>
     </p>
     <p ru="Сделка, выгодная покупка, торг, торговаться, заключать сделку">
         <s meaning="word">Bargain</s><break time="2000ms"/>

@@ -48,12 +48,12 @@
         <s>Hey, that's the name of the game. The car sallers always dupe you.</s><break time="1000ms"/>
         <s>Hey, that's the name of the game. The car sallers always dupe you.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Скрепить, закреплять, прикреплять, прикрепляться, застегиваться, застегивать">
+        <s meaning="word">Fasten</s><break time="2000ms"/>
+        <s meaning="example">Make sure all the windows are securely fastened before you leave.</s><break time="1000ms"/>
+        <!-- Перед уходом убедитесь, что все окна надёжно заперты. -->
+        <s>Make sure all the windows are securely fastened before you leave.</s><break time="1000ms"/>
+        <s>Make sure all the windows are securely fastened before you leave.</s><break time="1000ms"/>
     </p>
     <p ru="">
         <s meaning="word"></s><break time="2000ms"/>

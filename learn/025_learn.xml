@@ -1,0 +1,72 @@
+<speak>
+    <p ru="ржавчина, ржаветь, притупляться, делать ржавым">
+        <s meaning="word">Rust</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+        <!---->
+        <s></s><break time="1000ms"/>
+        <s></s><break time="1000ms"/>
+    </p>
+    <p ru="выхлопной, выпускной, исчерпывать, извести, выпуск, выхлоп">
+        <s meaning="word">Exhaust</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+        <!---->
+        <s></s><break time="1000ms"/>
+        <s></s><break time="1000ms"/>
+    </p>
+    <p ru="печь, топка, печка, очаг, кузнечный горн, обжигать в печи">
+        <s meaning="word">Furnace</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+        <!---->
+        <s></s><break time="1000ms"/>
+        <s></s><break time="1000ms"/>
+    </p>
+    <p ru="взрыв, дутье, звук, взрывная волна, дуть, взрывать, разносить, разрушать">
+        <s meaning="word">Blast</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+        <!---->
+        <s></s><break time="1000ms"/>
+        <s></s><break time="1000ms"/>
+    </p>
+    <p ru="очищать, усовершенствовать, совершенствовать, совершенствоваться, улучшать">
+        <s meaning="word">Refine</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+        <!---->
+        <s></s><break time="1000ms"/>
+        <s></s><break time="1000ms"/>
+    </p>
+    <p ru="отменять, упразднять, уничтожать">
+        <s meaning="word">Abolish</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+        <!---->
+        <s></s><break time="1000ms"/>
+        <s></s><break time="1000ms"/>
+    </p>
+    <p ru="кора, корка, корочка, земная кора, струп, покрывать коркой, покрываться коркой">
+        <s meaning="word">Crust</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+        <!---->
+        <s></s><break time="1000ms"/>
+        <s></s><break time="1000ms"/>
+    </p>
+    <p ru="корпус, остов, фюзеляж, каркас, шелуха, шелушить, лущить, очищать от шелухи">
+        <s meaning="word">Hull</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+        <!---->
+        <s></s><break time="1000ms"/>
+        <s></s><break time="1000ms"/>
+    </p>
+    <p ru="следовательно, отсюда, с этих пор">
+        <s meaning="word">Hence</s><break time="2000ms"/>
+        <s meaning="example">My concern is you are basing new function on prior function, hence new function has a bug too.</s><break time="1000ms"/>
+        <!-- Меня беспокоит то, что вы основываете новую функцию на предыдущей функции, следовательно, в новой функции тоже есть ошибка. -->
+        <s>My concern is you are basing new function on prior function, hence new function has a bug too.</s><break time="1000ms"/>
+        <s>My concern is you are basing new function on prior function, hence new function has a bug too.</s><break time="1000ms"/>
+    </p>
+    <p ru="огромный, обширный, громадный, безбрежный, простор">
+        <s meaning="word">Vast</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+        <!---->
+        <s></s><break time="1000ms"/>
+        <s></s><break time="1000ms"/>
+    </p>
+</speak>

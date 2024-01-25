@@ -34,12 +34,12 @@
         <s>Hey, we have every flavor, you name it, pineapple.</s><break time="1000ms"/>
         <s>Hey, we have every flavor, you name it, pineapple.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Предполагать, принимать, брать на себя, допускать, принимать на себя">
+        <s meaning="word">Assume</s><break time="2000ms"/>
+        <s meaning="example">Then this is reason for failure, I assume it was not tested.</s><break time="1000ms"/>
+        <!-- Тогда это причина сбоя, я предполагаю, что он не был протестирован. -->
+        <s>Then this is reason for failure, I assume it was not tested.</s><break time="1000ms"/>
+        <s>Then this is reason for failure, I assume it was not tested.</s><break time="1000ms"/>
     </p>
     <p ru="Обманывать, одурачивать, обдуривать, простофиля, жертва обмана, простак">
         <s meaning="word">Dupe</s><break time="2000ms"/>

@@ -1,0 +1,30 @@
+<speak>
+    <p ru="Корзина">
+        <s meaning="word">Busket</s><break time="2000ms"/>
+        <s meaning="example">Вид спорта в котором нужно попать мячом в кольцо.</s><break time="1000ms"/>
+    </p>
+    <p ru="Бобы">
+        <s meaning="word">Beans</s><break time="2000ms"/>
+        <s meaning="example">Ну! Запомни ты бензин!</s><break time="1000ms"/>
+    </p>
+    <p ru="Масло">
+        <s meaning="word">Butter</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+    </p>
+    <p ru="Кокос">
+        <s meaning="word">Coconut</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+    </p>
+    <p ru="Легко">
+        <s meaning="word">Easy</s><break time="2000ms"/>
+        <s meaning="example">Да я тебя сейчас на ... сделаю.</s><break time="1000ms"/>
+    </p>
+    <p ru="Мука">
+        <s meaning="word">Flour</s><break time="2000ms"/>
+        <s meaning="example">У меня для тебя есть мука и цветы.</s><break time="1000ms"/>
+    </p>
+    <p ru="Теперь твоя очередь">
+        <s meaning="word">It's your turn</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+    </p>
+</speak>

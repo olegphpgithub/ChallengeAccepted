@@ -55,12 +55,12 @@
         <s>Make sure all the windows are securely fastened before you leave.</s><break time="1000ms"/>
         <s>Make sure all the windows are securely fastened before you leave.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Воспринимать, чувствовать, ощущать, понимать, осознавать, постигать, усмотреть">
+        <s meaning="word">Perceive</s><break time="2000ms"/>
+        <s meaning="example">They might not fully yet perceive.</s><break time="1000ms"/>
+        <!-- Возможно, они еще не до конца осознают это. -->
+        <s>They might not fully yet perceive.</s><break time="1000ms"/>
+        <s>They might not fully yet perceive.</s><break time="1000ms"/>
     </p>
     <p ru="">
         <s meaning="word"></s><break time="2000ms"/>

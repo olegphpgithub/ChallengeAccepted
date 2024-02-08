@@ -62,11 +62,11 @@
         <s>They might not fully yet perceive.</s><break time="1000ms"/>
         <s>They might not fully yet perceive.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Вряд ли, едва, едва ли, чуть, с трудом, еле, насилу, резко, сурово, несправедливо">
+        <s meaning="word">Hardly</s><break time="2000ms"/>
+        <s meaning="example">The red room was a cold silent room, hardly ever used.</s><break time="1000ms"/>
+        <!-- Красная комната была холодной и тихой комнатой, которой почти никогда не пользовались. -->
+        <s>The red room was a cold silent room, hardly ever used.</s><break time="1000ms"/>
+        <s>The red room was a cold silent room, hardly ever used.</s><break time="1000ms"/>
     </p>
 </speak>

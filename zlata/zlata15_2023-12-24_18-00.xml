@@ -1,0 +1,50 @@
+<speak>
+    <p ru="Январь">
+        <s meaning="word">January</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+    </p>
+    <p ru="Февраль">
+        <s meaning="word">February</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+    </p>
+    <p ru="Март">
+        <s meaning="word">March</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+    </p>
+    <p ru="Апрель">
+        <s meaning="word">April</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+    </p>
+    <p ru="Май">
+        <s meaning="word">May</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+    </p>
+    <p ru="Июнь">
+        <s meaning="word">June</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+    </p>
+    <p ru="Июль">
+        <s meaning="word">July</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+    </p>
+    <p ru="Август">
+        <s meaning="word">August</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+    </p>
+    <p ru="Сентябрь">
+        <s meaning="word">September</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+    </p>
+    <p ru="Октябрь">
+        <s meaning="word">October</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+    </p>
+    <p ru="Ноябрь">
+        <s meaning="word">November</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+    </p>
+    <p ru="Декабрь">
+        <s meaning="word">December</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+    </p>
+</speak>

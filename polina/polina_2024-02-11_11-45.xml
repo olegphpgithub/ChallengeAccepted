@@ -1,0 +1,26 @@
+<speak>
+    <p ru="Мальчик">
+        <s meaning="word">Boy</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+    </p>
+    <p ru="Девочка">
+        <s meaning="word">Girl</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+    </p>
+    <p ru="Карабкаться">
+        <s meaning="word">Climb</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+    </p>
+    <p ru="Уважаемый, дорогой">
+        <s meaning="word">Dear</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+    </p>
+    <p ru="Шимпанзе">
+        <s meaning="word">Chimp</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+    </p>
+    <p ru="Дерево">
+        <s meaning="word">Tree</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+    </p>
+</speak>

@@ -1,0 +1,38 @@
+<speak>
+    <p ru="Очень вкусный">
+        <s meaning="word">Delicious</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+    </p>
+    <p ru="Вчера">
+        <s meaning="word">Yesterday</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+    </p>
+    <p ru="Злой">
+        <s meaning="word">Angry</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+    </p>
+    <p ru="Скучающий">
+        <s meaning="word">Bored</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+    </p>
+    <p ru="Мечта, сон">
+        <s meaning="word">Dream</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+    </p>
+    <p ru="Календарь">
+        <s meaning="word">Calendar</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+    </p>
+    <p ru="Танцор">
+        <s meaning="word">Dancer</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+    </p>
+    <p ru="Испуганный">
+        <s meaning="word">Scared</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+    </p>
+    <p ru="Уставший">
+        <s meaning="word">Tired</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+    </p>
+</speak>

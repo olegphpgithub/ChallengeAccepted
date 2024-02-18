@@ -1,0 +1,18 @@
+<speak>
+    <p ru="Качели, поворот, качание, колебание, качаться, качать, размахивать">
+        <s meaning="word">Swing</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+    </p>
+    <p ru="Цирк, амфитеатр, круглая площадь, горный амфитеатр, занимательное зрелище">
+        <s meaning="word">Circus</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+    </p>
+    <p ru="Маг, волшебник, фокусник, чародей, заклинатель">
+        <s meaning="word">Magician</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+    </p>
+    <p ru="Клоун, шут, паяц, неотесанный парень, дурачиться, изображать из себя клоуна">
+        <s meaning="word">Clown</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+    </p>
+</speak>

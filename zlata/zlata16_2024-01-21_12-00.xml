@@ -1,0 +1,26 @@
+<speak>
+    <p ru="Первый">
+        <s meaning="word">First</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+    </p>
+    <p ru="Второй">
+        <s meaning="word">Second</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+    </p>
+    <p ru="Третий">
+        <s meaning="word">Third</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+    </p>
+    <p ru="Четвёртый">
+        <s meaning="word">Fourth</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+    </p>
+    <p ru="Пятый">
+        <s meaning="word">Fifth</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+    </p>
+    <p ru="Шестой">
+        <s meaning="word">Sixth</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+    </p>
+</speak>

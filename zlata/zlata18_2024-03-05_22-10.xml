@@ -1,0 +1,42 @@
+<speak>
+    <p ru="Перчатка">
+        <s meaning="word">Glove</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+    </p>
+    <p ru="Расческа для волос">
+        <s meaning="word">Hairbrush</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+    </p>
+    <p ru="Делать покупки">
+        <s meaning="word">Go shopping</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+    </p>
+    <p ru="Пекарня">
+        <s meaning="word">baker's</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+    </p>
+    <p ru="Заниматься">
+        <s meaning="word">Play sports</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+    </p>
+    <p ru="Обычно">
+        <s meaning="word">Usually</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+    </p>
+    <p ru="Платить">
+        <s meaning="word">Pay</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+    </p>
+    <p ru="Буханка хлеба">
+        <s meaning="word">A loaf of bread</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+    </p>
+    <p ru="Жираф">
+        <s meaning="word">Giraffe</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+    </p>
+    <p ru="Зоопарк">
+        <s meaning="word">Zoo</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+    </p>
+</speak>

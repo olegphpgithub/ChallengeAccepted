@@ -6,12 +6,15 @@
         <s>The monarchic rule was abolished and eventually replaced by the first constitutionally socialist state.</s><break time="1000ms"/>
         <s>The monarchic rule was abolished and eventually replaced by the first constitutionally socialist state.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
+    <p ru="Подкова">
+        <s meaning="word">Horseshoe</s><break time="2000ms"/>
+        <s meaning="example">For want of a nail the horseshoe was lost.</s><break time="1000ms"/>
         <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+        <s>For want of a horseshoe the horse was lost,</s><break time="1000ms"/>
+        <s>For want of a horse the rider was lost,</s><break time="1000ms"/>
+        <s>For want of a rider the battle was lost,</s><break time="1000ms"/>
+        <s>For want of a battle the kingdom was lost,</s><break time="1000ms"/>
+        <s>And all for the want of horseshoe nail.</s><break time="1000ms"/>
     </p>
     <p ru="">
         <s meaning="word"></s><break time="2000ms"/>

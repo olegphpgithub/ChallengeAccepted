@@ -27,7 +27,7 @@
         <s>Divide 12 pencils amongst 4 children equally.</s><break time="1000ms"/>
         <s>Divide 12 pencils amongst 4 children equally.</s><break time="1000ms"/>
     </p>
-    <p ru="Скорость, ставка, темп, тариф, коэффициент, оценивать, тарифицировать">
+    <p ru="Ставка, темп, тариф, коэффициент, оценивать, тарифицировать">
         <s meaning="word">Rate</s><break time="2000ms"/>
         <s meaning="example">I rate him among my friends.</s><break time="1000ms"/>
         <!-- Я считаю его своим другом. -->

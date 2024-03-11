@@ -16,12 +16,12 @@
         <s>For want of a battle the kingdom was lost,</s><break time="1000ms"/>
         <s>And all for the want of horseshoe nail.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="В ожидании, вплоть до, в течение, ожидаемый, ожидающий решения">
+        <s meaning="word">Pending</s><break time="2000ms"/>
+        <s meaning="example">He is being held in jail pending trial.</s><break time="1000ms"/>
+        <!-- Он содержится в тюрьме в ожидании суда. -->
+        <s>He is being held in jail pending trial.</s><break time="1000ms"/>
+        <s>He is being held in jail pending trial.</s><break time="1000ms"/>
     </p>
     <p ru="">
         <s meaning="word"></s><break time="2000ms"/>

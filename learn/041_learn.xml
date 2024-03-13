@@ -23,12 +23,12 @@
         <s>He is being held in jail pending trial.</s><break time="1000ms"/>
         <s>He is being held in jail pending trial.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Воспользоваться">
+        <s meaning="word">Avail</s><break time="2000ms"/>
+        <s meaning="example">I shall avail myself of this opportunity to meet you there.</s><break time="1000ms"/>
+        <!-- Я воспользуюсь этой возможностью, чтобы встретиться с вами там. -->
+        <s>I shall avail myself of this opportunity to meet you there.</s><break time="1000ms"/>
+        <s>I shall avail myself of this opportunity to meet you there.</s><break time="1000ms"/>
     </p>
     <p ru="">
         <s meaning="word"></s><break time="2000ms"/>

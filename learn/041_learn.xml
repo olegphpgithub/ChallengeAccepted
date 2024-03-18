@@ -37,12 +37,12 @@
         <s>Victoria was the epitome of evil.</s><break time="1000ms"/>
         <s>Victoria was the epitome of evil.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Характерно, характерная особенность">
+        <s meaning="word">Endemic</s><break time="2000ms"/>
+        <s meaning="example">This is endemic to our company and cannot occur again.</s><break time="1000ms"/>
+        <!-- Это характерно для нашей компании и не может повториться. -->
+        <s>This is endemic to our company and cannot occur again.</s><break time="1000ms"/>
+        <s>This is endemic to our company and cannot occur again.</s><break time="1000ms"/>
     </p>
     <p ru="">
         <s meaning="word"></s><break time="2000ms"/>

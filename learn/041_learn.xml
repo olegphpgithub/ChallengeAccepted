@@ -44,12 +44,12 @@
         <s>This is endemic to our company and cannot occur again.</s><break time="1000ms"/>
         <s>This is endemic to our company and cannot occur again.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Распад, разложение, гниение, упадок, распадаться, разлагаться, разрушаться">
+        <s meaning="word">Decay</s><break time="2000ms"/>
+        <s meaning="example">All of gold's radioisotopes with atomic masses above 197 decay.</s><break time="1000ms"/>
+        <!-- Все радиоизотопы золота с атомными массами выше 197 распадаются путем бета-распада. -->
+        <s>All of gold's radioisotopes with atomic masses above 197 decay.</s><break time="1000ms"/>
+        <s>All of gold's radioisotopes with atomic masses above 197 decay.</s><break time="1000ms"/>
     </p>
     <p ru="">
         <s meaning="word"></s><break time="2000ms"/>

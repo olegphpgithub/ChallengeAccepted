@@ -65,11 +65,11 @@
         <s>Let them say I lived in the time of Hector tamer of horses.</s><break time="1000ms"/>
         <s>Let them say I lived in the time of Hector tamer of horses.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Издеваться, насмехаться, ложный, фиктивный, насмешка, пародия">
+        <s meaning="word">Mock</s><break time="2000ms"/>
+        <s meaning="example">Do not mock the gods.</s><break time="1000ms"/>
+        <!-- Не насмехайся над богами. -->
+        <s>Do not mock the gods.</s><break time="1000ms"/>
+        <s>Do not mock the gods.</s><break time="1000ms"/>
     </p>
 </speak>

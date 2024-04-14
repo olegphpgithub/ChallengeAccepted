@@ -1,0 +1,26 @@
+<speak>
+    <p ru="Юбка">
+        <s meaning="word">Skirt</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+    </p>
+    <p ru="Остров">
+        <s meaning="word">Island</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+    </p>
+    <p ru="Носки">
+        <s meaning="word">Socks</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+    </p>
+    <p ru="Футболка">
+        <s meaning="word">T-shirt</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+    </p>
+    <p ru="Обувь">
+        <s meaning="word">Shoes</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+    </p>
+    <p ru="Джинсы">
+        <s meaning="word">Jeans</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+    </p>
+</speak>

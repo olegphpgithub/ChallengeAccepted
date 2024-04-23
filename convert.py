@@ -1,9 +1,6 @@
 import os
 import re
-import mysql.connector
 from datetime import datetime
-
-from local_settings import *
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 INPUT_FILE = r'd:\nnRus.Git\ChallengeAccepted\learn\024_learn.txt'

@@ -1,0 +1,34 @@
+<speak>
+    <p ru="Купальник">
+        <s meaning="word">Swimsuit</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+    </p>
+    <p ru="Солнцезащитные очки">
+        <s meaning="word">Sunglasses</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+    </p>
+    <p ru="Плавки">
+        <s meaning="word">Swimming trunks</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+    </p>
+    <p ru="Джинсы">
+        <s meaning="word">Jeans</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+    </p>
+    <p ru="Ботинки">
+        <s meaning="word">Boots</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+    </p>
+    <p ru="Палатка">
+        <s meaning="word">Tent</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+    </p>
+    <p ru="Ласты">
+        <s meaning="word">Flippers</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+    </p>
+    <p ru="Спальный мешок">
+        <s meaning="word">Sleeping bag</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+    </p>
+</speak>

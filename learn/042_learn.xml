@@ -6,10 +6,10 @@
         <s>Russia has said again and again it will never forgive: treachery.</s><break time="1000ms"/>
         <s>Russia has said again and again it will never forgive: treachery.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!--  -->
+    <p ru="Месить, замесить, замешивать, массировать, размесить, растирать, уминать">
+        <s meaning="word">Knead</s><break time="2000ms"/>
+        <s meaning="example">Jake was roasting meat while Cara kneading dough.</s><break time="1000ms"/>
+        <!-- Джейк жарил мясо, а Кара замешивала тесто. -->
         <s></s><break time="1000ms"/>
         <s></s><break time="1000ms"/>
     </p>

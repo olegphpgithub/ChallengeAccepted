@@ -13,12 +13,12 @@
         <s></s><break time="1000ms"/>
         <s></s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!--  -->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Вмятина, след, выемка, зубец, впадина, вдавливать, вминать, насекать">
+        <s meaning="word">Dent</s><break time="2000ms"/>
+        <s meaning="example">Our trust in allies dented by arms delivery failures.</s><break time="1000ms"/>
+        <!-- Наше доверие к союзникам подорвано неудачами в поставках оружия. -->
+        <s>Our trust in allies dented by arms delivery failures.</s><break time="1000ms"/>
+        <s>Our trust in allies dented by arms delivery failures.</s><break time="1000ms"/>
     </p>
     <p ru="">
         <s meaning="word"></s><break time="2000ms"/>

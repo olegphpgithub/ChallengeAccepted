@@ -20,26 +20,26 @@
         <s>Our trust in allies dented by arms delivery failures.</s><break time="1000ms"/>
         <s>Our trust in allies dented by arms delivery failures.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!--  -->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Теплота, сердечность, горячность">
+        <s meaning="word">Warmth</s><break time="2000ms"/>
+        <s meaning="example">Life with my family is full of warmth and joy.</s><break time="1000ms"/>
+        <!-- Жизнь с моей семьей полна тепла и радости. -->
+        <s>Life with my family is full of warmth and joy.</s><break time="1000ms"/>
+        <s>Life with my family is full of warmth and joy.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!--  -->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Вспоминать">
+        <s meaning="word">Recall</s><break time="2000ms"/>
+        <s meaning="example">I can't recall his name.</s><break time="1000ms"/>
+        <!-- Не могу вспомнить его имя. -->
+        <s>I can't recall his name.</s><break time="1000ms"/>
+        <s>I can't recall his name.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!--  -->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Вдова, висячая строка, лишать, обездоливать, отнимать">
+        <s meaning="word">Widow</s><break time="2000ms"/>
+        <s meaning="example">She has fresh widowed.</s><break time="1000ms"/>
+        <!-- Она недавно овдовела. -->
+        <s>She has fresh widowed.</s><break time="1000ms"/>
+        <s>She has fresh widowed.</s><break time="1000ms"/>
     </p>
     <p ru="">
         <s meaning="word"></s><break time="2000ms"/>

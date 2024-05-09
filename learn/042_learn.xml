@@ -41,32 +41,32 @@
         <s>She has fresh widowed.</s><break time="1000ms"/>
         <s>She has fresh widowed.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!--  -->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Жесткий, строгий, суровый">
+        <s meaning="word">Stern</s><break time="2000ms"/>
+        <s meaning="example">About time we had some stern northern leadership.</s><break time="1000ms"/>
+        <!-- Строгий северный правитель нам очень кстати. -->
+        <s>About time we had some stern northern leadership.</s><break time="1000ms"/>
+        <s>About time we had some stern northern leadership.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!--  -->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Крепкий, сильный, здоровый, твердый, здоровяк">
+        <s meaning="word">Sturdy</s><break time="2000ms"/>
+        <s meaning="example">Glad to see you are protecting the throne. Sturdy old thing.</s><break time="1000ms"/>
+        <!-- Рад видеть, что ты защищаешь трон. Крепкая старая вещь. -->
+        <s>Glad to see you are protecting the throne. Sturdy old thing.</s><break time="1000ms"/>
+        <s>Glad to see you are protecting the throne. Sturdy old thing.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!--  -->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Царапина, царапанье, скрип, поцарапать, царапать, сборный, разношерстный">
+        <s meaning="word">Scratch</s><break time="2000ms"/>
+        <s meaning="example">Very handsome armor. Not a scratch on it.</s><break time="1000ms"/>
+        <!-- Очень красивые доспехи. На них нет ни царапины. -->
+        <s>Very handsome armor. Not a scratch on it.</s><break time="1000ms"/>
+        <s>Very handsome armor. Not a scratch on it.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!--  -->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Едва, только, лишь, еле-еле, просто, прямо, открыто">
+        <s meaning="word">Barely</s><break time="2000ms"/>
+        <s meaning="example">- May I be excused? - You have barely eaten a thing.</s><break time="1000ms"/>
+        <!-- - Могу я извиниться? - Вы почти ничего не съели. -->
+        <s>- May I be excused? - You have barely eaten a thing.</s><break time="1000ms"/>
+        <s>- May I be excused? - You have barely eaten a thing.</s><break time="1000ms"/>
     </p>
 </speak>

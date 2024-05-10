@@ -6,12 +6,12 @@
         <s>You little worm! You take me for some back-alley Sally.</s><break time="1000ms"/>
         <s>You little worm! You take me for some back-alley Sally.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!--  -->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Ради">
+        <s meaning="word">Sake</s><break time="2000ms"/>
+        <s meaning="example">I'll try to keep you alive, for her sake.</s><break time="1000ms"/>
+        <!-- Я постараюсь сохранить тебе жизнь, ради нее. -->
+        <s>I'll try to keep you alive, for her sake.</s><break time="1000ms"/>
+        <s>I'll try to keep you alive, for her sake.</s><break time="1000ms"/>
     </p>
     <p ru="">
         <s meaning="word"></s><break time="2000ms"/>

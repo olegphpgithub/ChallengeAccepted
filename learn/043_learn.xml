@@ -13,12 +13,12 @@
         <s>I'll try to keep you alive, for her sake.</s><break time="1000ms"/>
         <s>I'll try to keep you alive, for her sake.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!--  -->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Калека, инвалид, калечить, искалечить, уродовать">
+        <s meaning="word">Cripple</s><break time="2000ms"/>
+        <s meaning="example">If you're going to be a cripple, it's better to be a rich cripple.</s><break time="1000ms"/>
+        <!-- Если ты собираешься стать калекой, то лучше быть богатым калекой. -->
+        <s>If you're going to be a cripple, it's better to be a rich cripple.</s><break time="1000ms"/>
+        <s>If you're going to be a cripple, it's better to be a rich cripple.</s><break time="1000ms"/>
     </p>
     <p ru="">
         <s meaning="word"></s><break time="2000ms"/>

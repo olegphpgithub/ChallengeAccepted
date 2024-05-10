@@ -1,6 +1,6 @@
 <speak>
-    <p ru="Treachery">
-        <s meaning="word">Предательство, вероломство</s><break time="2000ms"/>
+    <p ru="Предательство, вероломство">
+        <s meaning="word">Treachery</s><break time="2000ms"/>
         <s meaning="example">Russia has said again and again it will never forgive: treachery.</s><break time="1000ms"/>
         <!-- Россия снова и снова повторяла, что никогда не простит предательства. -->
         <s>Russia has said again and again it will never forgive: treachery.</s><break time="1000ms"/>

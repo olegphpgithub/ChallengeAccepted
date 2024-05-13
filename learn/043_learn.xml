@@ -27,12 +27,12 @@
         <s>It I was cooped up all day with no one, I'd go mad.</s><break time="1000ms"/>
         <s>It I was cooped up all day with no one, I'd go mad.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!--  -->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Вежливость, учтивость, обходительность, этикет, правила вежливости">
+        <s meaning="word">Courtesy</s><break time="2000ms"/>
+        <s meaning="example">Then you might learn a lord's courtesy.</s><break time="1000ms"/>
+        <!-- Тогда ты мог бы научиться вежливости лорда. -->
+        <s>Then you might learn a lord's courtesy.</s><break time="1000ms"/>
+        <s>Then you might learn a lord's courtesy.</s><break time="1000ms"/>
     </p>
     <p ru="">
         <s meaning="word"></s><break time="2000ms"/>

@@ -20,12 +20,12 @@
         <s>If you're going to be a cripple, it's better to be a rich cripple.</s><break time="1000ms"/>
         <s>If you're going to be a cripple, it's better to be a rich cripple.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!--  -->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Запертый в клетке">
+        <s meaning="word">Cooped up</s><break time="2000ms"/>
+        <s meaning="example">It I was cooped up all day with no one, I'd go mad.</s><break time="1000ms"/>
+        <!-- Если бы я целый день просидел взаперти, ни с кем не общаясь, я бы сошел с ума. -->
+        <s>It I was cooped up all day with no one, I'd go mad.</s><break time="1000ms"/>
+        <s>It I was cooped up all day with no one, I'd go mad.</s><break time="1000ms"/>
     </p>
     <p ru="">
         <s meaning="word"></s><break time="2000ms"/>

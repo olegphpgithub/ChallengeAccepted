@@ -1,0 +1,42 @@
+<speak>
+    <p ru="Заполни пропуск">
+        <s meaning="word">Is</s><break time="2000ms"/>
+        <s meaning="example">She is a good friend.</s><break time="1000ms"/>
+    </p>
+    <p ru="Заполни пропуск">
+        <s meaning="word">Am</s><break time="2000ms"/>
+        <s meaning="example">I am seven.</s><break time="1000ms"/>
+    </p>
+    <p ru="Заполни пропуск">
+        <s meaning="word">Is</s><break time="2000ms"/>
+        <s meaning="example">My name is Mary.</s><break time="1000ms"/>
+    </p>
+    <p ru="Заполни пропуск">
+        <s meaning="word">Are</s><break time="2000ms"/>
+        <s meaning="example">You are nice girl.</s><break time="1000ms"/>
+    </p>
+    <p ru="Заполни пропуск">
+        <s meaning="word"></s><break time="2000ms"/>
+        <s meaning="example">His name is Robin.</s><break time="1000ms"/>
+    </p>
+    <p ru="Заполни пропуск">
+        <s meaning="word">Are</s><break time="2000ms"/>
+        <s meaning="example">We are the champions</s><break time="1000ms"/>
+    </p>
+    <p ru="Заполни пропуск">
+        <s meaning="word">Is</s><break time="2000ms"/>
+        <s meaning="example">He is a good student.</s><break time="1000ms"/>
+    </p>
+    <p ru="Заполни пропуск">
+        <s meaning="word">Is</s><break time="2000ms"/>
+        <s meaning="example">She is a nice girl.</s><break time="1000ms"/>
+    </p>
+    <p ru="Заполни пропуск">
+        <s meaning="word">Am</s><break time="2000ms"/>
+        <s meaning="example">I am very fast.</s><break time="1000ms"/>
+    </p>
+    <p ru="Заполни пропуск">
+        <s meaning="word">Is</s><break time="2000ms"/>
+        <s meaning="example">Polina is strong.</s><break time="1000ms"/>
+    </p>
+</speak>

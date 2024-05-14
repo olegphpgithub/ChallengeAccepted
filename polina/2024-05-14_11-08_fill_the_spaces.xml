@@ -1,42 +1,78 @@
 <speak>
-    <p ru="Заполни пропуск">
+    <p ru="Она хорошая девочка.">
         <s meaning="word">Is</s><break time="2000ms"/>
         <s meaning="example">She is a good friend.</s><break time="1000ms"/>
     </p>
-    <p ru="Заполни пропуск">
+    <p ru="Мне семь.">
         <s meaning="word">Am</s><break time="2000ms"/>
         <s meaning="example">I am seven.</s><break time="1000ms"/>
     </p>
-    <p ru="Заполни пропуск">
+    <p ru="Меня зовут Мэри.">
         <s meaning="word">Is</s><break time="2000ms"/>
         <s meaning="example">My name is Mary.</s><break time="1000ms"/>
     </p>
-    <p ru="Заполни пропуск">
+    <p ru="Ты хорошая девочка">
         <s meaning="word">Are</s><break time="2000ms"/>
         <s meaning="example">You are nice girl.</s><break time="1000ms"/>
     </p>
-    <p ru="Заполни пропуск">
+    <p ru="Его имя Робин.">
         <s meaning="word"></s><break time="2000ms"/>
         <s meaning="example">His name is Robin.</s><break time="1000ms"/>
     </p>
-    <p ru="Заполни пропуск">
+    <p ru="Это старое дерево">
+        <s meaning="word"></s><break time="2000ms"/>
+        <s meaning="example">Is is an old tree.</s><break time="1000ms"/>
+    </p>
+    <p ru="Мы чемпионы.">
         <s meaning="word">Are</s><break time="2000ms"/>
         <s meaning="example">We are the champions</s><break time="1000ms"/>
     </p>
-    <p ru="Заполни пропуск">
+    <p ru="Он хороший студент.">
         <s meaning="word">Is</s><break time="2000ms"/>
         <s meaning="example">He is a good student.</s><break time="1000ms"/>
     </p>
-    <p ru="Заполни пропуск">
+    <p ru="Оня хорошая девочка.">
         <s meaning="word">Is</s><break time="2000ms"/>
         <s meaning="example">She is a nice girl.</s><break time="1000ms"/>
     </p>
-    <p ru="Заполни пропуск">
+    <p ru="Я очень быстрый.">
         <s meaning="word">Am</s><break time="2000ms"/>
         <s meaning="example">I am very fast.</s><break time="1000ms"/>
     </p>
-    <p ru="Заполни пропуск">
+    <p ru="Полина сильная.">
         <s meaning="word">Is</s><break time="2000ms"/>
         <s meaning="example">Polina is strong.</s><break time="1000ms"/>
+    </p>
+    <p ru="У них новые игрушки.">
+        <s meaning="word">Have got</s><break time="2000ms"/>
+        <s meaning="example">They have got new toys.<s><break time="1000ms"/>
+    </p>
+    <p ru="У меня большие уши.">
+        <s meaning="word">Have got</s><break time="2000ms"/>
+        <s meaning="example">I have got big ears.<s><break time="1000ms"/>
+    </p>
+    <p ru="У Боба карие глаза.">
+        <s meaning="word">Has got</s><break time="2000ms"/>
+        <s meaning="example">Bob has got brown eyes.<s><break time="1000ms"/>
+    </p>
+    <p ru="У него красное пальто.">
+        <s meaning="word">Has got</s><break time="2000ms"/>
+        <s meaning="example">He has got a red coat.<s><break time="1000ms"/>
+    </p>
+    <p ru="У неё красные перчатки.">
+        <s meaning="word">Has got</s><break time="2000ms"/>
+        <s meaning="example">She has got a red gloves.<s><break time="1000ms"/>
+    </p>
+    <p ru="У Полины есть телефон.">
+        <s meaning="word">Has got</s><break time="2000ms"/>
+        <s meaning="example">Polina has got a phone.<s><break time="1000ms"/>
+    </p>
+    <p ru="У Олега есть лыжи.">
+        <s meaning="word">Has got</s><break time="2000ms"/>
+        <s meaning="example">Oleg has got a skis.<s><break time="1000ms"/>
+    </p>
+    <p ru="У них есть велосипед.">
+        <s meaning="word">have got</s><break time="2000ms"/>
+        <s meaning="example">They have got a bicycle.<s><break time="1000ms"/>
     </p>
 </speak>

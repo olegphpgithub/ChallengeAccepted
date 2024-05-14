@@ -1,0 +1,38 @@
+<speak>
+    <p ru="Яблоко">
+        <s meaning="word">Apple</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+    </p>
+    <p ru="Банан">
+        <s meaning="word">Banana</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+    </p>
+    <p ru="Печенье">
+        <s meaning="word">Bisquit</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+    </p>
+    <p ru="Бутерброт">
+        <s meaning="word">Burger</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+    </p>
+    <p ru="Жареная картошка">
+        <s meaning="word">Chips</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+    </p>
+    <p ru="Шоколад">
+        <s meaning="word">Chocolate</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+    </p>
+    <p ru="Мороженое">
+        <s meaning="word">Ice cream</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+    </p>
+    <p ru="Апальсиновый сок">
+        <s meaning="word">Orange juice</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+    </p>
+    <p ru="Пицца">
+        <s meaning="word">Pizza</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+    </p>
+</speak>

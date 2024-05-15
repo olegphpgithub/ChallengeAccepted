@@ -31,7 +31,7 @@
         <s meaning="word">Is</s><break time="2000ms"/>
         <s meaning="example">He is a good student.</s><break time="1000ms"/>
     </p>
-    <p ru="Оня хорошая девочка.">
+    <p ru="Она хорошая девочка.">
         <s meaning="word">Is</s><break time="2000ms"/>
         <s meaning="example">She is a nice girl.</s><break time="1000ms"/>
     </p>

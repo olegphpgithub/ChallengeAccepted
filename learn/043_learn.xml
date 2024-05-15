@@ -34,12 +34,12 @@
         <s>Then you might learn a lord's courtesy.</s><break time="1000ms"/>
         <s>Then you might learn a lord's courtesy.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!--  -->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Череп">
+        <s meaning="word">Skull</s><break time="2000ms"/>
+        <s meaning="example">I'll tell you what I have seen - their skulls.</s><break time="1000ms"/>
+        <!-- Я расскажу вам, что я видел - их черепа. -->
+        <s>I'll tell you what I have seen - their skulls.</s><break time="1000ms"/>
+        <s>I'll tell you what I have seen - their skulls.</s><break time="1000ms"/>
     </p>
     <p ru="">
         <s meaning="word"></s><break time="2000ms"/>

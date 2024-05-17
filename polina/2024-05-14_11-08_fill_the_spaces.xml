@@ -69,10 +69,22 @@
     </p>
     <p ru="У Олега есть лыжи.">
         <s meaning="word">Has got</s><break time="2000ms"/>
-        <s meaning="example">Oleg has got a skis.</s><break time="1000ms"/>
+        <s meaning="example">Oleg has got skis.</s><break time="1000ms"/>
     </p>
     <p ru="У них есть велосипед.">
         <s meaning="word">have got</s><break time="2000ms"/>
         <s meaning="example">They have got a bicycle.</s><break time="1000ms"/>
+    </p>
+    <p ru="Небо голубое.">
+        <s meaning="word">Is</s><break time="2000ms"/>
+        <s meaning="example">The sky is blue.</s><break time="1000ms"/>
+    </p>
+    <p ru="Город имеет большое футбольное поле.">
+        <s meaning="word">Has hot</s><break time="2000ms"/>
+        <s meaning="example">The city has hot a large football field.</s><break time="1000ms"/>
+    </p>
+    <p ru="Москва столица России.">
+        <s meaning="word">Is</s><break time="2000ms"/>
+        <s meaning="example">Moscow is the capital of Russia.</s><break time="1000ms"/>
     </p>
 </speak>

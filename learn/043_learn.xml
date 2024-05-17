@@ -41,26 +41,26 @@
         <s>I'll tell you what I have seen - their skulls.</s><break time="1000ms"/>
         <s>I'll tell you what I have seen - their skulls.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!--  -->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Самооценка">
+        <s meaning="word">Self-esteem</s><break time="2000ms"/>
+        <s meaning="example">Hair loss, teeth loos, Self-esteem less</s><break time="1000ms"/>
+        <!-- Падают волосы, выпадают зубы, самооценка -->
+        <s>Hair loss, teeth loos, Self-esteem less</s><break time="1000ms"/>
+        <s>Hair loss, teeth loos, Self-esteem less</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
+    <p ru="Вызывающий что-л.">
+        <s meaning="word">Causing</s><break time="2000ms"/>
+        <s meaning="example">It is the Hand's Tournament that is causing all this trouble.</s><break time="1000ms"/>
         <!--  -->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+        <s>It is the Hand's Tournament that is causing all this trouble.</s><break time="1000ms"/>
+        <s>It is the Hand's Tournament that is causing all this trouble.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!--  -->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Громоздкий, увесистый">
+        <s meaning="word">Ponderous</s><break time="2000ms"/>
+        <s meaning="example">I fear it would be of little interest to you, it's ponderous tome.</s><break time="1000ms"/>
+        <!-- Боюсь, это будет малоинтересно для вас, так как это увесистый том. -->
+        <s>I fear it would be of little interest to you, it's ponderous tome.</s><break time="1000ms"/>
+        <s>I fear it would be of little interest to you, it's ponderous tome.</s><break time="1000ms"/>
     </p>
     <p ru="">
         <s meaning="word"></s><break time="2000ms"/>

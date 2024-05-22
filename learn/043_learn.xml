@@ -62,11 +62,11 @@
         <s>I fear it would be of little interest to you, it's ponderous tome.</s><break time="1000ms"/>
         <s>I fear it would be of little interest to you, it's ponderous tome.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!--  -->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Имеющий право, подходящий, могущий быть избранным, желательный">
+        <s meaning="word">Eligible</s><break time="2000ms"/>
+        <s meaning="example">I'd like to join but I'm not eligible yet.</s><break time="1000ms"/>
+        <!-- Я бы хотела присоединиться, но пока не имею права. -->
+        <s>I'd like to join but I'm not eligible yet.</s><break time="1000ms"/>
+        <s>I'd like to join but I'm not eligible yet.</s><break time="1000ms"/>
     </p>
 </speak>

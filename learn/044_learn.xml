@@ -1,0 +1,72 @@
+<speak>
+    <p ru="Ревнивый, ревнующий, завидующий, завистливый, ревностный, ревниво оберегающий">
+        <s meaning="word">Jealous</s><break time="2000ms"/>
+        <s meaning="example">I can't believe you are jealous of a dream.</s><break time="1000ms"/>
+        <!-- Я не могу поверить, что ты ревнуешь меня к сну. -->
+        <s>I can't believe you are jealous of a dream.</s><break time="1000ms"/>
+        <s>I can't believe you are jealous of a dream.</s><break time="1000ms"/>
+    </p>
+    <p ru="">
+        <s meaning="word"></s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+        <!---->
+        <s></s><break time="1000ms"/>
+        <s></s><break time="1000ms"/>
+    </p>
+    <p ru="">
+        <s meaning="word"></s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+        <!---->
+        <s></s><break time="1000ms"/>
+        <s></s><break time="1000ms"/>
+    </p>
+    <p ru="">
+        <s meaning="word"></s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+        <!---->
+        <s></s><break time="1000ms"/>
+        <s></s><break time="1000ms"/>
+    </p>
+    <p ru="">
+        <s meaning="word"></s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+        <!---->
+        <s></s><break time="1000ms"/>
+        <s></s><break time="1000ms"/>
+    </p>
+    <p ru="">
+        <s meaning="word"></s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+        <!---->
+        <s></s><break time="1000ms"/>
+        <s></s><break time="1000ms"/>
+    </p>
+    <p ru="">
+        <s meaning="word"></s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+        <!---->
+        <s></s><break time="1000ms"/>
+        <s></s><break time="1000ms"/>
+    </p>
+    <p ru="">
+        <s meaning="word"></s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+        <!---->
+        <s></s><break time="1000ms"/>
+        <s></s><break time="1000ms"/>
+    </p>
+    <p ru="">
+        <s meaning="word"></s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+        <!---->
+        <s></s><break time="1000ms"/>
+        <s></s><break time="1000ms"/>
+    </p>
+    <p ru="">
+        <s meaning="word"></s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+        <!---->
+        <s></s><break time="1000ms"/>
+        <s></s><break time="1000ms"/>
+    </p>
+</speak>

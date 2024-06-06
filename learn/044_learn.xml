@@ -6,12 +6,12 @@
         <s>I can't believe you are jealous of a dream.</s><break time="1000ms"/>
         <s>I can't believe you are jealous of a dream.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Темп, скорость, шаг, поступь, шагать, расхаживать, с позволения">
+        <s meaning="word">Pace</s><break time="2000ms"/>
+        <s meaning="example">We to meet amid tensions over pace of U.S. military aid.</s><break time="1000ms"/>
+        <!-- Мы встретимся на фоне напряженности из-за темпов предоставления военной помощи США. -->
+        <s>We to meet amid tensions over pace of U.S. military aid.</s><break time="1000ms"/>
+        <s>We to meet amid tensions over pace of U.S. military aid.</s><break time="1000ms"/>
     </p>
     <p ru="">
         <s meaning="word"></s><break time="2000ms"/>

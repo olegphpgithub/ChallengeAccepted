@@ -13,12 +13,12 @@
         <s>We to meet amid tensions over pace of U.S. military aid.</s><break time="1000ms"/>
         <s>We to meet amid tensions over pace of U.S. military aid.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Сварливый, сердитый, раздражительный">
+        <s meaning="word">Grumpy</s><break time="2000ms"/>
+        <s meaning="example">If the children don't eat soon, they will be grumpy.</s><break time="1000ms"/>
+        <!-- Если дети в ближайшее время не поест, они станут сварливыми. -->
+        <s>If the children don't eat soon, they will be grumpy.</s><break time="1000ms"/>
+        <s>If the children don't eat soon, they will be grumpy.</s><break time="1000ms"/>
     </p>
     <p ru="">
         <s meaning="word"></s><break time="2000ms"/>

@@ -20,19 +20,19 @@
         <s>If the children don't eat soon, they will be grumpy.</s><break time="1000ms"/>
         <s>If the children don't eat soon, they will be grumpy.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Разумный, здравомыслящий, здравый, заметный, благоразумный, осмысленный">
+        <s meaning="word">Sensible</s><break time="2000ms"/>
+        <s meaning="example">It was sensible of Laura to keep silent in response to a stranger's abuse in the subway.</s><break time="1000ms"/>
+        <!-- Со стороны Лоры было разумно промолчать в ответ на оскорбления незнакомца в метро. -->
+        <s>It was sensible of Laura to keep silent in response to a stranger's abuse in the subway.</s><break time="1000ms"/>
+        <s>It was sensible of Laura to keep silent in response to a stranger's abuse in the subway.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Редкий, редкостный, исключительно, гренки с сыром">
+        <s meaning="word">Rare</s><break time="2000ms"/>
+        <s meaning="example">It is a rare metal found naturally on Earth almost exclusively as compounds.</s><break time="1000ms"/>
+        <!-- Это редкий металл, встречающийся в природе на Земле почти исключительно в виде соединений. -->
+        <s>It is a rare metal found naturally on Earth almost exclusively as compounds.</s><break time="1000ms"/>
+        <s>It is a rare metal found naturally on Earth almost exclusively as compounds.</s><break time="1000ms"/>
     </p>
     <p ru="">
         <s meaning="word"></s><break time="2000ms"/>

@@ -34,12 +34,12 @@
         <s>It is a rare metal found naturally on Earth almost exclusively as compounds.</s><break time="1000ms"/>
         <s>It is a rare metal found naturally on Earth almost exclusively as compounds.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Откровенно, прямо, резко, напрямик">
+        <s meaning="word">Bluntly</s><break time="2000ms"/>
+        <s meaning="example">Bluntly speaking, this song is utter garbage.</s><break time="1000ms"/>
+        <!-- Откровенно говоря, эта песня - полная чушь. -->
+        <s>Bluntly speaking, this song is utter garbage.</s><break time="1000ms"/>
+        <s>Bluntly speaking, this song is utter garbage.</s><break time="1000ms"/>
     </p>
     <p ru="">
         <s meaning="word"></s><break time="2000ms"/>

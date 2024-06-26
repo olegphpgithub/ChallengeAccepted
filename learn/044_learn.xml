@@ -41,12 +41,12 @@
         <s>Bluntly speaking, this song is utter garbage.</s><break time="1000ms"/>
         <s>Bluntly speaking, this song is utter garbage.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Пробка, автомобильная пробка, дорожная пробка, транспортная пробка, пробки на дорогах">
+        <s meaning="word">Traffic jam</s><break time="2000ms"/>
+        <s meaning="example">Because of the traffic jams, we couldn't get there on time.</s><break time="1000ms"/>
+        <!-- Из-за пробок на дорогах мы не смогли добраться туда вовремя. -->
+        <s>Because of the traffic jams, we couldn't get there on time.</s><break time="1000ms"/>
+        <s>Because of the traffic jams, we couldn't get there on time.</s><break time="1000ms"/>
     </p>
     <p ru="">
         <s meaning="word"></s><break time="2000ms"/>

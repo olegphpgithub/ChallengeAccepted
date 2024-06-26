@@ -69,4 +69,11 @@
         <s>The wine was doped.</s><break time="1000ms"/>
         <s>The wine was doped.</s><break time="1000ms"/>
     </p>
+    <p ru="Погружать, окунать, поглощать, вовлекать, запутывать, занимать">
+        <s meaning="word">Immerse</s><break time="2000ms"/>
+        <s meaning="example">Joule immersed a length of wire in a water and measured the temperature rise.</s><break time="1000ms"/>
+        <!-- Джоуль опустил кусок проволоки в воду и измерил повышение температуры. -->
+        <s>Joule immersed a length of wire in a water and measured the temperature rise.</s><break time="1000ms"/>
+        <s>Joule immersed a length of wire in a water and measured the temperature rise.</s><break time="1000ms"/>
+    </p>
 </speak>

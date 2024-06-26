@@ -48,12 +48,12 @@
         <s>Because of the traffic jams, we couldn't get there on time.</s><break time="1000ms"/>
         <s>Because of the traffic jams, we couldn't get there on time.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Окончательно, убедительно">
+        <s meaning="word">Decisively</s><break time="2000ms"/>
+        <s meaning="example">He pushed the door open decisively and went outside.</s><break time="1000ms"/>
+        <!-- Он решительно толкнул дверь и вышел на улицу. -->
+        <s>He pushed the door open decisively and went outside.</s><break time="1000ms"/>
+        <s>He pushed the door open decisively and went outside.</s><break time="1000ms"/>
     </p>
     <p ru="">
         <s meaning="word"></s><break time="2000ms"/>

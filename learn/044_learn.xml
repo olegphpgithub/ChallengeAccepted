@@ -55,18 +55,18 @@
         <s>He pushed the door open decisively and went outside.</s><break time="1000ms"/>
         <s>He pushed the door open decisively and went outside.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Добавка, легирующая примесь">
+        <s meaning="word">Dopant</s><break time="2000ms"/>
+        <s meaning="example">The charge carriers can be positive or negative, depending on the dopant used.</s><break time="1000ms"/>
+        <!-- Носители заряда могут быть положительными или отрицательными, в зависимости от используемой легирующей добавки. -->
+        <s>The charge carriers can be positive or negative, depending on the dopant used.</s><break time="1000ms"/>
+        <s>The charge carriers can be positive or negative, depending on the dopant used.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Допинг, наркотик, аэролак, дурман, лак, дурак, заливать горючее, лакировать">
+        <s meaning="word">Dope</s><break time="2000ms"/>
+        <s meaning="example">The wine was doped.</s><break time="1000ms"/>
+        <!-- В вино что-то подмешали. -->
+        <s>The wine was doped.</s><break time="1000ms"/>
+        <s>The wine was doped.</s><break time="1000ms"/>
     </p>
 </speak>

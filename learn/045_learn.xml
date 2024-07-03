@@ -1,0 +1,72 @@
+<speak>
+    <p ru="Подрывать, разрушать, подкапывать, подмывать, минировать, делать подкоп">
+        <s meaning="word">Undermine</s><break time="2000ms"/>
+        <s meaning="example">He spread these rumors to undermine trust in the government.</s><break time="1000ms"/>
+        <!-- Он распространял эти слухи, чтобы подорвать доверие к правительству. -->
+        <s>He spread these rumors to undermine trust in the government.</s><break time="1000ms"/>
+        <s>He spread these rumors to undermine trust in the government.</s><break time="1000ms"/>
+    </p>
+    <p ru="быть в восторге, бред, вечеринка, веселое сборище, бредни, бредить, неистовствовать, бушевать">
+        <s meaning="word">Rave</s><break time="2000ms"/>
+        <s meaning="example">Everybody raves about cruise.</s><break time="1000ms"/>
+        <!-- Все в восторге от круиза. -->
+        <s>Everybody raves about cruise.</s><break time="1000ms"/>
+        <s>Everybody raves about cruise.</s><break time="1000ms"/>
+    </p>
+    <p ru="Возврат, возвращение денег, возвращать деньги, возмещать убытки">
+        <s meaning="word">Refund</s><break time="2000ms"/>
+        <s meaning="example">What about the guy you lobotomized? Did he get a refund?</s><break time="1000ms"/>
+        <!-- Что насчет парня, которому вы сделали лоботомию? Ему вернули деньги? -->
+        <s>What about the guy you lobotomized? Did he get a refund?</s><break time="1000ms"/>
+        <s>What about the guy you lobotomized? Did he get a refund?</s><break time="1000ms"/>
+    </p>
+    <p ru="Кроме того">
+        <s meaning="word">Besides, a real holiday is a pain in the butt.</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+        <!-- Кроме того, настоящий праздник - это заноза в заднице. -->
+        <s>Besides, a real holiday is a pain in the butt.</s><break time="1000ms"/>
+        <s>Besides, a real holiday is a pain in the butt.</s><break time="1000ms"/>
+    </p>
+    <p ru="Паршивый, мерзкий, вшивый, отвратительный, дрянь">
+        <s meaning="word">You got lost laggage, lousy weather, crooked taxi drivers.</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+        <!-- У тебя потерянный багаж, паршивая погода, нечестные таксисты. -->
+        <s>You got lost laggage, lousy weather, crooked taxi drivers.</s><break time="1000ms"/>
+        <s>You got lost laggage, lousy weather, crooked taxi drivers.</s><break time="1000ms"/>
+    </p>
+    <p ru="">
+        <s meaning="word"></s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+        <!---->
+        <s></s><break time="1000ms"/>
+        <s></s><break time="1000ms"/>
+    </p>
+    <p ru="">
+        <s meaning="word"></s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+        <!---->
+        <s></s><break time="1000ms"/>
+        <s></s><break time="1000ms"/>
+    </p>
+    <p ru="">
+        <s meaning="word"></s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+        <!---->
+        <s></s><break time="1000ms"/>
+        <s></s><break time="1000ms"/>
+    </p>
+    <p ru="">
+        <s meaning="word"></s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+        <!---->
+        <s></s><break time="1000ms"/>
+        <s></s><break time="1000ms"/>
+    </p>
+    <p ru="">
+        <s meaning="word"></s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+        <!---->
+        <s></s><break time="1000ms"/>
+        <s></s><break time="1000ms"/>
+    </p>
+</speak>

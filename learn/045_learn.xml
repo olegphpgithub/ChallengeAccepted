@@ -21,15 +21,15 @@
         <s>What about the guy you lobotomized? Did he get a refund?</s><break time="1000ms"/>
     </p>
     <p ru="Кроме того">
-        <s meaning="word">Besides, a real holiday is a pain in the butt.</s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
+        <s meaning="word">Besides</s><break time="2000ms"/>
+        <s meaning="example">Besides, a real holiday is a pain in the butt.</s><break time="1000ms"/>
         <!-- Кроме того, настоящий праздник - это заноза в заднице. -->
         <s>Besides, a real holiday is a pain in the butt.</s><break time="1000ms"/>
         <s>Besides, a real holiday is a pain in the butt.</s><break time="1000ms"/>
     </p>
     <p ru="Паршивый, мерзкий, вшивый, отвратительный, дрянь">
-        <s meaning="word">You got lost laggage, lousy weather, crooked taxi drivers.</s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
+        <s meaning="word">Lousy</s><break time="2000ms"/>
+        <s meaning="example">You got lost laggage, lousy weather, crooked taxi drivers.</s><break time="1000ms"/>
         <!-- У тебя потерянный багаж, паршивая погода, нечестные таксисты. -->
         <s>You got lost laggage, lousy weather, crooked taxi drivers.</s><break time="1000ms"/>
         <s>You got lost laggage, lousy weather, crooked taxi drivers.</s><break time="1000ms"/>

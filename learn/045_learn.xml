@@ -34,39 +34,67 @@
         <s>You got lost laggage, lousy weather, crooked taxi drivers.</s><break time="1000ms"/>
         <s>You got lost laggage, lousy weather, crooked taxi drivers.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Повстанческий, мятежный, бунтовать, восставать, мятежник, бунтарь">
+        <s meaning="word">Rebels</s><break time="2000ms"/>
+        <s meaning="example">If the rebels win, it all might end.</s><break time="1000ms"/>
+        <!-- Если повстанцы победят, все это может закончиться. -->
+        <s>If the rebels win, it all might end.</s><break time="1000ms"/>
+        <s>If the rebels win, it all might end.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Придирчивый, разборчивый">
+        <s meaning="word">Picky</s><break time="2000ms"/>
+        <s meaning="example">I am real picky.</s><break time="1000ms"/>
+        <!-- Я очень разборчивый человек. -->
+        <s>I am real picky.</s><break time="1000ms"/>
+        <s>I am real picky.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Кричать, окликать, вопить, вскрикнуть, вскрик, крик">
+        <s meaning="word">Holler</s><break time="2000ms"/>
+        <s meaning="example">If you need any help with this one, give me a holler.</s><break time="1000ms"/>
+        <!-- Если тебе понадобится какая-нибудь помощь в этом деле, позови меня. -->
+        <s>If you need any help with this one, give me a holler.</s><break time="1000ms"/>
+        <s>If you need any help with this one, give me a holler.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Странный, сверхъестественный, судьба, рок, предзнаменование">
+        <s meaning="word">Weird</s><break time="2000ms"/>
+        <s meaning="example">This is too weird.</s><break time="1000ms"/>
+        <!-- Это слишком странно. -->
+        <s>This is too weird.</s><break time="1000ms"/>
+        <s>This is too weird.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Нищета">
+        <s meaning="word">Misery</s><break time="2000ms"/>
+        <s meaning="example">Their self-defeating efforts will only bring misery and suffering.</s><break time="1000ms"/>
+        <!-- Их обреченные на провал усилия принесут только несчастье и страдание. -->
+        <s>Their self-defeating efforts will only bring misery and suffering.</s><break time="1000ms"/>
+        <s>Their self-defeating efforts will only bring misery and suffering.</s><break time="1000ms"/>
+    </p>
+    <p ru="Заблуждение, иллюзия, обман, наваждение, делюзия, мания, галлюцинация, обман чувств">
+        <s meaning="word">Delusion</s><break time="2000ms"/>
+        <s meaning="example">If it is my delusion, who the hell invited you?</s><break time="1000ms"/>
+        <!-- Если это мое заблуждение, то кто, черт возьми, вас пригласил? -->
+        <s>If it is my delusion, who the hell invited you?</s><break time="1000ms"/>
+        <s>If it is my delusion, who the hell invited you?</s><break time="1000ms"/>
+    </p>
+    <p ru="Купол, свод, колпак, венчать куполом">
+        <s meaning="word">Dome</s><break time="2000ms"/>
+        <s meaning="example">What are you trying to do? The dome will crack!</s><break time="1000ms"/>
+        <!-- Что ты пытаешься сделать? Купол треснет! -->
+        <s>What are you trying to do? The dome will crack!</s><break time="1000ms"/>
+        <s>What are you trying to do? The dome will crack!</s><break time="1000ms"/>
+    </p>
+    <p ru="Похороненный, захороненный, погруженный">
+        <s meaning="word">Buried</s><break time="2000ms"/>
+        <s meaning="example">The first settlers are buried here.</s><break time="1000ms"/>
+        <!-- Здесь похоронены первые поселенцы. -->
+        <s>The first settlers are buried here.</s><break time="1000ms"/>
+        <s>The first settlers are buried here.</s><break time="1000ms"/>
+    </p>
+    <p ru="Скромный, умеренный, сдержанный, застенчивый, неприхотливый, нетребовательный">
+        <s meaning="word">Modest</s><break time="2000ms"/>
+        <s meaning="example">Don't be modest.</s><break time="1000ms"/>
+        <!-- Не скромничай. -->
+        <s>Don't be modest.</s><break time="1000ms"/>
+        <s>Don't be modest.</s><break time="1000ms"/>
     </p>
 </speak>

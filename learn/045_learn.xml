@@ -97,4 +97,11 @@
         <s>Don't be modest.</s><break time="1000ms"/>
         <s>Don't be modest.</s><break time="1000ms"/>
     </p>
+    <p ru="Сталкиваться, вступать в противоречие, сшибаться">
+        <s meaning="word">Collide</s><break time="2000ms"/>
+        <s meaning="example">This is what happens when two bullets collide in midair.</s><break time="1000ms"/>
+        <!-- Вот что происходит, когда две пули сталкиваются в воздухе. -->
+        <s>This is what happens when two bullets collide in midair.</s><break time="1000ms"/>
+        <s>This is what happens when two bullets collide in midair.</s><break time="1000ms"/>
+    </p>
 </speak>

@@ -1,10 +1,19 @@
 #include "ChallengeForm.h"
 #include "ui_ChallengeForm.h"
 
+#include "SoundPlayer.h"
+
 #include <random>
 #include <algorithm>
 
+#include <Windows.h>
+#include <Mmsystem.h>
+
 #include <QMessageBox>
+#include <QSound>
+#include <QDebug>
+#include <QFileInfo>
+#include <QDir>
 
 ChallengeForm::ChallengeForm(QWidget *parent) :
     QWidget(parent),
@@ -65,6 +74,11 @@ void ChallengeForm::Next()
     ui->questionLineEdit->setCursorPosition(0);
     ui->ExampleLineEdit->setText(word.hint);
     ui->ExampleLineEdit->setCursorPosition(0);
+
+    SoundPlayer *sp = new SoundPlayer(this);
+    sp->m_file = word.en_audio;
+    sp->start();
+    QObject::connect(sp, SIGNAL(finished()), sp, SLOT(deleteLater()));
 }
 
 void ChallengeForm::Check()

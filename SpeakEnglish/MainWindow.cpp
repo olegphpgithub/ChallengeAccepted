@@ -11,6 +11,7 @@
 #include <QVBoxLayout>
 #include <QHBoxLayout>
 #include <QLabel>
+#include <QDebug>
 
 MainWindow::MainWindow(QWidget *parent)
     : QMainWindow(parent)
@@ -72,6 +73,9 @@ void MainWindow::OpenFile()
 
     QFileInfo fileInfo(ssml_file_path);
     setWindowTitle(fileInfo.fileName());
+
+    MainCore::file = fileInfo;
+    qDebug() << MainCore::file.filePath();
 }
 
 void MainWindow::ChallengeBegin()

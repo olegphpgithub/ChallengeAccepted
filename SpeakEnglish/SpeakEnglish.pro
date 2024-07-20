@@ -1,4 +1,4 @@
-QT       += core gui
+QT       += core gui multimedia
 
 greaterThan(QT_MAJOR_VERSION, 4): QT += widgets
 
@@ -19,6 +19,7 @@ SOURCES += \
     BrowseForm.cpp \
     ChallengeForm.cpp \
     MainCore.cpp \
+    SoundPlayer.cpp \
     UniversalModel.cpp \
     WelcomeForm.cpp \
     main.cpp \
@@ -29,6 +30,7 @@ HEADERS += \
     ChallengeForm.h \
     MainCore.h \
     MainWindow.h \
+    SoundPlayer.h \
     UniversalModel.h \
     WelcomeForm.h
 

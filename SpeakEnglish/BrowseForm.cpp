@@ -2,6 +2,7 @@
 #include "ui_BrowseForm.h"
 
 #include <QFile>
+#include <QFileInfo>
 #include <QXmlStreamReader>
 
 #include "UniversalModel.h"
@@ -94,6 +95,11 @@ EnglishWord BrowseForm::parseParagraph(QXmlStreamReader *xml)
                         xml->readNext();
                         eWord.example = xml->text().toString();
                     }
+                }
+                if (attributes.hasAttribute("audio"))
+                {
+                    QString audio = attributes.value("audio").toString();
+                    eWord.en_audio = audio;
                 }
             }
         }

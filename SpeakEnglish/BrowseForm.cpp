@@ -1,6 +1,7 @@
 #include "BrowseForm.h"
 #include "ui_BrowseForm.h"
 
+#include <QDir>
 #include <QFile>
 #include <QFileInfo>
 #include <QXmlStreamReader>
@@ -45,8 +46,22 @@ bool BrowseForm::parseFile(QString filePath)
             if (xml.name() == "p")
             {
                 EnglishWord word = parseParagraph(&xml);
+
                 if (word.en.isNull() || word.en.isEmpty())
                     continue;
+
+                QFileInfo audio_file(word.en_audio);
+                if (!audio_file.isAbsolute())
+                {
+                    QString path("%1%2%3");
+                    path = path.arg(QFileInfo(filePath).absoluteDir().path());
+                    path = path.arg(QDir::separator());
+                    path = path.arg(audio_file.filePath());
+                    audio_file = path;
+                    audio_file = audio_file.canonicalFilePath();
+                    word.en_audio = audio_file.filePath();
+                }
+
                 list.push_back(word);
             }
         }

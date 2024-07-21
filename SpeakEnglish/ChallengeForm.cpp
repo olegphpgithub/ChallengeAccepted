@@ -10,7 +10,6 @@
 #include <Mmsystem.h>
 
 #include <QMessageBox>
-#include <QSound>
 #include <QDebug>
 #include <QFileInfo>
 #include <QDir>

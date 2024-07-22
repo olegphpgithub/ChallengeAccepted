@@ -111,11 +111,8 @@ void ChallengeForm::Check()
 void ChallengeForm::Return()
 {
     ui->AnswerLineEdit->clear();
-    QString result("%1/%2");
-    result = result.arg(right).arg(wrong);
     ui->rightLabel->setText(QString::number(right));
     ui->wrongLabel->setText(QString::number(wrong));
     ui->remainLabel->setText(QString::number(MainCore::table.count() - right - wrong));
     ui->totalLabel->setText(QString::number(MainCore::table.count()));
-    emit Step(result);
 }

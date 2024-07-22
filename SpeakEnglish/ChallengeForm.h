@@ -33,7 +33,6 @@ private:
 
 signals:
     void Finish();
-    void Step(QString status);
 };
 
 #endif // CHALLENGEFORM_H

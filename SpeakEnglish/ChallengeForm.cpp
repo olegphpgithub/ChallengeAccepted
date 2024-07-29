@@ -3,6 +3,7 @@
 
 #include "SoundPlayer.h"
 
+#include <ctime>
 #include <random>
 #include <algorithm>
 
@@ -33,7 +34,7 @@ void ChallengeForm::Start()
     index = -1;
     right = 0;
     wrong = 0;
-    std::random_shuffle(MainCore::table.begin(), MainCore::table.end());
+    std::shuffle(MainCore::table.begin(), MainCore::table.end(), std::default_random_engine(std::time(0)));
     Next();
 }
 

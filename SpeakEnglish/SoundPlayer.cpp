@@ -7,10 +7,16 @@
 
 SoundPlayer::SoundPlayer(QObject *parent) : QThread(parent)
 {
-    qDebug() << "SoundPlayer +";
 }
 
 void SoundPlayer::run()
 {
-    PlaySoundA(m_file.toStdString().c_str(), NULL, SND_FILENAME);
+    QFile file(m_file.toStdString().c_str());
+    if (file.open(QIODevice::ReadOnly))
+    {
+        char* buffer = new char[file.size()];
+        file.read(buffer, file.size());
+        PlaySoundA(buffer, NULL, SND_MEMORY);
+        delete[] buffer;
+    }
 }

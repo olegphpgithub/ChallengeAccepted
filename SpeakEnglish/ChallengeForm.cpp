@@ -105,6 +105,11 @@ void ChallengeForm::Check()
         ui->WrongLineEdit->setCursorPosition(0);
         ui->RightLineEdit->setText(MainCore::table[index].en);
         ui->RightLineEdit->setCursorPosition(0);
+
+        SoundPlayer *sp = new SoundPlayer(this);
+        sp->m_file = ":/res/wav/Error.wav";
+        sp->start();
+        QObject::connect(sp, SIGNAL(finished()), sp, SLOT(deleteLater()));
     }
     Return();
 }

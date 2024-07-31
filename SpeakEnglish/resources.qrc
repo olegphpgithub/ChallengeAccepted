@@ -4,5 +4,6 @@
         <file>res/icons/Open.ico</file>
         <file>res/icons/Save.ico</file>
         <file>res/icons/Start.ico</file>
+        <file>res/wav/Error.wav</file>
     </qresource>
 </RCC>

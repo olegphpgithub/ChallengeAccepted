@@ -1,22 +1,22 @@
 <speak>
     <p ru="Внутренний, отечественный, домашний, прислуга, домашняя работница">
         <s meaning="word">Domestic</s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+        <s meaning="example">There is a sharp distinction between domestic and international politics.</s><break time="1000ms"/>
+        <!--  Существует чёткое различие между внутренней и международной политикой.  -->
+        <s>There is a sharp distinction between domestic and international politics.</s><break time="1000ms"/>
+        <s>There is a sharp distinction between domestic and international politics.</s><break time="1000ms"/>
     </p>
     <p ru="Твердо, крепко, неизменно">
         <s meaning="word">Firmly</s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+        <s meaning="example">She was firmly resolved to be a doctor.</s><break time="1000ms"/>
+        <!-- Она твёрдо решила стать врачом. -->
+        <s>She was firmly resolved to be a doctor.</s><break time="1000ms"/>
+        <s>She was firmly resolved to be a doctor.</s><break time="1000ms"/>
     </p>
     <p ru="Поощрять, поддерживать, ободрять, воодушевлять, подстрекать, потворствовать">
         <s meaning="word">Encourage</s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
+        <s meaning="example">We want to encourage students to read more.</s><break time="1000ms"/>
+        <!-- Мы хотим поспособствовать тому, чтобы студенты больше читали. -->
         <s></s><break time="1000ms"/>
         <s></s><break time="1000ms"/>
     </p>

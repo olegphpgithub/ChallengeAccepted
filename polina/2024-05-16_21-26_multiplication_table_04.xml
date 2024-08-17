@@ -1,38 +1,38 @@
 <speak>
     <p ru="4 * 2">
-        <s meaning="word">8</s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
+        <s meaning="word">8</s>
+        <s meaning="example"></s>
     </p>
     <p ru="4 * 3">
-        <s meaning="word">12</s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
+        <s meaning="word">12</s>
+        <s meaning="example"></s>
     </p>
     <p ru="4 * 4">
-        <s meaning="word">16</s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
+        <s meaning="word">16</s>
+        <s meaning="example"></s>
     </p>
     <p ru="5 * 4">
-        <s meaning="word">20</s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
+        <s meaning="word">20</s>
+        <s meaning="example"></s>
     </p>
     <p ru="4 * 6">
-        <s meaning="word">24</s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
+        <s meaning="word">24</s>
+        <s meaning="example"></s>
     </p>
     <p ru="7 * 4">
-        <s meaning="word">28</s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
+        <s meaning="word">28</s>
+        <s meaning="example"></s>
     </p>
     <p ru="4 * 8">
-        <s meaning="word">32</s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
+        <s meaning="word">32</s>
+        <s meaning="example"></s>
     </p>
     <p ru="4 * 9">
-        <s meaning="word">36</s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
+        <s meaning="word">36</s>
+        <s meaning="example"></s>
     </p>
     <p ru="4 * 10">
-        <s meaning="word">40</s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
+        <s meaning="word">40</s>
+        <s meaning="example"></s>
     </p>
 </speak>

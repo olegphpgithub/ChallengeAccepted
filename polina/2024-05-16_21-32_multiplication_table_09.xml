@@ -1,0 +1,38 @@
+<speak>
+    <p ru="9 * 2">
+        <s meaning="word">18</s>
+        <s meaning="example"></s>
+    </p>
+    <p ru="9 * 3">
+        <s meaning="word">27</s>
+        <s meaning="example"></s>
+    </p>
+    <p ru="9 * 4">
+        <s meaning="word">36</s>
+        <s meaning="example"></s>
+    </p>
+    <p ru="9 * 5">
+        <s meaning="word">45</s>
+        <s meaning="example"></s>
+    </p>
+    <p ru="9 * 6">
+        <s meaning="word">54</s>
+        <s meaning="example"></s>
+    </p>
+    <p ru="9 * 7">
+        <s meaning="word">63</s>
+        <s meaning="example"></s>
+    </p>
+    <p ru="9 * 8">
+        <s meaning="word">72</s>
+        <s meaning="example"></s>
+    </p>
+    <p ru="9 * 9">
+        <s meaning="word">81</s>
+        <s meaning="example"></s>
+    </p>
+    <p ru="9 * 10">
+        <s meaning="word">90</s>
+        <s meaning="example"></s>
+    </p>
+</speak>

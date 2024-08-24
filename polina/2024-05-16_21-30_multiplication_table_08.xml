@@ -1,0 +1,38 @@
+<speak>
+    <p ru="8 * 2">
+        <s meaning="word">16</s>
+        <s meaning="example"></s>
+    </p>
+    <p ru="8 * 3">
+        <s meaning="word">24</s>
+        <s meaning="example"></s>
+    </p>
+    <p ru="8 * 4">
+        <s meaning="word">32</s>
+        <s meaning="example"></s>
+    </p>
+    <p ru="8 * 5">
+        <s meaning="word">40</s>
+        <s meaning="example"></s>
+    </p>
+    <p ru="8 * 6">
+        <s meaning="word">48</s>
+        <s meaning="example"></s>
+    </p>
+    <p ru="8 * 7">
+        <s meaning="word">56</s>
+        <s meaning="example"></s>
+    </p>
+    <p ru="8 * 8">
+        <s meaning="word">64</s>
+        <s meaning="example"></s>
+    </p>
+    <p ru="8 * 9">
+        <s meaning="word">72</s>
+        <s meaning="example"></s>
+    </p>
+    <p ru="8 * 10">
+        <s meaning="word">80</s>
+        <s meaning="example"></s>
+    </p>
+</speak>

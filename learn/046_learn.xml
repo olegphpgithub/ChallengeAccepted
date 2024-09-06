@@ -13,12 +13,12 @@
         <s>This behaviour is very peculiar to Tim. He is a real rowdy.</s><break time="1000ms"/>
         <s>This behaviour is very peculiar to Tim. He is a real rowdy.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Слог, слово, звук, произносить по слогам">
+        <s meaning="word">Syllable</s><break time="2000ms"/>
+        <s meaning="example">The stress falls on the second syllable.</s><break time="1000ms"/>
+        <!-- Ударение падает на второй слог. -->
+        <s>The stress falls on the second syllable.</s><break time="1000ms"/>
+        <s>The stress falls on the second syllable.</s><break time="1000ms"/>
     </p>
     <p ru="">
         <s meaning="word"></s><break time="2000ms"/>

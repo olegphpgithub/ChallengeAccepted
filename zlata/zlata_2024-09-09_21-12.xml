@@ -1,0 +1,34 @@
+<speak>
+    <p ru="Классный">
+        <s meaning="word">Cool</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+    </p>
+    <p ru="Добрый">
+        <s meaning="word">Kind</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+    </p>
+    <p ru="Милый">
+        <s meaning="word">Sweet</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+    </p>
+    <p ru="Умный">
+        <s meaning="word">Clever</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+    </p>
+    <p ru="Дружелюбный">
+        <s meaning="word">Friendly</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+    </p>
+    <p ru="Весёлый">
+        <s meaning="word">Funny</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+    </p>
+    <p ru="Непослушный">
+        <s meaning="word">Naughty</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+    </p>
+    <p ru="Заботливый">
+        <s meaning="word">Caring</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+    </p>
+</speak>

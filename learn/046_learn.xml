@@ -20,12 +20,12 @@
         <s>The stress falls on the second syllable.</s><break time="1000ms"/>
         <s>The stress falls on the second syllable.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Значительно, в основном, в значительной степени, основательно, прочно">
+        <s meaning="word">Substantially</s><break time="2000ms"/>
+        <s meaning="example">We have discontinued car production which makes there substantially less work.</s><break time="1000ms"/>
+        <!-- Мы прекратили производство автомобилей, что значительно сокращает объем работы. -->
+        <s>We have discontinued car production which makes there substantially less work.</s><break time="1000ms"/>
+        <s>We have discontinued car production which makes there substantially less work.</s><break time="1000ms"/>
     </p>
     <p ru="">
         <s meaning="word"></s><break time="2000ms"/>

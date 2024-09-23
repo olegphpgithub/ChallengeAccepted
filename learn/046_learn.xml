@@ -27,12 +27,19 @@
         <s>We have discontinued car production which makes there substantially less work.</s><break time="1000ms"/>
         <s>We have discontinued car production which makes there substantially less work.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
+    <p ru="Привязь, свора из трех собак, держать на привязи, держать на своре">
+        <s meaning="word">Leash</s><break time="2000ms"/>
         <s meaning="example"></s><break time="1000ms"/>
         <!---->
         <s></s><break time="1000ms"/>
         <s></s><break time="1000ms"/>
+    </p>
+    <p ru="Выброс, посторонний">
+        <s meaning="word">Outlier</s><break time="2000ms"/>
+        <s meaning="example">Notice how yesterday and today are outliers in the hourly data.</s><break time="1000ms"/>
+        <!-- Обратите внимание, что вчерашний и сегодняшний дни являются выбросами в почасовых данных. -->
+        <s>Notice how yesterday and today are outliers in the hourly data.</s><break time="1000ms"/>
+        <s>Notice how yesterday and today are outliers in the hourly data.</s><break time="1000ms"/>
     </p>
     <p ru="">
         <s meaning="word"></s><break time="2000ms"/>

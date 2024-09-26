@@ -41,12 +41,12 @@
         <s>Notice how yesterday and today are outliers in the hourly data.</s><break time="1000ms"/>
         <s>Notice how yesterday and today are outliers in the hourly data.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Косить, скирдовать, жать, стоговать, сеновал, скирда, стог, гримаса">
+        <s meaning="word">Mow</s><break time="2000ms"/>
+        <s meaning="example">It's time to mow the lawn again.</s><break time="1000ms"/>
+        <!-- Пора косить газон снова. -->
+        <s>It's time to mow the lawn again.</s><break time="1000ms"/>
+        <s>It's time to mow the lawn again.</s><break time="1000ms"/>
     </p>
     <p ru="">
         <s meaning="word"></s><break time="2000ms"/>

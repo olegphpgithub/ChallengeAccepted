@@ -48,12 +48,12 @@
         <s>It's time to mow the lawn again.</s><break time="1000ms"/>
         <s>It's time to mow the lawn again.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Грипп">
+        <s meaning="word">Flu</s><break time="2000ms"/>
+        <s meaning="example">Barry will stay at home for a while. He has got the flu.</s><break time="1000ms"/>
+        <!-- Барри какое-то время побудет дома. У него грипп. -->
+        <s>Barry will stay at home for a while. He has got the flu.</s><break time="1000ms"/>
+        <s>Barry will stay at home for a while. He has got the flu.</s><break time="1000ms"/>
     </p>
     <p ru="">
         <s meaning="word"></s><break time="2000ms"/>

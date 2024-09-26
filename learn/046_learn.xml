@@ -55,12 +55,12 @@
         <s>Barry will stay at home for a while. He has got the flu.</s><break time="1000ms"/>
         <s>Barry will stay at home for a while. He has got the flu.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Несомненно, безусловно, бесспорно">
+        <s meaning="word">Undoubtedly</s><break time="2000ms"/>
+        <s meaning="example">It is correct to say 'by far' in meaning of 'undoubtedly'.</s><break time="1000ms"/>
+        <!-- Правильно говорить "безусловно" в значении "несомненно". -->
+        <s>It is correct to say 'by far' in meaning of 'undoubtedly'.</s><break time="1000ms"/>
+        <s>It is correct to say 'by far' in meaning of 'undoubtedly'.</s><break time="1000ms"/>
     </p>
     <p ru="">
         <s meaning="word"></s><break time="2000ms"/>

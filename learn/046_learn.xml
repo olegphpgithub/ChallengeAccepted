@@ -62,12 +62,12 @@
         <s>It is correct to say 'by far' in meaning of 'undoubtedly'.</s><break time="1000ms"/>
         <s>It is correct to say 'by far' in meaning of 'undoubtedly'.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Отныне">
+        <s meaning="word">Henceforth</s><break time="2000ms"/>
+        <s meaning="example">Our boss announced that henceforth those employees who came late for work would have their salary deducted accordingly.</s><break time="1000ms"/>
+        <!-- Наш начальник объявил, что отныне у тех сотрудников, которые опаздывают на работу, будет пропорционально сокращаться зарплата. -->
+        <s>Our boss announced that henceforth those employees who came late for work would have their salary deducted accordingly.</s><break time="1000ms"/>
+        <s>Our boss announced that henceforth those employees who came late for work would have their salary deducted accordingly.</s><break time="1000ms"/>
     </p>
     <p ru="">
         <s meaning="word"></s><break time="2000ms"/>

@@ -29,10 +29,10 @@
     </p>
     <p ru="Привязь, свора из трех собак, держать на привязи, держать на своре">
         <s meaning="word">Leash</s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+        <s meaning="example">Marcus keeps you on a short leash, does he?</s><break time="1000ms"/>
+        <!-- Маркус держит тебя на коротком поводке, не так ли? -->
+        <s>Marcus keeps you on a short leash, does he?</s><break time="1000ms"/>
+        <s>Marcus keeps you on a short leash, does he?</s><break time="1000ms"/>
     </p>
     <p ru="Выброс, посторонний">
         <s meaning="word">Outlier</s><break time="2000ms"/>
@@ -69,11 +69,11 @@
         <s>Our boss announced that henceforth those employees who came late for work would have their salary deducted accordingly.</s><break time="1000ms"/>
         <s>Our boss announced that henceforth those employees who came late for work would have their salary deducted accordingly.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Искренне">
+        <s meaning="word">Sincerely</s><break time="2000ms"/>
+        <s meaning="example">I sincerely hope that he will be alright soon.</s><break time="1000ms"/>
+        <!-- Я искренне надеюсь, что с ним скоро все будет в порядке. -->
+        <s>I sincerely hope that he will be alright soon.</s><break time="1000ms"/>
+        <s>I sincerely hope that he will be alright soon.</s><break time="1000ms"/>
     </p>
 </speak>

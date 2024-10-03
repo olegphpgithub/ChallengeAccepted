@@ -23,6 +23,9 @@ public:
 
 public slots:
     void Next();
+    void PlayAgain();
+    void EnableInterface();
+    void DisableInterface();
 
 private:
     Ui::ChallengeForm *ui;

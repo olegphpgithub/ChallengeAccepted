@@ -75,7 +75,6 @@ void MainWindow::OpenFile()
     setWindowTitle(fileInfo.fileName());
 
     MainCore::file = fileInfo;
-    qDebug() << MainCore::file.filePath();
 }
 
 void MainWindow::ChallengeBegin()

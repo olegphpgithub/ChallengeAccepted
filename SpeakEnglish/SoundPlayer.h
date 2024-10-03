@@ -3,6 +3,7 @@
 
 #include <QObject>
 #include <QThread>
+#include <QMutex>
 #include <QDebug>
 
 class SoundPlayer : public QThread
@@ -13,6 +14,7 @@ public:
     void run();
 
     QString m_file;
+    static QMutex m_mutex;
 };
 
 #endif // SOUNDPLAYER_H

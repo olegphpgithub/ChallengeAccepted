@@ -22,6 +22,7 @@ ChallengeForm::ChallengeForm(QWidget *parent) :
 {
     ui->setupUi(this);
     connect(ui->AnswerLineEdit, SIGNAL(returnPressed()), this, SLOT(Next()));
+    connect(ui->PlayAgainPushButton, SIGNAL(pressed()), this, SLOT(PlayAgain()));
 }
 
 ChallengeForm::~ChallengeForm()
@@ -47,6 +48,17 @@ void ChallengeForm::Interrupt()
     wrong = 0;
 }
 
+void ChallengeForm::PlayAgain()
+{
+    if (SoundPlayer::m_mutex.tryLock()) {
+        SoundPlayer::m_mutex.unlock();
+        SoundPlayer *sp = new SoundPlayer(this);
+        sp->m_file = MainCore::table[index].en_audio;
+        sp->start();
+        QObject::connect(sp, SIGNAL(finished()), sp, SLOT(deleteLater()));
+    }
+}
+
 void ChallengeForm::Summarizing()
 {
     QString message(QObject::tr("Test completed. Right: %1. Wrong: %2."));
@@ -59,7 +71,18 @@ void ChallengeForm::Summarizing()
 
 void ChallengeForm::Next()
 {
-    Check();
+    if (ui->AnswerLineEdit->text().isEmpty() && (index > -1)) {
+        return;
+    }
+
+    ui->WrongLineEdit->clear();
+    ui->RightLineEdit->clear();
+
+    if (index == -1) {
+        Return();
+    } else {
+        Check();
+    }
 
     if ( (right + wrong) == MainCore::table.count() )
     {
@@ -83,20 +106,14 @@ void ChallengeForm::Next()
 
 void ChallengeForm::Check()
 {
-    ui->WrongLineEdit->clear();
-    ui->RightLineEdit->clear();
+    DisableInterface();
 
-    if (index == -1)
-    {
-        Return();
-        return;
-    }
+    QString answer = ui->AnswerLineEdit->text();
 
-    QString answer;
-    answer = ui->AnswerLineEdit->text();
     if (QString::compare(answer, MainCore::table[index].en, Qt::CaseInsensitive) == 0)
     {
         right++;
+        EnableInterface();
     }
     else
     {
@@ -110,6 +127,7 @@ void ChallengeForm::Check()
         sp->m_file = ":/res/wav/Error.wav";
         sp->start();
         QObject::connect(sp, SIGNAL(finished()), sp, SLOT(deleteLater()));
+        QObject::connect(sp, SIGNAL(finished()), this, SLOT(EnableInterface()));
     }
     Return();
 }
@@ -121,4 +139,15 @@ void ChallengeForm::Return()
     ui->wrongLabel->setText(QString::number(wrong));
     ui->remainLabel->setText(QString::number(MainCore::table.count() - right - wrong));
     ui->totalLabel->setText(QString::number(MainCore::table.count()));
+}
+
+void ChallengeForm::EnableInterface()
+{
+    ui->AnswerLineEdit->setEnabled(true);
+    ui->AnswerLineEdit->setFocus();
+}
+
+void ChallengeForm::DisableInterface()
+{
+    ui->AnswerLineEdit->setEnabled(false);
 }

@@ -97,6 +97,7 @@ void ChallengeForm::Next()
     ui->questionLineEdit->setCursorPosition(0);
     ui->ExampleLineEdit->setText(word.hint);
     ui->ExampleLineEdit->setCursorPosition(0);
+    ui->AnswerLineEdit->setFocus();
 
     SoundPlayer *sp = new SoundPlayer(this);
     sp->m_file = word.en_audio;

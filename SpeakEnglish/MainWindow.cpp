@@ -12,6 +12,7 @@
 #include <QHBoxLayout>
 #include <QLabel>
 #include <QDebug>
+#include <QSettings>
 
 MainWindow::MainWindow(QWidget *parent)
     : QMainWindow(parent)
@@ -47,16 +48,24 @@ MainWindow::~MainWindow()
 
 void MainWindow::OpenFile()
 {
+    QSettings settings("nnrus", "SpeakEnglish");
+    QString directory_path = settings.value("path").value<QString>();
+    if(directory_path.isNull()) {
+        directory_path = QCoreApplication::applicationDirPath();
+    }
+
     QString ssml_file_path = QFileDialog::getOpenFileName(
                 this,
                 tr("Open SSML File"),
-                QCoreApplication::applicationDirPath(),
+                directory_path,
                 tr("SSML Files (*.xml *.ssml)"));
 
     if (ssml_file_path.isEmpty())
     {
         return;
     }
+
+    settings.setValue("path", ssml_file_path);
 
     if (!browseForm->parseFile(ssml_file_path))
     {

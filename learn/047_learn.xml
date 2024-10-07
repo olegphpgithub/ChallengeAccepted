@@ -9,12 +9,12 @@
         <s>At this juncture it looks like they are going to get a divorce.</s><break time="1000ms"/>
         <s>At this juncture it looks like they are going to get a divorce.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Устраивать разнос, отругать, сделать выговор">
+        <s meaning="word">Chew out</s><break time="2000ms"/>
+        <s meaning="example">Patrick was so loud and noisy in the morning that I had to get up and chew him out.</s><break time="1000ms"/>
+        <!-- Патрик был таким громким и шумным утром, что мне пришлось встать и отчитать его. -->
+        <s>Patrick was so loud and noisy in the morning that I had to get up and chew him out.</s><break time="1000ms"/>
+        <s>Patrick was so loud and noisy in the morning that I had to get up and chew him out.</s><break time="1000ms"/>
     </p>
     <p ru="">
         <s meaning="word"></s><break time="2000ms"/>

@@ -16,33 +16,33 @@
         <s>Patrick was so loud and noisy in the morning that I had to get up and chew him out.</s><break time="1000ms"/>
         <s>Patrick was so loud and noisy in the morning that I had to get up and chew him out.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Выжимать, скручивать, исторгать, вымогать, скручивание, выжимание, выкручивание">
+        <s meaning="word">Wring</s><break time="2000ms"/>
+        <s meaning="example">I have to wring the towel before hung it up to dry.</s><break time="1000ms"/>
+        <!-- Мне приходится отжимать полотенце, прежде чем повесить его сушиться. -->
+        <s>I have to wring the towel before hung it up to dry.</s><break time="1000ms"/>
+        <s>I have to wring the towel before hung it up to dry.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Поскольку, так как">
+        <s meaning="word">Inasmuch as</s><break time="2000ms"/>
+        <s meaning="example">These two vases look rather similar, inasmuch as they are the same shape and color.</s><break time="1000ms"/>
+        <!-- Эти две вазы довольно похожи друг на друга, поскольку имеют одинаковую форму и цвет. -->
+        <s>Эти две вазы довольно похожи друг на друга, поскольку имеют одинаковую форму и цвет.</s><break time="1000ms"/>
+        <s>Эти две вазы довольно похожи друг на друга, поскольку имеют одинаковую форму и цвет.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Ужасный, страшный, отвратительный">
+        <s meaning="word">Dreadful</s><break time="2000ms"/>
+        <s meaning="example">The video of the accident was dreadful.</s><break time="1000ms"/>
+        <!-- Видеозапись аварии была ужасной. -->
+        <s>The video of the accident was dreadful.</s><break time="1000ms"/>
+        <s>The video of the accident was dreadful.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Робко, застенчиво">
+        <s meaning="word">Timidly</s><break time="2000ms"/>
+        <s meaning="example">Tom behaved timidly because he knew nobody of that company.</s><break time="1000ms"/>
+        <!-- Том вел себя робко, потому что никого из этой компании не знал. -->
+        <s>Tom behaved timidly because he knew nobody of that company.</s><break time="1000ms"/>
+        <s>Tom behaved timidly because he knew nobody of that company.</s><break time="1000ms"/>
     </p>
     <p ru="">
         <s meaning="word"></s><break time="2000ms"/>

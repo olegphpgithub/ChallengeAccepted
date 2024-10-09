@@ -44,12 +44,12 @@
         <s>Tom behaved timidly because he knew nobody of that company.</s><break time="1000ms"/>
         <s>Tom behaved timidly because he knew nobody of that company.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Труд, рабочие, работа, роды, трудиться, работать, трудовой, лейбористский">
+        <s meaning="word">Labour</s><break time="2000ms"/>
+        <s meaning="example">The demand for labour is dependent on worker's productivity.</s><break time="1000ms"/>
+        <!-- Спрос на рабочую силу зависит от производительности труда работника. -->
+        <s>The demand for labour is dependent on worker's productivity.</s><break time="1000ms"/>
+        <s>The demand for labour is dependent on worker's productivity.</s><break time="1000ms"/>
     </p>
     <p ru="">
         <s meaning="word"></s><break time="2000ms"/>

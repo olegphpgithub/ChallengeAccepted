@@ -116,12 +116,30 @@ EnglishWord BrowseForm::parseParagraph(QXmlStreamReader *xml)
                     QString audio = attributes.value("audio").toString();
                     eWord.en_audio = audio;
                 }
+                if (attributes.hasAttribute("hide"))
+                {
+                    QString hide = attributes.value("hide").toString();
+                    eWord.en_hide = hide;
+                }
             }
         }
         xml->readNext();
     }
 
-    QString hint = eWord.example.replace(eWord.en, QString("<...>"), Qt::CaseInsensitive);
+    QString hint = eWord.example;
+    QStringList hide_list;
+    if (eWord.en_hide.isEmpty()) {
+        hint = hint.replace(eWord.en, QString("<...>"), Qt::CaseInsensitive);
+        hide_list.append(eWord.en);
+    }
+    else {
+        hide_list = eWord.en_hide.split("|");
+    }
+
+    for(int i = 0; i < hide_list.count(); i++) {
+        hint = hint.replace(hide_list[i], QString("<...>"), Qt::CaseInsensitive);
+    }
     eWord.hint = hint;
+
     return eWord;
 }

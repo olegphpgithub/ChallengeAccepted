@@ -10,6 +10,7 @@ class EnglishWord
 public:
     QString en;
     QString en_audio;
+    QString en_hide;
     QString ru;
     QString example;
     QString hint;

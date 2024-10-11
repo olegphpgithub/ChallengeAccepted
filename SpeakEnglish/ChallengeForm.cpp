@@ -57,6 +57,8 @@ void ChallengeForm::PlayAgain()
         sp->start();
         QObject::connect(sp, SIGNAL(finished()), sp, SLOT(deleteLater()));
     }
+
+    ui->AnswerLineEdit->setFocus();
 }
 
 void ChallengeForm::Summarizing()

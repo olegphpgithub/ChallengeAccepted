@@ -23,33 +23,33 @@
         <s>His car is a pathetic piece of junk.</s><break time="1000ms"/>
         <s>His car is a pathetic piece of junk.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Учить наизусть">
+        <s meaning="word">Learn by heart</s><break time="2000ms"/>
+        <s meaning="example">Jessica is only 6 but she has already learned a few poems by heart.</s><break time="1000ms"/>
+        <!-- Джессике всего 6 лет, но она уже выучила наизусть несколько стихотворений. -->
+        <s>Jessica is only 6 but she has already learned a few poems by heart.</s><break time="1000ms"/>
+        <s>Jessica is only 6 but she has already learned a few poems by heart.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Верность, преданность, лояльность, верноподданство, вассальная зависимость">
+        <s meaning="word">Allegiance</s><break time="2000ms"/>
+        <s meaning="example">He tends to be a leader who is worthy of respect and allegiance.</s><break time="1000ms"/>
+        <!-- Он стремится быть лидером, достойным уважения и преданности. -->
+        <s>He tends to be a leader who is worthy of respect and allegiance.</s><break time="1000ms"/>
+        <s>He tends to be a leader who is worthy of respect and allegiance.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Сокращение, сжатие, сужение, стягивание, усадка, контракция, уменьшение, контрактура">
+        <s meaning="word">Contraction</s><break time="2000ms"/>
+        <s meaning="example">The full phrase without contractions is: "When the cat is away, the mice will play."</s><break time="1000ms"/>
+        <!-- Полная фраза без сокращений звучит так: "Кот из дома, мыши в пляс." -->
+        <s>The full phrase without contractions is: "When the cat is away, the mice will play."</s><break time="1000ms"/>
+        <s>The full phrase without contractions is: "When the cat is away, the mice will play."</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Уничижительный">
+        <s meaning="word">Pejorative</s><break time="2000ms"/>
+        <s meaning="example">His pejorative comments about my essay upset me.</s><break time="1000ms"/>
+        <!-- Его уничижительные комментарии о моем сочинении расстроили меня. -->
+        <s>His pejorative comments about my essay upset me.</s><break time="1000ms"/>
+        <s>His pejorative comments about my essay upset me.</s><break time="1000ms"/>
     </p>
     <p ru="">
         <s meaning="word"></s><break time="2000ms"/>

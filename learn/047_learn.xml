@@ -51,25 +51,25 @@
         <s>The demand for labour is dependent on worker's productivity.</s><break time="1000ms"/>
         <s>The demand for labour is dependent on worker's productivity.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Утомительный, скучный, нудный, муторный">
+        <s meaning="word">Tedious</s><break time="2000ms"/>
+        <s meaning="example">The film was so tedious that Jerry fall asleep accidentally during it.</s><break time="1000ms"/>
+        <!-- Фильм был настолько утомительным, что Джерри случайно заснул во время просмотра. -->
+        <s>The film was so tedious that Jerry fall asleep accidentally during it.</s><break time="1000ms"/>
+        <s>The film was so tedious that Jerry fall asleep accidentally during it.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Дремать, клевать носом">
+        <s meaning="word">Nod off</s><break time="2000ms"/>
+        <s meaning="example">Phrasal verb 'to nod off' means 'to fall asleep accidentally'.</s><break time="1000ms"/>
+        <!-- Фразовый глагол "задремать" означает "случайно заснуть". -->
+        <s>Phrasal verb 'to nod off' means 'to fall asleep accidentally'.</s><break time="1000ms"/>
+        <s>Phrasal verb 'to nod off' means 'to fall asleep accidentally'.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Несмотря на, вопреки, хотя, тем не менее, однако, тем не менее, однако">
+        <s meaning="word">Notwithstanding</s><break time="2000ms"/>
+        <s meaning="example">Notwithstanding that the opposition was strong, we managed to win the election.</s><break time="1000ms"/>
+        <!-- Несмотря на то, что оппозиция была сильной, нам удалось победить на выборах. -->
+        <s>Notwithstanding that the opposition was strong, we managed to win the election.</s><break time="1000ms"/>
+        <s>Notwithstanding that the opposition was strong, we managed to win the election.</s><break time="1000ms"/>
     </p>
 </speak>

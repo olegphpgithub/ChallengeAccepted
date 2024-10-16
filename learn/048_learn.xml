@@ -51,25 +51,25 @@
         <s>His pejorative comments about my essay upset me.</s><break time="1000ms"/>
         <s>His pejorative comments about my essay upset me.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Вместо того, чтобы; вместо; а не">
+        <s meaning="word">Rather than</s><break time="2000ms"/>
+        <s meaning="example">You have allowed your friends to die for you rather than face me yourself.</s><break time="1000ms"/>
+        <!-- Ты позволил своим друзьям умереть за тебя, вместо того чтобы самому встретиться со мной лицом к лицу. -->
+        <s>You have allowed your friends to die for you rather than face me yourself.</s><break time="1000ms"/>
+        <s>You have allowed your friends to die for you rather than face me yourself.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Умолять, просить, упрашивать, взмолиться">
+        <s meaning="word">Beseech</s><break time="2000ms"/>
+        <s meaning="example">I do beseech you, sir, Be not out with me.</s><break time="1000ms"/>
+        <!-- Я умоляю вас, сэр, не ходите со мной. -->
+        <s>I do beseech you, sir, Be not out with me.</s><break time="1000ms"/>
+        <s>I do beseech you, sir, Be not out with me.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
+    <p ru="Непобедимый">
+        <s meaning="word">Invincible</s><break time="2000ms"/>
+        <s meaning="example">This cyclist seems to be invincible. He wins the sixth race this month.</s><break time="1000ms"/>
         <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+        <s>This cyclist seems to be invincible. He wins the sixth race this month.</s><break time="1000ms"/>
+        <s>This cyclist seems to be invincible. He wins the sixth race this month.</s><break time="1000ms"/>
     </p>
 </speak>

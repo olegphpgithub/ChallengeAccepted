@@ -13,7 +13,7 @@
         <s>I am grateful to you for your help.</s><break time="1000ms"/>
         <s>I am grateful to you for your help.</s><break time="1000ms"/>
     </p>
-    <p ru="Жалкий, патетический, трогательный, жалостный">
+    <p ru="Жалкий, трогательный, жалостный">
         <s meaning="word">Pathetic</s><break time="2000ms"/>
         <s meaning="example">The story he told was a pathetic attempt to cover up a lie.</s><break time="1000ms"/>
         <!---->
@@ -24,7 +24,7 @@
         <s>His car is a pathetic piece of junk.</s><break time="1000ms"/>
     </p>
     <p ru="Учить наизусть">
-        <s meaning="word">Learn by heart</s><break time="2000ms"/>
+        <s meaning="word" hide="Learn|by heart">Learn by heart</s><break time="2000ms"/>
         <s meaning="example">Jessica is only 6 but she has already learned a few poems by heart.</s><break time="1000ms"/>
         <!-- Джессике всего 6 лет, но она уже выучила наизусть несколько стихотворений. -->
         <s>Jessica is only 6 but she has already learned a few poems by heart.</s><break time="1000ms"/>
@@ -60,10 +60,10 @@
     </p>
     <p ru="Умолять, просить, упрашивать, взмолиться">
         <s meaning="word">Beseech</s><break time="2000ms"/>
-        <s meaning="example">I do beseech you, sir, Be not out with me.</s><break time="1000ms"/>
+        <s meaning="example">I do beseech you, sir. Be not out with me.</s><break time="1000ms"/>
         <!-- Я умоляю вас, сэр, не ходите со мной. -->
-        <s>I do beseech you, sir, Be not out with me.</s><break time="1000ms"/>
-        <s>I do beseech you, sir, Be not out with me.</s><break time="1000ms"/>
+        <s>I do beseech you, sir. Be not out with me.</s><break time="1000ms"/>
+        <s>I do beseech you, sir. Be not out with me.</s><break time="1000ms"/>
     </p>
     <p ru="Непобедимый">
         <s meaning="word">Invincible</s><break time="2000ms"/>

@@ -1,0 +1,74 @@
+<speak>
+    <p ru="Провисать, прогибаться, прогибать, прогиб, перекос, провес, оседание">
+        <s meaning="word">Sag</s><break time="2000ms"/>
+        <s meaning="example">How much does a stretch ceiling sag?</s><break time="1000ms"/>
+        <!-- Насколько сильно провисает натяжной потолок? -->
+        <s>How much does a stretch ceiling sag?</s><break time="1000ms"/>
+        <s>How much does a stretch ceiling sag?</s><break time="1000ms"/>
+    </p>
+    <p ru="Именно, точно, в точности, совершенно верно">
+        <s meaning="word">Precisely</s><break time="2000ms"/>
+        <s meaning="example">What precisely is the next file.</s><break time="1000ms"/>
+        <!---->
+        <s>What precisely is the next file.</s><break time="1000ms"/>
+        <s>What precisely is the next file.</s><break time="1000ms"/>
+    </p>
+    <p ru="Зыбь, волнение, разбухание, набухать, разбухать, шикарный, щегольской">
+        <s meaning="word"></s><break time="2000ms"/>
+        <s meaning="example">The water swells the wood.</s><break time="1000ms"/>
+        <!-- От воды эта древесина разбухает. -->
+        <s>That was a swell party.</s><break time="1000ms"/>
+        <!-- Это была шикарная вечеринка. -->
+        <s>The wind swelled the sails.</s><break time="1000ms"/>
+        <!-- Ветер надул паруса. -->
+    </p>
+    <p ru="Небесный, астрономический, божественный, небожитель">
+        <s meaning="word">Celestial</s><break time="2000ms"/>
+        <s meaning="example">The sun is a special celestial body in our Solar system.</s><break time="1000ms"/>
+        <!-- Солнце - это особое небесное тело в нашей Солнечной системе. -->
+        <s>The sun is a special celestial body in our Solar system.</s><break time="1000ms"/>
+        <s>The sun is a special celestial body in our Solar system.</s><break time="1000ms"/>
+    </p>
+    <p ru="">
+        <s meaning="word"></s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+        <!---->
+        <s></s><break time="1000ms"/>
+        <s></s><break time="1000ms"/>
+    </p>
+    <p ru="">
+        <s meaning="word"></s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+        <!---->
+        <s></s><break time="1000ms"/>
+        <s></s><break time="1000ms"/>
+    </p>
+    <p ru="">
+        <s meaning="word"></s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+        <!---->
+        <s></s><break time="1000ms"/>
+        <s></s><break time="1000ms"/>
+    </p>
+    <p ru="">
+        <s meaning="word"></s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+        <!---->
+        <s></s><break time="1000ms"/>
+        <s></s><break time="1000ms"/>
+    </p>
+    <p ru="">
+        <s meaning="word"></s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+        <!---->
+        <s></s><break time="1000ms"/>
+        <s></s><break time="1000ms"/>
+    </p>
+    <p ru="">
+        <s meaning="word"></s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+        <!---->
+        <s></s><break time="1000ms"/>
+        <s></s><break time="1000ms"/>
+    </p>
+</speak>

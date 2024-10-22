@@ -29,12 +29,12 @@
         <s>The sun is a special celestial body in our Solar system.</s><break time="1000ms"/>
         <s>The sun is a special celestial body in our Solar system.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
+    <p ru="Безобидный, безвредный, безопасный, незлокачественный">
+        <s meaning="word">Innocuous</s><break time="2000ms"/>
+        <s meaning="example">He is a perfectly innocuous young man.</s><break time="1000ms"/>
         <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+        <s>He is a perfectly innocuous young man.</s><break time="1000ms"/>
+        <s>He is a perfectly innocuous young man.</s><break time="1000ms"/>
     </p>
     <p ru="">
         <s meaning="word"></s><break time="2000ms"/>

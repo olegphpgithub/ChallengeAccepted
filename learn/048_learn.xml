@@ -60,10 +60,10 @@
     </p>
     <p ru="Умолять, просить, упрашивать, взмолиться">
         <s meaning="word">Beseech</s><break time="2000ms"/>
-        <s meaning="example">I do beseech you, sir. Be not out with me.</s><break time="1000ms"/>
-        <!-- Я умоляю вас, сэр, не ходите со мной. -->
-        <s>I do beseech you, sir. Be not out with me.</s><break time="1000ms"/>
-        <s>I do beseech you, sir. Be not out with me.</s><break time="1000ms"/>
+        <s meaning="example">I beseech you to reconsider your decision.</s><break time="1000ms"/>
+        <!-- Я умоляю вас пересмотреть свое решение. -->
+        <s>I beseech you to reconsider your decision.</s><break time="1000ms"/>
+        <s>I beseech you to reconsider your decision.</s><break time="1000ms"/>
     </p>
     <p ru="Непобедимый">
         <s meaning="word">Invincible</s><break time="2000ms"/>

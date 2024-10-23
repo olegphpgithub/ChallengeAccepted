@@ -13,14 +13,16 @@
         <s>What precisely is the next file.</s><break time="1000ms"/>
         <s>What precisely is the next file.</s><break time="1000ms"/>
     </p>
-    <p ru="Зыбь, волнение, разбухание, набухать, разбухать, шикарный, щегольской">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example">The water swells the wood.</s><break time="1000ms"/>
-        <!-- От воды эта древесина разбухает. -->
+    <p ru="Разбухание, набухать, разбухать, шикарный">
+        <s meaning="word">Swell</s><break time="2000ms"/>
+        <s meaning="example">The human population swelled, at least temporarily.</s><break time="1000ms"/>
+        <!-- Человеческая популяция увеличилась, по крайней мере временно. -->
+        <s>The human population swelled, at least temporarily.</s><break time="1000ms"/>
+        <s>The human population swelled, at least temporarily.</s><break time="1000ms"/>
         <s>That was a swell party.</s><break time="1000ms"/>
         <!-- Это была шикарная вечеринка. -->
-        <s>The wind swelled the sails.</s><break time="1000ms"/>
-        <!-- Ветер надул паруса. -->
+        <s>That was a swell party.</s><break time="1000ms"/>
+        <s>That was a swell party.</s><break time="1000ms"/>
     </p>
     <p ru="Небесный, астрономический, божественный, небожитель">
         <s meaning="word">Celestial</s><break time="2000ms"/>
@@ -36,33 +38,33 @@
         <s>He is a perfectly innocuous young man.</s><break time="1000ms"/>
         <s>He is a perfectly innocuous young man.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
+    <p ru="Домашняя работа">
+        <s meaning="word">Chore</s><break time="2000ms"/>
+        <s meaning="example">My husband is always busy. He never does any chores.</s><break time="1000ms"/>
         <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+        <s>My husband is always busy. He never does any chores.</s><break time="1000ms"/>
+        <s>My husband is always busy. He never does any chores.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Ползать, ползти, подкрадываться, красться">
+        <s meaning="word">Creep</s><break time="2000ms"/>
+        <s meaning="example">The shadows creep along the ground.</s><break time="1000ms"/>
+        <!-- Тени ползут по земле. -->
+        <s>The shadows creep along the ground.</s><break time="1000ms"/>
+        <s>The shadows creep along the ground.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Соперничать">
+        <s meaning="word">Vie</s><break time="2000ms"/>
+        <s meaning="example">She had to vie for the prize against very strong competition.</s><break time="1000ms"/>
+        <!-- Она должна была бороться за главный приз при очень сильной конкуренции. -->
+        <s>She had to vie for the prize against very strong competition.</s><break time="1000ms"/>
+        <s>She had to vie for the prize against very strong competition.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Радовать, радоваться, веселить, счастье">
+        <s meaning="word">Rejoice</s><break time="2000ms"/>
+        <s meaning="example">My brother rejoiced at hearing the news.</s><break time="1000ms"/>
+        <!-- Мой брат обрадовался, услышав эту новость. -->
+        <s>My brother rejoiced at hearing the news.</s><break time="1000ms"/>
+        <s>My brother rejoiced at hearing the news.</s><break time="1000ms"/>
     </p>
     <p ru="">
         <s meaning="word"></s><break time="2000ms"/>

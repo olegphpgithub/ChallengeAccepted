@@ -66,11 +66,25 @@
         <s>My brother rejoiced at hearing the news.</s><break time="1000ms"/>
         <s>My brother rejoiced at hearing the news.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Бодрый">
+        <s meaning="word">Peppy</s><break time="2000ms"/>
+        <s meaning="example">Jogging gives you strength and health. Moreover makes you energetic and peppy.</s><break time="1000ms"/>
+        <!-- Бег трусцой придает вам сил и здоровья. Кроме того, он делает вас энергичным и бодрым. -->
+        <s>Jogging gives you strength and health. Moreover makes you energetic and peppy.</s><break time="1000ms"/>
+        <s>Jogging gives you strength and health. Moreover makes you energetic and peppy.</s><break time="1000ms"/>
+    </p>
+    <p ru="Безвкусный, неэлегантный, немодный, неряшливо одетая женщина">
+        <s meaning="word">Dowdy</s><break time="2000ms"/>
+        <s meaning="example">She played a dowdy old woman in the film.</s><break time="1000ms"/>
+        <!-- В фильме она играла некрасивую старуху. -->
+        <s>She played a dowdy old woman in the film.</s><break time="1000ms"/>
+        <s>She played a dowdy old woman in the film.</s><break time="1000ms"/>
+    </p>
+    <p ru="Усугублять, обострять, ухудшать, раздражать, отягчать, надоедать, огорчать">
+        <s meaning="word">Aggravate</s><break time="2000ms"/>
+        <s meaning="example">Falsehood will only aggravate your guilt.</s><break time="1000ms"/>
+        <!-- Лжесвидетельство лишь усугубит твою вину. -->
+        <s>Falsehood will only aggravate your guilt.</s><break time="1000ms"/>
+        <s>Falsehood will only aggravate your guilt.</s><break time="1000ms"/>
     </p>
 </speak>

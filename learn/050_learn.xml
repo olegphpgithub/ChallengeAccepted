@@ -1,17 +1,17 @@
 <speak>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
+    <p ru="Вверх, выше, свыше, кверху, ввысь, старше, больше">
+        <s meaning="word">Upwards</s><break time="2000ms"/>
         <s meaning="example">We know touching detected files causes upwards detection?</s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+        <!-- Мы знаем, что прикосновение к обнаруженным файлам приводит к увеличению обнаружения? -->
+        <s>We know touching detected files causes upwards detection?</s><break time="1000ms"/>
+        <s>We know touching detected files causes upwards detection?</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
+    <p ru="Несовместимый, противоречивый, непоследовательный, противоречащий">
+        <s meaning="word">Inconsistent</s><break time="2000ms"/>
         <s meaning="example">That is inconsistent results. It shows issue is not either doesn't it?</s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+        <!-- Это противоречивые результаты. Это показывает, что проблема не в том, не так ли? -->
+        <s>That is inconsistent results. It shows issue is not either doesn't it?</s><break time="1000ms"/>
+        <s>That is inconsistent results. It shows issue is not either doesn't it?</s><break time="1000ms"/>
     </p>
     <p ru="Мешок, увольнять">
         <s meaning="word">Sack</s><break time="2000ms"/>

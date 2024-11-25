@@ -20,26 +20,26 @@
         <s>I am sacking you because it is the same 8 hours.</s><break time="1000ms"/>
         <s>I am sacking you because it is the same 8 hours.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Дискретный, отдельный, раздельный, отвлеченный, абстрактный, уединенный">
+        <s meaning="word">Discrete</s><break time="2000ms"/>
+        <s meaning="example">The family chose some discrete location in order to have rest away from the city noise and hurry-scurry.</s><break time="1000ms"/>
+        <!-- Семья выбрала какое-то уединенное место, чтобы отдохнуть вдали от городского шума и суеты. -->
+        <s>The family chose some discrete location in order to have rest away from the city noise and hurry-scurry.</s><break time="1000ms"/>
+        <s>The family chose some discrete location in order to have rest away from the city noise and hurry-scurry.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Сдержанный, осторожный, благоразумный, тактичный, осмотрительный">
+        <s meaning="word">Discreet</s><break time="2000ms"/>
+        <s meaning="example">He was very discreet, only saying what was necessary.</s><break time="1000ms"/>
+        <!-- Он был очень сдержан, говорил только то, что было необходимо. -->
+        <s>He was very discreet, only saying what was necessary.</s><break time="1000ms"/>
+        <s>He was very discreet, only saying what was necessary.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Неубедительный, тонкая бумага, телеграмма">
+        <s meaning="word">Flimsy</s><break time="2000ms"/>
+        <s meaning="example">The evidence against him is extremely flimsy.</s><break time="1000ms"/>
+        <!-- Улики против него крайне неубедительны. -->
+        <s>The evidence against him is extremely flimsy.</s><break time="1000ms"/>
+        <s>The evidence against him is extremely flimsy.</s><break time="1000ms"/>
     </p>
     <p ru="">
         <s meaning="word"></s><break time="2000ms"/>

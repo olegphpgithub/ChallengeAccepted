@@ -41,26 +41,26 @@
         <s>The evidence against him is extremely flimsy.</s><break time="1000ms"/>
         <s>The evidence against him is extremely flimsy.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
+    <p ru="Походить, иметь сходство">
+        <s meaning="word">Resemble</s><break time="2000ms"/>
+        <s meaning="example">Mary resembles her mother in looks.</s><break time="1000ms"/>
         <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+        <s>Mary resembles her mother in looks.</s><break time="1000ms"/>
+        <s>Mary resembles her mother in looks.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
+    <p ru="Упорный, упрямый, неподатливый">
+        <s meaning="word">Stubborn</s><break time="2000ms"/>
+        <s meaning="example">They both are stubborn and never give up.</s><break time="1000ms"/>
         <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+        <s>They both are stubborn and never give up.</s><break time="1000ms"/>
+        <s>They both are stubborn and never give up.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Приличный, порядочный, пристойный, скромный, подходящий, славный, благопристойный">
+        <s meaning="word">Decent</s><break time="2000ms"/>
+        <s meaning="example">WebKit is built if a decent C++ compiler is used.</s><break time="1000ms"/>
+        <!-- WebKit создается, если используется достойный компилятор C++. -->
+        <s>WebKit is built if a decent C++ compiler is used.</s><break time="1000ms"/>
+        <s>WebKit is built if a decent C++ compiler is used.</s><break time="1000ms"/>
     </p>
     <p ru="">
         <s meaning="word"></s><break time="2000ms"/>

@@ -62,11 +62,11 @@
         <s>WebKit is built if a decent C++ compiler is used.</s><break time="1000ms"/>
         <s>WebKit is built if a decent C++ compiler is used.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Спуск, происхождение, снижение, нисхождение, падение, опускание, сход, десант, склон">
+        <s meaning="word">Descent</s><break time="2000ms"/>
+        <s meaning="example">The pilot spotted a large field and began the descent.</s><break time="1000ms"/>
+        <!-- Пилот заметил большое поле и начал снижение. -->
+        <s>The pilot spotted a large field and began the descent.</s><break time="1000ms"/>
+        <s>The pilot spotted a large field and began the descent.</s><break time="1000ms"/>
     </p>
 </speak>

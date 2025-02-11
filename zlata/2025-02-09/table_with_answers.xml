@@ -1,0 +1,89 @@
+<speak>
+    <p>
+        <s meaning="word" audio="wav/Антонимы.wav">Антонимы</s>
+    </p>
+    <p>
+        <s meaning="word" audio="wav/Второстепенные и однородные члены предложения.wav">Второстепенные и однородные члены предложения</s>
+    </p>
+    <p>
+        <s meaning="word" audio="wav/Грамматическая основа предложения.wav">Грамматическая основа предложения</s>
+    </p>
+    <p>
+        <s meaning="word" audio="wav/Диалог.wav">Диалог</s>
+    </p>
+    <p>
+        <s meaning="word" audio="wav/Дополнение.wav">Дополнение</s>
+    </p>
+    <p>
+        <s meaning="word" audio="wav/Знаки препинания.wav">Знаки препинания</s>
+    </p>
+    <p>
+        <s meaning="word" audio="wav/Корень.wav">Корень</s>
+    </p>
+    <p>
+        <s meaning="word" audio="wav/Лексика.wav">Лексика</s>
+    </p>
+    <p>
+        <s meaning="word" audio="wav/Морфема.wav">Морфема</s>
+    </p>
+    <p>
+        <s meaning="word" audio="wav/Обращение.wav">Обращение</s>
+    </p>
+    <p>
+        <s meaning="word" audio="wav/Обстоятельство.wav">Обстоятельство</s>
+    </p>
+    <p>
+        <s meaning="word" audio="wav/Однозначные и многозначные слова.wav">Однозначные и многозначные слова</s>
+    </p>
+    <p>
+        <s meaning="word" audio="wav/Окончание.wav">Окончание</s>
+    </p>
+    <p>
+        <s meaning="word" audio="wav/Омонимы.wav">Омонимы</s>
+    </p>
+    <p>
+        <s meaning="word" audio="wav/Определение.wav">Определение</s>
+    </p>
+    <p>
+        <s meaning="word" audio="wav/Орфограмма.wav">Орфограмма</s>
+    </p>
+    <p>
+        <s meaning="word" audio="wav/Орфоэпия.wav">Орфоэпия</s>
+    </p>
+    <p>
+        <s meaning="word" audio="wav/Основа.wav">Основа</s>
+    </p>
+    <p>
+        <s meaning="word" audio="wav/Подлежащее.wav">Подлежащее</s>
+    </p>
+    <p>
+        <s meaning="word" audio="wav/Приставка.wav">Приставка</s>
+    </p>
+    <p>
+        <s meaning="word" audio="wav/Прямая речь.wav">Прямая речь</s>
+    </p>
+    <p>
+        <s meaning="word" audio="wav/Пунктуация.wav">Пунктуация</s>
+    </p>
+    <p>
+        <s meaning="word" audio="wav/Синонимы.wav">Синонимы</s>
+    </p>
+    <p>
+        <s meaning="word" audio="wav/Синтаксис.wav">Синтаксис</s>
+    </p>
+    <p>
+        <s meaning="word" audio="wav/Сказуемое.wav">Сказуемое</s>
+    </p>
+    <p>
+        <s meaning="word" audio="wav/Словосочетание.wav">Словосочетание</s>
+    </p>
+    <p>
+        <s meaning="word" audio="wav/Суффикс.wav">Суффикс</s>
+    </p>
+    <p>
+        <s meaning="word" audio="wav/Текст.wav">Текст</s>
+    </p>
+    <p>
+        <s meaning="word" audio="wav/Фонетика.wav">Фонетика</s>
+    </p>
+</speak>

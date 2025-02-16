@@ -20,19 +20,19 @@
         <s>Improvements to the system were stymied long before the fire disaster.</s><break time="1000ms"/>
         <s>Improvements to the system were stymied long before the fire disaster.</s><break time="1000ms"/>
     </p>
-    <p ru="">
+    <p ru="Ожог, пятно от ожога, бешеная езда, палить, опалять, опаляться, выгорать">
         <s meaning="word">Scorch</s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+        <s meaning="example">Direct sunlight will scorch the plant's leaves.</s><break time="1000ms"/>
+        <!-- Прямой солнечный свет будет обжигать листья растений. -->
+        <s>Direct sunlight will scorch the plant's leaves.</s><break time="1000ms"/>
+        <s>Direct sunlight will scorch the plant's leaves.</s><break time="1000ms"/>
     </p>
-    <p ru="">
+    <p ru="Создавать (проблемы, долг, расходы)">
         <s meaning="word">Rack up</s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+        <s meaning="example">I don’t want to rack up more problems.</s><break time="1000ms"/>
+        <!-- Я не хочу создавать еще больше проблем. -->
+        <s>I don’t want to rack up more problems.</s><break time="1000ms"/>
+        <s>I don’t want to rack up more problems.</s><break time="1000ms"/>
     </p>
     <p ru="Перемирие, затишье, передышка, прекращение">
         <s meaning="word">Truce</s><break time="2000ms"/>

@@ -2,70 +2,60 @@
     <p ru="Соблазнять, переманивать, заманивать, прельстить, сманивать, залучать">
         <s meaning="word">Entice</s><break time="2000ms"/>
         <s meaning="example">They went away but we tried to entice them to stay.</s><break time="1000ms"/>
-        <!-- Они ушли, но мы пытались уговорить их остаться. -->
         <s>They went away but we tried to entice them to stay.</s><break time="1000ms"/>
         <s>They went away but we tried to entice them to stay.</s><break time="1000ms"/>
     </p>
     <p ru="Пускать под откос">
         <s meaning="word">Derail</s><break time="2000ms"/>
         <s meaning="example">Will a Hollywood shooting trial derail his career?</s><break time="1000ms"/>
-        <!-- Пустит ли под откос его карьеру судебный процесс по делу о стрельбе в Голливуде? -->
         <s>Will a Hollywood shooting trial derail his career?</s><break time="1000ms"/>
         <s>Will a Hollywood shooting trial derail his career?</s><break time="1000ms"/>
     </p>
     <p ru="Загнать в угол, ставить в тупик, безвыходное положение">
         <s meaning="word">Stymie</s><break time="2000ms"/>
         <s meaning="example">Improvements to the system were stymied long before the fire disaster.</s><break time="1000ms"/>
-        <!-- Усовершенствования системы были заведены в тупик задолго до катастрофического пожара. -->
         <s>Improvements to the system were stymied long before the fire disaster.</s><break time="1000ms"/>
         <s>Improvements to the system were stymied long before the fire disaster.</s><break time="1000ms"/>
     </p>
     <p ru="Ожог, пятно от ожога, бешеная езда, палить, опалять, опаляться, выгорать">
         <s meaning="word">Scorch</s><break time="2000ms"/>
         <s meaning="example">Direct sunlight will scorch the plant's leaves.</s><break time="1000ms"/>
-        <!-- Прямой солнечный свет будет обжигать листья растений. -->
         <s>Direct sunlight will scorch the plant's leaves.</s><break time="1000ms"/>
         <s>Direct sunlight will scorch the plant's leaves.</s><break time="1000ms"/>
     </p>
     <p ru="Создавать (проблемы, долг, расходы)">
         <s meaning="word">Rack up</s><break time="2000ms"/>
         <s meaning="example">I don’t want to rack up more problems.</s><break time="1000ms"/>
-        <!-- Я не хочу создавать еще больше проблем. -->
         <s>I don’t want to rack up more problems.</s><break time="1000ms"/>
         <s>I don’t want to rack up more problems.</s><break time="1000ms"/>
     </p>
     <p ru="Перемирие, затишье, передышка, прекращение">
         <s meaning="word">Truce</s><break time="2000ms"/>
         <s meaning="example">There are growing signs the second phase of the fragile truce will never happen.</s><break time="1000ms"/>
-        <!-- Появляется все больше признаков того, что второй этап хрупкого перемирия никогда не состоится. -->
         <s>There are growing signs the second phase of the fragile truce will never happen.</s><break time="1000ms"/>
         <s>There are growing signs the second phase of the fragile truce will never happen.</s><break time="1000ms"/>
     </p>
     <p ru="Мрачный, темный, угрюмый, хмурый, унылый">
         <s meaning="word">Somber</s><break time="2000ms"/>
         <s meaning="example">The mood in the room was somber after the bad news.</s><break time="1000ms"/>
-        <!-- После плохих новостей в зале царило мрачное настроение. -->
         <s>The mood in the room was somber after the bad news.</s><break time="1000ms"/>
         <s>The mood in the room was somber after the bad news.</s><break time="1000ms"/>
     </p>
     <p ru="Перебой в работе, утечка, остановка работы, простой в работе">
         <s meaning="word">Outage</s><break time="2000ms"/>
         <s meaning="example">The SSL certificate will change within a few days and cause a massive outage.</s><break time="1000ms"/>
-        <!-- SSL-сертификат изменится в течение нескольких дней и вызовет массовый сбой в работе. -->
         <s>The SSL certificate will change within a few days and cause a massive outage.</s><break time="1000ms"/>
         <s>The SSL certificate will change within a few days and cause a massive outage.</s><break time="1000ms"/>
     </p>
     <p ru="Царствовать, господствовать, царить, царствование, власть, царская власть">
         <s meaning="word">Reign</s><break time="2000ms"/>
         <s meaning="example">The queen reigned for 50 years.</s><break time="1000ms"/>
-        <!-- Королева правила 50 лет. -->
         <s>Peace reigned after the agreement was signed.</s><break time="1000ms"/>
         <s>Peace reigned after the agreement was signed.</s><break time="1000ms"/>
     </p>
     <p ru="Маячить, неясно вырисовываться">
         <s meaning="word">Loom</s><break time="2000ms"/>
         <s meaning="example">A big ship loomed on the horizon.</s><break time="1000ms"/>
-        <!-- На горизонте показался большой корабль. -->
         <s>A big ship loomed on the horizon.</s><break time="1000ms"/>
         <s>A big ship loomed on the horizon.</s><break time="1000ms"/>
     </p>

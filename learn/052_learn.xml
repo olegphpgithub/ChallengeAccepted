@@ -5,12 +5,11 @@
         <s>He disrespected the US in its cherished Oval Office.</s><break time="1000ms"/>
         <s>He disrespected the US in its cherished Oval Office.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Взбодрить, ободрять, поощрять, придавать храбрости">
+        <s meaning="word">Embolden</s><break time="2000ms"/>
+        <s meaning="example">They don't want to make peace because they feel emboldened.</s><break time="1000ms"/>
+        <s>They don't want to make peace because they feel emboldened.</s><break time="1000ms"/>
+        <s>They don't want to make peace because they feel emboldened.</s><break time="1000ms"/>
     </p>
     <p ru="">
         <s meaning="word"></s><break time="2000ms"/>

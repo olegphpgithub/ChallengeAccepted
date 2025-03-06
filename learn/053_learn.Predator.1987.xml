@@ -27,46 +27,53 @@
         <s>Grab those hostages, and bounce back.</s><break time="1000ms"/>
         <s>Grab those hostages, and bounce back.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
+    <p ru="Вонять, смердеть, быть омерзительным, вонь, зловоние, смрад, скандал, шумиха">
+        <s meaning="word">Stink</s><break time="2000ms"/>
+        <s meaning="example">Get that stinking shit out of my face.</s><break time="1000ms"/>
         <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+        <s>Get that stinking shit out of my face.</s><break time="1000ms"/>
+        <s>Get that stinking shit out of my face.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
+    <p ru="Челюсть">
+        <s meaning="word">Jaw</s><break time="2000ms"/>
+        <s meaning="example">Bunch of slack-jawed faggots around here.</s><break time="1000ms"/>
         <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+        <s>Bunch of slack-jawed faggots around here.</s><break time="1000ms"/>
+        <s>Bunch of slack-jawed faggots around here.</s><break time="1000ms"/>
     </p>
-    <p ru="">
+    <p ru="Больной, рана, болячка, язва, тяжко, жестоко, причинять боль">
         <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
+        <s meaning="example">Strap this on your sore ass, Blain.</s><break time="1000ms"/>
         <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+        <s>Strap this on your sore ass, Blain.</s><break time="1000ms"/>
+        <s>Strap this on your sore ass, Blain.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
+    <p ru="Противный, неприятный, грязный, скверный, гадкий, мерзкий, отвратительный, злобный">
+        <s meaning="word">Nasty</s><break time="2000ms"/>
+        <s meaning="example">That's a real nasty habit you got there.</s><break time="1000ms"/>
         <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+        <s>That's a real nasty habit you got there.</s><break time="1000ms"/>
+        <s>That's a real nasty habit you got there.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
+    <p ru="Наблюдение, надзор">
+        <s meaning="word">Surveillance</s><break time="2000ms"/>
+        <s meaning="example">It looks more like a surveillance bird to me.</s><break time="1000ms"/>
         <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+        <s>It looks more like a surveillance bird to me.</s><break time="1000ms"/>
+        <s>It looks more like a surveillance bird to me.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
+    <p ru="Партизан">
+        <s meaning="word">Guerrilla</s><break time="2000ms"/>
+        <s meaning="example">There were 12 guerrillas.</s><break time="1000ms"/>
         <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+        <s>There were 12 guerrillas.</s><break time="1000ms"/>
+        <s>There were 12 guerrillas.</s><break time="1000ms"/>
+    </p>
+    <p ru="Засада, нападать из засады, устраивать засаду">
+        <s meaning="word">Ambush</s><break time="2000ms"/>
+        <s meaning="example">I can't believe Hopper walked into an ambush.</s><break time="1000ms"/>
+        <!---->
+        <s>I can't believe Hopper walked into an ambush.</s><break time="1000ms"/>
+        <s>I can't believe Hopper walked into an ambush.</s><break time="1000ms"/>
     </p>
 </speak>

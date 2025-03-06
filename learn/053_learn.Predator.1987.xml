@@ -76,4 +76,11 @@
         <s>I can't believe Hopper walked into an ambush.</s><break time="1000ms"/>
         <s>I can't believe Hopper walked into an ambush.</s><break time="1000ms"/>
     </p>
+    <p ru="Расходуемый, потребляемый, невосстановимый, невозвратимый">
+        <s meaning="word">Expendable</s><break time="2000ms"/>
+        <s meaning="example">You're an asset, an expendable asset.</s><break time="1000ms"/>
+        <!---->
+        <s>You're an asset, an expendable asset.</s><break time="1000ms"/>
+        <s>You're an asset, an expendable asset.</s><break time="1000ms"/>
+    </p>
 </speak>

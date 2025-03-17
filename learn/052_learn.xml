@@ -17,12 +17,11 @@
         <s>Your first role is to inform me and Yuriy, but first and foremost ME.</s><break time="1000ms"/>
         <s>Your first role is to inform me and Yuriy, but first and foremost ME.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Скромный, сдержанный, серьезный, притворно застенчивый">
+        <s meaning="word">Demure</s><break time="2000ms"/>
+        <s meaning="example">My sister choose a demure pencil skirt for her first date.</s><break time="1000ms"/>
+        <s>My sister choose a demure pencil skirt for her first date.</s><break time="1000ms"/>
+        <s>My sister choose a demure pencil skirt for her first date.</s><break time="1000ms"/>
     </p>
     <p ru="">
         <s meaning="word"></s><break time="2000ms"/>

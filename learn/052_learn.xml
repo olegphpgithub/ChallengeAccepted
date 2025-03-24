@@ -35,12 +35,11 @@
         <s>She placed the fragile vase gingerly on the shelf.</s><break time="1000ms"/>
         <s>She placed the fragile vase gingerly on the shelf.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Развлечение, забава, веселье, удовольствие, времяпрепровождение">
+        <s meaning="word">Amusement</s><break time="2000ms"/>
+        <s meaning="example">Are there any amusement park in the city?</s><break time="1000ms"/>
+        <s>Are there any amusement park in the city?</s><break time="1000ms"/>
+        <s>Are there any amusement park in the city?</s><break time="1000ms"/>
     </p>
     <p ru="">
         <s meaning="word"></s><break time="2000ms"/>

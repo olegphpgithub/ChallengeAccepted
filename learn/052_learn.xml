@@ -23,19 +23,17 @@
         <s>My sister choose a demure pencil skirt for her first date.</s><break time="1000ms"/>
         <s>My sister choose a demure pencil skirt for her first date.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Сбрасывать, проливать">
+        <s meaning="word">Shed</s><break time="2000ms"/>
+        <s meaning="example">The tree shed its leaves in the fall.</s><break time="1000ms"/>
+        <s>The tree shed its leaves in the fall.</s><break time="1000ms"/>
+        <s>The tree shed its leaves in the fall.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Осторожно, аккуратно">
+        <s meaning="word">Gingerly</s><break time="2000ms"/>
+        <s meaning="example">She placed the fragile vase gingerly on the shelf.</s><break time="1000ms"/>
+        <s>She placed the fragile vase gingerly on the shelf.</s><break time="1000ms"/>
+        <s>She placed the fragile vase gingerly on the shelf.</s><break time="1000ms"/>
     </p>
     <p ru="">
         <s meaning="word"></s><break time="2000ms"/>

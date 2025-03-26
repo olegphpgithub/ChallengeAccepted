@@ -41,12 +41,11 @@
         <s>Are there any amusement park in the city?</s><break time="1000ms"/>
         <s>Are there any amusement park in the city?</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Лживый, обманчивый, предательский, вводящий в заблуждение">
+        <s meaning="word">Deceitful</s><break time="2000ms"/>
+        <s meaning="example">The journalist called the party's election tactics deceitful. But unfortunately many voters trusted it.</s><break time="1000ms"/>
+        <s>The journalist called the party's election tactics deceitful. But unfortunately many voters trusted it.</s><break time="1000ms"/>
+        <s>The journalist called the party's election tactics deceitful. But unfortunately many voters trusted it.</s><break time="1000ms"/>
     </p>
     <p ru="">
         <s meaning="word"></s><break time="2000ms"/>

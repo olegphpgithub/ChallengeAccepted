@@ -1,0 +1,38 @@
+<speak>
+    <p ru="булочная">
+        <s meaning="word">bakery</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+    </p>
+    <p ru="аптека">
+        <s meaning="word">chemist's</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+    </p>
+    <p ru="цветочный магазин">
+        <s meaning="word">florist's</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+    </p>
+    <p ru="овощной магазин">
+        <s meaning="word">greengrocer's</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+    </p>
+    <p ru="ювелирный магазин">
+        <s meaning="word">jeweller's</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+    </p>
+    <p ru="газетный киоск">
+        <s meaning="word">newsagent's</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+    </p>
+    <p ru="музыкальный магазин">
+        <s meaning="word">record shop</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+    </p>
+    <p ru="обувной магазин">
+        <s meaning="word">shoe shop</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+    </p>
+    <p ru="ресторан быстрого питания">
+        <s meaning="word">fast food restaurant</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+    </p>
+</speak>

@@ -1,0 +1,39 @@
+<speak>
+    <p ru="Файл">
+        <s meaning="word">File</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+    </p>
+    <p ru="Папка">
+        <s meaning="word">Folder</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+    </p>
+    <p ru="Клавиатура">
+        <s meaning="word">Keyboard</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+    </p>
+    <p ru="Монитор">
+        <s meaning="word">Monitor</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+    </p>
+    <p ru="Мышь">
+        <s meaning="word">Mouse</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+    </p>
+    <p ru="Принтер">
+        <s meaning="word">Printer</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+    </p>
+    <p ru="Системный блок">
+        <s meaning="word">System unit</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+    </p>
+    <p ru="Имя пользователя">
+        <s meaning="word">Login</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+    </p>
+    <p ru="Пароль">
+        <s meaning="word">Password</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+    </p>
+
+</speak>

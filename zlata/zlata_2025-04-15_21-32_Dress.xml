@@ -23,7 +23,7 @@
         <s meaning="word">Boots</s><break time="2000ms"/>
         <s meaning="example"></s><break time="1000ms"/>
     </p>
-    <p ru="Шапка">
+    <p ru="Кепка">
         <s meaning="word">Cap</s><break time="2000ms"/>
         <s meaning="example"></s><break time="1000ms"/>
     </p>
@@ -52,7 +52,7 @@
         <s meaning="example"></s><break time="1000ms"/>
     </p>
     <p ru="Сумка">
-        <s meaning="word">Bandbag</s><break time="2000ms"/>
+        <s meaning="word">Handbag</s><break time="2000ms"/>
         <s meaning="example"></s><break time="1000ms"/>
     </p>
     <p ru="Высокие каблуки">

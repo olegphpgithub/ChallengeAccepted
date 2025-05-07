@@ -1,0 +1,69 @@
+Were they to leave now, they would come on time. - Это второй тип (нереальное настоящее или будущее). Инверсный порядок слов.
+If they were to leave now, they would come on time. - Предложение с прямым порядком слов (то есть с if) будет таким.
+If they left now, they would come on time. - Более нейтральная и разговорная форма.
+
+
+
+Were she studied harder, she would pass the exam.
+Were she to study harder, she would pass the exam.
+
+Had you called me earlier, I could have helped you.
+If you had called me earlier... → Had you called me earlier...
+
+
+If I had been in your position... → инверсия: Had I been...
+
+Were I in your position, I would act differently. — (без been).
+
+If they were to accept the offer... → Were they to accept the offer...
+
+Had he not forgotten the keys, we would be inside by now.
+
+
+
+
+1.
+_______ she studied harder, she would pass the exam.
+
+2.
+_______ you have called me earlier, I could have helped you.
+
+3.
+_______ I been in your position, I would have acted differently.
+
+4.
+_______ they to accept the offer, they would benefit greatly.
+
+5.
+_______ he not forgotten the keys, we would be inside by now.
+
+
+
+Had she studied harder, she would pass the exam. Это грамматически правильно?
+
+Приведи пример смешанного условного предложения. Предложение должно быть в инверсной форме.
+Сочетай 2-й и 3-й тип.
+
+
+| Тип условного предложения             | Условие (If-clause)     | Результат (Main clause)          | Формула                                          | Пример                                                                                                                       |
+| ------------------------------------- | ----------------------- | -------------------------------- | ------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------- |
+| **Нулевой тип (Zero Conditional)**    | **If + Present Simple** | **Present Simple**               | If + Present Simple → Present Simple             | **If** you heat water to 100°C, it **boils**. (Если нагреть воду до 100°C, она закипит.)                                     |
+| **Первый тип (First Conditional)**    | **If + Present Simple** | **will + Infinitive**            | If + Present Simple → will + Infinitive          | **If** it rains tomorrow, we **will stay** home. (Если завтра пойдет дождь, мы останемся дома.)                              |
+| **Второй тип (Second Conditional)**   | **If + Past Simple**    | **would + Infinitive**           | If + Past Simple → would + Infinitive            | **If** I **were** you, I **would** talk to him. (Если бы я был на твоем месте, я бы поговорил с ним.)                        |
+| **Третий тип (Third Conditional)**    | **If + Past Perfect**   | **would have + Past Participle** | If + Past Perfect → would have + Past Participle | **If** she **had studied** harder, she **would have passed** the exam. (Если бы она училась усерднее, она бы сдала экзамен.) |
+| **Смешанный тип (Mixed Conditional)** | **If + Past Perfect**   | **would + Infinitive**           | If + Past Perfect → would + Infinitive           | **Had** I studied harder, I **would be** passing the exam now. (Если бы я учил(ся) усерднее, я бы сдавал экзамен сейчас.)    |
+
+
+| **Форма глагола**                                      | **Пример** | **Использование**                                                                  |
+| ------------------------------------------------------ | ---------- | ---------------------------------------------------------------------------------- |
+| **Infinitive (инфинитив)**                             | to work    | Начальная форма глагола, используется для выражения действия без указания времени. |
+| **Base form (основная форма)**                         | work       | Основная форма, используется с модальными глаголами (can, must, should и т.д.).    |
+| **Past Simple (прошедшее время)**                      | worked     | Обычное прошедшее время для действий в прошлом.                                    |
+| **Past Participle (причастие прошедшего времени)**     | worked     | Используется в совершенных временах и пассивном залоге.                            |
+| **Present Participle (причастие настоящего времени)**  | working    | Используется для образования времени Continuous (действие в процессе).             |
+| **3rd Person Singular (3-е лицо, единственное число)** | works      | Используется для 3-го лица единственного числа в Present Simple (he works).        |
+
+
+Were you to ask him, he would help you.
+If you were to ask him, he would help you.
+If you asked him, he would help you.

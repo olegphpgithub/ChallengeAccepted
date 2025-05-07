@@ -13,19 +13,19 @@
         <s>You got a real attitude problem.</s><break time="1000ms"/>
         <s>You got a real attitude problem.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
+    <p ru="Бездельник, лодырь, прогульщик, дезертир, уклоняющийся от службы в армии">
+        <s meaning="word">Slacker</s><break time="2000ms"/>
+        <s meaning="example">He was a slacker, too.</s><break time="1000ms"/>
         <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+        <s>He was a slacker, too.</s><break time="1000ms"/>
+        <s>He was a slacker, too.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
+    <p ru="Водишься, путаешься">
+        <s meaning="word">Hang around with</s><break time="2000ms"/>
+        <s meaning="example">Am I to understand you're still hanging around with Dr. Drown?</s><break time="1000ms"/>
         <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+        <s>Am I to understand you're still hanging around with Dr. Drown?</s><break time="1000ms"/>
+        <s>Am I to understand you're still hanging around with Dr. Drown?</s><break time="1000ms"/>
     </p>
     <p ru="">
         <s meaning="word"></s><break time="2000ms"/>

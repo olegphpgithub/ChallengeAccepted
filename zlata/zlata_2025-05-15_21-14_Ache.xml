@@ -1,0 +1,46 @@
+<speak>
+    <p ru="Аббревиатура">
+        <s meaning="word">Abbreviation</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+    </p>
+    <p ru="Дантист">
+        <s meaning="word">Dentist</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+    </p>
+    <p ru="Головная боль">
+        <s meaning="word">Headache</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+    </p>
+    <p ru="Вопросы здоровья">
+        <s meaning="word">Health matters</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+    </p>
+    <p ru="Записка">
+        <s meaning="word">Note</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+    </p>
+    <p ru="Фармация, аптечное дело">
+        <s meaning="word">Pharmacy</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+    </p>
+    <p ru="Прием, получение, восприятие, принятие, встреча, вечеринка, вечер">
+        <s meaning="word">Reception</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+    </p>
+    <p ru="Боль в желудке">
+        <s meaning="word">Stomachache</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+    </p>
+    <p ru="Солнечный ожог">
+        <s meaning="word">Sunburn</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+    </p>
+    <p ru="Температура">
+        <s meaning="word">Temperature</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+    </p>
+    <p ru="Зубная боль">
+        <s meaning="word">Toothache</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+    </p>
+</speak>

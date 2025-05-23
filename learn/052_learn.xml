@@ -47,12 +47,11 @@
         <s>The journalist called the party's election tactics deceitful. But unfortunately many voters trusted it.</s><break time="1000ms"/>
         <s>The journalist called the party's election tactics deceitful. But unfortunately many voters trusted it.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Отрицать, отвергать, сводить на нет, опровергать, делать недействительным">
+        <s meaning="word">Negate</s><break time="2000ms"/>
+        <s meaning="example">That does not negate this responsibility.</s><break time="1000ms"/>
+        <s>That does not negate this responsibility.</s><break time="1000ms"/>
+        <s>That does not negate this responsibility.</s><break time="1000ms"/>
     </p>
     <p ru="">
         <s meaning="word"></s><break time="2000ms"/>

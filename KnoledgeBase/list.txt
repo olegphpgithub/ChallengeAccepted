@@ -21,6 +21,7 @@ We do not use articles before numerals.
 'Prepare' requires the Infinitive.
 'Arrange' requires the Infinitive.
 'Pretend' requires the Infinitive.
+'Deserve' requires the Infinitive. We cannot use the Gerund with this verb.
 
 
 
@@ -30,6 +31,8 @@ We should remember that some nouns are used with specific prepositions after the
 'objection to'.
 'rise in'.
 'memory of'.
+'need for'.
+
 
 We should remember that some verbs are used with specific prepositions after them:
 'smile at somebody'.

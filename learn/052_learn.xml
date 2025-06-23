@@ -53,11 +53,11 @@
         <s>That does not negate this responsibility.</s><break time="1000ms"/>
         <s>That does not negate this responsibility.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Жаться, заталкивать, прижиматься, толпа, груда, сутолока, тайное совещание">
+        <s meaning="word">Huddle</s><break time="2000ms"/>
+        <s meaning="example">Trump huddles with top brass as admin 'closely' monitors reports of explosions in Qatar's capital.</s><break time="1000ms"/>
+        <!-- Трамп совещается с высшим руководством, поскольку администрация "внимательно" следит за сообщениями о взрывах в столице Катара. -->
+        <s>Trump huddles with top brass as admin 'closely' monitors reports of explosions in Qatar's capital.</s><break time="1000ms"/>
+        <s>Trump huddles with top brass as admin 'closely' monitors reports of explosions in Qatar's capital.</s><break time="1000ms"/>
     </p>
 </speak>

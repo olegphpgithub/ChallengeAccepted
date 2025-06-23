@@ -64,6 +64,87 @@ Had she studied harder, she would pass the exam. Это грамматическ
 | **3rd Person Singular (3-е лицо, единственное число)** | works      | Используется для 3-го лица единственного числа в Present Simple (he works).        |
 
 
+
+Тип	Пример с "if"	Инверсия
+1-й (реальное будущее)	If he calls...	Should he call...
+2-й (гипотетическое)	If I were rich...	Were I rich...
+3-й (нереальное прошлое)	If she had known...	Had she known...
+
 Were you to ask him, he would help you.
 If you were to ask him, he would help you.
 If you asked him, he would help you.
+
+
+
+Should it rain tomorrow, we will stay home.
+If it should rain tomorrow, we will stay home.
+
+
+### Should
+
+Were they to study harder, they could pass the exam.
+Should they study harder, they could pass the exam.
+
+
+If she calls, tell her I’m busy. — простое условие, более нейтральное.
+If she should call, tell her I’m busy. — подчёркивает, что звонок маловероятен или неожидан.
+
+
+### 1
+
+Инверсия для первого условного предложения.
+Вместо:
+If I see her, I will tell her...
+Используется:
+Should I see her, I will tell her...
+
+
+Вместо:
+If he arrive late again, he will be fired.
+Используется:
+Should he arrive late again, he will be fired.
+
+Should she call, tell her I’m busy.
+Это первый тип условного предложения в форме инверсии. Используется для вежливого или формального выражения вероятного будущего.
+🔁 Без инверсии: If she should call, tell her I’m busy.
+
+### 2
+
+Инверсия для второго условного предложения.
+Обычная форма:
+If I had more time, I would learn to play the piano.
+Инверсия:
+Had I more time, I would learn...
+
+
+Инверсия для второго условного (гипотетическое настоящее или будущее).
+If you drank more water, you would feel better.
+Инверсия:
+Should you drink more water, you would feel better.
+
+
+Were they to try harder, they might succeed.
+Это инверсия второго условного предложения с конструкцией "were + subject + to + verb" — гипотетическая ситуация в настоящем или будущем.
+🔁 Без инверсии: If they were to try harder, they might succeed.
+
+
+### 3
+
+Инверсия для третьего условного — о прошедшей нереальной ситуации.
+Без инверсии:
+If he had not forgotten the map, we wouldn’t have got lost.
+С инверсией:
+Had he not forgotten the map...
+
+
+Инверсия для третьего условного предложения — о прошедшем, которое уже не изменить.
+Без инверсии:
+If they had left earlier, they could have caught the bus.
+С инверсией:
+Had they left earlier, they could have caught the bus.
+
+
+2. Had she not helped us, we would have failed.
+Это инверсия третьего условного предложения, выражающего нереальное прошлое.
+🔁 Без инверсии: If she had not helped us, we would have failed.
+

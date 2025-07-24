@@ -148,3 +148,10 @@ Had they left earlier, they could have caught the bus.
 Это инверсия третьего условного предложения, выражающего нереальное прошлое.
 🔁 Без инверсии: If she had not helped us, we would have failed.
 
+
+
+Обычная форма:
+If she had known the truth, she would have acted differently.
+Инверсия:
+Had she known the truth, she would have acted differently.
+

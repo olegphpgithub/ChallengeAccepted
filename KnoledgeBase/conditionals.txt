@@ -155,3 +155,15 @@ If she had known the truth, she would have acted differently.
 Инверсия:
 Had she known the truth, she would have acted differently.
 
+
+English. Составь, пожалуйста, таблицу по 4-м типам условных предложений.
+Интересуте прямой и обратынй порядок слов. С примерами.
+
+
+| Тип                                | Условие                                     | Прямой порядок                                       | Инверсия (обратный порядок)                                                               | Пример (прямой)                                                                                               | Пример (инверсный)                                                                                    |
+| ---------------------------------- | ------------------------------------------- | ---------------------------------------------------- | ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
+| **Zero Conditional**<br>(нулевой)  | Общее правило, всегда верно                 | **If + Present Simple**, Main Clause: Present Simple | Инверсия почти не используется (редко)                                                    | *If you heat water to 100°C, it boils.*<br>Если нагреть воду до 100°C, она закипает.                          | —                                                                                                     |
+| **First Conditional**<br>(первый)  | Реальное будущее условие                    | **If + Present Simple**, Main: *will + V*            | **Should + Subject + V**, Main: *will + V*                                                | *If it rains, we will stay home.*<br>Если пойдёт дождь, мы останемся дома.                                    | *Should it rain, we will stay home.*<br>Если вдруг пойдёт дождь, мы останемся дома.                   |
+| **Second Conditional**<br>(второй) | Маловероятное, нереальное настоящее/будущее | **If + Past Simple**, Main: *would + V*              | **Were + Subject + to V**, Main: *would + V*<br>или **Were + Subject**, Main: *would + V* | *If I won the lottery, I would travel the world.*<br>Если бы я выиграл в лотерею, я бы поехал путешествовать. | *Were I to win the lottery, I would travel the world.*<br>*Were he here, we would start the meeting.* |
+| **Third Conditional**<br>(третий)  | Нереальное прошлое                          | **If + Past Perfect**, Main: *would have + V3*       | **Had + Subject + V3**, Main: *would have + V3*                                           | *If you had told me, I would have helped you.*<br>Если бы ты сказал мне, я бы помог.                          | *Had you told me, I would have helped you.*                                                           |
+

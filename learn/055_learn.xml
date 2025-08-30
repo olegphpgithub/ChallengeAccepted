@@ -11,12 +11,11 @@
         <s>He is providing some contradictory data.</s><break time="1000ms"/>
         <s>He is providing some contradictory data.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Ответственность, обязательство, задолженность, склонность, подверженность, долг">
+        <s meaning="word">Liability</s><break time="2000ms"/>
+        <s meaning="example">This is a liability to the company.</s><break time="1000ms"/>
+        <s>This is a liability to the company.</s><break time="1000ms"/>
+        <s>This is a liability to the company.</s><break time="1000ms"/>
     </p>
     <p ru="">
         <s meaning="word"></s><break time="2000ms"/>

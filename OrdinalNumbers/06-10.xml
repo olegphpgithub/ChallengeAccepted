@@ -1,0 +1,17 @@
+<speak>
+    <p ru="Шестой">
+        <s meaning="word">Sixth</s><break time="2000ms"/>
+    </p>
+    <p ru="Седьмой">
+        <s meaning="word">Seventh</s><break time="2000ms"/>
+    </p>
+    <p ru="Восьмой">
+        <s meaning="word">Eighth</s><break time="2000ms"/>
+    </p>
+    <p ru="Девятый">
+        <s meaning="word">Ninth</s><break time="2000ms"/>
+    </p>
+    <p ru="Десятый">
+        <s meaning="word">Tenth</s><break time="2000ms"/>
+    </p>
+</speak>

@@ -1,0 +1,62 @@
+<speak>
+    <p ru="Первый">
+        <s meaning="word">First</s><break time="2000ms"/>
+    </p>
+    <p ru="Второй">
+        <s meaning="word">Second</s><break time="2000ms"/>
+    </p>
+    <p ru="Третий">
+        <s meaning="word">Third</s><break time="2000ms"/>
+    </p>
+    <p ru="Четвертый">
+        <s meaning="word">Fourth</s><break time="2000ms"/>
+    </p>
+    <p ru="Пятый">
+        <s meaning="word">Fifth</s><break time="2000ms"/>
+    </p>
+    <p ru="Шестой">
+        <s meaning="word">Sixth</s><break time="2000ms"/>
+    </p>
+    <p ru="Седьмой">
+        <s meaning="word">Seventh</s><break time="2000ms"/>
+    </p>
+    <p ru="Восьмой">
+        <s meaning="word">Eighth</s><break time="2000ms"/>
+    </p>
+    <p ru="Девятый">
+        <s meaning="word">Ninth</s><break time="2000ms"/>
+    </p>
+    <p ru="Десятый">
+        <s meaning="word">Tenth</s><break time="2000ms"/>
+    </p>
+    <p ru="Одиннадцатый">
+        <s meaning="word">Eleventh</s><break time="2000ms"/>
+    </p>
+    <p ru="Двенадцатый">
+        <s meaning="word">Twelfth</s><break time="2000ms"/>
+    </p>
+    <p ru="Тринадцатый">
+        <s meaning="word">Thirteenth</s><break time="2000ms"/>
+    </p>
+    <p ru="Четырнадцатый">
+        <s meaning="word">Fourteenth</s><break time="2000ms"/>
+    </p>
+    <p ru="Пятнадцатый">
+        <s meaning="word">Fifteenth</s><break time="2000ms"/>
+    </p>
+    <p ru="Шестнадцатый">
+        <s meaning="word">Sixteenth</s><break time="2000ms"/>
+    </p>
+    <p ru="Семнадцатый">
+        <s meaning="word">Seventeenth</s><break time="2000ms"/>
+    </p>
+    <p ru="Восемнадцатый">
+        <s meaning="word">Eighteenth</s><break time="2000ms"/>
+    </p>
+    <p ru="Девятнадцатый">
+        <s meaning="word">Nineteenth</s><break time="2000ms"/>
+    </p>
+    <p ru="Двадцатый">
+        <s meaning="word">Twentieth</s><break time="2000ms"/>
+    </p>
+</speak>

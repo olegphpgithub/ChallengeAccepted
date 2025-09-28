@@ -1,0 +1,17 @@
+<speak>
+    <p ru="Первый">
+        <s meaning="word">First</s><break time="2000ms"/>
+    </p>
+    <p ru="Второй">
+        <s meaning="word">Second</s><break time="2000ms"/>
+    </p>
+    <p ru="Третий">
+        <s meaning="word">Third</s><break time="2000ms"/>
+    </p>
+    <p ru="Четвертый">
+        <s meaning="word">Fourth</s><break time="2000ms"/>
+    </p>
+    <p ru="Пятый">
+        <s meaning="word">Fifth</s><break time="2000ms"/>
+    </p>
+</speak>

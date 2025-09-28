@@ -1,0 +1,17 @@
+<speak>
+    <p ru="Одиннадцатый">
+        <s meaning="word">Eleventh</s><break time="2000ms"/>
+    </p>
+    <p ru="Двенадцатый">
+        <s meaning="word">Twelfth</s><break time="2000ms"/>
+    </p>
+    <p ru="Тринадцатый">
+        <s meaning="word">Thirteenth</s><break time="2000ms"/>
+    </p>
+    <p ru="Четырнадцатый">
+        <s meaning="word">Fourteenth</s><break time="2000ms"/>
+    </p>
+    <p ru="Пятнадцатый">
+        <s meaning="word">Fifteenth</s><break time="2000ms"/>
+    </p>
+</speak>

@@ -1,0 +1,50 @@
+<speak>
+    <p ru="картина, живопись, покраска, окраска, рисующий">
+        <s meaning="word">Painting</s><break time="2000ms"/>
+    </p>
+    <p ru="потолок, перекрытие, обшивка, предельная высота, максимальная цена">
+        <s meaning="word">Ceiling</s><break time="2000ms"/>
+    </p>
+    <p ru="шторы, занавес">
+        <s meaning="word">Curtains</s><break time="2000ms"/>
+    </p>
+    <p ru="камин, очаг">
+        <s meaning="word">Fireplace</s><break time="2000ms"/>
+    </p>
+    <p ru="Кресло">
+        <s meaning="word">Armchair</s><break time="2000ms"/>
+    </p>
+    <p ru="Книги">
+        <s meaning="word">Books</s><break time="2000ms"/>
+    </p>
+    <p ru="Ковер">
+        <s meaning="word">Carpet</s><break time="2000ms"/>
+    </p>
+    <p ru="Ваза">
+        <s meaning="word">Vase</s><break time="2000ms"/>
+    </p>
+    <p ru="Газета, газетный">
+        <s meaning="word">Newspaper</s><break time="2000ms"/>
+    </p>
+    <p ru="Пол, этаж">
+        <s meaning="word">Floor</s><break time="2000ms"/>
+    </p>
+    <p ru="Таблица, стол">
+        <s meaning="word">Table</s><break time="2000ms"/>
+    </p>
+    <p ru="Подушка, диванная подушка">
+        <s meaning="word">Cushion</s><break time="2000ms"/>
+    </p>
+    <p ru="Лампа, светильник, фонарь, ламповый, светить, освещать">
+        <s meaning="word">Lamp</s><break time="2000ms"/>
+    </p>
+    <p ru="Диван">
+        <s meaning="word">Sofa</s><break time="2000ms"/>
+    </p>
+    <p ru="Журнальный столик">
+        <s meaning="word">Coffee table</s><break time="2000ms"/>
+    </p>
+    <p ru="Цветы">
+        <s meaning="word">Flowers</s><break time="2000ms"/>
+    </p>
+</speak>

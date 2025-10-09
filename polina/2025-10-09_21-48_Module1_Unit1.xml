@@ -1,0 +1,20 @@
+<speak>
+    <p ru="Фотоаппарат">
+        <s meaning="word">Camera</s><break time="2000ms"/>
+    </p>
+    <p ru="Перчатка">
+        <s meaning="word">Glove</s><break time="2000ms"/>
+    </p>
+    <p ru="Стройный">
+        <s meaning="word">Slim</s><break time="2000ms"/>
+    </p>
+    <p ru="Добрый">
+        <s meaning="word">Kind</s><break time="2000ms"/>
+    </p>
+    <p ru="Ключ">
+        <s meaning="word">Key</s><break time="2000ms"/>
+    </p>
+    <p ru="Часы">
+        <s meaning="word">Watch</s><break time="2000ms"/>
+    </p>
+</speak>

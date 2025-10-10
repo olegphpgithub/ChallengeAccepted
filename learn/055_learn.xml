@@ -17,9 +17,9 @@
         <s>This is a liability to the company.</s><break time="1000ms"/>
         <s>This is a liability to the company.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
+    <p ru="Подражать, соперничать, следовать примеру, соревноваться, стремиться превзойти">
+        <s meaning="word">Emulate</s><break time="2000ms"/>
+        <s meaning="example">She's gonna make it she's gonna do it she's gonna emulate a man.</s><break time="1000ms"/>
         <!---->
         <s></s><break time="1000ms"/>
         <s></s><break time="1000ms"/>

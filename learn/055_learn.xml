@@ -45,12 +45,12 @@
         <s>The athlete faltered right before the finish line and came in second.</s><break time="1000ms"/>
         <s>The athlete faltered right before the finish line and came in second.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
+    <p ru="Потертый, потрепанный, облезлый, поношенный, убогий, жалкий, протертый, захудалый">
+        <s meaning="word">Shabby</s><break time="2000ms"/>
+        <s meaning="example">The furniture was old and shabby.</s><break time="1000ms"/>
         <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+        <s>The furniture was old and shabby.</s><break time="1000ms"/>
+        <s>The furniture was old and shabby.</s><break time="1000ms"/>
     </p>
     <p ru="">
         <s meaning="word"></s><break time="2000ms"/>

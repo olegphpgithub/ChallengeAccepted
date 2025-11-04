@@ -38,12 +38,12 @@
         <s>Tomorrow we need to do a thorough test of opera in our downloader.</s><break time="1000ms"/>
         <s>Tomorrow we need to do a thorough test of opera in our downloader.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
+    <p ru="Запинаться, колебаться, спотыкаться, дрогнуть, шататься">
+        <s meaning="word">Falter</s><break time="2000ms"/>
+        <s meaning="example">The athlete faltered right before the finish line and came in second.</s><break time="1000ms"/>
         <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+        <s>The athlete faltered right before the finish line and came in second.</s><break time="1000ms"/>
+        <s>The athlete faltered right before the finish line and came in second.</s><break time="1000ms"/>
     </p>
     <p ru="">
         <s meaning="word"></s><break time="2000ms"/>

@@ -24,19 +24,19 @@
         <s></s><break time="1000ms"/>
         <s></s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
+    <p ru="Грузило, груз, лот, гирька, свинцовый отвес, стремительно падать">
+        <s meaning="word">Plummet</s><break time="2000ms"/>
+        <s meaning="example">The level plummeted from 66% to a consistent 53%.</s><break time="1000ms"/>
         <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+        <s>The level plummeted from 66% to a consistent 53%.</s><break time="1000ms"/>
+        <s>The level plummeted from 66% to a consistent 53%.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
+    <p ru="Тщательный, полный, подробный, глубокий, основательный, доскональный, совершенный">
+        <s meaning="word">Thorough</s><break time="2000ms"/>
+        <s meaning="example">Tomorrow we need to do a thorough test of opera in our downloader.</s><break time="1000ms"/>
         <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+        <s>Tomorrow we need to do a thorough test of opera in our downloader.</s><break time="1000ms"/>
+        <s>Tomorrow we need to do a thorough test of opera in our downloader.</s><break time="1000ms"/>
     </p>
     <p ru="">
         <s meaning="word"></s><break time="2000ms"/>

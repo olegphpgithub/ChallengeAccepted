@@ -59,11 +59,11 @@
         <s>I am running on fumes.</s><break time="1000ms"/>
         <s>I am running on fumes.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
+    <p ru="Хвала, часы перед обедней, хвалить, прославлять, превозносить">
+        <s meaning="word">Laud</s><break time="2000ms"/>
+        <s meaning="example">It has been lauded as a revolutionary tool that could transform numerous professional fields.</s><break time="1000ms"/>
         <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+        <s>It has been lauded as a revolutionary tool that could transform numerous professional fields.</s><break time="1000ms"/>
+        <s>It has been lauded as a revolutionary tool that could transform numerous professional fields.</s><break time="1000ms"/>
     </p>
 </speak>

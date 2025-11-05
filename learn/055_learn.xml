@@ -52,12 +52,12 @@
         <s>The furniture was old and shabby.</s><break time="1000ms"/>
         <s>The furniture was old and shabby.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
+    <p ru="Дым, пар, пары, испарение, возбуждение, дымить, раздражаться, курить, коптить">
+        <s meaning="word">Fume</s><break time="2000ms"/>
+        <s meaning="example">I am running on fumes.</s><break time="1000ms"/>
         <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+        <s>I am running on fumes.</s><break time="1000ms"/>
+        <s>I am running on fumes.</s><break time="1000ms"/>
     </p>
     <p ru="">
         <s meaning="word"></s><break time="2000ms"/>

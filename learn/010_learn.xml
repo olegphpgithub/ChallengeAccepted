@@ -29,10 +29,10 @@
     </p>
     <p ru="Усугублять, углублять, углубляться, расширять, усиливать, усиливаться, сгущать, сгущаться">
         <s meaning="word">Deepen</s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
+        <s meaning="example">The incident deepened the conflict between the two groups.</s><break time="1000ms"/>
         <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+        <s>The incident deepened the conflict between the two groups.</s><break time="1000ms"/>
+        <s>The incident deepened the conflict between the two groups.</s><break time="1000ms"/>
     </p>
     <p ru="Среди, между, посреди">
         <s meaning="word">Amid</s><break time="2000ms"/>

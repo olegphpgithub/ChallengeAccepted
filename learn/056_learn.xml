@@ -6,12 +6,12 @@
         <s>They operated a drug-smuggling business under the guise of an employment agency.</s><break time="1000ms"/>
         <s>They operated a drug-smuggling business under the guise of an employment agency.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
+    <p ru="Сопутствующий, сопровождающий, служитель, слуга, сопровождающее лицо">
+        <s meaning="word">Attendant</s><break time="2000ms"/>
+        <s meaning="example">I'm the parking attendant.</s><break time="1000ms"/>
         <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+        <s>I'm the parking attendant.</s><break time="1000ms"/>
+        <s>I'm the parking attendant.</s><break time="1000ms"/>
     </p>
     <p ru="">
         <s meaning="word"></s><break time="2000ms"/>

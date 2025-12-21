@@ -1,49 +1,42 @@
 <speak>
     <p ru="Замечательно">
-        <s meaning="word" audio="great.mp3">Great</s><break time="2000ms"/> https://wooordhunt.ru/data/sound/sow/us/great.mp3
+        <s meaning="word">Great</s><break time="2000ms"/>
     </p>
     <p ru="Захватывающий, возбуждающий, волнующий">
         <s meaning="word">Exciting</s><break time="2000ms"/>
     </p>
     <p ru="Очень вкусный, приятный, прелестный">
         <s meaning="word">Delicious</s><break time="2000ms"/>
+        <s meaning="example">Удовольствие от вкуса / еды</s>
     </p>
     <p ru="Приятный, доставляющий удовольствие">
         <s meaning="word">Enjoyable</s><break time="2000ms"/>
+        <s meaning="example">удовольствие от процесса / опыта</s>
     </p>
     <p ru="Интересный, занятный">
         <s meaning="word">Interesting</s><break time="2000ms"/>
     </p>
-    <p ru="Фантастический, превосходный, чудесный, причудливый, гротескный, экстравагантный">
+    <p ru="Фантастический, превосходный">
         <s meaning="word">Fantastic</s><break time="2000ms"/>
     </p>
     <p ru="Прекрасный, прекрасно, хорошо">
         <s meaning="word">Fine</s><break time="2000ms"/>
     </p>
-    <p ru="Замечательный, чудесный, удивительный, чудный">
+    <p ru="Изумительный, чудесный">
         <s meaning="word">Wonderful</s><break time="2000ms"/>
-    </p>
-    <p ru="Скучный, буровой, бурильный, надоедливый, бурение, расточка, сверление, отверстие">
-        <s meaning="word">Boring</s><break time="2000ms"/>
-        <s meaning="example">Boring movie - Скучный фильм</s>
-    </p>
-    <p ru="Ужасающий (ужасающая трагедия)">
-        <s meaning="word">Awful</s><break time="2000ms"/>
-        <s meaning="example">Акцент на том, что что-то потрясает, подавляет</s>
-    </p>
-    <p ru="Ужасный, страшный (очень плохой фильм по качеству)">
-        <s meaning="word">Terrible</s><break time="2000ms"/>
-        <s meaning="example">Акцент на том, что что-то очень плохо</s><break time="1000ms"/>
     </p>
     <p ru="Отвратительный, противный, отвратный, вызывающий отвращение">
         <s meaning="word">Disgusting</s><break time="2000ms"/>
     </p>
-    <p ru="Скучный, унылый, тусклый, пасмурный, притуплять, притупляться, делать тупым">
-        <s meaning="word">Dull</s><break time="2000ms"/>
-        <s meaning="example">Dull weather — пасмурная, серая погода</s><break time="2000ms"/>
+    <p ru="Скучный">
+        <s meaning="word">Boring</s><break time="2000ms"/>
+        <s meaning="example">Boring movie - Скучный фильм</s>
     </p>
-    <p ru="Ужасный, страшный, отвратительный (страшная авария)">
-        <s meaning="word">Horrible</s><break time="2000ms"/>
-        <s meaning="example">Акцент на том, что что-то вызывает ужас/отвращение</s>
+    <p ru="Скучный, унылый, тусклый, пасмурный">
+        <s meaning="word">Dull</s><break time="2000ms"/>
+        <s meaning="example">Dull weather — пасмурная, серая, скучная погода</s><break time="2000ms"/>
+    </p>
+    <p ru="Жуткий, страшный, ужасный">
+        <s meaning="word">Awful / Terrible / Horrible</s><break time="2000ms"/>
     </p>
 </speak>

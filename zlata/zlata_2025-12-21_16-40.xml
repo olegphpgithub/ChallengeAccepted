@@ -25,6 +25,7 @@
     </p>
     <p ru="Скучный, буровой, бурильный, надоедливый, бурение, расточка, сверление, отверстие">
         <s meaning="word">Boring</s><break time="2000ms"/>
+        <s meaning="example">Boring movie - Скучный фильм</s>
     </p>
     <p ru="Ужасающий (ужасающая трагедия)">
         <s meaning="word">Awful</s><break time="2000ms"/>
@@ -39,6 +40,7 @@
     </p>
     <p ru="Скучный, унылый, тусклый, пасмурный, притуплять, притупляться, делать тупым">
         <s meaning="word">Dull</s><break time="2000ms"/>
+        <s meaning="example">Dull weather — пасмурная, серая погода</s><break time="2000ms"/>
     </p>
     <p ru="Ужасный, страшный, отвратительный (страшная авария)">
         <s meaning="word">Horrible</s><break time="2000ms"/>

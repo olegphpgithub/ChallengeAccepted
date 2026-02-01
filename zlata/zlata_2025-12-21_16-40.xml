@@ -37,6 +37,6 @@
         <s meaning="example">Dull weather — пасмурная, серая, скучная погода</s><break time="2000ms"/>
     </p>
     <p ru="Жуткий, страшный, ужасный">
-        <s meaning="word">Awful / Terrible / Horrible</s><break time="2000ms"/>
+        <s meaning="word">Awful/Terrible/Horrible</s><break time="2000ms"/>
     </p>
 </speak>

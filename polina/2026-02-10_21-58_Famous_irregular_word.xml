@@ -1,0 +1,38 @@
+<speak>
+    <p ru="Быть">
+        <s meaning="word">be</s><break time="2000ms"/>
+    </p>
+    <p ru="иметь">
+        <s meaning="word">have</s><break time="2000ms"/>
+    </p>
+    <p ru="Делать">
+        <s meaning="word">do</s><break time="2000ms"/>
+    </p>
+    <p ru="Идти">
+        <s meaning="word">go</s><break time="2000ms"/>
+    </p>
+    <p ru="Приходить">
+        <s meaning="word">come</s><break time="2000ms"/>
+    </p>
+    <p ru="Видеть">
+        <s meaning="word">see</s><break time="2000ms"/>
+    </p>
+    <p ru="Сказать">
+        <s meaning="word">say</s><break time="2000ms"/>
+    </p>
+    <p ru="Получать">
+        <s meaning="word">get</s><break time="2000ms"/>
+    </p>
+    <p ru="Изготавливать">
+        <s meaning="word">make</s><break time="2000ms"/>
+    </p>
+    <p ru="Брать">
+        <s meaning="word">take</s><break time="2000ms"/>
+    </p>
+    <p ru="Знать">
+        <s meaning="word">know</s><break time="2000ms"/>
+    </p>
+    <p ru="Давать">
+        <s meaning="word">give</s><break time="2000ms"/>
+    </p>
+</speak>

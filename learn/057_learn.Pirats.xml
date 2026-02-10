@@ -56,6 +56,27 @@
     <p ru="Основания (На каких основаниях?)">
         <s meaning="word">Charge</s><break time="2000ms"/>
         <s meaning="example">What are the charges?</s><break time="1000ms"/>
+        <!-- На каких основаниях -->
+        <s>What are the charges?</s><break time="1000ms"/>
+        <s>What are the charges?</s><break time="1000ms"/>
+    </p>
+    <p ru="Виселица, козлы, подтяжки, очень">
+        <s meaning="word">Gallows</s><break time="2000ms"/>
+        <s meaning="example">I will not endure the sight of my daughter walking to the gallows.</s><break time="1000ms"/>
+        <!-- Я не вынесу вида моей дочери, идущей на виселицу. -->
+        <s>I will not endure the sight of my daughter walking to the gallows.</s><break time="1000ms"/>
+        <s>I will not endure the sight of my daughter walking to the gallows.</s><break time="1000ms"/>
+    </p>
+    <p ru="Верность, преданность">
+        <s meaning="word">Loyalty</s><break time="2000ms"/>
+        <s meaning="example">No doubt you've discovered that loyalty is no longer the currency of the realm.</s><break time="1000ms"/>
+        <!-- Без сомнения, вы уже поняли, что лояльность больше не является валютой королевства. -->
+        <s>No doubt you've discovered that loyalty is no longer the currency of the realm.</s><break time="1000ms"/>
+        <s>No doubt you've discovered that loyalty is no longer the currency of the realm.</s><break time="1000ms"/>
+    </p>
+    <p ru="">
+        <s meaning="word"></s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
         <!---->
         <s></s><break time="1000ms"/>
         <s></s><break time="1000ms"/>

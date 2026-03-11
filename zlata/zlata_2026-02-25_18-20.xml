@@ -1,0 +1,38 @@
+<speak>
+    <p ru="Это моя книга">
+        <s meaning="word">my</s><break time="2000ms"/>
+    </p>
+    <p ru="Это наша книга">
+        <s meaning="word">our</s><break time="2000ms"/>
+    </p>
+    <p ru="Это его книга">
+        <s meaning="word">his</s><break time="2000ms"/>
+    </p>
+    <p ru="Это её книга">
+        <s meaning="word">her</s><break time="2000ms"/>
+    </p>
+    <p ru="Это твоя книга">
+        <s meaning="word">your</s><break time="2000ms"/>
+    </p>
+    <p ru="Это их книга">
+        <s meaning="word">their</s><break time="2000ms"/>
+    </p>
+    <p ru="Я дал ему книгу">
+        <s meaning="word">him</s><break time="2000ms"/>
+    </p>
+    <p ru="Он дал нам книгу">
+        <s meaning="word">us</s><break time="2000ms"/>
+    </p>
+    <p ru="Я дал тебе книгу">
+        <s meaning="word">you</s><break time="2000ms"/>
+    </p>
+    <p ru="Я дал им книгу">
+        <s meaning="word">them</s><break time="2000ms"/>
+    </p>
+    <p ru="Я дал ей книгу">
+        <s meaning="word">her</s><break time="2000ms"/>
+    </p>
+    <p ru="Он дал мне книгу">
+        <s meaning="word">me</s><break time="2000ms"/>
+    </p>
+</speak>

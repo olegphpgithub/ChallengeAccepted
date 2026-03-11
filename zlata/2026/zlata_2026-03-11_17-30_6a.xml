@@ -1,0 +1,26 @@
+<speak>
+    <p ru="Крестословица">
+        <s meaning="word">Scrabble</s>
+    </p>
+    <p ru="Нарды">
+        <s meaning="word">Backgammon</s>
+    </p>
+    <p ru="Домино">
+        <s meaning="word">Dominoes</s>
+    </p>
+    <p ru="Бильярд">
+        <s meaning="word">Billiards</s>
+    </p>
+    <p ru="Стеклянные шарики">
+        <s meaning="word">Marbles</s>
+    </p>
+    <p ru="Шахматы">
+        <s meaning="word">Chess</s>
+    </p>
+    <p ru="Картинка-головоломка">
+        <s meaning="word">Jigsaw puzzle</s>
+    </p>
+    <p ru="Дротики">
+        <s meaning="word">Darts</s>
+    </p>
+</speak>

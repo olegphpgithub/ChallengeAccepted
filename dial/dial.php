@@ -5,6 +5,7 @@ if (!array_key_exists('h', $_REQUEST) || !array_key_exists('m', $_REQUEST)) {
 }
 
 $h = intval($_REQUEST['h']);
+$h %= 12;
 $m = intval($_REQUEST['m']);
 
 $minute_angle = $m*6;

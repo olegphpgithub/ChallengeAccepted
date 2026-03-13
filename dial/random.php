@@ -1,6 +1,6 @@
 <?php
 
-$h = rand(0, 11);
+$h = rand(12, 23);
 $m = rand(0, 59);
 $style = 'white';
 $user_answer = '';
@@ -30,15 +30,21 @@ $right_answer = sprintf('%02d:%02d', $h, $m);
 
 ?>
 <html>
+    <head>
+        <style>
+            body { font-size: 1.5em; }
+            input { font-size: 1.5em; }
+        </style>
+    </head>
     <body style="background-color: <?php echo $style; ?>;">
-        <img src="<?php echo $url; ?>" />
+        <img src="<?php echo $url; ?>" />33
         <form>
             <input type="hidden" name="right_answer" value="<?php echo $right_answer; ?>" />
             <input type="hidden" name="right_count" value="<?php echo $right_count; ?>" />
             <input type="text" value="<?php echo $right_count; ?>" disabled />
             <br/>
             <input type="text" name="user_answer" value="<?php echo $user_answer; ?>" id="user_answer" autofocus /><br/>
-            <input type="submit" value="Отправить">
+            <input type="submit">
         </form>
     </body>
 </html>

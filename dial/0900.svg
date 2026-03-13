@@ -136,7 +136,7 @@
   </g>
 
   <!-- ===== ЦИФРЫ (за пределами круга) ===== -->
-  <g font-family="Arial" font-size="16" text-anchor="middle" dominant-baseline="middle">
+  <!--<g font-family="Arial" font-size="16" text-anchor="middle" dominant-baseline="middle">
     <text x="100" y="10">12</text>
     <text x="150" y="20">1</text>
     <text x="180" y="50">2</text>
@@ -149,6 +149,6 @@
     <text x="5" y="100">9</text>
     <text x="20" y="50">10</text>
     <text x="50" y="20">11</text>
-  </g>
+  </g>-->
 
 </svg>

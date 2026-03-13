@@ -91,7 +91,7 @@ class KmToM implements Model {
     }
 }
 
-class MmToCm implements Model {
+class Millimeter2Centimeter extends Base implements Model {
 
     private $question = NULL;
 
@@ -103,8 +103,21 @@ class MmToCm implements Model {
     public function generate()
     {
         if ($this->question == NULL) {
-            $this->question = rand(50, 500);
-            $this->question -= $this->question % 10;
+            if ($this->complexity == 1) {
+                $this->question = rand(50, 500);
+                $this->question -= $this->question % 10;
+            }
+            else {
+                $branch = rand(0, 1);
+                switch ($branch) {
+                case 0:
+                    $this->question = rand(1, 9);
+                break;
+                case 1:
+                    $this->question = rand(1000, 9999);
+                break;
+                }
+            }
         }
     }
 
@@ -121,9 +134,13 @@ class MmToCm implements Model {
 
     public function check($request, $response)
     {
-        $mm = intval($request);
-        $cm = intval($response);
-        if (($cm * 10) == $mm) {
+        $str = str_replace(",", ".", $response);
+        if (!is_numeric($str)) {
+            return false;
+        }
+        $millimeter = floatval($request);
+        $centimeter = floatval($str);
+        if (round(($centimeter * 10), 10) == $millimeter) {
             return true;
         }
         else {
@@ -197,5 +214,5 @@ class Centimeter2Meter extends Base implements Model {
 $knowledge = [];
 $knowledge[] = "MToCM";
 $knowledge[] = "KmToM";
-$knowledge[] = "MmToCm";
+$knowledge[] = "Millimeter2Centimeter";
 $knowledge[] = "Centimeter2Meter";

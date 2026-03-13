@@ -2,35 +2,43 @@
 
 include_once('base.inc');
 
-$h = rand(12, 23);
-$m = rand(0, 59);
 $style = 'white';
 $answer = '';
 $base = '';
 $question = '';
+$task_index = NULL;
 $task_text = '&nbsp;';
-$right_count = 0;
+$right_count = array_key_exists('right_count', $_REQUEST) ? $_REQUEST['right_count'] : 0;
 
-$cmToM = new CmToM();
-$task_text = $cmToM->ask();
-$question = $cmToM->question();
+$task_instance = NULL;
 
 if (array_key_exists('answer', $_REQUEST)
     && array_key_exists('question', $_REQUEST)
-    && array_key_exists('base', $_REQUEST))
+    && array_key_exists('task_index', $_REQUEST))
 {
-    if ($cmToM->check($_REQUEST['question'], $_REQUEST['answer'])) {
-        $style = 'lightgreen';
-        $answer = '';
-        $right_count = intval($_REQUEST['right_count']) + 1;
-    } else {
-        $style = 'lightcoral';
-        $answer = $_REQUEST['answer'];
-        $question = intval($_REQUEST['question']);
-        $cmToM = new CmToM($question);
-        $task_text = $cmToM->ask();
+    $question = intval($_REQUEST['question']);
+    $task_index = $_REQUEST['task_index'];
+    if (array_key_exists($task_index, $knowledge)) {
+        $task_instance = new $knowledge[$task_index]($question);
+        if ($task_instance->check($_REQUEST['question'], $_REQUEST['answer'])) {
+            $style = 'lightgreen';
+            $answer = '';
+            $right_count++;
+            $task_instance = NULL;
+        } else {
+            $style = 'lightcoral';
+            $answer = $_REQUEST['answer'];
+        }
     }
 }
+
+if ($task_instance == NULL) {
+    $task_index = rand(0, sizeof($knowledge) - 1);
+    $task_instance = new $knowledge[$task_index];
+}
+
+$task_text = $task_instance->ask();
+$question = $task_instance->question();
 
 ?>
 <html>
@@ -43,12 +51,12 @@ if (array_key_exists('answer', $_REQUEST)
     <body style="background-color: <?php echo $style; ?>;">
         <p><pre><?php echo $task_text?></pre></p>
         <form>
-            <input type="hidden" name="base" value="<?php echo $base; ?>" />
+            <input type="hidden" name="task_index" value="<?php echo $task_index; ?>" />
             <input type="hidden" name="question" value="<?php echo $question; ?>" />
             <input type="hidden" name="right_count" value="<?php echo $right_count; ?>" />
             <input type="text" value="<?php echo $right_count; ?>" disabled />
             <br/>
-            <input type="text" name="answer" value="<?php echo $answer; ?>" id="user_answer" autofocus /><br/>
+            <input type="text" name="answer" value="<?php echo $answer; ?>" autofocus /><br/>
             <input type="submit" />
         </form>
     </body>

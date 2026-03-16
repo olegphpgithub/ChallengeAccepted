@@ -51,7 +51,7 @@ class MToCM implements Model {
     }
 }
 
-class KmToM implements Model {
+class Kilometer2Meter extends Base implements Model {
 
     private $question = NULL;
 
@@ -63,7 +63,26 @@ class KmToM implements Model {
     public function generate()
     {
         if ($this->question == NULL) {
-            $this->question = rand(50, 200);
+            if ($this->complexity == 1) {
+                $this->question = rand(50, 200);
+            }
+            else {
+                $branch = rand(0, 2);
+                switch ($branch) {
+                case 0:
+                    $this->question = rand(1, 99);
+                    $this->question = round($this->question / 10, 1);
+                    break;
+                case 1:
+                    $this->question = rand(1, 999);
+                    $this->question = round($this->question / 100, 2);
+                    break;
+                case 2:
+                    $this->question = rand(1, 99);
+                    $this->question = round($this->question / 1000, 3);
+                    break;
+                }
+            }
         }
     }
 
@@ -80,9 +99,13 @@ class KmToM implements Model {
 
     public function check($request, $response)
     {
-        $km = intval($request);
-        $m = intval($response);
-        if (($km * 1000) == $m) {
+        $str = str_replace(",", ".", $response);
+        if (!is_numeric($str)) {
+            return false;
+        }
+        $kilometer = floatval($request);
+        $meter = floatval($str);
+        if (round(($kilometer * 1000), 10) == $meter) {
             return true;
         }
         else {
@@ -210,9 +233,92 @@ class Centimeter2Meter extends Base implements Model {
     }
 }
 
+class Meter2Kilometer extends Base implements Model {
+
+    private $question = NULL;
+
+    public function __construct($custom = NULL)
+    {
+        $this->question = $custom;
+    }
+
+    public function generate()
+    {
+        if ($this->question == NULL) {
+            if ($this->complexity == 1) {
+                $this->question = rand(1000, 90000);
+                $this->question -= $this->question % 1000;
+            }
+            elseif ($this->complexity == 2) {
+                $branch = rand(0, 3);
+                switch ($branch) {
+                case 0:
+                    $this->question = rand(1, 9);
+                break;
+                case 1:
+                    $this->question = rand(1, 99);
+                    $this->question -= $this->question % 10;
+                break;
+                case 2:
+                    $this->question = rand(1, 999);
+                break;
+                case 3:
+                    $this->question = rand(1, 9999);
+                    $this->question -= $this->question % 10;
+                break;
+                }
+            }
+            else {
+                $branch = rand(0, 2);
+                switch ($branch) {
+                case 0:
+                    $this->question = rand(1, 99);
+                    $this->question = round($this->question / 100, 2);
+                    break;
+                case 1:
+                    $this->question = rand(1, 99);
+                    $this->question = round($this->question / 1000, 3);
+                    break;
+                case 2:
+                    $this->question = rand(1, 99);
+                    $this->question = round($this->question / 10000, 4);
+                    break;
+                }
+            }
+        }
+    }
+
+    public function ask()
+    {
+        $this->generate();
+        return 'Переведи '.$this->question.' метров в километры.';
+    }
+
+    public function question()
+    {
+        return $this->question;
+    }
+
+    public function check($request, $response)
+    {
+        $str = str_replace(",", ".", $response);
+        if (!is_numeric($str)) {
+            return false;
+        }
+        $meter = floatval($request);
+        $kilometer = floatval($str);
+        if (round(($kilometer * 1000), 10) == $meter) {
+            return true;
+        }
+        else {
+            return false;
+        }
+    }
+}
 
 $knowledge = [];
 $knowledge[] = "MToCM";
-$knowledge[] = "KmToM";
+$knowledge[] = "Kilometer2Meter";
 $knowledge[] = "Millimeter2Centimeter";
 $knowledge[] = "Centimeter2Meter";
+$knowledge[] = "Meter2Kilometer";

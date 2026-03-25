@@ -9,6 +9,58 @@ interface Model {
 
 class Base {
     public $complexity = 1;
+    protected $question = NULL;
+}
+
+class Kilo2One extends Base implements Model {
+    public function generate()
+    {
+        if ($this->question == NULL) {
+            if ($this->complexity == 1) {
+                $this->question = rand(50, 200);
+            }
+            else {
+                $branch = rand(0, 2);
+                switch ($branch) {
+                case 0:
+                    $this->question = rand(1, 99);
+                    $this->question = round($this->question / 10, 1);
+                    break;
+                case 1:
+                    $this->question = rand(1, 999);
+                    $this->question = round($this->question / 100, 2);
+                    break;
+                case 2:
+                    $this->question = rand(1, 99);
+                    $this->question = round($this->question / 1000, 3);
+                    break;
+                }
+            }
+        }
+    }
+
+    public function ask() {}
+
+    public function question()
+    {
+        return $this->question;
+    }
+
+    public function check($request, $response)
+    {
+        $str = str_replace(",", ".", $response);
+        if (!is_numeric($str)) {
+            return false;
+        }
+        $kilometer = floatval($request);
+        $meter = floatval($str);
+        if (round(($kilometer * 1000), 10) == $meter) {
+            return true;
+        }
+        else {
+            return false;
+        }
+    }
 }
 
 class MToCM implements Model {
@@ -51,39 +103,11 @@ class MToCM implements Model {
     }
 }
 
-class Kilometer2Meter extends Base implements Model {
-
-    private $question = NULL;
+class Kilometer2Meter extends Kilo2One implements Model {
 
     public function __construct($custom = NULL)
     {
         $this->question = $custom;
-    }
-
-    public function generate()
-    {
-        if ($this->question == NULL) {
-            if ($this->complexity == 1) {
-                $this->question = rand(50, 200);
-            }
-            else {
-                $branch = rand(0, 2);
-                switch ($branch) {
-                case 0:
-                    $this->question = rand(1, 99);
-                    $this->question = round($this->question / 10, 1);
-                    break;
-                case 1:
-                    $this->question = rand(1, 999);
-                    $this->question = round($this->question / 100, 2);
-                    break;
-                case 2:
-                    $this->question = rand(1, 99);
-                    $this->question = round($this->question / 1000, 3);
-                    break;
-                }
-            }
-        }
     }
 
     public function ask()
@@ -96,27 +120,9 @@ class Kilometer2Meter extends Base implements Model {
     {
         return $this->question;
     }
-
-    public function check($request, $response)
-    {
-        $str = str_replace(",", ".", $response);
-        if (!is_numeric($str)) {
-            return false;
-        }
-        $kilometer = floatval($request);
-        $meter = floatval($str);
-        if (round(($kilometer * 1000), 10) == $meter) {
-            return true;
-        }
-        else {
-            return false;
-        }
-    }
 }
 
 class Millimeter2Centimeter extends Base implements Model {
-
-    private $question = NULL;
 
     public function __construct($custom = NULL)
     {
@@ -173,8 +179,6 @@ class Millimeter2Centimeter extends Base implements Model {
 }
 
 class Centimeter2Meter extends Base implements Model {
-
-    private $question = NULL;
 
     public function __construct($custom = NULL)
     {
@@ -234,8 +238,6 @@ class Centimeter2Meter extends Base implements Model {
 }
 
 class Meter2Kilometer extends Base implements Model {
-
-    private $question = NULL;
 
     public function __construct($custom = NULL)
     {
@@ -317,8 +319,10 @@ class Meter2Kilometer extends Base implements Model {
 }
 
 $knowledge = [];
-$knowledge[] = "MToCM";
-$knowledge[] = "Kilometer2Meter";
-$knowledge[] = "Millimeter2Centimeter";
-$knowledge[] = "Centimeter2Meter";
-$knowledge[] = "Meter2Kilometer";
+# $knowledge[] = "MToCM";
+# $knowledge[] = "Kilometer2Meter";
+// $knowledge[] = "Millimeter2Centimeter";
+// $knowledge[] = "Centimeter2Meter";
+// $knowledge[] = "Meter2Kilometer";
+
+$knowledge[] = "Ton2Kilogram";

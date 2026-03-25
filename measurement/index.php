@@ -1,6 +1,7 @@
 <?php
 
 include_once('base.inc');
+include_once('weight.inc');
 
 $style = 'white';
 $answer = '';
@@ -16,7 +17,13 @@ if (array_key_exists('answer', $_REQUEST)
     && array_key_exists('question', $_REQUEST)
     && array_key_exists('task_index', $_REQUEST))
 {
-    $question = intval($_REQUEST['question']);
+
+    if (filter_var($_REQUEST['question'], FILTER_VALIDATE_INT) !== false) {
+        $question = intval($_REQUEST['question']);
+    } elseif (filter_var($_REQUEST['question'], FILTER_VALIDATE_FLOAT) !== false) {
+        $question = floatval($_REQUEST['question']);
+    }
+
     $task_index = $_REQUEST['task_index'];
     if (array_key_exists($task_index, $knowledge)) {
         $task_instance = new $knowledge[$task_index]($question);

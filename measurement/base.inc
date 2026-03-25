@@ -8,11 +8,20 @@ interface Model {
 }
 
 class Base {
-    public $complexity = 1;
+    public $complexity = 2;
     protected $question = NULL;
+    public function __construct($custom = NULL)
+    {
+        $this->question = $custom;
+    }
+    public function ask() {}
+    public function question()
+    {
+        return $this->question;
+    }
 }
 
-class Kilo2One extends Base implements Model {
+class Mega2Kilo extends Base implements Model {
     public function generate()
     {
         if ($this->question == NULL) {
@@ -39,13 +48,6 @@ class Kilo2One extends Base implements Model {
         }
     }
 
-    public function ask() {}
-
-    public function question()
-    {
-        return $this->question;
-    }
-
     public function check($request, $response)
     {
         $str = str_replace(",", ".", $response);
@@ -55,6 +57,112 @@ class Kilo2One extends Base implements Model {
         $kilometer = floatval($request);
         $meter = floatval($str);
         if (round(($kilometer * 1000), 10) == $meter) {
+            return true;
+        }
+        else {
+            return false;
+        }
+    }
+}
+
+class Kilo2Mega extends Base implements Model {
+    public function generate()
+    {
+        if ($this->question == NULL) {
+            if ($this->complexity == 1) {
+                $this->question = rand(1000, 90000);
+                $this->question -= $this->question % 1000;
+            }
+            elseif ($this->complexity == 2) {
+                $branch = rand(0, 3);
+                switch ($branch) {
+                case 0:
+                    $this->question = rand(1, 9);
+                break;
+                case 1:
+                    $this->question = rand(1, 99);
+                    $this->question -= $this->question % 10;
+                break;
+                case 2:
+                    $this->question = rand(1, 999);
+                break;
+                case 3:
+                    $this->question = rand(1, 9999);
+                    $this->question -= $this->question % 10;
+                break;
+                }
+            }
+            else {
+                $branch = rand(0, 2);
+                switch ($branch) {
+                case 0:
+                    $this->question = rand(1, 99);
+                    $this->question = round($this->question / 100, 2);
+                    break;
+                case 1:
+                    $this->question = rand(1, 99);
+                    $this->question = round($this->question / 1000, 3);
+                    break;
+                case 2:
+                    $this->question = rand(1, 99);
+                    $this->question = round($this->question / 10000, 4);
+                    break;
+                }
+            }
+        }
+    }
+
+    public function check($request, $response)
+    {
+        $str = str_replace(",", ".", $response);
+        if (!is_numeric($str)) {
+            return false;
+        }
+        $meter = floatval($request);
+        $kilometer = floatval($str);
+        if (round(($kilometer * 1000), 10) == $meter) {
+            return true;
+        }
+        else {
+            return false;
+        }
+    }
+}
+
+class Deca2Kilo extends Base implements Model {
+    public function generate()
+    {
+        if ($this->question == NULL) {
+            if ($this->complexity == 1) {
+                $this->question = rand(100, 9000);
+                $this->question -= $this->question % 100;
+            } else {
+                $branch = rand(0, 2);
+                switch ($branch) {
+                case 0:
+                    $this->question = rand(1, 9);
+                break;
+                case 1:
+                    $this->question = rand(1, 999);
+                break;
+                case 2:
+                    $this->question = rand(1, 9999);
+                    $this->question -= $this->question % 10;
+                break;
+                }
+            }
+        }
+    }
+
+    public function check($request, $response)
+    {
+        $str = str_replace(",", ".", $response);
+        if (!is_numeric($str)) {
+            return false;
+        }
+        $centimeter = floatval($request);
+        $meter = floatval($str);
+        if (round(($meter * 100), 10) == $centimeter) {
             return true;
         }
         else {
@@ -103,12 +211,7 @@ class MToCM implements Model {
     }
 }
 
-class Kilometer2Meter extends Kilo2One implements Model {
-
-    public function __construct($custom = NULL)
-    {
-        $this->question = $custom;
-    }
+class Kilometer2Meter extends Mega2Kilo implements Model {
 
     public function ask()
     {
@@ -178,35 +281,11 @@ class Millimeter2Centimeter extends Base implements Model {
     }
 }
 
-class Centimeter2Meter extends Base implements Model {
+class Centimeter2Meter extends Deca2Kilo implements Model {
 
     public function __construct($custom = NULL)
     {
         $this->question = $custom;
-    }
-
-    public function generate()
-    {
-        if ($this->question == NULL) {
-            if ($this->complexity == 1) {
-                $this->question = rand(100, 9000);
-                $this->question -= $this->question % 100;
-            } else {
-                $branch = rand(0, 2);
-                switch ($branch) {
-                case 0:
-                    $this->question = rand(1, 9);
-                break;
-                case 1:
-                    $this->question = rand(1, 999);
-                break;
-                case 2:
-                    $this->question = rand(1, 9999);
-                    $this->question -= $this->question % 10;
-                break;
-                }
-            }
-        }
     }
 
     public function ask()
@@ -219,75 +298,13 @@ class Centimeter2Meter extends Base implements Model {
     {
         return $this->question;
     }
-
-    public function check($request, $response)
-    {
-        $str = str_replace(",", ".", $response);
-        if (!is_numeric($str)) {
-            return false;
-        }
-        $centimeter = floatval($request);
-        $meter = floatval($str);
-        if (round(($meter * 100), 10) == $centimeter) {
-            return true;
-        }
-        else {
-            return false;
-        }
-    }
 }
 
-class Meter2Kilometer extends Base implements Model {
+class Meter2Kilometer extends Kilo2Mega implements Model {
 
     public function __construct($custom = NULL)
     {
         $this->question = $custom;
-    }
-
-    public function generate()
-    {
-        if ($this->question == NULL) {
-            if ($this->complexity == 1) {
-                $this->question = rand(1000, 90000);
-                $this->question -= $this->question % 1000;
-            }
-            elseif ($this->complexity == 2) {
-                $branch = rand(0, 3);
-                switch ($branch) {
-                case 0:
-                    $this->question = rand(1, 9);
-                break;
-                case 1:
-                    $this->question = rand(1, 99);
-                    $this->question -= $this->question % 10;
-                break;
-                case 2:
-                    $this->question = rand(1, 999);
-                break;
-                case 3:
-                    $this->question = rand(1, 9999);
-                    $this->question -= $this->question % 10;
-                break;
-                }
-            }
-            else {
-                $branch = rand(0, 2);
-                switch ($branch) {
-                case 0:
-                    $this->question = rand(1, 99);
-                    $this->question = round($this->question / 100, 2);
-                    break;
-                case 1:
-                    $this->question = rand(1, 99);
-                    $this->question = round($this->question / 1000, 3);
-                    break;
-                case 2:
-                    $this->question = rand(1, 99);
-                    $this->question = round($this->question / 10000, 4);
-                    break;
-                }
-            }
-        }
     }
 
     public function ask()
@@ -300,22 +317,6 @@ class Meter2Kilometer extends Base implements Model {
     {
         return $this->question;
     }
-
-    public function check($request, $response)
-    {
-        $str = str_replace(",", ".", $response);
-        if (!is_numeric($str)) {
-            return false;
-        }
-        $meter = floatval($request);
-        $kilometer = floatval($str);
-        if (round(($kilometer * 1000), 10) == $meter) {
-            return true;
-        }
-        else {
-            return false;
-        }
-    }
 }
 
 $knowledge = [];
@@ -326,3 +327,6 @@ $knowledge = [];
 // $knowledge[] = "Meter2Kilometer";
 
 $knowledge[] = "Ton2Kilogram";
+$knowledge[] = "Kilogram2Ton";
+$knowledge[] = "Kilogram2Gram";
+$knowledge[] = "Gram2Kilogram";

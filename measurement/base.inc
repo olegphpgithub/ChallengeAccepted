@@ -320,13 +320,15 @@ class Meter2Kilometer extends Kilo2Mega implements Model {
 }
 
 $knowledge = [];
-# $knowledge[] = "MToCM";
-# $knowledge[] = "Kilometer2Meter";
+// $knowledge[] = "MToCM";
+// $knowledge[] = "Kilometer2Meter";
 // $knowledge[] = "Millimeter2Centimeter";
 // $knowledge[] = "Centimeter2Meter";
 // $knowledge[] = "Meter2Kilometer";
 
-$knowledge[] = "Ton2Kilogram";
-$knowledge[] = "Kilogram2Ton";
-$knowledge[] = "Kilogram2Gram";
-$knowledge[] = "Gram2Kilogram";
+// $knowledge[] = "Ton2Kilogram";
+// $knowledge[] = "Kilogram2Ton";
+// $knowledge[] = "Kilogram2Gram";
+// $knowledge[] = "Gram2Kilogram";
+
+$knowledge[] = "PresentSimple";

@@ -1,7 +1,10 @@
 <?php
 
+set_include_path(get_include_path().PATH_SEPARATOR.dirname(__FILE__));
+
 include_once('base.inc');
 include_once('weight.inc');
+include_once('english/tense/PresentSimple.inc');
 
 $style = 'white';
 $answer = '';

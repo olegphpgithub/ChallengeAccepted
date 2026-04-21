@@ -1,0 +1,26 @@
+<speak>
+    <p ru="Озабоченный, тревожный">
+        <s meaning="word">Worried</s>
+    </p>
+    <p ru="Испуганный">
+        <s meaning="word">Scared</s>
+    </p>
+    <p ru="Возбужденный, взволнованный, экзальтированный">
+        <s meaning="word">Excited</s>
+    </p>
+    <p ru="Несчастный, жалкий, убогий, плохой, печальный, скудный">
+        <s meaning="word">Miserable</s>
+    </p>
+    <p ru="Скучающий">
+        <s meaning="word">Bored</s>
+    </p>
+    <p ru="Недоуменный">
+        <s meaning="word">Puzzled</s>
+    </p>
+    <p ru="Уставший">
+        <s meaning="word">Tired</s>
+    </p>
+    <p ru="Напряженный">
+        <s meaning="word">Stressed</s>
+    </p>
+</speak>

@@ -1,0 +1,36 @@
+<speak>
+    <p ru="Иметь">
+        <s meaning="word">Have</s>
+    </p>
+    <p ru="Имел">
+        <s meaning="word">Had</s>
+        <s meaning="example">He had only $40 with him</s>
+    </p>
+    <p ru="Мультик">
+        <s meaning="word">Cartoon</s>
+    </p>
+    <p ru="Вместе">
+        <s meaning="word">Together</s>
+    </p>
+    <p ru="С, совместно">
+        <s meaning="word">With</s>
+        <s meaning="example">He had only $40 with him</s>
+    </p>
+    <p ru="Быть">
+        <s meaning="word">Be</s>
+    </p>
+    <p ru="Был">
+        <s meaning="word">Was</s>
+        <s meaning="example">Walt Disney was born on December...</s>
+    </p>
+    <p ru="Изготавливать">
+        <s meaning="word">Make</s>
+    </p>
+    <p ru="Изготовил">
+        <s meaning="word">Made</s>
+        <s meaning="example">He made 81 films in total.</s>
+    </p>
+    <p ru="Знаменитый">
+        <s meaning="word">Famous</s>
+    </p>
+</speak>

@@ -1,0 +1,44 @@
+<speak>
+    <p ru="Плавательный бассейн">
+        <s meaning="word">Swimming pool</s>
+    </p>
+    <p ru="Аквариум">
+        <s meaning="word">Aquarium</s>
+    </p>
+    <p ru="Ресторан">
+        <s meaning="word">Restaurant</s>
+    </p>
+    <p ru="Театр">
+        <s meaning="word">Theatre</s>
+    </p>
+    <p ru="Парк">
+        <s meaning="word">Park</s>
+    </p>
+    <p ru="Универсальный магазин">
+        <s meaning="word">Department store</s>
+    </p>
+    <p ru="Стадион">
+        <s meaning="word">Stadium</s>
+    </p>
+    <p ru="Зоопарк">
+        <s meaning="word">Zoo</s>
+    </p>
+    <p ru="Библиотека">
+        <s meaning="word">Library</s>
+    </p>
+    <p ru="Галерея">
+        <s meaning="word">Gallery</s>
+    </p>
+    <p ru="Экспресс-закусочная">
+        <s meaning="word">Fast food</s>
+    </p>
+    <p ru="Гимнастический зал">
+        <s meaning="word">Gym</s>
+    </p>
+    <p ru="Кинотеатр">
+        <s meaning="word">Cinema</s>
+    </p>
+    <p ru="Спортивный центр">
+        <s meaning="word">Sports centre</s>
+    </p>
+</speak>

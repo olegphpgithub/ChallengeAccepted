@@ -13,40 +13,40 @@
         <s>I'm the parking attendant.</s><break time="1000ms"/>
         <s>I'm the parking attendant.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
+    <p ru="Пожирать">
+        <s meaning="word">Devour</s><break time="2000ms"/>
+        <s meaning="example">The tears devour you.</s><break time="1000ms"/>
         <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+        <s>The tears devour you.</s><break time="1000ms"/>
+        <s>The tears devour you.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
+    <p ru="Бархат, бархатистость, вельвет, мягкость, бархатный, бархатистый">
+        <s meaning="word">Velvet</s><break time="2000ms"/>
+        <s meaning="example">And when the stars are shining brightly in the velvet sky.</s><break time="1000ms"/>
         <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+        <s>And when the stars are shining brightly in the velvet sky.</s><break time="1000ms"/>
+        <s>And when the stars are shining brightly in the velvet sky.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
+    <p ru="Драгоценный, дорогой, любимый, изысканный, очень, здорово">
+        <s meaning="word">Precious</s><break time="2000ms"/>
+        <s meaning="example">My precious girl.</s><break time="1000ms"/>
         <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+        <s>My precious girl.</s><break time="1000ms"/>
+        <s>My precious girl.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
+    <p ru="Сумка, ранец">
+        <s meaning="word">Satchel</s><break time="2000ms"/>
+        <s meaning="example">I get back my satchel. You get back a mother daughter relationship.</s><break time="1000ms"/>
         <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+        <s>I get back my satchel. You get back a mother daughter relationship.</s><break time="1000ms"/>
+        <s>I get back my satchel. You get back a mother daughter relationship.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
+    <p ru="Приводить в восторг">
+        <s meaning="word">Thrill</s><break time="2000ms"/>
+        <s meaning="example">I'm not thrilled about it.</s><break time="1000ms"/>
         <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+        <s>I'm not thrilled about it.</s><break time="1000ms"/>
+        <s>I'm not thrilled about it.</s><break time="1000ms"/>
     </p>
     <p ru="">
         <s meaning="word"></s><break time="2000ms"/>

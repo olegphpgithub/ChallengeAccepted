@@ -1,0 +1,32 @@
+<speak>
+    <p ru="Идти">
+        <s meaning="word">go-went</s><break time="2000ms"/>
+    </p>
+    <p ru="Ездить верхом">
+        <s meaning="word">ride-rode</s><break time="2000ms"/>
+    </p>
+    <p ru="Смотреть">
+        <s meaning="word">see-saw</s><break time="2000ms"/>
+    </p>
+    <p ru="Иметь">
+        <s meaning="word">have-had</s><break time="2000ms"/>
+    </p>
+    <p ru="Приходить">
+        <s meaning="word">come-came</s><break time="2000ms"/>
+    </p>
+    <p ru="Выигрывать">
+        <s meaning="word">win-won</s><break time="2000ms"/>
+    </p>
+    <p ru="Встречать">
+        <s meaning="word">meet-met</s><break time="2000ms"/>
+    </p>
+    <p ru="Спать">
+        <s meaning="word">sleep-slept</s><break time="2000ms"/>
+    </p>
+    <p ru="Брать">
+        <s meaning="word">take-took</s><break time="2000ms"/>
+    </p>
+    <p ru="Плавать">
+        <s meaning="word">swim-swam</s><break time="2000ms"/>
+    </p>
+</speak>

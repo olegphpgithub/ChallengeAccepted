@@ -1,0 +1,37 @@
+<speak>
+    <p ru="Драгоценный, дорогой, любимый, изысканный, очень, здорово">
+        <s meaning="word">Precious</s><break time="2000ms"/>
+        <s meaning="example">My precious girl.</s><break time="1000ms"/>
+        <!---->
+        <s>My precious girl.</s><break time="1000ms"/>
+        <s>My precious girl.</s><break time="1000ms"/>
+    </p>
+    <p ru="Сумка, ранец">
+        <s meaning="word">Satchel</s><break time="2000ms"/>
+        <s meaning="example">I get back my satchel. You get back a mother daughter relationship.</s><break time="1000ms"/>
+        <!---->
+        <s>I get back my satchel. You get back a mother daughter relationship.</s><break time="1000ms"/>
+        <s>I get back my satchel. You get back a mother daughter relationship.</s><break time="1000ms"/>
+    </p>
+    <p ru="">
+        <s meaning="word"></s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+        <!---->
+        <s></s><break time="1000ms"/>
+        <s></s><break time="1000ms"/>
+    </p>
+    <p ru="">
+        <s meaning="word"></s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+        <!---->
+        <s></s><break time="1000ms"/>
+        <s></s><break time="1000ms"/>
+    </p>
+    <p ru="">
+        <s meaning="word"></s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+        <!---->
+        <s></s><break time="1000ms"/>
+        <s></s><break time="1000ms"/>
+    </p>
+</speak>

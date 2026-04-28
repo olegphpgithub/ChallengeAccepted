@@ -1,32 +1,20 @@
 <speak>
-    <p ru="Идти">
-        <s meaning="word">go-went</s><break time="2000ms"/>
+    <p ru="Хорошо">
+        <s meaning="word">Good</s><break time="2000ms"/>
     </p>
-    <p ru="Ездить верхом">
-        <s meaning="word">ride-rode</s><break time="2000ms"/>
+    <p ru="Лучше">
+        <s meaning="word">Better</s><break time="2000ms"/>
     </p>
-    <p ru="Смотреть">
-        <s meaning="word">see-saw</s><break time="2000ms"/>
+    <p ru="Самый лучший">
+        <s meaning="word">The best</s><break time="2000ms"/>
     </p>
-    <p ru="Иметь">
-        <s meaning="word">have-had</s><break time="2000ms"/>
+    <p ru="Плохо">
+        <s meaning="word">Bad</s><break time="2000ms"/>
     </p>
-    <p ru="Приходить">
-        <s meaning="word">come-came</s><break time="2000ms"/>
+    <p ru="Хуже">
+        <s meaning="word">Worse</s><break time="2000ms"/>
     </p>
-    <p ru="Выигрывать">
-        <s meaning="word">win-won</s><break time="2000ms"/>
-    </p>
-    <p ru="Встречать">
-        <s meaning="word">meet-met</s><break time="2000ms"/>
-    </p>
-    <p ru="Спать">
-        <s meaning="word">sleep-slept</s><break time="2000ms"/>
-    </p>
-    <p ru="Брать">
-        <s meaning="word">take-took</s><break time="2000ms"/>
-    </p>
-    <p ru="Плавать">
-        <s meaning="word">swim-swam</s><break time="2000ms"/>
+    <p ru="Самый худший">
+        <s meaning="word">The worst</s><break time="2000ms"/>
     </p>
 </speak>

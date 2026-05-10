@@ -1,0 +1,32 @@
+<speak>
+    <p ru="Покупать">
+        <s meaning="word">Buy</s>
+    </p>
+    <p ru="Купил">
+        <s meaning="word">Bought</s>
+    </p>
+    <p ru="Обедать">
+        <s meaning="word">Have lunch</s>
+    </p>
+    <p ru="Пообедал">
+        <s meaning="word">Had lunch</s>
+    </p>
+    <p ru="Петь">
+        <s meaning="word">Sing</s>
+    </p>
+    <p ru="Спеть, пропел">
+        <s meaning="word">Sang</s>
+    </p>
+    <p ru="Видеть">
+        <s meaning="word">See</s>
+    </p>
+    <p ru="Увидел">
+        <s meaning="word">Saw</s>
+    </p>
+    <p ru="Выбирать">
+        <s meaning="word">Choose</s>
+    </p>
+    <p ru="Выбрал">
+        <s meaning="word">Chose</s>
+    </p>
+</speak>

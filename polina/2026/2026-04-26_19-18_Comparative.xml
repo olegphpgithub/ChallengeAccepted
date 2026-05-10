@@ -1,20 +1,38 @@
 <speak>
     <p ru="Хорошо">
-        <s meaning="word">Good</s><break time="2000ms"/>
+        <s meaning="word">Good</s>
     </p>
     <p ru="Лучше">
-        <s meaning="word">Better</s><break time="2000ms"/>
+        <s meaning="word">Better</s>
     </p>
     <p ru="Самый лучший">
-        <s meaning="word">The best</s><break time="2000ms"/>
+        <s meaning="word">The best</s>
     </p>
     <p ru="Плохо">
-        <s meaning="word">Bad</s><break time="2000ms"/>
+        <s meaning="word">Bad</s>
     </p>
     <p ru="Хуже">
-        <s meaning="word">Worse</s><break time="2000ms"/>
+        <s meaning="word">Worse</s>
     </p>
     <p ru="Самый худший">
-        <s meaning="word">The worst</s><break time="2000ms"/>
+        <s meaning="word">The worst</s>
+    </p>
+    <p ru="Большой">
+        <s meaning="word">Big</s>
+    </p>
+    <p ru="Больше">
+        <s meaning="word">Bigger</s>
+    </p>
+    <p ru="Самый большой">
+        <s meaning="word">The biggest</s>
+    </p>
+    <p ru="Горячий">
+        <s meaning="word">Hot</s>
+    </p>
+    <p ru="Горячее">
+        <s meaning="word">Hotter</s>
+    </p>
+    <p ru="Самый горячий">
+        <s meaning="word">The hottest</s>
     </p>
 </speak>

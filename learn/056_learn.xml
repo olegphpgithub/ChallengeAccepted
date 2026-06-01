@@ -48,12 +48,12 @@
         <s>I'm not thrilled about it.</s><break time="1000ms"/>
         <s>I'm not thrilled about it.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
+    <p ru="Подход (метод решения проблемы)">
+        <s meaning="word">Approach</s><break time="2000ms"/>
+        <s meaning="example">The current approach is "recompile" without any changes.</s><break time="1000ms"/>
         <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+        <s>The current approach is "recompile" without any changes.</s><break time="1000ms"/>
+        <s>The current approach is "recompile" without any changes.</s><break time="1000ms"/>
     </p>
     <p ru="">
         <s meaning="word"></s><break time="2000ms"/>

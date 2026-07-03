@@ -55,12 +55,12 @@
         <s>The current approach is "recompile" without any changes.</s><break time="1000ms"/>
         <s>The current approach is "recompile" without any changes.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Калибровать, оценивать, измерять, калибр, мера, размер, шаблон, масштаб, колея">
+        <s meaning="word">Gauge</s><break time="2000ms"/>
+        <s meaning="example">Now make a test pack so you can gauge performance.</s><break time="1000ms"/>
+        <!-- Теперь создайте тестовый пакет, чтобы вы могли оценить производительность. -->
+        <s>Now make a test pack so you can gauge performance.</s><break time="1000ms"/>
+        <s>Now make a test pack so you can gauge performance.</s><break time="1000ms"/>
     </p>
     <p ru="">
         <s meaning="word"></s><break time="2000ms"/>

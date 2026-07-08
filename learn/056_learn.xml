@@ -62,11 +62,11 @@
         <s>Now make a test pack so you can gauge performance.</s><break time="1000ms"/>
         <s>Now make a test pack so you can gauge performance.</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
-        <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+    <p ru="Кривой, неправильный, искаженный, неправильно, набок, косо, неудачно">
+        <s meaning="word">Awry</s><break time="2000ms"/>
+        <s meaning="example">Our plans went awry. Everything went awry.</s><break time="1000ms"/>
+        <!-- Дела пошли вкривь и вкось. -->
+        <s>Our plans went awry. Everything went awry.</s><break time="1000ms"/>
+        <s>Our plans went awry. Everything went awry.</s><break time="1000ms"/>
     </p>
 </speak>

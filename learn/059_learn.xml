@@ -1,0 +1,23 @@
+<speak>
+    <p ru="Затяжной, нерешённый (вопрос), длительный, долгий, томительный, медлительный, давнишний">
+        <s meaning="word">Lingering</s><break time="2000ms"/>
+        <s meaning="example">The lingering question kept me up.</s><break time="1000ms"/>
+        <!---->
+        <s>The lingering question kept me up.</s><break time="1000ms"/>
+        <s>The lingering question kept me up.</s><break time="1000ms"/>
+    </p>
+    <p ru="">
+        <s meaning="word"></s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+        <!---->
+        <s></s><break time="1000ms"/>
+        <s></s><break time="1000ms"/>
+    </p>
+    <p ru="">
+        <s meaning="word"></s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+        <!---->
+        <s></s><break time="1000ms"/>
+        <s></s><break time="1000ms"/>
+    </p>
+</speak>

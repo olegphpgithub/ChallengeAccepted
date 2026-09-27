@@ -1,0 +1,29 @@
+<speak>
+    <p ru="Клевый">
+        <s meaning="word">Cool</s>
+    </p>
+    <p ru="Добрый">
+        <s meaning="word">Kind</s>
+    </p>
+    <p ru="Милый">
+        <s meaning="word">Sweet</s>
+    </p>
+    <p ru="Умный">
+        <s meaning="word">Clever</s>
+    </p>
+    <p ru="Дружественный">
+        <s meaning="word">Friendly</s>
+    </p>
+    <p ru="Шумный">
+        <s meaning="word">Noisy</s>
+    </p>
+    <p ru="Смешной">
+        <s meaning="word">Funny</s>
+    </p>
+    <p ru="Непослушный">
+        <s meaning="word">Naughty</s>
+    </p>
+    <p ru="Заботливый">
+        <s meaning="word">Caring</s>
+    </p>
+</speak>

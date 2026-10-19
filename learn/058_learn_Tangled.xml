@@ -41,12 +41,12 @@
         <s>She turns young, creepy, right?</s><break time="1000ms"/>
         <s>She turns young, creepy, right?</s><break time="1000ms"/>
     </p>
-    <p ru="">
-        <s meaning="word"></s><break time="2000ms"/>
-        <s meaning="example"></s><break time="1000ms"/>
+    <p ru="Фонарь, цевочное колесо, световая камера маяка, фонарь верхнего света">
+        <s meaning="word">Lantern</s><break time="2000ms"/>
+        <s meaning="example">King and Queen launched a flying lantern into the sky.</s><break time="1000ms"/>
         <!---->
-        <s></s><break time="1000ms"/>
-        <s></s><break time="1000ms"/>
+        <s>King and Queen launched a flying lantern into the sky.</s><break time="1000ms"/>
+        <s>King and Queen launched a flying lantern into the sky.</s><break time="1000ms"/>
     </p>
     <p ru="">
         <s meaning="word"></s><break time="2000ms"/>

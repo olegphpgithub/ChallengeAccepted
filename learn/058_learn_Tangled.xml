@@ -13,6 +13,34 @@
         <s>I get back my satchel. You get back a mother daughter relationship.</s><break time="1000ms"/>
         <s>I get back my satchel. You get back a mother daughter relationship.</s><break time="1000ms"/>
     </p>
+    <p ru="Исцелять, заживать, излечивать, залечивать, залечиваться, заживляться, облегчать">
+        <s meaning="word">Heal</s><break time="2000ms"/>
+        <s meaning="example">It had the ability to heal the sick</s><break time="1000ms"/>
+        <!---->
+        <s>It had the ability to heal the sick</s><break time="1000ms"/>
+        <s>It had the ability to heal the sick</s><break time="1000ms"/>
+    </p>
+    <p ru="Сберегать, копить, хранить, запасать, накоплять, запас">
+        <s meaning="word">Hoard</s><break time="2000ms"/>
+        <s meaning="example">This woman, Mother Gothel, hoarded its healing power.</s><break time="1000ms"/>
+        <!---->
+        <s>This woman, Mother Gothel, hoarded its healing power.</s><break time="1000ms"/>
+        <s>This woman, Mother Gothel, hoarded its healing power.</s><break time="1000ms"/>
+    </p>
+    <p ru="Суть, сущность, главный пункт">
+        <s meaning="word">Gist</s><break time="2000ms"/>
+        <s meaning="example">All right, you get the gist.</s><break time="1000ms"/>
+        <!---->
+        <s>All right, you get the gist.</s><break time="1000ms"/>
+        <s>All right, you get the gist.</s><break time="1000ms"/>
+    </p>
+    <p ru="Жутковато, бросающий в дрожь, вызывающий мурашки, пресмыкающийся, ползучий">
+        <s meaning="word">Creepy</s><break time="2000ms"/>
+        <s meaning="example">She turns young, creepy, right?</s><break time="1000ms"/>
+        <!---->
+        <s>She turns young, creepy, right?</s><break time="1000ms"/>
+        <s>She turns young, creepy, right?</s><break time="1000ms"/>
+    </p>
     <p ru="">
         <s meaning="word"></s><break time="2000ms"/>
         <s meaning="example"></s><break time="1000ms"/>

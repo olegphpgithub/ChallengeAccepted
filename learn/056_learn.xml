@@ -69,4 +69,10 @@
         <s>Our plans went awry. Everything went awry.</s><break time="1000ms"/>
         <s>Our plans went awry. Everything went awry.</s><break time="1000ms"/>
     </p>
+    <p ru="Беспокоить, беспокоиться, надоедать, беспокойство, хлопоты">
+        <s meaning="word">Bother</s><break time="2000ms"/>
+        <s meaning="example">Because the pupil did not bother to learn the rule.</s><break time="1000ms"/>
+        <s>Because the pupil did not bother to learn the rule.</s><break time="1000ms"/>
+        <s>Because the pupil did not bother to learn the rule.</s><break time="1000ms"/>
+    </p>
 </speak>

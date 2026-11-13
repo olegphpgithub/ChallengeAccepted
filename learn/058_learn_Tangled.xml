@@ -48,6 +48,104 @@
         <s>King and Queen launched a flying lantern into the sky.</s><break time="1000ms"/>
         <s>King and Queen launched a flying lantern into the sky.</s><break time="1000ms"/>
     </p>
+    <p ru="Работа по дому, домашняя работа">
+        <s meaning="word">Chore</s><break time="2000ms"/>
+        <s meaning="example">Start on the chores I sweep 'til the floors are all clean.</s><break time="1000ms"/>
+        <!---->
+        <s>Start on the chores I sweep 'til the floors are all clean.</s><break time="1000ms"/>
+        <s>Start on the chores I sweep 'til the floors are all clean.</s><break time="1000ms"/>
+    </p>
+    <p ru="Подметать, мести, сметать, нестись, чистить, размах, охват, подметание, движение, мусор">
+        <s meaning="word">Sweep</s><break time="2000ms"/>
+        <s meaning="example">I need to sweep the kitchen.</s><break time="1000ms"/>
+        <!---->
+        <s>I need to sweep the kitchen.</s><break time="1000ms"/>
+        <s>I need to sweep the kitchen.</s><break time="1000ms"/>
+    </p>
+    <p ru="Вязать, сращивать, сращиваться, скреплять, трикотаж, вязка, трикотажное изделие">
+        <s meaning="word">Knit</s><break time="2000ms"/>
+        <s meaning="example">I'll play guitar, and knit, and cook.</s><break time="1000ms"/>
+        <!---->
+        <s>I'll play guitar, and knit, and cook.</s><break time="1000ms"/>
+        <s>I'll play guitar, and knit, and cook.</s><break time="1000ms"/>
+    </p>
+    <p ru="Шить, пришивать, сшивать, зашивать, прошивать, пристрачивать">
+        <s meaning="word">Sew</s><break time="2000ms"/>
+        <s meaning="example">Take a climb, sew a dress, and I'll re-read the books.</s><break time="1000ms"/>
+        <!---->
+        <s>Take a climb, sew a dress, and I'll re-read the books.</s><break time="1000ms"/>
+        <s>Take a climb, sew a dress, and I'll re-read the books.</s><break time="1000ms"/>
+    </p>
+    <p ru="Лихорадка, жар, лихорадить, лихорадочный">
+        <s meaning="word">Fever</s><break time="2000ms"/>
+        <s meaning="example">Oh, hay fever?</s><break time="1000ms"/>
+        <!---->
+        <s>Oh, hay fever?</s><break time="1000ms"/>
+        <s>Oh, hay fever?</s><break time="1000ms"/>
+    </p>
+    <p ru="Дразнить, поддразнивать, раздразнить, поддразнивание, задира">
+        <s meaning="word" hide="teas">Tease</s><break time="2000ms"/>
+        <s meaning="example">Oh, darling. I'm just teasing.</s><break time="1000ms"/>
+        <!---->
+        <s>Oh, darling. I'm just teasing.</s><break time="1000ms"/>
+        <s>Oh, darling. I'm just teasing.</s><break time="1000ms"/>
+    </p>
+    <p ru="Прелестный, восхитительный, обожаемый">
+        <s meaning="word">Adorable</s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+        <!---->
+        <s></s><break time="1000ms"/>
+        <s></s><break time="1000ms"/>
+    </p>
+    <p ru="Пастернак">
+        <s meaning="word">Parsnip</s><break time="2000ms"/>
+        <s meaning="example">I brought back parsnips. I'm going to make hazelnut soup for dinner.</s><break time="1000ms"/>
+        <!---->
+        <s>I brought back parsnips. I'm going to make hazelnut soup for dinner.</s><break time="1000ms"/>
+        <s>I brought back parsnips. I'm going to make hazelnut soup for dinner.</s><break time="1000ms"/>
+    </p>
+    <p ru="Фундук, лесной орех, орех">
+        <s meaning="word">hazelnut</s><break time="2000ms"/>
+        <s meaning="example">I'm going to make hazelnut soup for dinner.</s><break time="1000ms"/>
+        <!---->
+        <s>I'm going to make hazelnut soup for dinner.</s><break time="1000ms"/>
+        <s>I'm going to make hazelnut soup for dinner.</s><break time="1000ms"/>
+    </p>
+    <p ru="">
+        <s meaning="word"></s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+        <!---->
+        <s></s><break time="1000ms"/>
+        <s></s><break time="1000ms"/>
+    </p>
+    <p ru="">
+        <s meaning="word"></s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+        <!---->
+        <s></s><break time="1000ms"/>
+        <s></s><break time="1000ms"/>
+    </p>
+    <p ru="">
+        <s meaning="word"></s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+        <!---->
+        <s></s><break time="1000ms"/>
+        <s></s><break time="1000ms"/>
+    </p>
+    <p ru="">
+        <s meaning="word"></s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+        <!---->
+        <s></s><break time="1000ms"/>
+        <s></s><break time="1000ms"/>
+    </p>
+    <p ru="">
+        <s meaning="word"></s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+        <!---->
+        <s></s><break time="1000ms"/>
+        <s></s><break time="1000ms"/>
+    </p>
     <p ru="">
         <s meaning="word"></s><break time="2000ms"/>
         <s meaning="example"></s><break time="1000ms"/>

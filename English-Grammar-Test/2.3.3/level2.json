@@ -1,0 +1,5462 @@
+[
+    {
+        "id": 0,
+        "task": "I ___ afraid of snakes.",
+        "vars": [
+            "is",
+            "am",
+            "are",
+            "-"
+        ],
+        "explanation": "We use ‘am’ with I.",
+        "answer": 2,
+        "topic": 25
+    },
+    {
+        "id": 1,
+        "task": "Sam ___ at home last night.",
+        "vars": [
+            "didn’t",
+            "weren’t",
+            "wasn’t",
+            "isn’t"
+        ],
+        "explanation": "We use ‘wasn’t’ with I/he/she/it. ‘Isn’t’ - used for the present. ‘Didn’t’ is not used without a verb.",
+        "answer": 3,
+        "topic": 26
+    },
+    {
+        "id": 2,
+        "task": "I ____ for a bank.",
+        "vars": [
+            "works",
+            "workes",
+            "work",
+            "am working"
+        ],
+        "explanation": "I/we/you/they — work. He/she/it — works. ‘I’m working’ is the Present Continuous which is incorrect here. The speaker talks in general.",
+        "answer": 3,
+        "topic": 27
+    },
+    {
+        "id": 3,
+        "task": "I ____ (to watch) that movie yesterday.",
+        "vars": [
+            "was watching",
+            "watched",
+            "watch",
+            "watches"
+        ],
+        "explanation": "Yesterday = the Past Simple. Regular verb + -ed = watch + -ed = watched.",
+        "answer": 2,
+        "topic": 28
+    },
+    {
+        "id": 4,
+        "task": "He ___ (to work) at seven o’clock yesterday evening.",
+        "vars": [
+            "worked",
+            "was working",
+            "has worked",
+            "works"
+        ],
+        "explanation": "We use the Past Continuous for an action that was in progress at a stated time in the past.",
+        "answer": 2,
+        "topic": 29
+    },
+    {
+        "id": 5,
+        "task": "Look, he ___ (to clean) his car! Now it’s shining.",
+        "vars": [
+            "have cleaned",
+            "has cleaned",
+            "cleaned",
+            "was cleaning"
+        ],
+        "explanation": "We use ‘has’ with ‘he, she, it’. We see the result of an action in the Present - the car is shining. That’s why we use the Present Perfect Tense.",
+        "answer": 2,
+        "topic": 30
+    },
+    {
+        "id": 6,
+        "task": "The lesson ___ (to begin) at 8 o’clock.",
+        "vars": [
+            "begun",
+            "begin",
+            "began",
+            "beginned"
+        ],
+        "explanation": "begin - began - begun. We use the second form in the Past Simple Tense.",
+        "answer": 3,
+        "topic": 8
+    },
+    {
+        "id": 7,
+        "task": "I’m thirsty. I ___ (to buy) something to drink.",
+        "vars": [
+            "am buying",
+            "am going to buy",
+            "will buy",
+            "buy"
+        ],
+        "explanation": "We use the Future Simple for decisions taken at the moment of speaking.",
+        "answer": 3,
+        "topic": 31
+    },
+    {
+        "id": 8,
+        "task": "___ was the party last night? - Oh, it was great!",
+        "vars": [
+            "What",
+            "How",
+            "Which",
+            "Where"
+        ],
+        "explanation": "We use ‘how’ when we want to know ‘in what way, to what extent’.",
+        "answer": 2,
+        "topic": 32
+    },
+    {
+        "id": 9,
+        "task": "Sandra is my sister. ___ is very beautiful.",
+        "vars": [
+            "He",
+            "Her",
+            "She",
+            "Hers"
+        ],
+        "explanation": "She = a subject pronoun, 3rd person, singular, female.",
+        "answer": 3,
+        "topic": 36
+    },
+    {
+        "id": 10,
+        "task": "I can find ___ who can answer your question.",
+        "vars": [
+            "somebody",
+            "anybody",
+            "somewhere",
+            "nothing"
+        ],
+        "explanation": "‘Somebody’ is used with people, mainly in positive sentences. ‘Anybody’ is also used with people but in questions and negative sentences.",
+        "answer": 1,
+        "topic": 33
+    },
+    {
+        "id": 11,
+        "task": "I wake up ___ 7 o’clock every morning.",
+        "vars": [
+            "in",
+            "on",
+            "at",
+            "-"
+        ],
+        "explanation": "At 7 o’clock, at 10.30, at midnight, at noon, at the moment, etc.",
+        "answer": 3,
+        "topic": 14
+    },
+    {
+        "id": 12,
+        "task": "Mike is ___ (short) than Tom.",
+        "vars": [
+            "shorter",
+            "shortest",
+            "shorteir",
+            "shorty"
+        ],
+        "explanation": "This sentence requires a comparative adjective, not a superlative one. We add -(e)r to one-syllable words to make comparatives.",
+        "answer": 1,
+        "topic": 34
+    },
+    {
+        "id": 13,
+        "task": "Mike ___ Sandra are my best friends.",
+        "vars": [
+            "but",
+            "and",
+            "both",
+            "although"
+        ],
+        "explanation": "We use ‘and’ to join two parts of the sentence (words, phrases, related statements).",
+        "answer": 2,
+        "topic": 35
+    },
+    {
+        "id": 14,
+        "task": "Fred ___ a dentist.",
+        "vars": [
+            "is",
+            "am",
+            "are",
+            "-"
+        ],
+        "explanation": "We use ‘is’ with she, he, it.",
+        "answer": 1,
+        "topic": 25
+    },
+    {
+        "id": 15,
+        "task": "Why ___ you late yesterday?",
+        "vars": [
+            "was",
+            "were",
+            "are",
+            "did"
+        ],
+        "explanation": "We use ‘were’ with we/you/they. ‘Are’ - used for the present. ‘Did’ is not used without a verb.",
+        "answer": 2,
+        "topic": 26
+    },
+    {
+        "id": 16,
+        "task": "Rachel ____ in Ottawa.",
+        "vars": [
+            "live",
+            "lives",
+            "is living",
+            "is lived"
+        ],
+        "explanation": "I/we/you/they — live. He/she/it — lives. ‘is living’ is the Present Continuous which is incorrect here. The speaker talks in general.",
+        "answer": 2,
+        "topic": 27
+    },
+    {
+        "id": 17,
+        "task": "___ you go to work yesterday?",
+        "vars": [
+            "Do",
+            "Does",
+            "Was",
+            "Did"
+        ],
+        "explanation": "Yesterday = the Past Simple. ‘Did’ — the correct auxiliary verb in the Past Simple.",
+        "answer": 4,
+        "topic": 28
+    },
+    {
+        "id": 18,
+        "task": "Mary ___ (to play) tennis while Mark ___ (to read) a book.",
+        "vars": [
+            "played / was reading",
+            "was playing / read",
+            "was playing / was reading",
+            "played / read"
+        ],
+        "explanation": "We use the Past Continuous for two or more simultaneous actions. ‘While’ shows that actions are simultaneous.",
+        "answer": 3,
+        "topic": 29
+    },
+    {
+        "id": 19,
+        "task": "I can’t find my wallet. I think I ___ (to lose) it.",
+        "vars": [
+            "have lost",
+            "has lost",
+            "lost",
+            "was losing"
+        ],
+        "explanation": "We use ‘have’ with ‘we, they, I, you’. We see the result of an action in the Present - I can’t find my wallet. That’s why we use the Present Perfect Tense.",
+        "answer": 1,
+        "topic": 30
+    },
+    {
+        "id": 20,
+        "task": "I ___ (to buy) two tickets to the theatre.",
+        "vars": [
+            "buyed",
+            "bought",
+            "buyied",
+            "bayed"
+        ],
+        "explanation": "buy - bought - bought. We use the second form in the Past Simple Tense.",
+        "answer": 2,
+        "topic": 8
+    },
+    {
+        "id": 21,
+        "task": "Sarah’s birthday ___ (to fall) on Monday next month.",
+        "vars": [
+            "falls",
+            "will fall",
+            "is falling",
+            "is going to fall"
+        ],
+        "explanation": "We use the Present Simple to talk about events in the future that will certainly happen, for schedules, timetables and programmes.",
+        "answer": 1,
+        "topic": 31
+    },
+    {
+        "id": 22,
+        "task": "___ is your favourite movie? - ‘The Godfather’.",
+        "vars": [
+            "When",
+            "Where",
+            "Which",
+            "What"
+        ],
+        "explanation": "We use ‘what’ when we want to know information about things and actions in general. ‘What’ is used when there is a big variety of things to choose. ‘Which’ is used when there is a small number of possible choices.",
+        "answer": 4,
+        "topic": 32
+    },
+    {
+        "id": 23,
+        "task": "__ like ice cream, __ likes pancakes.",
+        "vars": [
+            "I / he",
+            "Me / him",
+            "My / his",
+            "Myself / himself"
+        ],
+        "explanation": "We should use a subject pronoun in this sentence.",
+        "answer": 1,
+        "topic": 36
+    },
+    {
+        "id": 24,
+        "task": "There’s ___ in the dark.",
+        "vars": [
+            "anything",
+            "somewhere",
+            "something",
+            "anywhere"
+        ],
+        "explanation": "‘Something’ and ‘anything’ are used with things. ‘Something’ is used in positive sentences, ‘anything’ — in negative sentences.",
+        "answer": 3,
+        "topic": 33
+    },
+    {
+        "id": 25,
+        "task": "Are you free ___ Sundays?",
+        "vars": [
+            "at",
+            "on",
+            "-",
+            "in"
+        ],
+        "explanation": "On: Sunday, Sundays, 10 May, Christmas Day, my birthday, etc.",
+        "answer": 2,
+        "topic": 14
+    },
+    {
+        "id": 26,
+        "task": "My house is ___ (large) than yours.",
+        "vars": [
+            "largest",
+            "the largest",
+            "larger",
+            "largerer"
+        ],
+        "explanation": "This sentence requires a comparative adjective, not a superlative one. We add -r to adjectives with -e ending to make comparatives.",
+        "answer": 3,
+        "topic": 34
+    },
+    {
+        "id": 27,
+        "task": "It was sunny outside, ___ we decided to stay at home.",
+        "vars": [
+            "or",
+            "because",
+            "and",
+            "but"
+        ],
+        "explanation": "We use ‘but’ to connect two parts of the sentence. These parts have contrasting ideas.",
+        "answer": 4,
+        "topic": 35
+    },
+    {
+        "id": 28,
+        "task": "We ___ a family.",
+        "vars": [
+            "-",
+            "am",
+            "is",
+            "are"
+        ],
+        "explanation": "We use ‘are’ with we, they, you.",
+        "answer": 4,
+        "topic": 25
+    },
+    {
+        "id": 29,
+        "task": "Your purse is nice. ___ it expensive?",
+        "vars": [
+            "Was",
+            "Were",
+            "Did",
+            "Had"
+        ],
+        "explanation": "We use ‘was’ with I/he/she/it. ‘Did’ is not used without a verb. ‘Had’ cannot be used here.",
+        "answer": 1,
+        "topic": 26
+    },
+    {
+        "id": 30,
+        "task": "Choose the correct word order",
+        "vars": [
+            "She always gets up at 7 o’clock.",
+            "She gets always up at 7 o’clock.",
+            "She gets up at 7 o’clock always.",
+            "She gets up always at 7 o’clock."
+        ],
+        "explanation": "Pronoun/name + adverbs of time + verb",
+        "answer": 1,
+        "topic": 27
+    },
+    {
+        "id": 31,
+        "task": "Sarah ___ (to buy) two books three days ago.",
+        "vars": [
+            "bought",
+            "buyed",
+            "buy",
+            "was buying"
+        ],
+        "explanation": "Ago = the Past Simple. ‘Buy’ is irregular. Its correct form in the past is ‘bought’.",
+        "answer": 1,
+        "topic": 28
+    },
+    {
+        "id": 32,
+        "task": "Choose a sentence with the correct word order.",
+        "vars": [
+            "What were doing you at 8 o’clock yesterday evening?",
+            "Were you doing what at 8 o’clock yesterday evening?",
+            "You were doing what at 8 o’clock yesterday evening?",
+            "What were you doing at 8 o’clock yesterday evening?"
+        ],
+        "explanation": "The correct word order: question word + was/were + subject + verb with -ing + complement",
+        "answer": 4,
+        "topic": 29
+    },
+    {
+        "id": 33,
+        "task": "Choose a sentence with the correct word order.",
+        "vars": [
+            "I already have seen him.",
+            "I have seen already him.",
+            "I have seen him already.",
+            "I have already seen him."
+        ],
+        "explanation": "We put ‘already, just, never’ after have/has and before the verb in the Past Participle form.",
+        "answer": 4,
+        "topic": 30
+    },
+    {
+        "id": 34,
+        "task": "Jeremy has ___ (to drink) too much beer.",
+        "vars": [
+            "drunk",
+            "drank",
+            "drinked",
+            "draught"
+        ],
+        "explanation": "drink - drank - drunk. We use the Past Participle (the third form) in the Present Perfect Tense.",
+        "answer": 1,
+        "topic": 8
+    },
+    {
+        "id": 35,
+        "task": "There are dark clouds in the sky. It ___ (to rain) soon.",
+        "vars": [
+            "will rain",
+            "is going to rain",
+            "rains",
+            "shall rain"
+        ],
+        "explanation": "We use ‘be going to’ in predictions when we have evidence that something will happen in the nearest future.",
+        "answer": 2,
+        "topic": 31
+    },
+    {
+        "id": 36,
+        "task": "There are two cars near our office. ___ is yours?",
+        "vars": [
+            "What",
+            "Who",
+            "Which",
+            "Whose"
+        ],
+        "explanation": "We use ‘which’ to get specific information. ‘What’ is used when there is a big variety of things to choose. ‘Which’ is used when there is a small number of possible choices. ‘Who’ is used for a person.",
+        "answer": 3,
+        "topic": 32
+    },
+    {
+        "id": 37,
+        "task": "This car is broken. __ needs to be repaired.",
+        "vars": [
+            "Its",
+            "It",
+            "Itself",
+            "It’s"
+        ],
+        "explanation": "We should use a subject pronoun in this sentence.",
+        "answer": 2,
+        "topic": 36
+    },
+    {
+        "id": 38,
+        "task": "Linda couldn’t find ___ who could help her open the window.",
+        "vars": [
+            "anything",
+            "something",
+            "somebody",
+            "anybody"
+        ],
+        "explanation": "Somebody’ is used with people, mainly in positive sentences. ‘Anybody’ is also used with people but in questions and negative sentences.",
+        "answer": 4,
+        "topic": 33
+    },
+    {
+        "id": 39,
+        "task": "Jill was born ___ 2002.",
+        "vars": [
+            "at",
+            "on",
+            "-",
+            "in"
+        ],
+        "explanation": "In: May, 1999, the 1990s, winter, the next century, the future, etc.",
+        "answer": 4,
+        "topic": 14
+    },
+    {
+        "id": 40,
+        "task": "He’s much ___ (happy) than before.",
+        "vars": [
+            "happiest",
+            "more happy",
+            "more happiest",
+            "happier"
+        ],
+        "explanation": "This sentence requires a comparative adjective, not a superlative one. We change -y to -i and add -er/-est.",
+        "answer": 4,
+        "topic": 34
+    },
+    {
+        "id": 41,
+        "task": "Which will you choose: this red dress ___ the green one?",
+        "vars": [
+            "or",
+            "and",
+            "but",
+            "so"
+        ],
+        "explanation": "We use ‘or’ to connect two or more alternatives.",
+        "answer": 1,
+        "topic": 35
+    },
+    {
+        "id": 42,
+        "task": "My favourite animal ___ a cat.",
+        "vars": [
+            "-",
+            "are",
+            "is",
+            "am"
+        ],
+        "explanation": "An animal = it. We use ‘is’ with she, he, it.",
+        "answer": 3,
+        "topic": 25
+    },
+    {
+        "id": 43,
+        "task": "Choose a sentence with the correct word order.",
+        "vars": [
+            "Were where you yesterday morning?",
+            "Were you where yesterday morning?",
+            "Yesterday morning where were you?",
+            "Where were you yesterday morning?"
+        ],
+        "explanation": "The correct word order: a question word + was/were + pronoun/noun + complement",
+        "answer": 4,
+        "topic": 26
+    },
+    {
+        "id": 44,
+        "task": "Mary ____ ____ alcohol.",
+        "vars": [
+            "doesn’t drinks",
+            "doesn’t drink",
+            "don’t drink",
+            "don’t drinks"
+        ],
+        "explanation": "I/we/you/they — don’t drink. He/she/it — doesn’t drink. ‘Does/doesn’t’ take ‘s’ from a verb.",
+        "answer": 2,
+        "topic": 27
+    },
+    {
+        "id": 45,
+        "task": "She ___ (to study) chemistry when she was young. Now she’s 83.",
+        "vars": [
+            "studyed",
+            "was studying",
+            "studied",
+            "studies"
+        ],
+        "explanation": "She’s not young now, so the time period mentioned in the first part is over = the Past Simple. ‘Study’ is regular but we change the ending: -y = -ied.",
+        "answer": 3,
+        "topic": 28
+    },
+    {
+        "id": 46,
+        "task": "Sam and Mary ___ (to do) their homework when I ___ (to come) home.",
+        "vars": [
+            "were doing / came",
+            "were doing / was coming",
+            "did / came",
+            "came / were doing"
+        ],
+        "explanation": "We use the Past Continuous to show that one action was in progress (were doing homework) when another one interrupted it (I came home). The second part of the sentence describes a short action, so we use the Past Simple.",
+        "answer": 1,
+        "topic": 29
+    },
+    {
+        "id": 47,
+        "task": "Is Carla at home? — I’m afraid she ___ (just/to go).",
+        "vars": [
+            "just went",
+            "was just going",
+            "has just gone",
+            "is just going"
+        ],
+        "explanation": "‘Just, already, ever, recently, yet, never’ show that we should use the Present Perfect Tense.",
+        "answer": 3,
+        "topic": 30
+    },
+    {
+        "id": 48,
+        "task": "He’s ___ (to find) a good job.",
+        "vars": [
+            "finded",
+            "found",
+            "fond",
+            "founded"
+        ],
+        "explanation": "find - found - found. We use the Past Participle (the third form) in the Present Perfect Tense.",
+        "answer": 2,
+        "topic": 8
+    },
+    {
+        "id": 49,
+        "task": "Paul ___ (to meet) his relatives this weekend. They have an arrangement.",
+        "vars": [
+            "is meeting",
+            "will meet",
+            "is going to meet",
+            "meets"
+        ],
+        "explanation": "We use the Present Continuous with future meaning for fixed arrangements in the near future.",
+        "answer": 1,
+        "topic": 31
+    },
+    {
+        "id": 50,
+        "task": "___ will he come? - I don’t know. I thought he would come at 10:30.",
+        "vars": [
+            "When",
+            "Where",
+            "Why",
+            "How"
+        ],
+        "explanation": "We use ‘when’ to get information about time.",
+        "answer": 1,
+        "topic": 32
+    },
+    {
+        "id": 51,
+        "task": "Please, don’t be angry with ___ . I did it accidentally.",
+        "vars": [
+            "my",
+            "myself",
+            "I",
+            "me"
+        ],
+        "explanation": "This sentence requires an object pronoun. The correct object pronoun for ‘I’ is ‘me’.",
+        "answer": 4,
+        "topic": 36
+    },
+    {
+        "id": 52,
+        "task": "There's hardly ___ here. There are few people at the art exhibition.",
+        "vars": [
+            "somebody",
+            "anybody",
+            "anything",
+            "something"
+        ],
+        "explanation": "‘Hardly’ means ‘almost not’, so it has a negative feeling. That’s why we need to use ‘anybody’.",
+        "answer": 2,
+        "topic": 33
+    },
+    {
+        "id": 53,
+        "task": "I don’t like to wake up early ___ the morning.",
+        "vars": [
+            "in",
+            "on",
+            "at",
+            "-"
+        ],
+        "explanation": "We say ‘in the morning / in the mornings’, but ‘on Monday morning / on Monday mornings’.",
+        "answer": 1,
+        "topic": 14
+    },
+    {
+        "id": 54,
+        "task": "Mary is ___ (intelligent) than Rachel.",
+        "vars": [
+            "the most intelligent",
+            "more intelligent",
+            "intelligenter",
+            "the intelligentest"
+        ],
+        "explanation": "This sentence requires a comparative adjective, not a superlative one. We use ‘more’ if an adjective has two or more syllables.",
+        "answer": 2,
+        "topic": 34
+    },
+    {
+        "id": 55,
+        "task": "Tom spoke quietly ___ the baby slept.",
+        "vars": [
+            "but",
+            "or",
+            "because",
+            "so"
+        ],
+        "explanation": "We use ‘because’ to connect the result and the reason in one sentence.",
+        "answer": 3,
+        "topic": 35
+    },
+    {
+        "id": 56,
+        "task": "How old ___ you?",
+        "vars": [
+            "are",
+            "is",
+            "-",
+            "am"
+        ],
+        "explanation": "We use ‘are’ with we, they, you.",
+        "answer": 1,
+        "topic": 25
+    },
+    {
+        "id": 57,
+        "task": "When he ___ a pupil he ___ the best in his class. Now he’s 35.",
+        "vars": [
+            "was / was",
+            "were / were",
+            "is / is",
+            "are / are"
+        ],
+        "explanation": "We use ‘was’ with I/he/she/it. 'Is/are' are used in the present. Now he’s 35, it means he’s an adult.",
+        "answer": 1,
+        "topic": 26
+    },
+    {
+        "id": 58,
+        "task": "He ____ history at the university.",
+        "vars": [
+            "study",
+            "studys",
+            "studes",
+            "studies"
+        ],
+        "explanation": "I/we/you/they — study. He/she/it — studies. ‘y’ - ‘ies’.",
+        "answer": 4,
+        "topic": 27
+    },
+    {
+        "id": 59,
+        "task": "The bell ___ (to ring) suddenly.",
+        "vars": [
+            "rang",
+            "ringed",
+            "rung",
+            "ring"
+        ],
+        "explanation": "Ring = rang",
+        "answer": 1,
+        "topic": 28
+    },
+    {
+        "id": 60,
+        "task": "This time last week I ___ (to travel) across Australia.",
+        "vars": [
+            "was travelling",
+            "travelled",
+            "has travelled",
+            "travel"
+        ],
+        "explanation": "We use the Past Continuous for an action in the middle of happening at a stated time in the past.",
+        "answer": 1,
+        "topic": 29
+    },
+    {
+        "id": 61,
+        "task": "Choose a sentence with the correct word order.",
+        "vars": [
+            "I haven’t read the book yet.",
+            "I haven’t yet read the book.",
+            "I yet haven’t read the book.",
+            "I haven’t read yet the book."
+        ],
+        "explanation": "We put ‘yet’ in the end of a sentence.",
+        "answer": 1,
+        "topic": 30
+    },
+    {
+        "id": 62,
+        "task": "She ___ (to give) me a book yesterday.",
+        "vars": [
+            "gived",
+            "given",
+            "gaved",
+            "gave"
+        ],
+        "explanation": "give - gave - given. We use the second form in the Past Simple Tense.",
+        "answer": 4,
+        "topic": 8
+    },
+    {
+        "id": 63,
+        "task": "I think that all people ___ (to drive) electric cars in 2080.",
+        "vars": [
+            "drive",
+            "are driving",
+            "are going to drive",
+            "will drive"
+        ],
+        "explanation": "We use the Future Simple to make a prediction based on what we think, believe or imagine; with expressions ‘be sure, be afraid’, adverbs ‘perhaps, certainly’, etc.",
+        "answer": 4,
+        "topic": 31
+    },
+    {
+        "id": 64,
+        "task": "Choose the correct question.",
+        "vars": [
+            "Who does wash the dishes in your family?",
+            "Who washes the dishes in your family?",
+            "Does who wash the dishes in your family?",
+            "Who the dishes washes in your family?"
+        ],
+        "explanation": "‘Who’ is the subject in this question. We don’t use the auxiliary verb.",
+        "answer": 2,
+        "topic": 32
+    },
+    {
+        "id": 65,
+        "task": "I was very angry but I told ___ to calm down.",
+        "vars": [
+            "me",
+            "myself",
+            "my",
+            "I"
+        ],
+        "explanation": "This sentence requires a reflexive pronoun. The correct reflexive pronoun for ‘I’ is ‘myself’.",
+        "answer": 2,
+        "topic": 36
+    },
+    {
+        "id": 66,
+        "task": "Is there ___ in the house to open the door for me?",
+        "vars": [
+            "anybody",
+            "anything",
+            "something",
+            "somebody"
+        ],
+        "explanation": "We use ‘anybody’ in questions.",
+        "answer": 1,
+        "topic": 33
+    },
+    {
+        "id": 67,
+        "task": "I’m going to the GYM ___ this evening.",
+        "vars": [
+            "at",
+            "-",
+            "in",
+            "on"
+        ],
+        "explanation": "We don’t use a preposition before ‘this morning/evening/etc.’, ‘last week/May/etc.’, ‘next week/May/etc.’, ‘every day/week/May/etc.’",
+        "answer": 2,
+        "topic": 14
+    },
+    {
+        "id": 68,
+        "task": "The frost is much ___ (bad) at night.",
+        "vars": [
+            "worse",
+            "badder",
+            "the worst",
+            "the baddest"
+        ],
+        "explanation": "This sentence requires a comparative adjective, not a superlative one. Bad - worse - the worst.",
+        "answer": 1,
+        "topic": 34
+    },
+    {
+        "id": 69,
+        "task": "She was very beautiful ___ she was young.",
+        "vars": [
+            "when",
+            "after",
+            "before",
+            "until"
+        ],
+        "explanation": "‘When’ means ‘at the time that’.",
+        "answer": 1,
+        "topic": 35
+    },
+    {
+        "id": 70,
+        "task": "Choose the correct word order.",
+        "vars": [
+            "Are you from Canada?",
+            "You are from Canada?",
+            "From Canada are you?",
+            "Are from Canada you?"
+        ],
+        "explanation": "The correct word order in questions: auxiliary + subject + complement",
+        "answer": 1,
+        "topic": 25
+    },
+    {
+        "id": 71,
+        "task": "___ Sarah surprised to see her ex-boyfriend yesterday?",
+        "vars": [
+            "Were",
+            "Was",
+            "Did",
+            "Is"
+        ],
+        "explanation": "‘Was’ is used with singular nouns or when we speak about one person. ‘Did’ is not used without a verb. ‘Is’ is used in the present. We speak about the past (yesterday) in this sentence.",
+        "answer": 2,
+        "topic": 26
+    },
+    {
+        "id": 72,
+        "task": "She ____ work at 9 o’clock.",
+        "vars": [
+            "finish",
+            "finishs",
+            "finishes",
+            "finishies"
+        ],
+        "explanation": "I/we/you/they — finish. He/she/it — finishes. When the verb ends in -ch, -ss, -sh, -x or -zz, we add -es.",
+        "answer": 3,
+        "topic": 27
+    },
+    {
+        "id": 73,
+        "task": "Our friends ___ (to come) to see us last Sunday.",
+        "vars": [
+            "come",
+            "comed",
+            "came",
+            "camed"
+        ],
+        "explanation": "Last Sunday = the Past Simple. ‘Come’ is irregular. Its correct form in the past is ‘came’.",
+        "answer": 3,
+        "topic": 28
+    },
+    {
+        "id": 74,
+        "task": "I ___ (to take) a shower when she ___ (to call) me.",
+        "vars": [
+            "was taking / was calling",
+            "was taking / called",
+            "took / called",
+            "took / was calling"
+        ],
+        "explanation": "We use the past Continuous to show that one action was in progress (was taking a shower) when another one interrupted it (called). The second part of the sentence describes a short action, so we use the Past Simple.",
+        "answer": 2,
+        "topic": 29
+    },
+    {
+        "id": 75,
+        "task": "Choose a sentence with the correct word order.",
+        "vars": [
+            "Have ever you been to Rome?",
+            "Have you ever been to Rome?",
+            "Have you been ever to Rome?",
+            "Have you been to Rome ever?"
+        ],
+        "explanation": "We put ‘ever’ after the noun or the pronoun and before the verb in the Past Participle form.",
+        "answer": 2,
+        "topic": 30
+    },
+    {
+        "id": 76,
+        "task": "Mike’s already ___ (to leave).",
+        "vars": [
+            "left",
+            "leaved",
+            "laufght",
+            "looft"
+        ],
+        "explanation": "leave - left - left. We use the Past Participle (the third form) in the Present Perfect Tense.",
+        "answer": 1,
+        "topic": 8
+    },
+    {
+        "id": 77,
+        "task": "I can’t open the door. ___ (you/to help) me?",
+        "vars": [
+            "Are you going to help",
+            "Will you help",
+            "Do you help",
+            "Are you helping"
+        ],
+        "explanation": "We use the Future Simple for requests, hopes, offers and promises. Here: a request.",
+        "answer": 2,
+        "topic": 31
+    },
+    {
+        "id": 78,
+        "task": "Choose the correct question.",
+        "vars": [
+            "Who Sandra saw in the park?",
+            "Who Sandra did see in the park?",
+            "Did who Sandra see in the park?",
+            "Who did Sandra see in the park?"
+        ],
+        "explanation": "‘Who’ is the object in this question. We use the auxiliary verb.",
+        "answer": 4,
+        "topic": 32
+    },
+    {
+        "id": 79,
+        "task": "___ car is red, ___ is black. (you / I)",
+        "vars": [
+            "Your / mine",
+            "your / my",
+            "yours / mine",
+            "you / my"
+        ],
+        "explanation": "We should use a possessive adjective (you = your) in the first part of the sentence. In the second one we should use a possessive pronoun (I = mine).",
+        "answer": 1,
+        "topic": 36
+    },
+    {
+        "id": 80,
+        "task": "___ ___ (to want) to go outside.",
+        "vars": [
+            "Everybody/want",
+            "Everybody/wants",
+            "Everything/want",
+            "Everything/wants"
+        ],
+        "explanation": "‘Anybody/somebody, anything/something, everybody/everything’ are 3rd person pronouns and followed by a singular verb.",
+        "answer": 2,
+        "topic": 33
+    },
+    {
+        "id": 81,
+        "task": "The train is leaving ___ ten minutes.",
+        "vars": [
+            "at",
+            "-",
+            "on",
+            "in"
+        ],
+        "explanation": "We use ‘in’ with these expressions: in 5 minutes/a few days/two weeks/two years, etc.",
+        "answer": 4,
+        "topic": 14
+    },
+    {
+        "id": 82,
+        "task": "Canada is a bigger country ___ Italy.",
+        "vars": [
+            "then",
+            "than",
+            "as",
+            "more"
+        ],
+        "explanation": "If we want to compare things we use ‘than’.",
+        "answer": 2,
+        "topic": 34
+    },
+    {
+        "id": 83,
+        "task": "Take a shower ___ you go to bed!",
+        "vars": [
+            "when",
+            "before",
+            "after",
+            "and"
+        ],
+        "explanation": "‘Before’ suggests that the second action happens after the first one.",
+        "answer": 2,
+        "topic": 35
+    },
+    {
+        "id": 84,
+        "task": "___ you married?",
+        "vars": [
+            "Am",
+            "-",
+            "Are",
+            "Is"
+        ],
+        "explanation": "We use ‘are’ with we, they, you.",
+        "answer": 3,
+        "topic": 25
+    },
+    {
+        "id": 85,
+        "task": "How ___ you now? You ___ sick two days ago.",
+        "vars": [
+            "were / are",
+            "were / were",
+            "are / are",
+            "are / were"
+        ],
+        "explanation": "The first question is in the present, so we use ‘are’. The second part is in the past (two days ago) so we use ‘were’.",
+        "answer": 4,
+        "topic": 26
+    },
+    {
+        "id": 86,
+        "task": "Choose a sentence with the correct word order.",
+        "vars": [
+            "Do you always sing in the shower?",
+            "Do you sing in the shower always?",
+            "Do you sing always in the shower?",
+            "Do always you sing in the shower?"
+        ],
+        "explanation": "do/does + pronoun/name + adverb of frequency + verb",
+        "answer": 1,
+        "topic": 27
+    },
+    {
+        "id": 87,
+        "task": "He ___ (to put) the keys on the table.",
+        "vars": [
+            "put",
+            "putted",
+            "puted",
+            "putied"
+        ],
+        "explanation": "Put = put",
+        "answer": 1,
+        "topic": 28
+    },
+    {
+        "id": 88,
+        "task": "Jessy ___ (to walk) in the park at ten o’clock yesterday morning.",
+        "vars": [
+            "walked",
+            "walks",
+            "has walked",
+            "was walking"
+        ],
+        "explanation": "We use the Past Continuous for an action that was in progress at a stated time in the past.",
+        "answer": 4,
+        "topic": 29
+    },
+    {
+        "id": 89,
+        "task": "I ___ (never/to ride) a horse.",
+        "vars": [
+            "never rode",
+            "did never ride",
+            "have never ridden",
+            "was never riding"
+        ],
+        "explanation": "‘Just, already, ever, recently, yet, never’ show that we should use the Present Perfect Tense.",
+        "answer": 3,
+        "topic": 30
+    },
+    {
+        "id": 90,
+        "task": "I ___ (to meet) him an hour ago.",
+        "vars": [
+            "meeted",
+            "meeten",
+            "met",
+            "metted"
+        ],
+        "explanation": "meet - met - met. We use the second form in the Past Simple Tense.",
+        "answer": 3,
+        "topic": 8
+    },
+    {
+        "id": 91,
+        "task": "We need to hurry up! The train ___ (to leave) at 9.30.",
+        "vars": [
+            "leaves",
+            "is leaving",
+            "is going to leave",
+            "will leave"
+        ],
+        "explanation": "We use the Present Simple to talk about events in the future that will certainly happen, for schedules, timetables and programmes.",
+        "answer": 1,
+        "topic": 31
+    },
+    {
+        "id": 92,
+        "task": "___ car is it? - It’s mine.",
+        "vars": [
+            "Whose",
+            "Who",
+            "Which",
+            "What"
+        ],
+        "explanation": "We use ‘whose’ to know which person owns a thing.",
+        "answer": 1,
+        "topic": 32
+    },
+    {
+        "id": 93,
+        "task": "I woke up and washed ___ .",
+        "vars": [
+            "Myself",
+            "My",
+            "Me",
+            "-"
+        ],
+        "explanation": "Some verbs don’t normally take a reflexive pronoun after them. They are: wash, shave, dress, meet, rest, relax, get up, wake up, etc.",
+        "answer": 4,
+        "topic": 36
+    },
+    {
+        "id": 94,
+        "task": "I can see ___ in the class. Everyone ___ gone.",
+        "vars": [
+            "nobody / have",
+            "somebody / has",
+            "nobody / has",
+            "somebody / have"
+        ],
+        "explanation": "‘Nobody’ means ‘not anybody’.’Anybody/somebody, anything/something, everybody/everything’ are 3rd person pronouns and followed by a singular verb.",
+        "answer": 3,
+        "topic": 33
+    },
+    {
+        "id": 95,
+        "task": "Sandra is waiting for you ___ the bus stop.",
+        "vars": [
+            "at",
+            "in",
+            "on",
+            "for"
+        ],
+        "explanation": "We use ‘at’ for the point, ‘in’ for an enclosed space, ‘on’ for a surface.",
+        "answer": 1,
+        "topic": 14
+    },
+    {
+        "id": 96,
+        "task": "Mark is ___ (tall) boy in the team.",
+        "vars": [
+            "taller",
+            "tall",
+            "the tallest",
+            "the most tall"
+        ],
+        "explanation": "This sentence requires a superlative adjective, not a comparative one. We add ‘the’ and -(e)st to adjectives with one syllable.",
+        "answer": 3,
+        "topic": 34
+    },
+    {
+        "id": 97,
+        "task": "I take a shower and change clothes ___ the workout. My clothes become wet during the workout.",
+        "vars": [
+            "before",
+            "because",
+            "when",
+            "after"
+        ],
+        "explanation": "‘After’ suggests that the second action happens before the first one.",
+        "answer": 4,
+        "topic": 35
+    },
+    {
+        "id": 98,
+        "task": "Thank you. That ___ very kind of you.",
+        "vars": [
+            "is",
+            "are",
+            "-",
+            "am"
+        ],
+        "explanation": "We use 'is' with ‘that’.",
+        "answer": 1,
+        "topic": 25
+    },
+    {
+        "id": 99,
+        "task": "There ___ three beautiful horses in the field. I still remember them.",
+        "vars": [
+            "was",
+            "were",
+            "is",
+            "are"
+        ],
+        "explanation": "We use 'were' with plural nouns = three horses. ‘Is/are’ - used for the present. ‘I still remember them’ means that the speaker talks about the past.",
+        "answer": 2,
+        "topic": 26
+    },
+    {
+        "id": 100,
+        "task": "My brother ____ driving big cars.",
+        "vars": [
+            "enjoy",
+            "enjoys",
+            "enjoyes",
+            "enjoies"
+        ],
+        "explanation": "I/we/you/they — enjoy. He/she/it — enjoys. When the verb ends in a vowel + -y we just add -s.",
+        "answer": 2,
+        "topic": 27
+    },
+    {
+        "id": 101,
+        "task": "Monica ___ (to take) off her coat and ___ (to sit) down.",
+        "vars": [
+            "taked / sitted",
+            "taken / sat",
+            "takes / sits",
+            "took / sat"
+        ],
+        "explanation": "Monica can’t take off her coat and sit down regularly, so the Present Simple is incorrect in this sentence. ‘Take’ and ‘sit’ are irregular = ‘took’ and ‘sat’.",
+        "answer": 4,
+        "topic": 28
+    },
+    {
+        "id": 102,
+        "task": "Tom ___ (to stop) reading and ___ (to look) out of the window. Children ___ (to play) in the street.",
+        "vars": [
+            "stopped / looked / were playing",
+            "was stopping / was looking / were playing",
+            "stopped / was looking / were playing",
+            "was stopping / looked / were playing"
+        ],
+        "explanation": "For short actions (stopped and looked) we choose the Past Simple. For a longer action (were playing), to show that it was in progress before Tom looked out of the window and continued when he looked out of the window, we choose the Past Continuous.",
+        "answer": 1,
+        "topic": 29
+    },
+    {
+        "id": 103,
+        "task": "Chris and Mary ___ (to be) married for 10 years.",
+        "vars": [
+            "were",
+            "have been",
+            "are",
+            "were been"
+        ],
+        "explanation": "‘For 10 years’ means that they are still married, so the action that started 10 years ago continues up to now. ‘For, since’ show that we should use the Present Perfect Tense.",
+        "answer": 2,
+        "topic": 30
+    },
+    {
+        "id": 104,
+        "task": "They’ve ___ (to sell) their house.",
+        "vars": [
+            "sold",
+            "selled",
+            "solt",
+            "solden"
+        ],
+        "explanation": "sell - sold - sold. We use the Past Participle (the third form) in the Present Perfect Tense.",
+        "answer": 1,
+        "topic": 8
+    },
+    {
+        "id": 105,
+        "task": "Nancy ___ (to play) tennis with Matthew tomorrow. They’ve arranged to meet at 9 o’clock.",
+        "vars": [
+            "is going to play",
+            "is playing",
+            "will play",
+            "plays"
+        ],
+        "explanation": "We use the Present Continuous with future meaning for fixed arrangements in the near future.",
+        "answer": 2,
+        "topic": 31
+    },
+    {
+        "id": 106,
+        "task": "___ did he leave the country? - He found a job abroad.",
+        "vars": [
+            "Where",
+            "When",
+            "Why",
+            "Who"
+        ],
+        "explanation": "We use ‘why’ to know the reasons and get explanations.",
+        "answer": 3,
+        "topic": 32
+    },
+    {
+        "id": 107,
+        "task": "Charlie, behave ___ !",
+        "vars": [
+            "-",
+            "you",
+            "yourself",
+            "yours"
+        ],
+        "explanation": "‘Behave yourself!’ is an idiom that means ‘be good!’.",
+        "answer": 3,
+        "topic": 36
+    },
+    {
+        "id": 108,
+        "task": "Linda didn’t know ___ at the party.",
+        "vars": [
+            "anybody",
+            "nobody",
+            "somebody",
+            "something"
+        ],
+        "explanation": "‘Somebody’ is used with people, mainly in positive sentences. ‘Anybody’ is also used with people but in questions and negative sentences. We can’t use ‘nobody’ here because it would lead to a double negation which is not correct in English.",
+        "answer": 1,
+        "topic": 33
+    },
+    {
+        "id": 109,
+        "task": "Bill has come here ___ the bus.",
+        "vars": [
+            "in",
+            "at",
+            "on",
+            "for"
+        ],
+        "explanation": "We use ‘on’ with these expressions: on a bus/train/plane, on the way.",
+        "answer": 3,
+        "topic": 14
+    },
+    {
+        "id": 110,
+        "task": "It was ___ (good) film I’ve ever seen.",
+        "vars": [
+            "the best",
+            "better",
+            "the most good",
+            "the goodest"
+        ],
+        "explanation": "This sentence requires a superlative adjective, not a comparative one. Good - better - the best",
+        "answer": 1,
+        "topic": 34
+    },
+    {
+        "id": 111,
+        "task": "Mike is older ___ Chris.",
+        "vars": [
+            "than",
+            "then",
+            "but",
+            "or"
+        ],
+        "explanation": "‘Than’ is used to introduce the second part in a comparison.",
+        "answer": 1,
+        "topic": 35
+    },
+    {
+        "id": 112,
+        "task": "It ___ nine o’clock. You ___ late.",
+        "vars": [
+            "are / is",
+            "is / are",
+            "is / is",
+            "are / are"
+        ],
+        "explanation": "We use 'is' with it and ‘are’ with you.",
+        "answer": 2,
+        "topic": 25
+    },
+    {
+        "id": 113,
+        "task": "This singer ___ very popular in 1980s.",
+        "vars": [
+            "were",
+            "was",
+            "is",
+            "did"
+        ],
+        "explanation": "‘Was’ is used with singular nouns or when we speak about one person. ‘Is’ - used for the present. We use 'were' with plural nouns. ‘Did’ is not used without a verb.",
+        "answer": 2,
+        "topic": 26
+    },
+    {
+        "id": 114,
+        "task": "I ____ ____ much about football.",
+        "vars": [
+            "doesn’t knows",
+            "doesn’t know",
+            "don’t knows",
+            "don’t know"
+        ],
+        "explanation": "I/we/you/they — don’t know. He/she/it — doesn’t know.",
+        "answer": 4,
+        "topic": 27
+    },
+    {
+        "id": 115,
+        "task": "Yesterday it ____ (to snow) all morning. It ____ (to stop) at 12 p.m.",
+        "vars": [
+            "snowed / stopped",
+            "was snowed / stopped",
+            "snowed / was stopping",
+            "is snowing / stopping"
+        ],
+        "explanation": "Yesterday = the Past Simple. Finished action in the past and exact time in the past (at 12 p.m.) = the Past Simple.",
+        "answer": 1,
+        "topic": 28
+    },
+    {
+        "id": 116,
+        "task": "He ___ (to talk) on his phone while he ___ (to drive) to work.",
+        "vars": [
+            "was talking / drove",
+            "was talking / was driving",
+            "talked / was driving",
+            "talked / drove"
+        ],
+        "explanation": "We use the Past Continuous for two or more simultaneous actions. ‘While’ shows that actions are simultaneous.",
+        "answer": 2,
+        "topic": 29
+    },
+    {
+        "id": 117,
+        "task": "___ (you/to see) Kathy yesterday?",
+        "vars": [
+            "Have you seen",
+            "Do you see",
+            "Did you see",
+            "Has you seen"
+        ],
+        "explanation": "Yesterday = the Past Simple.",
+        "answer": 3,
+        "topic": 30
+    },
+    {
+        "id": 118,
+        "task": "He ___ (to write) her a message five minutes ago.",
+        "vars": [
+            "written",
+            "wroted",
+            "write",
+            "wrote"
+        ],
+        "explanation": "write - wrote - written. We use the second form in the Past Simple Tense.",
+        "answer": 4,
+        "topic": 8
+    },
+    {
+        "id": 119,
+        "task": "Perhaps, it ___ (to rain) tomorrow.",
+        "vars": [
+            "is going to rain",
+            "rains",
+            "will rain",
+            "is raining"
+        ],
+        "explanation": "We use the Future Simple to make a prediction based on what we think, believe or imagine; with expressions ‘be sure, be afraid’, adverbs ‘perhaps, certainly’, etc.",
+        "answer": 3,
+        "topic": 31
+    },
+    {
+        "id": 120,
+        "task": "Choose a sentence with the correct word order.",
+        "vars": [
+            "Do you know if has he a dog?",
+            "Do you know if he has a dog?",
+            "Do you know if he a dog has?",
+            "Do you know has if he a dog?"
+        ],
+        "explanation": "After ‘can you tell me’, ’do you know’, etc., we use the same word order as in statement sentences.",
+        "answer": 2,
+        "topic": 32
+    },
+    {
+        "id": 121,
+        "task": "John is only 17, but he lives by ___ .",
+        "vars": [
+            "him",
+            "himself",
+            "-",
+            "him"
+        ],
+        "explanation": "‘By himself’ = on his own.",
+        "answer": 2,
+        "topic": 36
+    },
+    {
+        "id": 122,
+        "task": "Jerry is running all over the house. Is he looking for ___ ? — Yes, he can’t find his driving license. ",
+        "vars": [
+            "anything",
+            "nothing",
+            "everything",
+            "something"
+        ],
+        "explanation": "We can use ‘somebody/something’ in questions when we expect a positive answer or when we make an offer or request.",
+        "answer": 4,
+        "topic": 33
+    },
+    {
+        "id": 123,
+        "task": "Jill was very tired. She decided to go ___ home.",
+        "vars": [
+            "to",
+            "-",
+            "at",
+            "for"
+        ],
+        "explanation": "We say ‘go/come/walk home’, but ‘stay/work at home’.",
+        "answer": 2,
+        "topic": 14
+    },
+    {
+        "id": 124,
+        "task": "Karen is ___ tall ___ I am.",
+        "vars": [
+            "the same / as",
+            "as / as",
+            "the same / to",
+            "as / like"
+        ],
+        "explanation": "We use ‘as + adjective + as’ to show that one thing has the same quality with another.",
+        "answer": 2,
+        "topic": 34
+    },
+    {
+        "id": 125,
+        "task": "I sent him the invitation to the party, ___ he didn’t accept it.",
+        "vars": [
+            "or",
+            "because",
+            "and",
+            "but"
+        ],
+        "explanation": "We use ‘but’ to connect two parts of the sentence. These parts have contrasting ideas.",
+        "answer": 4,
+        "topic": 35
+    },
+    {
+        "id": 126,
+        "task": "Here ___ your book.",
+        "vars": [
+            "are",
+            "-",
+            "am",
+            "is"
+        ],
+        "explanation": "Your book = it. We use ‘is’ with she, he, it.",
+        "answer": 4,
+        "topic": 25
+    },
+    {
+        "id": 127,
+        "task": "__ you know where the children are? - Oh my God, they ___ here a few minutes ago!",
+        "vars": [
+            "Do / were",
+            "Do / are",
+            "Was / were",
+            "Do / was"
+        ],
+        "explanation": "The first question is in the present, so we use the auxiliary ‘do’. The second part is in the past (a few minutes ago) so we use ‘were’. ‘Was’ is incorrect because we use it with singular nouns or when we speak about one person.",
+        "answer": 1,
+        "topic": 26
+    },
+    {
+        "id": 128,
+        "task": "He usually ____ French but now he ____ ____ Italian.",
+        "vars": [
+            "speaks / is speaking",
+            "is speaking / is speaking",
+            "is speaking /speaks",
+            "speaks /speaks"
+        ],
+        "explanation": "general meaning = Present Simple / at the moment = Present Continuous",
+        "answer": 1,
+        "topic": 27
+    },
+    {
+        "id": 129,
+        "task": "Choose a sentence with the correct word order.",
+        "vars": [
+            "Where he did go last night?",
+            "He did go last night where?",
+            "Where did he go last night?",
+            "Where went he last night?"
+        ],
+        "explanation": "The correct word order: a question word + did + pronoun/noun + complement",
+        "answer": 3,
+        "topic": 28
+    },
+    {
+        "id": 130,
+        "task": "He ___ (to walk) down the street when he suddenly ___ (to hear) someone’s cry.",
+        "vars": [
+            "was walking / was hearing",
+            "walked / heard",
+            "was walking / heard",
+            "walked / was hearing"
+        ],
+        "explanation": "We use the Past Continuous to show that one action was in progress (was walking) when another one interrupted it (heard a cry). The second part of the sentence describes a short action, so we use the Past Simple.",
+        "answer": 3,
+        "topic": 29
+    },
+    {
+        "id": 131,
+        "task": "He ___ (to be) at the office a few minutes ago. But he ___ (to go), I can’t find him.",
+        "vars": [
+            "has been / has gone",
+            "was / has gone",
+            "has been / went",
+            "was / went"
+        ],
+        "explanation": "Ago = the Past Simple. ‘I can’t find him’ shows the result of an action in the Present, so we use the Present Perfect.",
+        "answer": 2,
+        "topic": 30
+    },
+    {
+        "id": 132,
+        "task": "She's finally ___ (to choose) the red dress.",
+        "vars": [
+            "chose",
+            "chosen",
+            "choosed",
+            "chosened"
+        ],
+        "explanation": "choose - choose - chosen. We use the Past Participle (the third form) in the Present Perfect Tense.",
+        "answer": 2,
+        "topic": 8
+    },
+    {
+        "id": 133,
+        "task": "Andrew ___ (to enter) the college next year. He’s made a decision.",
+        "vars": [
+            "will enter",
+            "is entering",
+            "enters",
+            "is going to enter"
+        ],
+        "explanation": "We use ‘be going to’ for actions we have already decided to do in the future.",
+        "answer": 4,
+        "topic": 31
+    },
+    {
+        "id": 134,
+        "task": "Choose a sentence with the correct word order.",
+        "vars": [
+            "Can you tell me what time it is?",
+            "Can you tell me what is time it?",
+            "Can you tell me is what time it?",
+            "Can you tell me what time it?"
+        ],
+        "explanation": "After ‘can you tell me’, ’do you know’, etc., we use the same word order as in statement sentences.",
+        "answer": 1,
+        "topic": 32
+    },
+    {
+        "id": 135,
+        "task": "After a hard day she was very pleased with ___ .",
+        "vars": [
+            "herself",
+            "her",
+            "hers",
+            "she"
+        ],
+        "explanation": "We should use a reflexive pronoun in this sentence. She = herself.",
+        "answer": 1,
+        "topic": 36
+    },
+    {
+        "id": 136,
+        "task": "There ___ ___ wrong with the car.",
+        "vars": [
+            "is / something",
+            "are / something",
+            "is / anything",
+            "are / anything"
+        ],
+        "explanation": "‘Anybody/somebody, anything/something, everybody/everything’ are 3rd person pronouns and followed by a singular verb. ‘Something’ is used with people, mainly in positive sentences. ‘Anything’ is also used with people but in questions and negative sentences.",
+        "answer": 1,
+        "topic": 33
+    },
+    {
+        "id": 137,
+        "task": "They arrived ___ Spain ___ 13:30 and then got ___ the hotel.",
+        "vars": [
+            "in / at / to",
+            "at / on / at",
+            "in / in / in",
+            "to / at / at"
+        ],
+        "explanation": "We arrive in a country or town, get to the hotel. We use ‘at’ with: 7 o’clock, at 10.30, at midnight, at noon, at the moment, etc.",
+        "answer": 1,
+        "topic": 14
+    },
+    {
+        "id": 138,
+        "task": "The ___ (high) you climb, the ___ (dangerous) it gets.",
+        "vars": [
+            "highest / most dangerous",
+            "higher / dangerouser",
+            "higher / more dangerous",
+            "more higher / more dangerous"
+        ],
+        "explanation": "When one thing depends on the other, we can use ‘the’ with comparative adjectives.",
+        "answer": 3,
+        "topic": 34
+    },
+    {
+        "id": 139,
+        "task": "I asked him a question ___ he came in.",
+        "vars": [
+            "because",
+            "when",
+            "or",
+            "but"
+        ],
+        "explanation": "‘When’ means ‘at the time that’.",
+        "answer": 2,
+        "topic": 35
+    },
+    {
+        "id": 140,
+        "task": "I ___ cold. I need to put on a sweater.",
+        "vars": [
+            "am",
+            "is",
+            "-",
+            "are"
+        ],
+        "explanation": "We use ‘am’ with I.",
+        "answer": 1,
+        "topic": 25
+    },
+    {
+        "id": 141,
+        "task": "Jessy ___ at work three hours ago.",
+        "vars": [
+            "was",
+            "did",
+            "were",
+            "is"
+        ],
+        "explanation": "We use ‘was’ with I/he/she/it. ‘Is’ - used for the present. ‘Did’ is not used without a verb.",
+        "answer": 1,
+        "topic": 26
+    },
+    {
+        "id": 142,
+        "task": "He ____ ____much time at the GYM.",
+        "vars": [
+            "doesn’t spends",
+            "don’t spend",
+            "doesn’t spend",
+            "don’t spends"
+        ],
+        "explanation": "I/we/you/they — don’t spend. He/she/it — doesn’t spend. ‘",
+        "answer": 3,
+        "topic": 27
+    },
+    {
+        "id": 143,
+        "task": "He ____ (to listen) to the music yesterday.",
+        "vars": [
+            "listened",
+            "was listening",
+            "listens",
+            "listen"
+        ],
+        "explanation": "Yesterday = the Past Simple. Regular verb + -ed = listen + -ed = listened.",
+        "answer": 1,
+        "topic": 28
+    },
+    {
+        "id": 144,
+        "task": "We ___ (to have) dinner at six o’clock yesterday evening.",
+        "vars": [
+            "were having",
+            "had",
+            "are having",
+            "have had"
+        ],
+        "explanation": "We use the Past Continuous for an action that was in progress at a stated time in the past.",
+        "answer": 1,
+        "topic": 29
+    },
+    {
+        "id": 145,
+        "task": "Oh no, they ___ (to go). There’s nobody in.",
+        "vars": [
+            "have gone",
+            "has gone",
+            "went",
+            "were going"
+        ],
+        "explanation": "We use ‘have’ with ‘we, they, I, you’. We see the result of an action in the Present - there’s nobody in. That’s why we use the Present Perfect Tense.",
+        "answer": 1,
+        "topic": 30
+    },
+    {
+        "id": 146,
+        "task": "He ___ (to break) the window yesterday.",
+        "vars": [
+            "broken",
+            "broke",
+            "breaked",
+            "break"
+        ],
+        "explanation": "break - broke - broken. We use the second form in the Past Simple Tense.",
+        "answer": 2,
+        "topic": 8
+    },
+    {
+        "id": 147,
+        "task": "I'm hungry. I ___ (to find) a cafe where we can have a meal.",
+        "vars": [
+            "will find",
+            "am going to find",
+            "find",
+            "am finding"
+        ],
+        "explanation": "We use the Future Simple for decisions taken at the moment of speaking.",
+        "answer": 1,
+        "topic": 31
+    },
+    {
+        "id": 148,
+        "task": "___ old is your sister? - She’s 10.",
+        "vars": [
+            "How",
+            "What",
+            "Which",
+            "Why"
+        ],
+        "explanation": "We use ‘how’ when we want to know ‘in what way, to what extent’.",
+        "answer": 1,
+        "topic": 32
+    },
+    {
+        "id": 149,
+        "task": "Our boss is from Canada. ___ is very smart.",
+        "vars": [
+            "His",
+            "Him",
+            "Himself",
+            "He"
+        ],
+        "explanation": "He = a subject pronoun, 3rd person, singular, male.",
+        "answer": 4,
+        "topic": 36
+    },
+    {
+        "id": 150,
+        "task": "___ has taken my bag.",
+        "vars": [
+            "Anything",
+            "Something",
+            "Anybody",
+            "Somebody"
+        ],
+        "explanation": "‘Somebody’ is used with people, mainly in positive sentences. ‘Anybody’ is also used with people but in questions and negative sentences. ‘Something’ and ‘anything’ are used with things.",
+        "answer": 4,
+        "topic": 33
+    },
+    {
+        "id": 151,
+        "task": "He came ___ midnight.",
+        "vars": [
+            "at",
+            "in",
+            "on",
+            "-"
+        ],
+        "explanation": "At 7 o’clock, at 10.30, at midnight, at noon, at the moment, etc.",
+        "answer": 1,
+        "topic": 14
+    },
+    {
+        "id": 152,
+        "task": "This car is ___ (cheap) than that one.",
+        "vars": [
+            "cheapest",
+            "cheapier",
+            "cheapy",
+            "cheaper"
+        ],
+        "explanation": "This sentence requires a comparative adjective, not a superlative one. We add -(e)r to one-syllable words to make comparatives.",
+        "answer": 4,
+        "topic": 34
+    },
+    {
+        "id": 153,
+        "task": "There are knives ___ spoons on the table.",
+        "vars": [
+            "and",
+            "but",
+            "or",
+            "for"
+        ],
+        "explanation": "We use ‘and’ to join two parts of the sentence (words, phrases, related statements).",
+        "answer": 1,
+        "topic": 35
+    },
+    {
+        "id": 154,
+        "task": "My mother ___ a teacher.",
+        "vars": [
+            "is",
+            "am",
+            "are",
+            "-"
+        ],
+        "explanation": "We use ‘is’ with she, he, it.",
+        "answer": 1,
+        "topic": 25
+    },
+    {
+        "id": 155,
+        "task": "They ___ asleep when you called yesterday.",
+        "vars": [
+            "was",
+            "are",
+            "did",
+            "were"
+        ],
+        "explanation": "We use ‘were’ with we/you/they. ‘Are’ - used for the present. ‘Did’ is not used without a verb.",
+        "answer": 4,
+        "topic": 26
+    },
+    {
+        "id": 156,
+        "task": "Choose the correct word order",
+        "vars": [
+            "Does often she write to you?",
+            "Does she often write to you?",
+            "Does she write often to you?",
+            "Does she write to you often?"
+        ],
+        "explanation": "do/does + pronoun/name + adverb of frequency + verb",
+        "answer": 2,
+        "topic": 27
+    },
+    {
+        "id": 157,
+        "task": "I ___ visit my family last month.",
+        "vars": [
+            "wasn’t",
+            "don’t",
+            "didn’t",
+            "doesn’t"
+        ],
+        "explanation": "Last month = the Past Simple. ‘Did’ — the correct auxiliary verb in the Past Simple.",
+        "answer": 3,
+        "topic": 28
+    },
+    {
+        "id": 158,
+        "task": "Jack ___ (to read) a newspaper while Rachel ___ (to cook) dinner.",
+        "vars": [
+            "was reading / cooked",
+            "read / was cooking",
+            "read / cooked",
+            "was reading / was cooking"
+        ],
+        "explanation": "We use the Past Continuous for two or more simultaneous actions. ‘While’ shows that actions are simultaneous.",
+        "answer": 4,
+        "topic": 29
+    },
+    {
+        "id": 159,
+        "task": "Jessica ___ (to cook) a cheesecake. We’re eating it now and It’s very delicious!",
+        "vars": [
+            "cooked",
+            "was cooking",
+            "has cooked",
+            "is cooking"
+        ],
+        "explanation": "We use ‘has’ with ‘he, she, it’. We see the result of an action in the Present - we’re eating a cheesecake now. That’s why we use the Present Perfect Tense.",
+        "answer": 3,
+        "topic": 30
+    },
+    {
+        "id": 160,
+        "task": "A cat ___ (to catch) a mouse.",
+        "vars": [
+            "caught",
+            "catched",
+            "cought",
+            "caughten"
+        ],
+        "explanation": "catch - caught - caught. We use the second form in the Past Simple Tense.",
+        "answer": 1,
+        "topic": 8
+    },
+    {
+        "id": 161,
+        "task": "The game ___ (to begin) at 6 o’clock this evening.",
+        "vars": [
+            "is going to begin",
+            "is beginning",
+            "begins",
+            "is going to begin"
+        ],
+        "explanation": "We use the Present Simple to talk about events in the future that will certainly happen, for schedules, timetables and programmes.",
+        "answer": 3,
+        "topic": 31
+    },
+    {
+        "id": 162,
+        "task": "___ is your name? - Carol.",
+        "vars": [
+            "When",
+            "Where",
+            "Which",
+            "What"
+        ],
+        "explanation": "We use ‘what’ when we want to know information about things and actions in general. ‘What’ is used when there is a big variety of things to choose. ‘Which’ is used when there is a small number of possible choices.",
+        "answer": 4,
+        "topic": 32
+    },
+    {
+        "id": 163,
+        "task": "__ is a teacher, __ am a doctor.",
+        "vars": [
+            "She / I",
+            "Her / my",
+            "Hers / mine",
+            "Herself / myself"
+        ],
+        "explanation": "We should use a subject pronoun in this sentence.",
+        "answer": 1,
+        "topic": 36
+    },
+    {
+        "id": 164,
+        "task": "I can’t see ___ in the dark.",
+        "vars": [
+            "anything",
+            "something",
+            "anywhere",
+            "somewhere"
+        ],
+        "explanation": "‘Something’ and ‘anything’ are used with things. ‘Something’ is used in positive sentences, ‘anything’ — in negative sentences.",
+        "answer": 1,
+        "topic": 33
+    },
+    {
+        "id": 165,
+        "task": "What are you going to do ___ your birthday?",
+        "vars": [
+            "at",
+            "on",
+            "in",
+            "-"
+        ],
+        "explanation": "On: Sunday, Sundays, 10 May, Christmas Day, my birthday, etc.",
+        "answer": 2,
+        "topic": 14
+    },
+    {
+        "id": 166,
+        "task": "Steve was ___ (close) to Mary than someone else.",
+        "vars": [
+            "closest",
+            "closer",
+            "the closest",
+            "closy"
+        ],
+        "explanation": "This sentence requires a comparative adjective, not a superlative one. We add -r to adjectives with -e ending to make comparatives.",
+        "answer": 2,
+        "topic": 34
+    },
+    {
+        "id": 167,
+        "task": "John likes vegetables, ___ he’s allergic to carrots.",
+        "vars": [
+            "or",
+            "because",
+            "but",
+            "and"
+        ],
+        "explanation": "We use ‘but’ to connect two parts of the sentence. These parts have contrasting ideas.",
+        "answer": 3,
+        "topic": 35
+    },
+    {
+        "id": 168,
+        "task": "They ___ at school.",
+        "vars": [
+            "-",
+            "am",
+            "is",
+            "are"
+        ],
+        "explanation": "We use ‘are’ with we, they, you.",
+        "answer": 4,
+        "topic": 25
+    },
+    {
+        "id": 169,
+        "task": "What ___ the weather like a week ago?",
+        "vars": [
+            "were",
+            "was",
+            "is",
+            "are"
+        ],
+        "explanation": "We use ‘was’ with I/he/she/it. ‘Is/are’ - used for the present.",
+        "answer": 2,
+        "topic": 26
+    },
+    {
+        "id": 170,
+        "task": "We often ____ to the cinema.",
+        "vars": [
+            "go",
+            "goes",
+            "gos",
+            "are going"
+        ],
+        "explanation": "I/we/you/they — go. He/she/it — goes. ‘Are going’ is the Present Continuous which is incorrect here. The speaker talks in general.",
+        "answer": 1,
+        "topic": 27
+    },
+    {
+        "id": 171,
+        "task": "Tom ___ (to fly)from Rome to Paris last Monday.",
+        "vars": [
+            "was flying",
+            "flew",
+            "flied",
+            "fly"
+        ],
+        "explanation": "Last Monday = the Past Simple. ‘Fly’ is irregular. Its correct form in the past is ‘flew’.",
+        "answer": 2,
+        "topic": 28
+    },
+    {
+        "id": 172,
+        "task": "Choose a sentence with the correct word order.",
+        "vars": [
+            "Where were you driving at 10 o’clock yesterday morning?",
+            "Were where you driving at 10 o’clock yesterday morning?",
+            "Where you were driving at 10 o’clock yesterday morning?",
+            "Where were driving you at 10 o’clock yesterday morning?"
+        ],
+        "explanation": "The correct word order: question word + was/were + subject + verb with -ing + complement",
+        "answer": 1,
+        "topic": 29
+    },
+    {
+        "id": 173,
+        "task": "Choose a sentence with the correct word order.",
+        "vars": [
+            "I never have heard this song before.",
+            "I have never heard this song before.",
+            "I have heard never this song before.",
+            "I have heard this song before never."
+        ],
+        "explanation": "We put ‘already, just, never’ after have/has and before the verb in the Past Participle form.",
+        "answer": 2,
+        "topic": 30
+    },
+    {
+        "id": 174,
+        "task": "I’ve ___ (to eat) a wonderful cheesecake this morning.",
+        "vars": [
+            "ate",
+            "eaten",
+            "eated",
+            "ated"
+        ],
+        "explanation": "eat - ate - eaten. We use the Past Participle (the third form) in the Present Perfect Tense.",
+        "answer": 2,
+        "topic": 8
+    },
+    {
+        "id": 175,
+        "task": "The lightning has hit the trunk of a tree. It ___ (to fall) soon.",
+        "vars": [
+            "will fall",
+            "is going to fall",
+            "falls",
+            "is falling"
+        ],
+        "explanation": "We use ‘be going to’ in predictions when we have evidence that something will happen in the nearest future.",
+        "answer": 2,
+        "topic": 31
+    },
+    {
+        "id": 176,
+        "task": "___ airline did you choose: Air China or IndiGo?",
+        "vars": [
+            "Which",
+            "What",
+            "Who",
+            "Whose"
+        ],
+        "explanation": "We use ‘which’ to get specific information. ‘What’ is used when there is a big variety of things to choose. ‘Which’ is used when there is a small number of possible choices. ‘Who’ is used for a person.",
+        "answer": 1,
+        "topic": 32
+    },
+    {
+        "id": 177,
+        "task": "The teacher asked ___ to learn the poem by heart.",
+        "vars": [
+            "she",
+            "hers",
+            "her",
+            "herself"
+        ],
+        "explanation": "This sentence requires an object pronoun. The correct object pronoun for ‘she’ is ‘her’.",
+        "answer": 3,
+        "topic": 36
+    },
+    {
+        "id": 178,
+        "task": "I think there’s ___ in the dark! I saw a silhouette of a man!",
+        "vars": [
+            "something",
+            "anybody",
+            "somebody",
+            "anything"
+        ],
+        "explanation": "‘Somebody’ is used with people, mainly in positive sentences. ‘Anybody’ is also used with people but in questions and negative sentences. ‘Something’ and ‘anything’ are used with things.",
+        "answer": 3,
+        "topic": 33
+    },
+    {
+        "id": 179,
+        "task": "This rock band was very popular ___ the 1980s.",
+        "vars": [
+            "at",
+            "on",
+            "in",
+            "-"
+        ],
+        "explanation": "In: May, 1999, the 1990s, winter, the next century, the future, etc.",
+        "answer": 3,
+        "topic": 14
+    },
+    {
+        "id": 180,
+        "task": "Jill is ___ (lazy) than Vicky.",
+        "vars": [
+            "lazier",
+            "more lazy",
+            "the laziest",
+            "more laziest"
+        ],
+        "explanation": "This sentence requires a comparative adjective, not a superlative one. We change -y to -i and add -er/-est.",
+        "answer": 1,
+        "topic": 34
+    },
+    {
+        "id": 181,
+        "task": "Barbara doesn’t like coffee ___ tea.",
+        "vars": [
+            "and",
+            "or",
+            "but",
+            "nor"
+        ],
+        "explanation": "We use ‘or’ to connect two or more alternatives. If there’s a negative verb in the sentence, we use ‘or’ instead of ‘and’.",
+        "answer": 2,
+        "topic": 35
+    },
+    {
+        "id": 182,
+        "task": "His car ___ black.",
+        "vars": [
+            "are",
+            "is",
+            "-",
+            "am"
+        ],
+        "explanation": "A car = it. We use ‘is’ with she, he, it.",
+        "answer": 2,
+        "topic": 25
+    },
+    {
+        "id": 183,
+        "task": "Choose a sentence with the correct word order.",
+        "vars": [
+            "Were you afraid of dogs when you were 10?",
+            "You were afraid of dogs when you were 10?",
+            "Afraid of dogs were you when you were 10?",
+            "Were afraid of dogs you when you were 10?"
+        ],
+        "explanation": "The correct word order: a question word + was/were + pronoun/noun + complement",
+        "answer": 1,
+        "topic": 26
+    },
+    {
+        "id": 184,
+        "task": "He ____ $1500 for his apartments every month.",
+        "vars": [
+            "pay",
+            "payes",
+            "payies",
+            "pays"
+        ],
+        "explanation": "I/we/you/they — pay. He/she/it — pays. When the verb ends in a vowel + -y we just add -s.",
+        "answer": 4,
+        "topic": 27
+    },
+    {
+        "id": 185,
+        "task": "I ___ (to stop) the car to check the map.",
+        "vars": [
+            "stopped",
+            "stoped",
+            "stop",
+            "stops"
+        ],
+        "explanation": "‘Stop’ is regular, but we add the second ‘p’ + -ed = stopped.",
+        "answer": 1,
+        "topic": 28
+    },
+    {
+        "id": 186,
+        "task": "It ___ (to rain) heavily when we ___ (to get) up.",
+        "vars": [
+            "was raining / were getting",
+            "was raining / got",
+            "rained / got",
+            "rained / were getting up"
+        ],
+        "explanation": "We use the Past Continuous to show that one action was in progress (was raining) when another one interrupted it (got up). The second part of the sentence describes a short action, so we use the Past Simple.",
+        "answer": 2,
+        "topic": 29
+    },
+    {
+        "id": 187,
+        "task": "She ___ (to finish) her lesson yet.",
+        "vars": [
+            "didn’t finish",
+            "isn’t finished",
+            "doesn’t finish",
+            "hasn’t finished"
+        ],
+        "explanation": "‘Just, already, ever, recently, yet, never’ show that we should the Present Perfect Tense.",
+        "answer": 4,
+        "topic": 30
+    },
+    {
+        "id": 188,
+        "task": "She’s ___ (to fly) to London this evening.",
+        "vars": [
+            "flied",
+            "flew",
+            "flewed",
+            "flown"
+        ],
+        "explanation": "fly - flew - flown. We use the Past Participle (the third form) in the Present Perfect Tense.",
+        "answer": 4,
+        "topic": 8
+    },
+    {
+        "id": 189,
+        "task": "He ___ (to fly) to Canberra tomorrow evening. He’s bought a one-way ticket.",
+        "vars": [
+            "is flying",
+            "will fly",
+            "is going to fly",
+            "flies"
+        ],
+        "explanation": "We use the Present Continuous with future meaning for fixed arrangements in the near future.",
+        "answer": 1,
+        "topic": 31
+    },
+    {
+        "id": 190,
+        "task": "___ are you going to fly to London? - Next week.",
+        "vars": [
+            "Where",
+            "When",
+            "What",
+            "Why"
+        ],
+        "explanation": "We use ‘when’ to get information about time.",
+        "answer": 2,
+        "topic": 32
+    },
+    {
+        "id": 191,
+        "task": "Could you give this book to ___ ? (we)",
+        "vars": [
+            "we",
+            "us",
+            "ours",
+            "ourselves"
+        ],
+        "explanation": "This sentence requires an object pronoun. The correct object pronoun for ‘we’ is ‘us’.",
+        "answer": 2,
+        "topic": 36
+    },
+    {
+        "id": 192,
+        "task": "Jack hardly ate ___ .",
+        "vars": [
+            "something",
+            "anything",
+            "anybody",
+            "somebody"
+        ],
+        "explanation": "‘Hardly’ means ‘almost not’, so it has a negative feeling. That’s why we need to use ‘anything’.",
+        "answer": 2,
+        "topic": 33
+    },
+    {
+        "id": 193,
+        "task": "He wakes up late ___ Sunday mornings.",
+        "vars": [
+            "at",
+            "in",
+            "-",
+            "on"
+        ],
+        "explanation": "We say ‘in the morning / in the mornings’, but ‘on Sunday morning / on Sunday mornings’.",
+        "answer": 4,
+        "topic": 14
+    },
+    {
+        "id": 194,
+        "task": "This book is ___ (interesting) than the previous one.",
+        "vars": [
+            "the most interesting",
+            "interestinger",
+            "more interesting",
+            "the interestingest"
+        ],
+        "explanation": "This sentence requires a comparative adjective, not a superlative one. We use ‘more’ if an adjective has two or more syllables.",
+        "answer": 3,
+        "topic": 34
+    },
+    {
+        "id": 195,
+        "task": "Tim was angry at me ___ I crashed his car.",
+        "vars": [
+            "because",
+            "and",
+            "but",
+            "or"
+        ],
+        "explanation": "We use ‘because’ to connect the result and the reason in one sentence.",
+        "answer": 1,
+        "topic": 35
+    },
+    {
+        "id": 196,
+        "task": "Jessica and I ___ good friends.",
+        "vars": [
+            "-",
+            "am",
+            "is",
+            "are"
+        ],
+        "explanation": "Jessica + I = we. We use ‘are’ with we, they, you.",
+        "answer": 4,
+        "topic": 25
+    },
+    {
+        "id": 197,
+        "task": "You ___ very upset yesterday. What happened?",
+        "vars": [
+            "was",
+            "did",
+            "were",
+            "are"
+        ],
+        "explanation": "We use ‘were’ with we/you/they. ‘Are’ - used for the present. ‘Did’ is not used without a verb.",
+        "answer": 3,
+        "topic": 26
+    },
+    {
+        "id": 198,
+        "task": "I ____ home on foot now, but I usually ____ a taxi.",
+        "vars": [
+            "go / take",
+            "go/ am taking",
+            "am going / take",
+            "am going / am taking"
+        ],
+        "explanation": "at the moment = Present Continuous / general meaning = Present Simple",
+        "answer": 3,
+        "topic": 27
+    },
+    {
+        "id": 199,
+        "task": "He ___ (to pay) the bill.",
+        "vars": [
+            "payed",
+            "payied",
+            "paid",
+            "paided"
+        ],
+        "explanation": "Pay = paid",
+        "answer": 3,
+        "topic": 28
+    },
+    {
+        "id": 200,
+        "task": "This time last month Daniel ___ (to work) as a secretary.",
+        "vars": [
+            "worked",
+            "has worked",
+            "was working",
+            "works"
+        ],
+        "explanation": "We use the Past Continuous for an action in the middle of happening at a stated time in the past.",
+        "answer": 3,
+        "topic": 29
+    },
+    {
+        "id": 201,
+        "task": "Choose a sentence with the correct word order.",
+        "vars": [
+            "They haven’t met him yet.",
+            "They yet haven’t met him.",
+            "They haven’t yet met him.",
+            "Yet they haven’t met him."
+        ],
+        "explanation": "We put ‘yet’ in the end of a sentence.",
+        "answer": 1,
+        "topic": 30
+    },
+    {
+        "id": 202,
+        "task": "Jake’s ___ (to forget) to call his parents this morning.",
+        "vars": [
+            "forgotten",
+            "forgot",
+            "forgetted",
+            "forgaught"
+        ],
+        "explanation": "forget - forgot - forgotten. We use the Past Participle (the third form) in the Present Perfect Tense.",
+        "answer": 1,
+        "topic": 8
+    },
+    {
+        "id": 203,
+        "task": "I think he ___ (not to come).",
+        "vars": [
+            "doesn’t come",
+            "isn’t coming",
+            "isn’t going to come",
+            "won’t come"
+        ],
+        "explanation": "We use the Future Simple to make a prediction based on what we think, believe or imagine; with expressions ‘be sure, be afraid’, adverbs ‘perhaps, certainly’, etc.",
+        "answer": 4,
+        "topic": 31
+    },
+    {
+        "id": 204,
+        "task": "Choose the correct question.",
+        "vars": [
+            "Who did see Tim?",
+            "Did who see Tim?",
+            "Who Tim saw?",
+            "Who saw Tim?"
+        ],
+        "explanation": "‘Who’ is the subject in this question. We don’t use the auxiliary verb.",
+        "answer": 4,
+        "topic": 32
+    },
+    {
+        "id": 205,
+        "task": "Tom accidentally cut ___ with the knife.",
+        "vars": [
+            "himself",
+            "him",
+            "his",
+            "he"
+        ],
+        "explanation": "This sentence requires a reflexive pronoun. The correct reflexive pronoun for ‘he’ is ‘himself’.",
+        "answer": 1,
+        "topic": 36
+    },
+    {
+        "id": 206,
+        "task": "Is there ___ in the box?",
+        "vars": [
+            "something",
+            "anything",
+            "anybody",
+            "somebody"
+        ],
+        "explanation": "We use ‘anything’ in questions.",
+        "answer": 2,
+        "topic": 33
+    },
+    {
+        "id": 207,
+        "task": "Jake’s leaving ___ next Tuesday.",
+        "vars": [
+            "in",
+            "-",
+            "at",
+            "on"
+        ],
+        "explanation": "We don’t use a preposition before ‘this morning/evening/etc.’, ‘last week/May/etc.’, ‘next week/May/etc.’, ‘every day/week/May/etc.’",
+        "answer": 2,
+        "topic": 14
+    },
+    {
+        "id": 208,
+        "task": "The movie was ___ (good) than I expected.",
+        "vars": [
+            "gooder",
+            "the best",
+            "the goodest",
+            "better"
+        ],
+        "explanation": "This sentence requires a comparative adjective, not a superlative one. Good - better - the best.",
+        "answer": 4,
+        "topic": 34
+    },
+    {
+        "id": 209,
+        "task": "___ I entered the room, I saw Carla.",
+        "vars": [
+            "Because",
+            "And",
+            "Until",
+            "When"
+        ],
+        "explanation": "‘When’ means ‘at the time that’.",
+        "answer": 4,
+        "topic": 35
+    },
+    {
+        "id": 210,
+        "task": "Choose the correct word order.",
+        "vars": [
+            "Is your car what colour?",
+            "Your car is what colour?",
+            "What colour is your car?",
+            "Colour what is your car?"
+        ],
+        "explanation": "The correct word order in questions: a question word + noun that describes a subject + auxiliary + subject",
+        "answer": 3,
+        "topic": 25
+    },
+    {
+        "id": 211,
+        "task": "When they ___ young they played tennis very well. Now they’re too old to play it.",
+        "vars": [
+            "did",
+            "were",
+            "are",
+            "was"
+        ],
+        "explanation": "We use ‘were’ with we/you/they. ‘Are’ - used for the present. ‘Did’ is not used without a verb.",
+        "answer": 2,
+        "topic": 26
+    },
+    {
+        "id": 212,
+        "task": "Choose a sentence with the correct word order.",
+        "vars": [
+            "Chris goes never to the swimming pool.",
+            "Chris never goes to the swimming pool.",
+            "Chris goes to the swimming pool never.",
+            "Chris goes to the swimming never pool."
+        ],
+        "explanation": "Pronoun/name + adverbs of time + verb",
+        "answer": 2,
+        "topic": 27
+    },
+    {
+        "id": 213,
+        "task": "I ___ (to eat) the oatmeal porridge in the morning. Now it’s evening, I don’t want to eat it again.",
+        "vars": [
+            "eated",
+            "eat",
+            "eaten",
+            "ate"
+        ],
+        "explanation": "The morning is finished, now it’s evening, so we use the Past Simple in the first part of the sentence. ‘Eat’ is irregular. Its correct form in the past is ‘ate’.",
+        "answer": 4,
+        "topic": 28
+    },
+    {
+        "id": 214,
+        "task": "Lisa ___ (to drink) coffee when Robert ___ (to see) her.",
+        "vars": [
+            "was drinking / was seeing",
+            "was drinking / saw",
+            "drank / saw",
+            "drank / was seeing"
+        ],
+        "explanation": "We use the Past Continuous to show that one action was in progress (was drinking). The second part of the sentence describes a short action, so we use the Past Simple.",
+        "answer": 2,
+        "topic": 29
+    },
+    {
+        "id": 215,
+        "task": "Choose a sentence with the correct word order.",
+        "vars": [
+            "Has ever Mary been to Canada?",
+            "Has Mary been to Canada ever?",
+            "Has Mary been ever to Canada?",
+            "Has Mary ever been to Canada?"
+        ],
+        "explanation": "We put ‘ever’ after the noun or the pronoun and before the verb in the Past Participle form.",
+        "answer": 4,
+        "topic": 30
+    },
+    {
+        "id": 216,
+        "task": "He ___ (to hear) a loud sound.",
+        "vars": [
+            "heared",
+            "hear",
+            "heard",
+            "hearded"
+        ],
+        "explanation": "hear - heard - heard. We use the second form in the Past Simple Tense.",
+        "answer": 3,
+        "topic": 8
+    },
+    {
+        "id": 217,
+        "task": "I swear I ___ (never/to do) this again.",
+        "vars": [
+            "am never going to do",
+            "will never do",
+            "am never doing",
+            "never do"
+        ],
+        "explanation": "We use the Future Simple for requests, hopes, offers and promises. Here: a promise.",
+        "answer": 2,
+        "topic": 31
+    },
+    {
+        "id": 218,
+        "task": "Choose the correct question.",
+        "vars": [
+            "Who he talked to so long yesterday?",
+            "Who he did talk to so long yesterday?",
+            "Who did he talk to so long yesterday?",
+            "Did he talk to who so long yesterday?"
+        ],
+        "explanation": "‘Who’ is the object in this question. We use the auxiliary verb.",
+        "answer": 3,
+        "topic": 32
+    },
+    {
+        "id": 219,
+        "task": "This is ___ house, that house is ___ . (she / we)",
+        "vars": [
+            "hers / our",
+            "she / we",
+            "her / ours",
+            "herself / ourselves"
+        ],
+        "explanation": "We should use a possessive adjective (she = her) in the first part of the sentence. In the second one we should use a possessive pronoun (we = ours).",
+        "answer": 3,
+        "topic": 36
+    },
+    {
+        "id": 220,
+        "task": "___ ___ (to like) the new car.",
+        "vars": [
+            "Everybody/likes",
+            "Everybody/like",
+            "Everything/like",
+            "Everything/likes"
+        ],
+        "explanation": "‘Anybody/somebody, anything/something, everybody/everything’ are 3rd person pronouns and followed by a singular verb.",
+        "answer": 1,
+        "topic": 33
+    },
+    {
+        "id": 221,
+        "task": "Let’s meet ___ a few days!",
+        "vars": [
+            "-",
+            "on",
+            "in",
+            "at"
+        ],
+        "explanation": "We use ‘in’ with these expressions: in 5 minutes/a few days/two weeks/two years, etc.",
+        "answer": 3,
+        "topic": 14
+    },
+    {
+        "id": 222,
+        "task": "My brother is three years older ___ me.",
+        "vars": [
+            "than",
+            "then",
+            "as",
+            "more"
+        ],
+        "explanation": "If we want to compare things we use ‘than’.",
+        "answer": 1,
+        "topic": 34
+    },
+    {
+        "id": 223,
+        "task": "I have breakfast ___ I go to work.",
+        "vars": [
+            "because",
+            "until",
+            "before",
+            "once"
+        ],
+        "explanation": "‘Before’ suggests that the second action happens after the first one.",
+        "answer": 3,
+        "topic": 35
+    },
+    {
+        "id": 224,
+        "task": "___ these your books?",
+        "vars": [
+            "Is",
+            "Are",
+            "-",
+            "Am"
+        ],
+        "explanation": "Books = they. We use ‘are’ with we, they, you.",
+        "answer": 2,
+        "topic": 25
+    },
+    {
+        "id": 225,
+        "task": "Where ___ you yesterday?",
+        "vars": [
+            "were",
+            "was",
+            "is",
+            "are"
+        ],
+        "explanation": "We use ‘was’ with I/he/she/it. ‘Is/are’ - used for the present. We speak about the past in this sentence (yesterday).",
+        "answer": 1,
+        "topic": 26
+    },
+    {
+        "id": 226,
+        "task": "He ____ to do his best.",
+        "vars": [
+            "tries",
+            "try",
+            "tryes",
+            "trys"
+        ],
+        "explanation": "I/we/you/they — try. He/she/it — tries. ‘y’ - ‘ies’.",
+        "answer": 1,
+        "topic": 27
+    },
+    {
+        "id": 227,
+        "task": "She ___ (to try) the dress on.",
+        "vars": [
+            "tryed",
+            "tried",
+            "try",
+            "trieded"
+        ],
+        "explanation": "‘Try’ is regular but we change the ending: -y = -ied.",
+        "answer": 2,
+        "topic": 28
+    },
+    {
+        "id": 228,
+        "task": "She ___ (to swim) in the pool at five o’clock yesterday evening.",
+        "vars": [
+            "swam",
+            "is swimming",
+            "was swimming",
+            "has swum"
+        ],
+        "explanation": "We use the Past Continuous for an action that was in progress at a stated time in the past.",
+        "answer": 3,
+        "topic": 29
+    },
+    {
+        "id": 229,
+        "task": "They ___ (never/to see) the leopard.",
+        "vars": [
+            "have never seen",
+            "did never see",
+            "never saw",
+            "has never seen"
+        ],
+        "explanation": "‘Just, already, ever, recently, yet, never’ show that we should use the Present Perfect Tense. We use ‘have’ with ‘we, they, I, you’.",
+        "answer": 1,
+        "topic": 30
+    },
+    {
+        "id": 230,
+        "task": "Oh my God, I’ve ___ (to lose) my keys!",
+        "vars": [
+            "losed",
+            "losted",
+            "losen",
+            "lost"
+        ],
+        "explanation": "lose - lost - lost. We use the Past Participle (the third form) in the Present Perfect Tense.",
+        "answer": 4,
+        "topic": 8
+    },
+    {
+        "id": 231,
+        "task": "The bus ___ (to arrive) at 12 p.m. tomorrow.",
+        "vars": [
+            "will arrive",
+            "is going to arrive",
+            "arrives",
+            "is arriving"
+        ],
+        "explanation": "We use the Present Simple to talk about events in the future that will certainly happen, for schedules, timetables and programmes.",
+        "answer": 3,
+        "topic": 31
+    },
+    {
+        "id": 232,
+        "task": "___ house has been burnt? - Tom’s.",
+        "vars": [
+            "Who",
+            "Whose",
+            "Which",
+            "What"
+        ],
+        "explanation": "We use ‘whose’ to know which person owns a thing.",
+        "answer": 2,
+        "topic": 32
+    },
+    {
+        "id": 233,
+        "task": "I got ___ up early.",
+        "vars": [
+            "myself",
+            "_",
+            "me",
+            "mine"
+        ],
+        "explanation": "Some verbs don’t normally take a reflexive pronoun after them. They are: wash, shave, dress, meet, rest, relax, get up, wake up, etc.",
+        "answer": 2,
+        "topic": 36
+    },
+    {
+        "id": 234,
+        "task": "I can see ___ in the box. It’s empty.",
+        "vars": [
+            "something",
+            "anything",
+            "somebody",
+            "nothing"
+        ],
+        "explanation": "‘Nothing’ means ‘not anything’.",
+        "answer": 4,
+        "topic": 33
+    },
+    {
+        "id": 235,
+        "task": "Father is working ___ the garden.",
+        "vars": [
+            "at",
+            "in",
+            "on",
+            "for"
+        ],
+        "explanation": "We use ‘at’ for the point, ‘in’ for an enclosed space, ‘on’ for a surface.",
+        "answer": 2,
+        "topic": 14
+    },
+    {
+        "id": 236,
+        "task": "This is ___ (big) circus I’ve ever seen.",
+        "vars": [
+            "bigger",
+            "the biggest",
+            "the bigger",
+            "the most big"
+        ],
+        "explanation": "This sentence requires a superlative adjective, not a comparative one. We add ‘the’ and -(e)st to adjectives with one syllable.",
+        "answer": 2,
+        "topic": 34
+    },
+    {
+        "id": 237,
+        "task": "We can’t play loudly ___ parents have gone to bed.",
+        "vars": [
+            "before",
+            "after",
+            "but",
+            "or"
+        ],
+        "explanation": "‘After’ suggests that the second action happens before the first one.",
+        "answer": 2,
+        "topic": 35
+    },
+    {
+        "id": 238,
+        "task": "He ___ interested in art but I ___ fond of football.",
+        "vars": [
+            "am / is",
+            "is / is",
+            "is / am",
+            "am /am"
+        ],
+        "explanation": "We use 'is' with he and ‘am’ with I.",
+        "answer": 3,
+        "topic": 25
+    },
+    {
+        "id": 239,
+        "task": "There ___ a girl with a balloon, as far as I remember.",
+        "vars": [
+            "were",
+            "is",
+            "was",
+            "are"
+        ],
+        "explanation": "Correct explanation: ‘Was’ is used with singular nouns or when we speak about one person. ‘Is/are’ - used for the present. ‘As far as I remember’ means that the speaker talks about the past.",
+        "answer": 3,
+        "topic": 26
+    },
+    {
+        "id": 240,
+        "task": "Mike ____ in a shop.",
+        "vars": [
+            "work",
+            "is worked",
+            "workes",
+            "works"
+        ],
+        "explanation": "I/we/you/they — work. He/she/it — works. ‘is worked’ is an incorrect form.",
+        "answer": 4,
+        "topic": 27
+    },
+    {
+        "id": 241,
+        "task": "Jake ___ (to take) a shower and ___ (to drink) a cup of coffee.",
+        "vars": [
+            "taked / drinked",
+            "tooked / drank",
+            "took / drank",
+            "taken / drunk"
+        ],
+        "explanation": "Take = took, drink = drank",
+        "answer": 3,
+        "topic": 28
+    },
+    {
+        "id": 242,
+        "task": "Linda ___ (to stop) talking to her friend and ___ (to turn) over. A big van ___ (to move) slowly towards them.",
+        "vars": [
+            "was stopping / turned / was moving",
+            "stopped / turned / was moving",
+            "was stopping / was turning / was moving",
+            "stopped / was turning / was moving"
+        ],
+        "explanation": "For short actions (stopped and turned over) we choose the Past Simple. For a longer action (was moving), to show that it was in progress before Linda stopped talking and continued when she turned over, we choose the Past Continuous.",
+        "answer": 2,
+        "topic": 29
+    },
+    {
+        "id": 243,
+        "task": "I ___ (to know) her since 2004.",
+        "vars": [
+            "has known",
+            "have known",
+            "knew",
+            "know"
+        ],
+        "explanation": "‘Since 2004’ means that the action started in 2004 and continues up to now. ‘For, since’ show that we should use the Present Perfect Tense.",
+        "answer": 2,
+        "topic": 30
+    },
+    {
+        "id": 244,
+        "task": "He ___ (to put) his umbrella under the table yesterday.",
+        "vars": [
+            "put",
+            "putted",
+            "putten",
+            "puts"
+        ],
+        "explanation": "put - put - put. We use the second form in the Past Simple Tense.",
+        "answer": 1,
+        "topic": 8
+    },
+    {
+        "id": 245,
+        "task": "Lisa ___ (to come) to see us tomorrow. We’ve decided to meet at 20.00.",
+        "vars": [
+            "comes",
+            "is going to come",
+            "will come",
+            "is coming"
+        ],
+        "explanation": "We use the Present Continuous with future meaning for fixed arrangements in the near future.",
+        "answer": 4,
+        "topic": 31
+    },
+    {
+        "id": 246,
+        "task": "___ are you late? - I’m sorry, I missed the bus.",
+        "vars": [
+            "Where",
+            "When",
+            "Who",
+            "Why"
+        ],
+        "explanation": "We use ‘why’ to know the reasons and get explanations.",
+        "answer": 4,
+        "topic": 32
+    },
+    {
+        "id": 247,
+        "task": "Hello, friends! Enjoy ___ !",
+        "vars": [
+            "yourselves",
+            "you",
+            "yours",
+            "yourself"
+        ],
+        "explanation": "‘Enjoy yourselves’ is an idiom that means ‘have a good time’.",
+        "answer": 1,
+        "topic": 36
+    },
+    {
+        "id": 248,
+        "task": "She hasn’t read ___ during her holidays.",
+        "vars": [
+            "something",
+            "anything",
+            "somebody",
+            "nothing"
+        ],
+        "explanation": "‘Something’ is used with people, mainly in positive sentences. ‘Anything’ is also used with people but in questions and negative sentences. We can’t use ‘nothing’ here because it would lead to a double negation which is not correct in English.",
+        "answer": 2,
+        "topic": 33
+    },
+    {
+        "id": 249,
+        "task": "Rachel is ___ her way home.",
+        "vars": [
+            "on",
+            "at",
+            "in",
+            "-"
+        ],
+        "explanation": "We use ‘on’ with these expressions: on a bus/train/plane, on the way.",
+        "answer": 1,
+        "topic": 14
+    },
+    {
+        "id": 250,
+        "task": "He's made ___ (bad) decision in his entire life.",
+        "vars": [
+            "bad",
+            "worse",
+            "the baddest",
+            "the worst"
+        ],
+        "explanation": "This sentence requires a superlative adjective, not a comparative one. Bad - worse - the worst.",
+        "answer": 4,
+        "topic": 34
+    },
+    {
+        "id": 251,
+        "task": "He came earlier ___ usual.",
+        "vars": [
+            "than",
+            "then",
+            "but",
+            "when"
+        ],
+        "explanation": "‘Than’ is used to introduce the second part in a comparison.",
+        "answer": 1,
+        "topic": 35
+    },
+    {
+        "id": 252,
+        "task": "Here ___ your crayons.",
+        "vars": [
+            "is",
+            "-",
+            "am",
+            "are"
+        ],
+        "explanation": "Crayons = they. We use ‘are’ with we, they, you.",
+        "answer": 4,
+        "topic": 25
+    },
+    {
+        "id": 253,
+        "task": "She ___ in Paris now, but two days ago she ___ in London.",
+        "vars": [
+            "is / is",
+            "was / was",
+            "is / were",
+            "is / was"
+        ],
+        "explanation": "We use ‘was’ with I/he/she/it. ‘Is’ - used for the present. We speak about the past in this sentence (two days ago).",
+        "answer": 4,
+        "topic": 26
+    },
+    {
+        "id": 254,
+        "task": "He often ____ the documentaries.",
+        "vars": [
+            "watch",
+            "watchies",
+            "watches",
+            "watchs"
+        ],
+        "explanation": "I/we/you/they — watch. He/she/it — watches. When the verb ends in -ch, -ss, -sh, -x or -zz, we add -es.",
+        "answer": 3,
+        "topic": 27
+    },
+    {
+        "id": 255,
+        "task": "The excursion was very long. It ____ (to start) at 10.30 and ___ (to end) at 17.40.",
+        "vars": [
+            "was starting / was ending",
+            "started / ended",
+            "started / was ending",
+            "was starting / ended"
+        ],
+        "explanation": "Finished action in the past and exact time in the past (at 10.30 and 17.40 p.m.) = the Past Simple.",
+        "answer": 2,
+        "topic": 28
+    },
+    {
+        "id": 256,
+        "task": "Tom ___ (to sleep) while the cat ___ (to eat).",
+        "vars": [
+            "was sleeping / was eating",
+            "was sleeping / ate",
+            "slept / was eating",
+            "slept / ate"
+        ],
+        "explanation": "We use the Past Continuous for two or more simultaneous actions. ‘While’ shows that actions are simultaneous.",
+        "answer": 1,
+        "topic": 29
+    },
+    {
+        "id": 257,
+        "task": "Where ___ (you/to go) last night?",
+        "vars": [
+            "have you gone",
+            "is you gone",
+            "did you go",
+            "has you gone"
+        ],
+        "explanation": "Last night = the Past Simple.",
+        "answer": 3,
+        "topic": 30
+    },
+    {
+        "id": 258,
+        "task": "She ___ (to speak) too loud.",
+        "vars": [
+            "spoked",
+            "spoken",
+            "spoke",
+            "speaked"
+        ],
+        "explanation": "speak - spoke - spoken. We use the second form in the Past Simple Tense.",
+        "answer": 3,
+        "topic": 8
+    },
+    {
+        "id": 259,
+        "task": "I’m sure, they ___ (to win).",
+        "vars": [
+            "will win",
+            "are going to win",
+            "are winning",
+            "win"
+        ],
+        "explanation": "We use the Future Simple to make a prediction based on what we think, believe or imagine; with expressions ‘be sure, be afraid’, adverbs ‘perhaps, certainly’, etc.",
+        "answer": 1,
+        "topic": 31
+    },
+    {
+        "id": 260,
+        "task": "Choose a sentence with the correct word order.",
+        "vars": [
+            "Can you tell me whether does she live in London?",
+            "Can you tell me whether she does live in London?",
+            "Can you tell me whether she lives in London?",
+            "Can you tell me whether lives she in London?"
+        ],
+        "explanation": "After ‘can you tell me’, ’do you know’, etc., we use the same word order as in statement sentences.",
+        "answer": 3,
+        "topic": 32
+    },
+    {
+        "id": 261,
+        "task": "This little girl has cooked dinner by ___ .",
+        "vars": [
+            "-",
+            "herself",
+            "hers",
+            "her"
+        ],
+        "explanation": "‘By herself’ = on her own.",
+        "answer": 2,
+        "topic": 36
+    },
+    {
+        "id": 262,
+        "task": "Would you like ___ to drink?",
+        "vars": [
+            "anything",
+            "somebody",
+            "something",
+            "nothing"
+        ],
+        "explanation": "We can use ‘somebody/something’ in questions when we expect a positive answer or when we make an offer or request.",
+        "answer": 3,
+        "topic": 33
+    },
+    {
+        "id": 263,
+        "task": "Sandra is staying ___ home today.",
+        "vars": [
+            "on",
+            "at",
+            "in",
+            "-"
+        ],
+        "explanation": "We say ‘go/come/walk home’, but ‘stay/work at home’.",
+        "answer": 2,
+        "topic": 14
+    },
+    {
+        "id": 264,
+        "task": "Mary swims ___ a fish.",
+        "vars": [
+            "like",
+            "as",
+            "the same",
+            "the same like"
+        ],
+        "explanation": "We use ‘like’ when two things/qualities are similar. ‘As’ means ‘in the role of’.",
+        "answer": 1,
+        "topic": 34
+    },
+    {
+        "id": 265,
+        "task": "Miriam ___ Lora are very beautiful.",
+        "vars": [
+            "but",
+            "or",
+            "for",
+            "and"
+        ],
+        "explanation": "We use ‘and’ to join two parts of the sentence (words, phrases, related statements).",
+        "answer": 4,
+        "topic": 35
+    },
+    {
+        "id": 266,
+        "task": "It ___ rainy today, but it ___ cold.",
+        "vars": [
+            "is / isn’t",
+            "are / aren’t",
+            "is / aren’t",
+            "are / isn’t"
+        ],
+        "explanation": "We use ‘is’ with she, he, it.",
+        "answer": 1,
+        "topic": 25
+    },
+    {
+        "id": 267,
+        "task": "Today the weather ___ awesome, but yesterday it ___ very bad.",
+        "vars": [
+            "was / was",
+            "is / is",
+            "is / was",
+            "was / is"
+        ],
+        "explanation": "The first part is about the present (today), so we use ‘is’. The second one is about the past (yesterday), so we use ‘was’.",
+        "answer": 3,
+        "topic": 26
+    },
+    {
+        "id": 268,
+        "task": "They ____ ____ football very often.",
+        "vars": [
+            "don't plays",
+            "don't play",
+            "doesn’t play",
+            "doesn’t plays"
+        ],
+        "explanation": "I/we/you/they — don’t play. He/she/it — doesn’t play.",
+        "answer": 2,
+        "topic": 27
+    },
+    {
+        "id": 269,
+        "task": "Choose a sentence with the correct word order.",
+        "vars": [
+            "What time did you get up yesterday?",
+            "What time you did get up yesterday?",
+            "Did what time you get up yesterday?",
+            "What time did get up you yesterday?"
+        ],
+        "explanation": "The correct word order: a question word + did + pronoun/noun + complement",
+        "answer": 1,
+        "topic": 28
+    },
+    {
+        "id": 270,
+        "task": "He ___ (to play) the guitar when the phone ___ (to ring).",
+        "vars": [
+            "was playing / was ringing",
+            "played / rang",
+            "played / was ringing",
+            "was playing / rang"
+        ],
+        "explanation": "We use the Past Continuous to show that one action was in progress (was playing) when another one interrupted it (the phone rang). The second part of the sentence describes a short action, so we use the Past Simple.",
+        "answer": 4,
+        "topic": 29
+    },
+    {
+        "id": 271,
+        "task": "He ___ (to buy) a new dress for his wife yesterday. She ___ (to see) it yet.",
+        "vars": [
+            "bought / didn’t see",
+            "bought / bought",
+            "has bought / hasn’t seen",
+            "bought / hasn’t seen"
+        ],
+        "explanation": "Yesterday = the Past Simple. ‘Just, already, ever, recently, yet’ show that we should use the Present Perfect Tense.",
+        "answer": 4,
+        "topic": 30
+    },
+    {
+        "id": 272,
+        "task": "I ___ (to feel) sorry for her that day.",
+        "vars": [
+            "feeled",
+            "felted",
+            "faulght",
+            "felt"
+        ],
+        "explanation": "feel - felt - felt. We use the second form in the Past Simple Tense.",
+        "answer": 4,
+        "topic": 8
+    },
+    {
+        "id": 273,
+        "task": "Emily ___ (to leave) the country next month. She’s already decided to do it.",
+        "vars": [
+            "leaves",
+            "is leaving",
+            "is going to leave",
+            "will leave"
+        ],
+        "explanation": "We use ‘be going to’ for actions we have already decided to do in the future.",
+        "answer": 3,
+        "topic": 31
+    },
+    {
+        "id": 274,
+        "task": "Choose a sentence with the correct word order.",
+        "vars": [
+            "Do you know how much does it cost?",
+            "Do you know how much it costs?",
+            "Do you know does how much it cost?",
+            "Do you know how much it does cost?"
+        ],
+        "explanation": "After ‘can you tell me’, ’do you know’, etc., we use the same word order as in statement sentences.",
+        "answer": 2,
+        "topic": 32
+    },
+    {
+        "id": 275,
+        "task": "Jake was proud of ___ . Jake won the game yesterday.",
+        "vars": [
+            "him",
+            "his",
+            "he",
+            "himself"
+        ],
+        "explanation": "We should use a reflexive pronoun in this sentence. He = himself.",
+        "answer": 4,
+        "topic": 36
+    },
+    {
+        "id": 276,
+        "task": "There ___ ___ wrong with the laptop.",
+        "vars": [
+            "is / something",
+            "are / something",
+            "is / anything",
+            "are / anything"
+        ],
+        "explanation": "‘Anybody/somebody, anything/something, everybody/everything’ are 3rd person pronouns and followed by a singular verb. ‘Something’ is used with people, mainly in positive sentences. ‘Anything’ is also used with people but in questions and negative sentences.",
+        "answer": 1,
+        "topic": 33
+    },
+    {
+        "id": 277,
+        "task": "John was very tired when he arrived ___ home.",
+        "vars": [
+            "to",
+            "in",
+            "at",
+            "-"
+        ],
+        "explanation": "We say ‘get/arrive home’.",
+        "answer": 4,
+        "topic": 14
+    },
+    {
+        "id": 278,
+        "task": "The ___ (good) you learn, the ___ (smart) you get.",
+        "vars": [
+            "more good / more smart",
+            "best / smartest",
+            "better / smarter",
+            "goodest / smartest"
+        ],
+        "explanation": "When one thing depends on the other, we can use ‘the’ with comparative adjectives.",
+        "answer": 3,
+        "topic": 34
+    },
+    {
+        "id": 279,
+        "task": "Which do you prefer? Roses ___ peonies?",
+        "vars": [
+            "or",
+            "and",
+            "but",
+            "so"
+        ],
+        "explanation": "We use ‘or’ to connect two or more alternatives.",
+        "answer": 1,
+        "topic": 35
+    },
+    {
+        "id": 280,
+        "task": "I ___ hungry. Let’s go to the cafe.",
+        "vars": [
+            "-",
+            "is",
+            "am",
+            "are"
+        ],
+        "explanation": "We use ‘am’ with I.",
+        "answer": 3,
+        "topic": 25
+    },
+    {
+        "id": 281,
+        "task": "Tom ___ 20 last year. Now he’s 21.",
+        "vars": [
+            "were",
+            "was",
+            "is",
+            "did"
+        ],
+        "explanation": "We use ‘was’ with I/he/she/it. ‘Is’ - used for the present. ‘Did’ is not used without a verb.",
+        "answer": 2,
+        "topic": 26
+    },
+    {
+        "id": 282,
+        "task": "It ____ a lot of money to build a stadium.",
+        "vars": [
+            "cost",
+            "costs",
+            "costes",
+            "is costing"
+        ],
+        "explanation": "I/we/you/they — cost (is not used with these pronouns). He/she/it — costs. ‘is costing’ is the Present Continuous which is incorrect here. The speaker talks in general.",
+        "answer": 2,
+        "topic": 27
+    },
+    {
+        "id": 283,
+        "task": "She ____ (to enjoy) the party last night.",
+        "vars": [
+            "enjoy",
+            "was enjoying",
+            "enjoys",
+            "enjoyed"
+        ],
+        "explanation": "Last night = the Past Simple. Regular verb + -ed = enjoy + -ed = enjoyed.",
+        "answer": 4,
+        "topic": 28
+    },
+    {
+        "id": 284,
+        "task": "He ___ (to watch) television at eleven o’clock yesterday morning.",
+        "vars": [
+            "watched",
+            "was watching",
+            "is watching",
+            "has watched"
+        ],
+        "explanation": "We use the Past Continuous for an action that was in progress at a stated time in the past.",
+        "answer": 2,
+        "topic": 29
+    },
+    {
+        "id": 285,
+        "task": "I ___ (to finish) the letter. Now I can send it.",
+        "vars": [
+            "has finished",
+            "finished",
+            "am finished",
+            "have finished"
+        ],
+        "explanation": "We use ‘have’ with ‘we, they, I, you’. We see the result of an action in the Present - now I can send the letter. That’s why we use the Present Perfect Tense.",
+        "answer": 4,
+        "topic": 30
+    },
+    {
+        "id": 286,
+        "task": "She ___ (to bring) a stray kitten to the office.",
+        "vars": [
+            "brought",
+            "brang",
+            "brung",
+            "bringed"
+        ],
+        "explanation": "bring - brought - brought. We use the second form in the Past Simple Tense.",
+        "answer": 1,
+        "topic": 8
+    },
+    {
+        "id": 287,
+        "task": "I like this bag. I ___ (to buy) it.",
+        "vars": [
+            "am going to buy",
+            "will buy",
+            "am buying",
+            "buy"
+        ],
+        "explanation": "We use the Future Simple for decisions taken at the moment of speaking.",
+        "answer": 2,
+        "topic": 31
+    },
+    {
+        "id": 288,
+        "task": "___ far is it from here to the park? - About six kilometres.",
+        "vars": [
+            "What",
+            "Which",
+            "Whom",
+            "How"
+        ],
+        "explanation": "We use ‘how’ when we want to know ‘in what way, to what extent’.",
+        "answer": 4,
+        "topic": 32
+    },
+    {
+        "id": 289,
+        "task": "__ are my best friend.",
+        "vars": [
+            "Your",
+            "You",
+            "Yours",
+            "Yourself"
+        ],
+        "explanation": "You = a subject pronoun, 2nd person, singular.",
+        "answer": 2,
+        "topic": 36
+    },
+    {
+        "id": 290,
+        "task": "___ has broken the window.",
+        "vars": [
+            "Anything",
+            "Somebody",
+            "Something",
+            "Anybody"
+        ],
+        "explanation": "‘Somebody’ is used with people, mainly in positive sentences. ‘Anybody’ is also used with people but in questions and negative sentences. ‘Something’ and ‘anything’ are used with things.",
+        "answer": 2,
+        "topic": 33
+    },
+    {
+        "id": 291,
+        "task": "I’m very busy ___ the moment.",
+        "vars": [
+            "in",
+            "on",
+            "-",
+            "at"
+        ],
+        "explanation": "At 7 o’clock, at 10.30, at midnight, at noon, at the moment, etc.",
+        "answer": 4,
+        "topic": 14
+    },
+    {
+        "id": 292,
+        "task": "This way is ___ (long) than the previous one.",
+        "vars": [
+            "longest",
+            "the longest",
+            "longer",
+            "longy"
+        ],
+        "explanation": "This sentence requires a comparative adjective, not a superlative one. We add -(e)r to one-syllable words to make comparatives.",
+        "answer": 3,
+        "topic": 34
+    },
+    {
+        "id": 293,
+        "task": "The weather was warm ___ sunny.",
+        "vars": [
+            "because",
+            "or",
+            "but",
+            "and"
+        ],
+        "explanation": "We use ‘and’ to join two parts of the sentence (words, phrases, related statements).",
+        "answer": 4,
+        "topic": 35
+    },
+    {
+        "id": 294,
+        "task": "Carla’s daughter ___ a singer.",
+        "vars": [
+            "is",
+            "am",
+            "are",
+            "-"
+        ],
+        "explanation": "We use ‘is’ with she, he, it.",
+        "answer": 1,
+        "topic": 25
+    },
+    {
+        "id": 295,
+        "task": "We ___ very hungry and decided to have dinner.",
+        "vars": [
+            "was",
+            "are",
+            "did",
+            "were"
+        ],
+        "explanation": "We use ‘were’ with we/you/they. ‘Are’ - used for the present. ‘Did’ is not used without a verb.",
+        "answer": 4,
+        "topic": 26
+    },
+    {
+        "id": 296,
+        "task": "You ____ ____ hard.",
+        "vars": [
+            "don't works",
+            "doesn’t work",
+            "doesn’t works",
+            "don't work"
+        ],
+        "explanation": "I/we/you/they — don’t work. He/she/it — doesn’t work.",
+        "answer": 4,
+        "topic": 27
+    },
+    {
+        "id": 297,
+        "task": "We ___ plan to go the party yesterday.",
+        "vars": [
+            "don’t",
+            "didn’t",
+            "wasn’t",
+            "doesn’t"
+        ],
+        "explanation": "Yesterday = the Past Simple. ‘Did’ — the correct auxiliary verb in the Past Simple.",
+        "answer": 2,
+        "topic": 28
+    },
+    {
+        "id": 298,
+        "task": "Mike ___ (to work) while Carol ___ (to clean) the flat.",
+        "vars": [
+            "was working / cleaned",
+            "worked / cleaned",
+            "was working / was cleaning",
+            "worked / was cleaning"
+        ],
+        "explanation": "We use the Past Continuous for two or more simultaneous actions. ‘While’ shows that actions are simultaneous.",
+        "answer": 3,
+        "topic": 29
+    },
+    {
+        "id": 299,
+        "task": "Oh, you ___ (to paint) a dog house. It looks great now!",
+        "vars": [
+            "painted",
+            "have painted",
+            "were painting",
+            "has painted"
+        ],
+        "explanation": "We use ‘have’ with ‘we, they, I, you’. We see the result of an action in the Present - it looks great now. That’s why we use the Present Perfect Tense.",
+        "answer": 2,
+        "topic": 30
+    },
+    {
+        "id": 300,
+        "task": "He ___ (to come) home at 20 o’clock.",
+        "vars": [
+            "come",
+            "comed",
+            "camed",
+            "came"
+        ],
+        "explanation": "come - came - come. We use the second form in the Past Simple Tense.",
+        "answer": 4,
+        "topic": 8
+    },
+    {
+        "id": 301,
+        "task": "The train from Berlin ___ (to arrive) at 10:40.",
+        "vars": [
+            "will arrive",
+            "is arriving",
+            "arrives",
+            "is going to arrive"
+        ],
+        "explanation": "We use the Present Simple to talk about events in the future that will certainly happen, for schedules, timetables and programmes.",
+        "answer": 3,
+        "topic": 31
+    },
+    {
+        "id": 302,
+        "task": "___ time is it? - It’s 10:30.",
+        "vars": [
+            "Which",
+            "What",
+            "How",
+            "When"
+        ],
+        "explanation": "We use ‘what’ when we want to know information about things and actions in general. ‘What’ is used when there is a big variety of things to choose. ‘Which’ is used when there is a small number of possible choices.",
+        "answer": 2,
+        "topic": 32
+    },
+    {
+        "id": 303,
+        "task": "__ are tennis players, __ are footballers.",
+        "vars": [
+            "We / they",
+            "Our / their",
+            "Us / their",
+            "Ourselves / theirs"
+        ],
+        "explanation": "We should use a subject pronoun in this sentence.",
+        "answer": 1,
+        "topic": 36
+    },
+    {
+        "id": 304,
+        "task": "He hasn’t come yet. ___ has happened.",
+        "vars": [
+            "Anything",
+            "Somebody",
+            "Something",
+            "Anybody"
+        ],
+        "explanation": "‘Something’ and ‘anything’ are used with things. ‘Something’ is used in positive sentences, ‘anything’ — in negative sentences.",
+        "answer": 3,
+        "topic": 33
+    },
+    {
+        "id": 305,
+        "task": "Goodbye, John! See you ___ Wednesday!",
+        "vars": [
+            "on",
+            "-",
+            "at",
+            "in"
+        ],
+        "explanation": "On: Sunday, Sundays, 10 May, Christmas Day, my birthday, etc.",
+        "answer": 1,
+        "topic": 14
+    },
+    {
+        "id": 306,
+        "task": "This place is much ___ (safe) than the previous one.",
+        "vars": [
+            "safer",
+            "safest",
+            "the safest",
+            "safier"
+        ],
+        "explanation": "This sentence requires a comparative adjective, not a superlative one. We add -r to adjectives with -e ending to make comparatives.",
+        "answer": 1,
+        "topic": 34
+    },
+    {
+        "id": 307,
+        "task": "He’s got the license, ___ he hasn’t bought a car yet.",
+        "vars": [
+            "but",
+            "because",
+            "or",
+            "and"
+        ],
+        "explanation": "We use ‘but’ to connect two parts of the sentence. These parts have contrasting ideas.",
+        "answer": 1,
+        "topic": 35
+    },
+    {
+        "id": 308,
+        "task": "You ___ a good driver.",
+        "vars": [
+            "are",
+            "am",
+            "is",
+            "-"
+        ],
+        "explanation": "We use ‘are’ with we, they, you.",
+        "answer": 1,
+        "topic": 25
+    },
+    {
+        "id": 309,
+        "task": "___ Tom and Mary at the theatre last Sunday?",
+        "vars": [
+            "Was",
+            "Are",
+            "Were",
+            "Did"
+        ],
+        "explanation": "We use 'were' with plural nouns or when we speak about two or more people (Tom and Mary). ‘Are’ is used in the present. ‘Was’ is used with singular nouns or when we speak about one person. ‘Did’ is not used without a verb.",
+        "answer": 3,
+        "topic": 26
+    },
+    {
+        "id": 310,
+        "task": "It seems she ____ her hands a hundred times a day.",
+        "vars": [
+            "washes",
+            "washs",
+            "washies",
+            "wash"
+        ],
+        "explanation": "I/we/you/they — wash. He/she/it — washes. When the verb ends in -ch, -ss, -sh, -x or -zz, we add -es.",
+        "answer": 1,
+        "topic": 27
+    },
+    {
+        "id": 311,
+        "task": "Fred always goes to work by car but yesterday he ___ (to go) to work by bus.",
+        "vars": [
+            "went",
+            "goes",
+            "goed",
+            "did go"
+        ],
+        "explanation": "Yesterday = the Past Simple. ‘Go’ is irregular. Its correct form in the past is ‘went’.",
+        "answer": 1,
+        "topic": 28
+    },
+    {
+        "id": 312,
+        "task": "Choose a sentence with the correct word order.",
+        "vars": [
+            "Were why you sleeping at 11 o’clock yesterday morning?",
+            "Why you were sleeping at 11 o’clock yesterday morning?",
+            "Why were sleeping you at 11 o’clock yesterday morning?",
+            "Why were you sleeping at 11 o’clock yesterday morning?"
+        ],
+        "explanation": "The correct word order: question word + was/were + subject + verb with -ing + complement",
+        "answer": 4,
+        "topic": 29
+    },
+    {
+        "id": 313,
+        "task": "Choose a sentence with the correct word order.",
+        "vars": [
+            "They have already discussed the problem.",
+            "They already have discussed the problem.",
+            "They have discussed already the problem.",
+            "They have discussed the problem already."
+        ],
+        "explanation": "We put ‘already, just, never’ after have/has and before the verb in the Past Participle form.",
+        "answer": 1,
+        "topic": 30
+    },
+    {
+        "id": 314,
+        "task": "It’s already autumn so leaves have ___ (to fall) off trees.",
+        "vars": [
+            "fell",
+            "fallen",
+            "fall",
+            "falled"
+        ],
+        "explanation": "fall - fell - fallen. We use the Past Participle (the third form) in the Present Perfect Tense.",
+        "answer": 2,
+        "topic": 8
+    },
+    {
+        "id": 315,
+        "task": "I crashed the company car. My boss ___ (not to be) happy when he knows about it.",
+        "vars": [
+            "don’t be",
+            "isn’t",
+            "won’t be",
+            "isn’t going to be"
+        ],
+        "explanation": "We use ‘be going to’ in predictions when we have evidence that something will happen in the nearest future.",
+        "answer": 4,
+        "topic": 31
+    },
+    {
+        "id": 316,
+        "task": "___ is bigger: the Statue of Liberty or the Eiffel Tower?",
+        "vars": [
+            "What",
+            "Who",
+            "Which",
+            "Whose"
+        ],
+        "explanation": "We use ‘which’ to get specific information. ‘What’ is used when there is a big variety of things to choose. ‘Which’ is used when there is a small number of possible choices. ‘Who’ is used for a person.",
+        "answer": 3,
+        "topic": 32
+    },
+    {
+        "id": 317,
+        "task": "___ wants Jill to apologise.",
+        "vars": [
+            "His",
+            "He",
+            "Him",
+            "Himself"
+        ],
+        "explanation": "We should use a subject pronoun in this sentence.",
+        "answer": 2,
+        "topic": 36
+    },
+    {
+        "id": 318,
+        "task": "Everyone has gone. I can’t see ___ inside.",
+        "vars": [
+            "anybody",
+            "somebody",
+            "anything",
+            "something"
+        ],
+        "explanation": "‘Somebody’ is used with people, mainly in positive sentences. ‘Anybody’ is also used with people but in questions and negative sentences. ‘Something’ and ‘anything’ are used with things.",
+        "answer": 1,
+        "topic": 33
+    },
+    {
+        "id": 319,
+        "task": "I’ll have a vacation ___ summer.",
+        "vars": [
+            "on",
+            "-",
+            "in",
+            "at"
+        ],
+        "explanation": "In: May, 1999, the 1990s, winter, the next century, the future, etc.",
+        "answer": 3,
+        "topic": 14
+    },
+    {
+        "id": 320,
+        "task": "That task was much ___ (easy).",
+        "vars": [
+            "the easiest",
+            "easier",
+            "more easier",
+            "more easy"
+        ],
+        "explanation": "This sentence requires a comparative adjective, not a superlative one. We change -y to -i and add -er/-est.",
+        "answer": 2,
+        "topic": 34
+    },
+    {
+        "id": 321,
+        "task": "I don’t like snowboarding ___ skiing.",
+        "vars": [
+            "and",
+            "or",
+            "but",
+            "nor"
+        ],
+        "explanation": "We use ‘or’ to connect two or more alternatives. If there’s a negative verb in the sentence, we use ‘or’ instead of ‘and’.",
+        "answer": 2,
+        "topic": 35
+    },
+    {
+        "id": 322,
+        "task": "It ___ cloudy today.",
+        "vars": [
+            "am",
+            "is",
+            "-",
+            "are"
+        ],
+        "explanation": "We use ‘is’ with she, he, it.",
+        "answer": 2,
+        "topic": 25
+    },
+    {
+        "id": 323,
+        "task": "Choose a sentence with the correct word order.",
+        "vars": [
+            "They were tired after the journey?",
+            "Were they tired after the journey?",
+            "They tired were after the journey?",
+            "Tired after the journey were they?"
+        ],
+        "explanation": "The correct word order: a question word + was/were + pronoun/noun + complement",
+        "answer": 2,
+        "topic": 26
+    },
+    {
+        "id": 324,
+        "task": "This little car ____ ____ much petrol.",
+        "vars": [
+            "doesn't use",
+            "doesn't uses",
+            "don’t use",
+            "don’t uses"
+        ],
+        "explanation": "I/we/you/they — don’t spend. He/she/it — doesn’t spend.",
+        "answer": 1,
+        "topic": 27
+    },
+    {
+        "id": 325,
+        "task": "She ___ (to plan) to go for a walk an hour ago.",
+        "vars": [
+            "was planning",
+            "planed",
+            "planned",
+            "plans"
+        ],
+        "explanation": "Ago = the Past Simple. ’Plan’ is regular, but we add the second ‘n’ + -ed = planned.",
+        "answer": 3,
+        "topic": 28
+    },
+    {
+        "id": 326,
+        "task": "Betty ___ (to drive) home when Jeremy ___ (to call).",
+        "vars": [
+            "was driving / called",
+            "was driving / was calling",
+            "drove / was calling",
+            "drove / called"
+        ],
+        "explanation": "We use the Past Continuous to show that one action was in progress (was driving home) when another one interrupted it (Jeremy called). The second part of the sentence describes a short action, so we use the Past Simple.",
+        "answer": 1,
+        "topic": 29
+    },
+    {
+        "id": 327,
+        "task": "Mike ___ (already/to see) this movie.",
+        "vars": [
+            "already saw",
+            "is already seen",
+            "has already seen",
+            "was already seeing"
+        ],
+        "explanation": "‘Just, already, ever, recently, yet, never’ show that we should use the Present Perfect Tense.",
+        "answer": 3,
+        "topic": 30
+    },
+    {
+        "id": 328,
+        "task": "They have already ___ (to go) to work.",
+        "vars": [
+            "wented",
+            "goed",
+            "gone",
+            "went"
+        ],
+        "explanation": "go - went - gone. We use the Past Participle (the third form) in the Present Perfect Tense.",
+        "answer": 3,
+        "topic": 8
+    },
+    {
+        "id": 329,
+        "task": "Steven ___ (to visit) the dentist this Tuesday. They have an arrangement.",
+        "vars": [
+            "is visiting",
+            "will visit",
+            "is going",
+            "visits"
+        ],
+        "explanation": "We use the Present Continuous with future meaning for fixed arrangements in the near future.",
+        "answer": 1,
+        "topic": 31
+    },
+    {
+        "id": 330,
+        "task": "___ did he join the group? - Last week.",
+        "vars": [
+            "When",
+            "What",
+            "Where",
+            "Why"
+        ],
+        "explanation": "We use ‘when’ to get information about time.",
+        "answer": 1,
+        "topic": 32
+    },
+    {
+        "id": 331,
+        "task": "He received a message from ___ a minute ago. (she)",
+        "vars": [
+            "she",
+            "hers",
+            "her",
+            "herself"
+        ],
+        "explanation": "This sentence requires an object pronoun. The correct object pronoun for ‘she’ is ‘her’.",
+        "answer": 3,
+        "topic": 36
+    },
+    {
+        "id": 332,
+        "task": "It was very noisy in the room. She could hardly hear ___ .",
+        "vars": [
+            "something",
+            "anything",
+            "anybody",
+            "somebody"
+        ],
+        "explanation": "‘Hardly’ means ‘almost not’, so it has a negative feeling. That’s why we need to use ‘anything’.",
+        "answer": 2,
+        "topic": 33
+    },
+    {
+        "id": 333,
+        "task": "He usually goes to work ___ Monday mornings.",
+        "vars": [
+            "-",
+            "on",
+            "in",
+            "at"
+        ],
+        "explanation": "We say ‘in the morning / in the mornings’, but ‘on Monday morning / on Monday mornings’.",
+        "answer": 2,
+        "topic": 14
+    },
+    {
+        "id": 334,
+        "task": "This sofa is ___ (comfortable) than another one.",
+        "vars": [
+            "the most comfortable",
+            "comfortablest",
+            "comfortabler",
+            "more comfortable"
+        ],
+        "explanation": "This sentence requires a comparative adjective, not a superlative one. We use ‘more’ if an adjective has two or more syllables.",
+        "answer": 4,
+        "topic": 34
+    },
+    {
+        "id": 335,
+        "task": "I’m going to bed ___ I’ll have to wake up early tomorrow.",
+        "vars": [
+            "and",
+            "but",
+            "because",
+            "or"
+        ],
+        "explanation": "We use ‘because’ to connect the result and the reason in one sentence.",
+        "answer": 3,
+        "topic": 35
+    },
+    {
+        "id": 336,
+        "task": "Those candies ___ delicious.",
+        "vars": [
+            "is",
+            "-",
+            "am",
+            "are"
+        ],
+        "explanation": "Candies = they. We use ‘are’ with we, they, you.",
+        "answer": 4,
+        "topic": 25
+    },
+    {
+        "id": 337,
+        "task": "There ___ a pink purse on the shelf. I didn’t know who left it.",
+        "vars": [
+            "was",
+            "were",
+            "is",
+            "are"
+        ],
+        "explanation": "‘Was’ is used with singular nouns or when we speak about one person. ‘Is/are’ - used for the present.",
+        "answer": 1,
+        "topic": 26
+    },
+    {
+        "id": 338,
+        "task": "She ____ chess every Monday.",
+        "vars": [
+            "playes",
+            "playies",
+            "plays",
+            "play"
+        ],
+        "explanation": "I/we/you/they — play. He/she/it — plays. When the verb ends in a vowel + -y we just add -s.",
+        "answer": 3,
+        "topic": 27
+    },
+    {
+        "id": 339,
+        "task": "I ___ (to see) him three days ago.",
+        "vars": [
+            "sawed",
+            "seen",
+            "seed",
+            "saw"
+        ],
+        "explanation": "See = saw",
+        "answer": 4,
+        "topic": 28
+    },
+    {
+        "id": 340,
+        "task": "This time last year James ___ (to live) in Spain.",
+        "vars": [
+            "lived",
+            "has lived",
+            "was living",
+            "lives"
+        ],
+        "explanation": "We use the Past Continuous for an action in the middle of happening at a stated time in the past.",
+        "answer": 3,
+        "topic": 29
+    },
+    {
+        "id": 341,
+        "task": "Choose a sentence with the correct word order.",
+        "vars": [
+            "Jake hasn’t yet left.",
+            "Jake hasn’t left yet.",
+            "Jake yet hasn’t left.",
+            "Yet Jake hasn’t left."
+        ],
+        "explanation": "We put ‘yet’ in the end of a sentence.",
+        "answer": 2,
+        "topic": 30
+    },
+    {
+        "id": 342,
+        "task": "He ___ (to know) everything about her behaviour.",
+        "vars": [
+            "knew",
+            "known",
+            "knowed",
+            "knewed"
+        ],
+        "explanation": "know - knew - known. We use the second form in the Past Simple Tense.",
+        "answer": 1,
+        "topic": 8
+    },
+    {
+        "id": 343,
+        "task": "I’m afraid she ___ (to be) on time for the dinner.",
+        "vars": [
+            "doesn’t be",
+            "isn't",
+            "isn't going to be",
+            "won’t be"
+        ],
+        "explanation": "We use the Future Simple to make a prediction based on what we think, believe or imagine; with expressions ‘be sure, be afraid’, adverbs ‘perhaps, certainly’, etc.",
+        "answer": 4,
+        "topic": 31
+    },
+    {
+        "id": 344,
+        "task": "Choose the correct question.",
+        "vars": [
+            "Who did win the game?",
+            "Who won the game?",
+            "Did who win the game?",
+            "Who win the game did?"
+        ],
+        "explanation": "‘Who’ is the subject in this question. We don’t use the auxiliary verb.",
+        "answer": 2,
+        "topic": 32
+    },
+    {
+        "id": 345,
+        "task": "They blamed ___ for losing the game.",
+        "vars": [
+            "them",
+            "their",
+            "they",
+            "themselves"
+        ],
+        "explanation": "This sentence requires a reflexive pronoun. The correct reflexive pronoun for ‘they’ is ‘themselves’.",
+        "answer": 4,
+        "topic": 36
+    },
+    {
+        "id": 346,
+        "task": "Is there ___ to eat in the fridge?",
+        "vars": [
+            "anything",
+            "anybody",
+            "somebody",
+            "something"
+        ],
+        "explanation": "We use ‘anything’ in questions.",
+        "answer": 1,
+        "topic": 33
+    },
+    {
+        "id": 347,
+        "task": "Carl goes to the swimming pool ___ every week.",
+        "vars": [
+            "-",
+            "on",
+            "in",
+            "at"
+        ],
+        "explanation": "We don’t use a preposition before ‘this morning/evening/etc.’, ‘last week/May/etc.’, ‘next week/May/etc.’, ‘every day/week/May/etc.’",
+        "answer": 1,
+        "topic": 14
+    },
+    {
+        "id": 348,
+        "task": "Mary eats ___ (little) chocolate than she used to.",
+        "vars": [
+            "littler",
+            "the least",
+            "less",
+            "lesser"
+        ],
+        "explanation": "This sentence requires a comparative adjective, not a superlative one. Little - less - the least",
+        "answer": 3,
+        "topic": 34
+    },
+    {
+        "id": 349,
+        "task": "___ the store opens, I’ll go there every day.",
+        "vars": [
+            "When",
+            "Because",
+            "Until",
+            "But"
+        ],
+        "explanation": "‘When’ means ‘at the time that’.",
+        "answer": 1,
+        "topic": 35
+    },
+    {
+        "id": 350,
+        "task": "Choose the correct word order.",
+        "vars": [
+            "Who is that woman?",
+            "Is that woman who?",
+            "That woman is who?",
+            "Who that woman is?"
+        ],
+        "explanation": "The correct word order in questions: a question word + auxiliary + subject",
+        "answer": 1,
+        "topic": 25
+    },
+    {
+        "id": 351,
+        "task": "She ___ very happy to meet Mark. She hadn’t seen him since 2010.",
+        "vars": [
+            "were",
+            "is",
+            "did",
+            "was"
+        ],
+        "explanation": "We use ‘was’ with I/he/she/it. ‘Is’ - used for the present. ‘Did’ is not used without a verb.",
+        "answer": 4,
+        "topic": 26
+    },
+    {
+        "id": 352,
+        "task": "He ____ right now, but he usually ____ free time watching movies.",
+        "vars": [
+            "is reading / is spending",
+            "is reading / spends",
+            "reads / spends",
+            "reads / is spending"
+        ],
+        "explanation": "at the moment = Present Continuous / general meaning = Present Simple",
+        "answer": 2,
+        "topic": 27
+    },
+    {
+        "id": 353,
+        "task": "He ___ (to build) a dog house in the garden a month ago.",
+        "vars": [
+            "builded",
+            "built",
+            "builts",
+            "was building"
+        ],
+        "explanation": "Ago = the Past Simple. ‘Build’ is irregular. Its correct form in the past is ‘built’.",
+        "answer": 2,
+        "topic": 28
+    },
+    {
+        "id": 354,
+        "task": "Nancy ___ (to read) when her cat ___ (to break) the vase.",
+        "vars": [
+            "was reading / broke",
+            "was reading / was breaking",
+            "read / broke",
+            "read / was breaking"
+        ],
+        "explanation": "We use the past Continuous to show that one action was in progress (was reading) when another one interrupted it (broke). The second part of the sentence describes a short action, so we use the Past Simple.",
+        "answer": 1,
+        "topic": 29
+    },
+    {
+        "id": 355,
+        "task": "Choose a sentence with the correct word order.",
+        "vars": [
+            "Have you ever read this book?",
+            "Have you read this book ever?",
+            "Have ever you read this book?",
+            "Ever have you read this book?"
+        ],
+        "explanation": "We put ‘ever’ after the noun or the pronoun and before the verb in the Past Participle form.",
+        "answer": 1,
+        "topic": 30
+    },
+    {
+        "id": 356,
+        "task": "She's finally ___ (to make) a decision.",
+        "vars": [
+            "maked",
+            "made",
+            "maden",
+            "maken"
+        ],
+        "explanation": "make - made - made. We use the Past Participle (the third form) in the Present Perfect Tense.",
+        "answer": 2,
+        "topic": 8
+    },
+    {
+        "id": 357,
+        "task": "I ___ (to buy) these shoes, ok?",
+        "vars": [
+            "am going to buy",
+            "will buy",
+            "am buying",
+            "buy"
+        ],
+        "explanation": "We use the Future Simple for requests, hopes, offers and promises. Here: an offer.",
+        "answer": 2,
+        "topic": 31
+    },
+    {
+        "id": 358,
+        "task": "Choose the correct question.",
+        "vars": [
+            "Who she loves?",
+            "Does who she love?",
+            "Who she does love?",
+            "Who does she love?"
+        ],
+        "explanation": "‘Who’ is the object in this question. We use the auxiliary verb.",
+        "answer": 4,
+        "topic": 32
+    },
+    {
+        "id": 359,
+        "task": "___ book is green, ___ is grey.",
+        "vars": [
+            "Our / theirs",
+            "Ours / theirs",
+            "Our / their",
+            "Ourselves / theirs"
+        ],
+        "explanation": "We should use a possessive adjective (we = our) in the first part of the sentence. In the second one we should use a possessive pronoun (they = theirs).",
+        "answer": 1,
+        "topic": 36
+    },
+    {
+        "id": 360,
+        "task": "___ ___ (to have) a right to vote in this country.",
+        "vars": [
+            "Everything/have",
+            "Everything/has",
+            "Everybody/have",
+            "Everybody/has"
+        ],
+        "explanation": "‘Anybody/somebody, anything/something, everybody/everything’ are 3rd person pronouns and followed by a singular verb.",
+        "answer": 4,
+        "topic": 33
+    },
+    {
+        "id": 361,
+        "task": "We’re moving to Spain ___ two months.",
+        "vars": [
+            "at",
+            "in",
+            "-",
+            "on"
+        ],
+        "explanation": "We use ‘in’ with these expressions: in 5 minutes/a few days/two weeks/two years, etc.",
+        "answer": 2,
+        "topic": 14
+    },
+    {
+        "id": 362,
+        "task": "As for me, Messi is a better player ___ Ronaldo.",
+        "vars": [
+            "then",
+            "more",
+            "as",
+            "than"
+        ],
+        "explanation": "If we want to compare things we use ‘than’.",
+        "answer": 4,
+        "topic": 34
+    },
+    {
+        "id": 363,
+        "task": "He reads ___ he goes to bed.",
+        "vars": [
+            "once",
+            "before",
+            "because",
+            "until"
+        ],
+        "explanation": "‘Before’ suggests that the second action happens after the first one.",
+        "answer": 2,
+        "topic": 35
+    },
+    {
+        "id": 364,
+        "task": "___ it cold today?",
+        "vars": [
+            "Are",
+            "Am",
+            "Is",
+            "-"
+        ],
+        "explanation": "We use ‘is’ with she, he, it.",
+        "answer": 3,
+        "topic": 25
+    },
+    {
+        "id": 365,
+        "task": "___ your exam difficult yesterday? Yes, it ___ .",
+        "vars": [
+            "were / were",
+            "was / was",
+            "is / was",
+            "was / is"
+        ],
+        "explanation": "Both parts are about the past. So we can’t use ‘is/are’. We use ‘was’ with I/he/she/it.",
+        "answer": 2,
+        "topic": 26
+    },
+    {
+        "id": 366,
+        "task": "They never ____ talk shows.",
+        "vars": [
+            "watches",
+            "watch",
+            "watchs",
+            "are watching"
+        ],
+        "explanation": "I/we/you/they — watch. He/she/it — watches. ‘are watching’ is the Present Continuous which is incorrect here. The speaker talks in general.",
+        "answer": 2,
+        "topic": 27
+    },
+    {
+        "id": 367,
+        "task": "Rachel ___ (to copy) Tom’s text and ___ (to send) it to me.",
+        "vars": [
+            "copied / sent",
+            "copyed / sended",
+            "copied / sended",
+            "coppied / sent"
+        ],
+        "explanation": "‘Copy’ is regular but we change the ending: -y = -ied. ‘Send’ is irregular = sent.",
+        "answer": 1,
+        "topic": 28
+    },
+    {
+        "id": 368,
+        "task": "She ___ (to listen) to music at four o’clock yesterday evening.",
+        "vars": [
+            "listened",
+            "is listening",
+            "has listened",
+            "was listening"
+        ],
+        "explanation": "We use the Past Continuous for an action that was in progress at a stated time in the past.",
+        "answer": 4,
+        "topic": 29
+    },
+    {
+        "id": 369,
+        "task": "We ___ (never/to be) to New Delhi.",
+        "vars": [
+            "never were",
+            "did never be",
+            "have never been",
+            "has never been"
+        ],
+        "explanation": "‘Just, already, ever, recently, yet, never’ show that we should use the Present Perfect Tense. We use ‘have’ with ‘we, they, I, you’.",
+        "answer": 3,
+        "topic": 30
+    },
+    {
+        "id": 370,
+        "task": "I ___ (to read) that newspaper yesterday.",
+        "vars": [
+            "readen",
+            "readed",
+            "read",
+            "raught"
+        ],
+        "explanation": "read - read - read. We use the second form in the Past Simple Tense.",
+        "answer": 3,
+        "topic": 8
+    },
+    {
+        "id": 371,
+        "task": "The film ___ (to start) at 11:00 AM according to the programme.",
+        "vars": [
+            "starts",
+            "is starting",
+            "will start",
+            "is going to start"
+        ],
+        "explanation": "We use the Present Simple to talk about events in the future that will certainly happen, for schedules, timetables and programmes.",
+        "answer": 1,
+        "topic": 31
+    },
+    {
+        "id": 372,
+        "task": "__ umbrella is this? - Linda’s.",
+        "vars": [
+            "Whose",
+            "Which",
+            "What",
+            "Who"
+        ],
+        "explanation": "We use ‘whose’ to know which person owns a thing.",
+        "answer": 1,
+        "topic": 32
+    },
+    {
+        "id": 373,
+        "task": "Tom shaved ___ quickly and ate breakfast.",
+        "vars": [
+            "himself",
+            "him",
+            "his",
+            "-"
+        ],
+        "explanation": "Some verbs don’t normally take a reflexive pronoun after them. They are: wash, shave, dress, meet, rest, relax, get up, wake up, etc.",
+        "answer": 4,
+        "topic": 36
+    },
+    {
+        "id": 374,
+        "task": "Jack is very lazy. He does ___ to make his life better.",
+        "vars": [
+            "nobody",
+            "nothing",
+            "something",
+            "anything"
+        ],
+        "explanation": "‘Nothing’ means ‘not anything’.",
+        "answer": 2,
+        "topic": 33
+    },
+    {
+        "id": 375,
+        "task": "He lives ___ the 5th floor.",
+        "vars": [
+            "at",
+            "in",
+            "on",
+            "for"
+        ],
+        "explanation": "We use ‘at’ for the point, ‘in’ for an enclosed space, ‘on’ for a surface.",
+        "answer": 3,
+        "topic": 14
+    },
+    {
+        "id": 376,
+        "task": "It was ___ (sad) moment in her entire life.",
+        "vars": [
+            "the saddest",
+            "sadder",
+            "more sad",
+            "the most sad"
+        ],
+        "explanation": "This sentence requires a superlative adjective, not a comparative one. We add ‘the’ and -(e)st to adjectives with one syllable.",
+        "answer": 1,
+        "topic": 34
+    },
+    {
+        "id": 377,
+        "task": "We’ll deliver the order ___ you pay the bill. We can’t deliver it if we don’t get the money first.",
+        "vars": [
+            "before",
+            "after",
+            "but",
+            "or"
+        ],
+        "explanation": "‘After’ suggests that the second action happens before the first one.",
+        "answer": 2,
+        "topic": 35
+    },
+    {
+        "id": 378,
+        "task": "I ___ 20 and Jenny ___ 23.",
+        "vars": [
+            "am / am",
+            "am / is",
+            "is / is",
+            "is / am"
+        ],
+        "explanation": "We use ‘am’ with I and ‘is’ with she.",
+        "answer": 2,
+        "topic": 25
+    },
+    {
+        "id": 379,
+        "task": "There ___ ten cars near our house. They were parked about a week ago.",
+        "vars": [
+            "were",
+            "was",
+            "is",
+            "are"
+        ],
+        "explanation": "We use 'were' with plural nouns = ten cars. ‘Is/are’ - used for the present. ‘A week ago’ means that the speaker talks about the past.",
+        "answer": 1,
+        "topic": 26
+    },
+    {
+        "id": 380,
+        "task": "Choose a sentence with the correct word order.",
+        "vars": [
+            "What does he usually do in the morning?",
+            "What does he do usually in the morning?",
+            "What does he do in the morning usually?",
+            "What usually does he do in the morning?"
+        ],
+        "explanation": "question word + do/does + pronoun/name + adverb of frequency + verb",
+        "answer": 1,
+        "topic": 27
+    },
+    {
+        "id": 381,
+        "task": "She ___ (to write) a message and ___ (to go) away.",
+        "vars": [
+            "writed / goed",
+            "written / gone",
+            "writes / went",
+            "wrote / went"
+        ],
+        "explanation": "Write = wrote, go = went",
+        "answer": 4,
+        "topic": 28
+    },
+    {
+        "id": 382,
+        "task": "Joseph ___ (to hear) the noise and ___ (to go) out to the street. The crowd of young protesters ___ (to move) down the street.",
+        "vars": [
+            "heard / went / was moving",
+            "was hearing / went / was moving",
+            "heard / was going / was moving",
+            "was hearing / was going / was moving"
+        ],
+        "explanation": "For short actions (heard and went out) we choose the Past Simple. For a longer action (was moving), to show that it was in progress before Joseph heard the noise and continued when he went out, we choose the Past Continuous.",
+        "answer": 1,
+        "topic": 29
+    },
+    {
+        "id": 383,
+        "task": "He ___ (to be) hungry for three hours.",
+        "vars": [
+            "have been",
+            "was",
+            "is",
+            "has been"
+        ],
+        "explanation": "‘For three hours’ means that the action started 3 hours ago and continues up to now. ‘For, since’ show that we should use the Present Perfect Tense.",
+        "answer": 4,
+        "topic": 30
+    },
+    {
+        "id": 384,
+        "task": "She's already ___ (to take) a medicine.",
+        "vars": [
+            "taken",
+            "took",
+            "taked",
+            "takened"
+        ],
+        "explanation": "take - took - taken. We use the Past Participle (the third form) in the Present Perfect Tense.",
+        "answer": 1,
+        "topic": 8
+    },
+    {
+        "id": 385,
+        "task": "Mark ___ (to fly) to Madrid tomorrow morning. He’s already bought the tickets.",
+        "vars": [
+            "flies",
+            "is going to fly",
+            "is flying",
+            "will fly"
+        ],
+        "explanation": "We use the Present Continuous with future meaning for fixed arrangements in the near future.",
+        "answer": 3,
+        "topic": 31
+    },
+    {
+        "id": 386,
+        "task": "__ are you so sad? - I’ve lost my job.",
+        "vars": [
+            "Where",
+            "When",
+            "Why",
+            "What"
+        ],
+        "explanation": "We use ‘why’ to know the reasons and get explanations.",
+        "answer": 3,
+        "topic": 32
+    },
+    {
+        "id": 387,
+        "task": "Hi, Peter! Make ___ at home!",
+        "vars": [
+            "-",
+            "you",
+            "yourself",
+            "yours"
+        ],
+        "explanation": "‘Make yourself’ is an idiom that means ‘feel comfortable’.",
+        "answer": 3,
+        "topic": 36
+    },
+    {
+        "id": 388,
+        "task": "I have never seen ___ like that.",
+        "vars": [
+            "anything",
+            "nothing",
+            "something",
+            "nobody"
+        ],
+        "explanation": "‘Something’ is used with people, mainly in positive sentences. ‘Anything’ is also used with people but in questions and negative sentences. We can’t use ‘nothing’ here because it would lead to a double negation which is not correct in English.",
+        "answer": 1,
+        "topic": 33
+    },
+    {
+        "id": 389,
+        "task": "Who is this girl ___ the picture?",
+        "vars": [
+            "-",
+            "on",
+            "at",
+            "in"
+        ],
+        "explanation": "We say 'in a photograph / in a picture’.",
+        "answer": 4,
+        "topic": 14
+    },
+    {
+        "id": 390,
+        "task": "This is ___ (little) expensive dress in this store.",
+        "vars": [
+            "less",
+            "the least",
+            "more little",
+            "the most little"
+        ],
+        "explanation": "This sentence requires a superlative adjective, not a comparative one. Little - less - the least",
+        "answer": 2,
+        "topic": 34
+    },
+    {
+        "id": 391,
+        "task": "My project is better ___ hers.",
+        "vars": [
+            "then",
+            "but",
+            "than",
+            "when"
+        ],
+        "explanation": "‘Than’ is used to introduce the second part in a comparison.",
+        "answer": 3,
+        "topic": 35
+    },
+    {
+        "id": 392,
+        "task": "Hey, there ___ Peter outside!",
+        "vars": [
+            "are",
+            "is",
+            "-",
+            "am"
+        ],
+        "explanation": "Peter = he. We use ‘is’ with she, he, it.",
+        "answer": 2,
+        "topic": 25
+    },
+    {
+        "id": 393,
+        "task": "He ___ very angry at me yesterday. Today he ___ speak to me.",
+        "vars": [
+            "was / wasn’t",
+            "is / doesn’t",
+            "was / doesn’t",
+            "were / doesn’t"
+        ],
+        "explanation": "The first sentence: we use ‘was’ with I/he/she/it. The second one is about the present (today), so we use ‘doesn’t’. We don’t say ‘he is speak to me’.",
+        "answer": 3,
+        "topic": 26
+    },
+    {
+        "id": 394,
+        "task": "She always ____ when she watches dramas.",
+        "vars": [
+            "cries",
+            "crys",
+            "cryes",
+            "cry"
+        ],
+        "explanation": "I/we/you/they — cry. He/she/it — cries. ‘y’ - ‘ies’.",
+        "answer": 1,
+        "topic": 27
+    },
+    {
+        "id": 395,
+        "task": "They ____ (to go) to the park last evening and ____ (to return) very late.",
+        "vars": [
+            "were going / returned",
+            "were going / were returning",
+            "went / returned",
+            "went / were returning"
+        ],
+        "explanation": "Last evening = the Past Simple. ‘Go’ is irregular = ‘went’. ‘Return’ is regular = ‘returned’.",
+        "answer": 3,
+        "topic": 28
+    },
+    {
+        "id": 396,
+        "task": "He ___ (to smile) while he ___ (to look) at her.",
+        "vars": [
+            "was smiling / looked",
+            "was smiling / was looking",
+            "smiled / looked",
+            "smiled / was looking"
+        ],
+        "explanation": "We use the Past Continuous for two or more simultaneous actions. ‘While’ shows that actions are simultaneous.",
+        "answer": 2,
+        "topic": 29
+    },
+    {
+        "id": 397,
+        "task": "She ___ (to finish) her work two hours ago.",
+        "vars": [
+            "has finished",
+            "have finished",
+            "finished",
+            "finishes"
+        ],
+        "explanation": "Ago = the Past Simple.",
+        "answer": 3,
+        "topic": 30
+    },
+    {
+        "id": 398,
+        "task": "He was very tired but ___ (to keep) on moving.",
+        "vars": [
+            "keeped",
+            "kepted",
+            "keep",
+            "kept"
+        ],
+        "explanation": "keep - kept - kept. We use the second form in the Past Simple Tense.",
+        "answer": 4,
+        "topic": 8
+    },
+    {
+        "id": 399,
+        "task": "I believe he ___ (to pass) the exam.",
+        "vars": [
+            "is passing",
+            "passes",
+            "is going to pass",
+            "will pass"
+        ],
+        "explanation": "We use the Future Simple to make a prediction based on what we think, believe or imagine; with expressions ‘be sure, be afraid’, adverbs ‘perhaps, certainly’, etc.",
+        "answer": 4,
+        "topic": 31
+    },
+    {
+        "id": 400,
+        "task": "Choose a sentence with the correct word order.",
+        "vars": [
+            "Can you tell me if can Sam swim?",
+            "Can you tell me if Sam can swim?",
+            "Can you tell me if Sam swim can?",
+            "Can you tell me can if Sam swim?"
+        ],
+        "explanation": "After ‘can you tell me’, ’do you know’, etc., we use the same word order as in statement sentences.",
+        "answer": 2,
+        "topic": 32
+    },
+    {
+        "id": 401,
+        "task": "These tiny stray puppies live by ___ in the streets.",
+        "vars": [
+            "themselves",
+            "them",
+            "theirs",
+            "their"
+        ],
+        "explanation": "‘By themselves’ = on their own.",
+        "answer": 1,
+        "topic": 36
+    },
+    {
+        "id": 402,
+        "task": "You haven’t eaten since morning. Would you like ___ to eat?",
+        "vars": [
+            "anything",
+            "somebody",
+            "something",
+            "nothing"
+        ],
+        "explanation": "We can use ‘somebody/something’ in questions when we expect a positive answer or when we make an offer or request.",
+        "answer": 3,
+        "topic": 33
+    },
+    {
+        "id": 403,
+        "task": "Did you walk ___ home?",
+        "vars": [
+            "to",
+            "-",
+            "at",
+            "in"
+        ],
+        "explanation": "We say ‘go/come/walk home’, but ‘stay/work at home’.",
+        "answer": 2,
+        "topic": 14
+    },
+    {
+        "id": 404,
+        "task": "He works ___ a manager in the shop.",
+        "vars": [
+            "like",
+            "the same like",
+            "as",
+            "the same"
+        ],
+        "explanation": "We use ‘like’ when two things/qualities are similar. ‘As’ means ‘in the role of’.",
+        "answer": 3,
+        "topic": 34
+    },
+    {
+        "id": 405,
+        "task": "You can have a glass of apple juice ___ a cup of tea.",
+        "vars": [
+            "or",
+            "and",
+            "but",
+            "so"
+        ],
+        "explanation": "We use ‘or’ to connect two or more alternatives. If there’s a negative verb in the sentence, we use ‘or’ instead of ‘and’.",
+        "answer": 1,
+        "topic": 35
+    },
+    {
+        "id": 406,
+        "task": "Her cards ___ on the table.",
+        "vars": [
+            "are",
+            "is",
+            "-",
+            "am"
+        ],
+        "explanation": "Cards = they. We use ‘are’ with we, they, you.",
+        "answer": 1,
+        "topic": 25
+    },
+    {
+        "id": 407,
+        "task": "Last Monday he ___ late for work. Today he ___ also late.",
+        "vars": [
+            "was / is",
+            "was / was",
+            "is / is",
+            "is / was"
+        ],
+        "explanation": "The first part is about the past (last Monday), so we use ‘was’. The second one is about the present (today), so we use ‘is’.",
+        "answer": 1,
+        "topic": 26
+    },
+    {
+        "id": 408,
+        "task": "Choose the correct word order",
+        "vars": [
+            "Sarah plays sometimes tennis with her friends.",
+            "Sarah plays tennis sometimes with her friends.",
+            "Sarah plays tennis with her friends sometimes.",
+            "Sarah sometimes plays tennis with her friends."
+        ],
+        "explanation": "Pronoun/name + adverbs of time + verb",
+        "answer": 4,
+        "topic": 27
+    },
+    {
+        "id": 409,
+        "task": "Choose a sentence with the correct word order.",
+        "vars": [
+            "What did you do yesterday?",
+            "Did what you do yesterday?",
+            "Did you do yesterday what?",
+            "What you did yesterday?"
+        ],
+        "explanation": "The correct word order: a question word + did + pronoun/noun + complement",
+        "answer": 1,
+        "topic": 28
+    },
+    {
+        "id": 410,
+        "task": "He ___ (to go) to the museum when he ___ (to receive) the message.",
+        "vars": [
+            "was going / was receiving",
+            "went / received",
+            "was going / received",
+            "went / was receiving"
+        ],
+        "explanation": "We use the Past Continuous to show that one action was in progress (was going to the museum) when another one interrupted it (received the message). The second part of the sentence describes a short action, so we use the Past Simple.",
+        "answer": 3,
+        "topic": 29
+    },
+    {
+        "id": 411,
+        "task": "It ___ (to start) raining an hour ago. It ___ (to finish) raining yet.",
+        "vars": [
+            "started / didn’t finish",
+            "has started / didn’t finish",
+            "has started / hasn’t finished",
+            "started / hasn’t finished"
+        ],
+        "explanation": "Ago = the Past Simple. ‘Just, already, ever, recently, yet’ show that we should use the Present Perfect Tense.",
+        "answer": 4,
+        "topic": 30
+    },
+    {
+        "id": 412,
+        "task": "She has ___ (to swim) five kilometres.",
+        "vars": [
+            "swimmed",
+            "swum",
+            "swam",
+            "swammed"
+        ],
+        "explanation": "swim - swam - swum. We use the Past Participle (the third form) in the Present Perfect Tense.",
+        "answer": 2,
+        "topic": 8
+    },
+    {
+        "id": 413,
+        "task": "Sandra ___ (to start) learning French next year. She’s decided to do it.",
+        "vars": [
+            "is going to start",
+            "is starting",
+            "starts",
+            "will start"
+        ],
+        "explanation": "We use ‘be going to’ for actions we have already decided to do in the future.",
+        "answer": 1,
+        "topic": 31
+    },
+    {
+        "id": 414,
+        "task": "Choose a sentence with the correct word order.",
+        "vars": [
+            "Do you know where he spent last weekend?",
+            "Do you know where did he spend last weekend?",
+            "Do you know where he did spend last weekend?",
+            "Do you know where spent he last weekend?"
+        ],
+        "explanation": "After ‘can you tell me’, ’do you know’, etc., we use the same word order as in statement sentences.",
+        "answer": 1,
+        "topic": 32
+    },
+    {
+        "id": 415,
+        "task": "It’s unbelievable how Linda ___ could organise the celebration.",
+        "vars": [
+            "her",
+            "herself",
+            "hers",
+            "she"
+        ],
+        "explanation": "To emphasise that Linda could organise the celebration without anyone’s help, we should use a reflexive pronoun in this sentence. She = herself.",
+        "answer": 2,
+        "topic": 36
+    },
+    {
+        "id": 416,
+        "task": "There ___ ___ wrong with the cell phone.",
+        "vars": [
+            "is / something",
+            "are / something",
+            "is / anything",
+            "are / anything"
+        ],
+        "explanation": "‘Anybody/somebody, anything/something, everybody/everything’ are 3rd person pronouns and followed by a singular verb. ‘Something’ is used with people, mainly in positive sentences. ‘Anything’ is also used with people but in questions and negative sentences.",
+        "answer": 1,
+        "topic": 33
+    },
+    {
+        "id": 417,
+        "task": "What time do you usually go ___ bed? — ___ 22:30, but I like reading ___ bed and then fall asleep.",
+        "vars": [
+            "in / at / at",
+            "at / on / in",
+            "to / at / in",
+            "in / in / at"
+        ],
+        "explanation": "We go to bed and read in bed. We use ‘at’ with: 7 o’clock, at 10.30, at midnight, at noon, at the moment, etc.",
+        "answer": 3,
+        "topic": 14
+    },
+    {
+        "id": 418,
+        "task": "The ___ (old) you get, the ___ (wise) you become.",
+        "vars": [
+            "oldest / wisest",
+            "older / wiser",
+            "more old / more wise",
+            "more older / more wiser"
+        ],
+        "explanation": "When one thing depends on the other, we can use ‘the’ with comparative adjectives.",
+        "answer": 2,
+        "topic": 34
+    },
+    {
+        "id": 419,
+        "task": "It was dark, ___ he could see the robber.",
+        "vars": [
+            "but",
+            "because",
+            "or",
+            "and"
+        ],
+        "explanation": "We use ‘but’ to connect two parts of the sentence. These parts have contrasting ideas.",
+        "answer": 1,
+        "topic": 35
+    }
+]

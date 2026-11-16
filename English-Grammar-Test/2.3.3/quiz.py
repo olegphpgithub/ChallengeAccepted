@@ -101,8 +101,14 @@ def main():
             print("\n" + "=" * 60)
             print(f"Question {number} (id {q['id']}): {q['task']}\n")
 
-            # 3. Show the 4 answer options
-            for i, option in enumerate(q["vars"], start=1):
+            # 3. Show the 4 answer options in random order.
+            # Shuffle indices (not values) so duplicate options stay unambiguous.
+            order = list(range(len(q["vars"])))
+            random.shuffle(order)
+            options = [q["vars"][i] for i in order]
+            # Position of the correct option after shuffling (1-based)
+            right = order.index(q["answer"] - 1) + 1
+            for i, option in enumerate(options, start=1):
                 print(f"  {i}) {option}")
             print()
 
@@ -111,15 +117,14 @@ def main():
             if choice is None:
                 break
 
-            # 5. Check the answer ("answer" is 1-based)
-            right = q["answer"]
+            # 5. Check the answer against the shuffled position
             if choice == right:
                 correct += 1
                 print("\n✔ Correct!")
             else:
                 wrong += 1
                 print("\n✘ Wrong.")
-            print(f"Right answer: {right}) {q['vars'][right - 1]}")
+            print(f"Right answer: {right}) {options[right - 1]}")
 
             # 6. Show the explanation
             print(f"\nExplanation: {q['explanation']}")

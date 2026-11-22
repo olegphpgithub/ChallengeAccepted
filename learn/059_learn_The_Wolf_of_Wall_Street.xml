@@ -1,0 +1,10 @@
+<speak>
+    <p ru="">
+        <s meaning="word"></s><break time="2000ms"/>
+        <s meaning="example"></s><break time="1000ms"/>
+    </p>
+    <p ru="Огромный">
+        <s meaning="word">Humongous</s><break time="2000ms"/>
+        <s meaning="example">See that humongous estate over there?</s><break time="1000ms"/>
+    </p>
+</speak>
